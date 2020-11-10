@@ -1,28 +1,40 @@
 import Head from "next/head";
-import Nav from "../components/nav";
+import Navigation from "../components/nav";
 import Footer from "../components/footer";
 
 export default function Olkb() {
   return (
     <div>
       <Head>
-        <title>Try Ortho Keys - OLKB Preonic & Planck</title>
+        <title>
+          OLKB Preonic & Planck - Highly popular ortholinear keyboard producer
+        </title>
         <link rel="icon" href="/favicon.ico" />
+        <meta
+          name="description"
+          content="OLKB is the producer of the highly popular Planck & Preonic Ortholinear keyboards. The owner, Jack Humbert, is also the founder of QMK. These keyboards are sold on the OLKB website and frequently on Drop.com"
+        />
       </Head>
 
-      <Nav />
+      <Navigation />
 
       <div className="bg-secondary text-white section-container">
         <div className="container">
           <div className="row align-items-center">
-            <div className="col-lg-8">
+            <div className="col-lg-12">
               <div className="py-3">
-                <h1 className="display-4 font-weight-bolder">
-                  OLKB
-                </h1>
-                <h2 className="font-weight-light">
-                  Planck & Preonic
-                </h2>
+                <h1 className="display-4 font-weight-bolder">OLKB</h1>
+                <h2 className="font-weight-light">Planck & Preonic</h2>
+                <p style={{ fontSize: "20px" }}>
+                  OLKB is the producer of the highly popular Planck & Preonic
+                  Ortholinear keyboards. The owner,{" "}
+                  <a href="https://github.com/jackhumbert">Jack Humbert</a>, is
+                  also the founder of QMK. These keyboards are sold on the{" "}
+                  <a href="https://olkb.com">OLKB website</a> and frequently on{" "}
+                  <a href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG">
+                    Drop.com
+                  </a>
+                </p>
                 <a href="https://olkb.com/" className="mt-3 btn btn-primary">
                   Visit Website
                 </a>
@@ -34,40 +46,95 @@ export default function Olkb() {
 
       <div>{/* ad space */}</div>
 
-      <div id="why" className="section-container ">
+      <div className="section-container ">
         <div className="container">
           <div className="card ele-2">
-            <div className="px-5 py-5 py-lg-3">
+            <div className="px-5 py-5 py-lg-5">
               <div className="row align-items-center">
                 <div className="col-lg-5">
-                  <h2>OLKB Planck & Preonic</h2>
+                  <h2 className="font-weight-bold text-primary">Planck</h2>
                   <p style={{ fontSize: "20px" }}>
-                    They ortholinear keyboards from OLKB are the most popular
-                    offerings today. Both are highly customizable and the Planck
-                    and Preonic frequently updated.
+                    The latest version of the Planck keyboard supports hot
+                    swappable switches, LEDs, a small speaker and even rotary
+                    encoders. There are several offerings for baseplates: EOTW
+                    (easy on the wallet), hi-pro and low-pro. These keyboards
+                    usually come in as a kit with some light assembly required.
                   </p>
                   <a
                     href="https://olkb.com/collections/planck"
                     className="btn btn-primary mr-2"
                   >
-                    Planck
+                    View on OLKB
                   </a>
                   <a
-                    href="https://olkb.com/collections/preonic"
-                    className="btn btn-secondary"
+                    href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
+                    className="btn btn-secondary mr-2"
                   >
-                    Preonic
+                    Buy on Drop
+                  </a>
+                  <a
+                    href="https://qmk.fm/keyboards/planck/"
+                    className="btn btn-link"
+                  >
+                    QMK Firmware
                   </a>
                 </div>
                 <div className="col-lg-7">
-                  <div className="usa-embed-container">
-                    <iframe
-                      src="https://www.youtube.com/embed/bEPg8kk84gw"
-                      frameborder="0"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                      allowfullscreen
-                    ></iframe>
-                  </div>
+                  <img
+                    className="img-fluid"
+                    src="/planck-2.jpg"
+                    alt="Planck Keyboard"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div className="section-container ">
+        <div className="container">
+          <div className="card ele-2">
+            <div className="px-5 py-5 py-lg-5">
+              <div className="row align-items-center">
+                <div className="col-lg-7">
+                  <img
+                    className="img-fluid"
+                    src="/preonic-1.jpg"
+                    alt="Preonic Keyboard"
+                  />
+                </div>
+                <div className="col-lg-5">
+                  <h2 className="font-weight-bold text-primary">Preonic</h2>
+                  <p style={{ fontSize: "20px" }}>
+                    The Planck keyboard is a highly popular 40% ortholinear
+                    keyboard by OLKB. The owner,{" "}
+                    <a href="https://github.com/jackhumbert">Jack Humbert</a> is
+                    also the founder of QMK. The latest version of the Planck
+                    keyboard supports hot swappable switches, LEDs, a small
+                    speaker and even rotary encoders. There are several
+                    offerings for baseplates: EOTW (easy on the wallet), hi-pro
+                    and low-pro. These keyboards usually come in as a kit with
+                    some light assembly required.
+                  </p>
+                  <a
+                    href="https://olkb.com/collections/planck"
+                    className="btn btn-primary mr-2"
+                  >
+                    View on OLKB
+                  </a>
+                  <a
+                    href="https://drop.com/buy/preonic-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
+                    className="btn btn-secondary mr-2"
+                  >
+                    Buy on Drop
+                  </a>
+                  <a
+                    href="https://github.com/qmk/qmk_firmware/tree/master/keyboards/preonic"
+                    className="btn btn-link"
+                  >
+                    QMK Firmware
+                  </a>
                 </div>
               </div>
             </div>
@@ -77,29 +144,24 @@ export default function Olkb() {
 
       <div className="section-container">
         <div className="container">
-          <div className="card ele-2">
-            <div className="px-5 py-5 py-lg-3">
-              <div className="row align-items-center">
-                <div className="col-lg-8">
-                  <div className="usa-embed-container">
-                    <iframe
-                      src="https://www.youtube.com/embed/rM0m5Xg1D3s"
-                      frameborder="0"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                      allowfullscreen
-                    ></iframe>
-                  </div>
-                </div>
-                <div className="col-lg-4">
-                  <h2>NIU40</h2>
-                  <p style={{ fontSize: "20px" }}>
-                    The NIU40 is an complete keyboard offered by KBDFANS
-                  </p>
-
-                  <a href="https://qmk.fm/" className="btn btn-primary">
-                    Learn about QMK
-                  </a>
-                </div>
+          <div className="row">
+            <div className="col-lg-12">
+              <h2>Videos</h2>
+              <div className="usa-embed-container">
+                <iframe
+                  src="https://www.youtube.com/embed/bEPg8kk84gw"
+                  frameBorder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                ></iframe>
+              </div>
+              <div className="usa-embed-container">
+                <iframe
+                  src="https://www.youtube.com/embed/NcnMR8D0G5o"
+                  frameBorder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                ></iframe>
               </div>
             </div>
           </div>

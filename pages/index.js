@@ -1,16 +1,20 @@
 import Head from "next/head";
-import Nav from "../components/nav";
+import Navigation from "../components/nav";
 import Footer from "../components/footer";
 
 export default function Home() {
   return (
     <div>
       <Head>
-        <title>Try Ortho Keys</title>
+        <title>Try Ortho Keys - Ortholinear Keyboards</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta
+          name="description"
+          content="Ortholinear keyboards are erognomic computer keyboards with a grid layout. Most orthlinear keyboards have mechanical key switches and programmable keymappings."
+        />
       </Head>
 
-      <Nav />
+      <Navigation />
 
       <div className="jumbo-container section-container">
         <div className="container">
@@ -20,10 +24,11 @@ export default function Home() {
                 <h1 className="display-1 font-weight-bolder">
                   Try Ortho Keys!
                 </h1>
-                <h2 className="font-weight-light">
-                  Ergonomic, Compact and Programmable
+                <h2 className="text-primary font-weight-bold py-2">
+                  Ergonomic, Programmable and Compact 
                 </h2>
-                <a href="#why" className="mt-2 btn btn-primary btn-lg">
+                <p className="py-3" style={{fontSize: "20px"}}>Ortholinear keyboards are erognomic computer keyboards with their keys arranged in a grid layout. Most orthlinear keyboards have mechanical switches and programmable keymappings.</p>
+                <a href="/keyboards" className="mt-2 btn btn-primary btn-lg">
                   Learn More
                 </a>
               </div>
@@ -34,26 +39,22 @@ export default function Home() {
 
       <div>{/* ad space */}</div>
 
-      <div id="why" className="section-container ">
+      <div id="ergonomic" className="section-container ">
         <div className="">
           <div className="container">
             <div className="row align-items-center">
               <div className="col-lg-6">
-                <h2 className="display-2 font-weight-bolder text-primary">Ergonomic</h2>
+                <h2 className="display-2 font-weight-bolder text-primary">
+                  Ergonomic
+                </h2>
                 <p className="lead">
                   On most ortholinear keyboards, your fingers aren't more than
                   two keys away from what is considered home row. The less you
                   have to move around the keyboard, the less stress there is on
                   your fingers!
                 </p>
-                <a href="https://olkb.com/" className="btn btn-primary mr-2">
-                  OLKB Keyboards
-                </a>
-                <a
-                  href="https://kbdfans.com/collections/fully-assembled-keyboard/products/fully-assembled-niu40-mechanical-keyboard"
-                  className="btn btn-secondary"
-                >
-                  NIU40
+                <a href="/keyboards" className="btn btn-primary mr-2">
+                  See the keyboards
                 </a>
               </div>
               <div className="col-lg-6">
@@ -64,7 +65,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div className="section-container">
+      <div id="programmable" className="section-container">
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-6">
@@ -81,14 +82,15 @@ export default function Home() {
               />
             </div>
             <div className="col-lg-6">
-              <h2 className="display-2 font-weight-bolder text-primary">Programmable</h2>
+              <h2 className="display-2 font-weight-bolder text-secondary">
+                Programmable
+              </h2>
               <p className="lead">
                 Most ortholinear keyboards available allow you to fully
-                customize your key mappings and can even play music! They utlize
-                the open-source QMK firmware with a large supporting community.
+                customize your key mappings and can even play music if your keyboard has speakers! They utilize the open-source QMK firmware so that you can customize the keys mappings to your liking.
               </p>
 
-              <a href="https://qmk.fm/" className="btn btn-primary">
+              <a href="https://qmk.fm/" className="btn btn-secondary">
                 Learn about QMK
               </a>
             </div>

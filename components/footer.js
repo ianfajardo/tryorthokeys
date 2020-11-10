@@ -14,30 +14,20 @@ export default function Footer() {
             <small className="d-block mb-3 text-muted">Developed by <a href="https://ianfajardo.com">Ian Fajardo</a></small>
           </div>
           <div className="col-6 col-md">
-            <h5>Products</h5>
+            <h5>Why Ortholinear</h5>
             <ul className="list-unstyled text-small">
-              <li><a className="text-muted" href="https://olkb.com/">OLKB</a></li>
-              <li><a className="text-muted" href="https://kbdfans.com/products/fully-assembled-niu40-mechanical-keyboard">NIU40</a></li>
-              <li><a className="text-muted" href="https://qmk.fm/">QMK.fm</a></li>
-              <li><a className="text-muted" href="https://drop.com">Drop</a></li>
+              <li><a className="text-muted" href="/#ergonomic">Ergonomics</a></li>
+              <li><a className="text-muted" href="/#programmable">Programmable</a></li>
+              <li><a className="text-muted" href="/#programmable">QMK Firmware</a></li>
             </ul>
           </div>
           <div className="col-6 col-md">
             <h5>Keyboards</h5>
             <ul className="list-unstyled text-small">
-              <li><a className="text-muted" href="#">Ortholinear Keyboards</a></li>
-              <li><a className="text-muted" href="#">OLKB</a></li>
-              <li><a className="text-muted" href="#">Let's Split</a></li>
-              <li><a className="text-muted" href="#">NIU40</a></li>
-            </ul>
-          </div>
-          <div className="col-6 col-md">
-            <h5>About</h5>
-            <ul className="list-unstyled text-small">
-              <li><a className="text-muted" href="#">Team</a></li>
-              <li><a className="text-muted" href="#">Locations</a></li>
-              <li><a className="text-muted" href="#">Privacy</a></li>
-              <li><a className="text-muted" href="#">Terms</a></li>
+              <li><a className="text-muted" href="/keyboards">Ortholinear Keyboards</a></li>
+              <li><a className="text-muted" href="/olkb">OLKB</a></li>
+              <li><a className="text-muted" href="/letsplit">Let's Split</a></li>
+              <li><a className="text-muted" href="/niu40">NIU40</a></li>
             </ul>
           </div>
         </div>
