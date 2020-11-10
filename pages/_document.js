@@ -15,6 +15,25 @@ class MyDocument extends Document {
             async
             src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"
           ></script>
+
+          <script
+            async
+            src="https://www.googletagmanager.com/gtag/js?id=G-2N26P4HEDD"
+          ></script>
+          <script
+            dangerouslySetInnerHTML={{
+              __html: `
+              window.dataLayer = window.dataLayer || [];
+              function gtag() {
+                dataLayer.push(arguments);
+              }
+              gtag("js", new Date());
+              
+              gtag("config", "G-2N26P4HEDD");
+              
+            `,
+            }}
+          />
         </Head>
 
         <body>
