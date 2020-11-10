@@ -99,8 +99,8 @@ export default function Niu() {
         <div className="container">
           <div className="row">
             <div className="col-lg-12">
+              <h2>Videos</h2>
               <div className="usa-embed-container">
-                <h2>Videos</h2>
                 <iframe
                   src="https://www.youtube.com/embed/mWu-_ACpSgY"
                   frameBorder="0"
