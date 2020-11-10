@@ -53,12 +53,12 @@ export default function Keyboards() {
                     and Preonic frequently updated.
                   </p>
 
-                  <a href="/olkb" className="btn btn-primary mr-2">
+                  <a href="/olkb" className="btn btn-primary mr-2 mb-2">
                     View OLKB Keyboards
                   </a>
                   <a
                     href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
-                    className="btn btn-secondary"
+                    className="btn btn-secondary mb-2"
                   >
                     Buy on Drop
                   </a>

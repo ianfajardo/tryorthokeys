@@ -10,6 +10,7 @@
   color: #ffffff;
   position: relative;
   height: 80vh;
+  min-height: 800px;
 
   .container,
   .row {
@@ -58,7 +59,7 @@
   overflow: hidden;
   max-width: 100%;
   margin-bottom: 60px;
-  margin-top:60px;
+  margin-top: 60px;
 }
 
 .usa-embed-container iframe {
@@ -69,5 +70,16 @@
   height: 100%;
 }
 
-@media screen and (max-width: 996px) {
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) {
+}
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) {
+  .display-1 {
+    font-size: 4rem;
+  }
+  .display-2 {
+    font-size: 3rem;
+  }
 }

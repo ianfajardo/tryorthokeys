@@ -62,26 +62,26 @@ export default function Olkb() {
                   </p>
                   <a
                     href="https://olkb.com/collections/planck"
-                    className="btn btn-primary mr-2"
+                    className="btn btn-primary mr-2 mb-2"
                   >
                     View on OLKB
                   </a>
                   <a
                     href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
-                    className="btn btn-secondary mr-2"
+                    className="btn btn-secondary mr-2 mb-2"
                   >
                     Buy on Drop
                   </a>
                   <a
                     href="https://qmk.fm/keyboards/planck/"
-                    className="btn btn-link"
+                    className="btn btn-link mb-2"
                   >
                     QMK Firmware
                   </a>
                 </div>
                 <div className="col-lg-7">
                   <img
-                    className="img-fluid"
+                    className="img-fluid mb-2"
                     src="/planck-2.jpg"
                     alt="Planck Keyboard"
                   />
@@ -99,7 +99,7 @@ export default function Olkb() {
               <div className="row align-items-center">
                 <div className="col-lg-7">
                   <img
-                    className="img-fluid"
+                    className="img-fluid mb-2 mb-2"
                     src="/preonic-1.jpg"
                     alt="Preonic Keyboard"
                   />
@@ -119,13 +119,13 @@ export default function Olkb() {
                   </p>
                   <a
                     href="https://olkb.com/collections/planck"
-                    className="btn btn-primary mr-2"
+                    className="btn btn-primary mr-2 mb-2"
                   >
                     View on OLKB
                   </a>
                   <a
                     href="https://drop.com/buy/preonic-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
-                    className="btn btn-secondary mr-2"
+                    className="btn btn-secondary mr-2 mb-2"
                   >
                     Buy on Drop
                   </a>

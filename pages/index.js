@@ -53,12 +53,12 @@ export default function Home() {
                   have to move around the keyboard, the less stress there is on
                   your fingers!
                 </p>
-                <a href="/keyboards" className="btn btn-primary mr-2">
+                <a href="/keyboards" className="btn btn-primary mr-2 mb-2">
                   See the keyboards
                 </a>
               </div>
               <div className="col-lg-6">
-                <img src="/preonic-1.jpg" alt="" className="img-fluid" />
+                <img src="/preonic-1.jpg" alt="" className="img-fluid mb-2" />
               </div>
             </div>
           </div>
@@ -76,7 +76,7 @@ export default function Home() {
                 alt="QMK Firmware"
               />
               <img
-                className="img-fluid"
+                className="img-fluid mb-2"
                 src="/olkb-keymap.png"
                 alt="Planck Keymap"
               />
