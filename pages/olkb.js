@@ -107,7 +107,7 @@ export default function Olkb() {
                 <div className="col-lg-5">
                   <h2 className="font-weight-bold text-primary">Preonic</h2>
                   <p style={{ fontSize: "20px" }}>
-                    The Preonic keyboard is the Planck's big brother with an extra row of keys for those that really missing the number row or want more keys to customize.  The newest version of the Preonic is almost identical the Planck in terms of of features.
+                    The Preonic keyboard is the Planck's big brother with an extra row of keys for those really missing the number row or want more keys to customize.  The newest version of the Preonic is almost identical the Planck in terms of features.
                   </p>
                   <a
                     href="https://olkb.com/collections/planck"
