@@ -36,10 +36,10 @@ export default function Niu() {
                   mentioned here are only a few.
                 </p>
                 <a
-                  href="https://kbdfans.com/products/fully-assembled-niu40-mechanical-keyboard"
+                  href="https://ergodox-ez.com/"
                   className="mt-3 btn btn-primary"
                 >
-                  Visit Website
+                  ErgoDox
                 </a>
               </div>
             </div>
