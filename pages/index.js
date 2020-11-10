@@ -8,10 +8,37 @@ export default function Home() {
       <Head>
         <title>Try Ortho Keys - Ortholinear Keyboards</title>
         <link rel="icon" href="/favicon.ico" />
+
+        <title>Try Ortho Keys - Ortholinear Keyboards</title>
+        <meta name="title" content="Try Ortho Keys - Ortholinear Keyboards" />
         <meta
           name="description"
           content="Ortholinear keyboards are erognomic computer keyboards with a grid layout. Most orthlinear keyboards have mechanical key switches and programmable keymappings."
         />
+
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.tryorthokeys.com/" />
+        <meta
+          property="og:title"
+          content="Try Ortho Keys - Ortholinear Keyboards"
+        />
+        <meta
+          property="og:description"
+          content="Ortholinear keyboards are erognomic computer keyboards with a grid layout. Most orthlinear keyboards have mechanical key switches and programmable keymappings."
+        />
+        <meta property="og:image" content="/planck-2.jpg" />
+
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://www.tryorthokeys.com/" />
+        <meta
+          property="twitter:title"
+          content="Try Ortho Keys - Ortholinear Keyboards"
+        />
+        <meta
+          property="twitter:description"
+          content="Ortholinear keyboards are erognomic computer keyboards with a grid layout. Most orthlinear keyboards have mechanical key switches and programmable keymappings."
+        />
+        <meta property="twitter:image" content="/planck-2.jpg" />
       </Head>
 
       <Navigation />
@@ -25,9 +52,14 @@ export default function Home() {
                   Try Ortho Keys!
                 </h1>
                 <h2 className="text-primary font-weight-bold py-2">
-                  Ergonomic, Programmable and Compact 
+                  Ergonomic, Programmable and Compact
                 </h2>
-                <p className="py-3" style={{fontSize: "20px"}}>Ortholinear keyboards are erognomic computer keyboards with their keys arranged in a grid layout. Most orthlinear keyboards have mechanical switches and programmable keymappings.</p>
+                <p className="py-3" style={{ fontSize: "20px" }}>
+                  Ortholinear keyboards are erognomic computer keyboards with
+                  their keys arranged in a grid layout. Most orthlinear
+                  keyboards have mechanical switches and programmable
+                  keymappings.
+                </p>
                 <a href="/keyboards" className="mt-2 btn btn-primary btn-lg">
                   Learn More
                 </a>
@@ -87,7 +119,9 @@ export default function Home() {
               </h2>
               <p className="lead">
                 Most ortholinear keyboards available allow you to fully
-                customize your key mappings and can even play music if your keyboard has speakers! They utilize the open-source QMK firmware so that you can customize the keys mappings to your liking.
+                customize your key mappings and can even play music if your
+                keyboard has speakers! They utilize the open-source QMK firmware
+                so that you can customize the keys mappings to your liking.
               </p>
 
               <a href="https://qmk.fm/" className="btn btn-secondary">
