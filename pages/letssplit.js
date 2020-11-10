@@ -7,16 +7,16 @@ export default function Niu() {
     <div>
       <Head>
         <title>
-          Let's Split - Ortholinear Split keyboards for even better ergonomics
+          Let's Split - Ortholinear Split keyboards for better ergonomics
         </title>
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
           content="You can usually spot a Let's Split keyboard if it has two
           seperate PCBs connected by a cable. Let's Split keyboards
-          literally split the keyboard in half to further better the
-          ergonomics and encourage better touch typing and the ones
-          mentioned here are only a few."
+          literally split the keyboard in half for better
+          ergonomics and encourage better touch typing. The ones
+          mentioned here are only but a few."
         />
       </Head>
 

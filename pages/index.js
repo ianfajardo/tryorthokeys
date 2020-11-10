@@ -52,10 +52,10 @@ export default function Home() {
                   Try Ortho Keys!
                 </h1>
                 <h2 className="text-primary font-weight-bold py-2">
-                  Ergonomic, Programmable and Compact
+                  Programmable and Compact
                 </h2>
                 <p className="py-3" style={{ fontSize: "20px" }}>
-                  Ortholinear keyboards are erognomic computer keyboards with
+                  Ortholinear keyboards are computer keyboards with
                   their keys arranged in a grid layout. Most orthlinear
                   keyboards have mechanical switches and programmable
                   keymappings.
@@ -71,19 +71,19 @@ export default function Home() {
 
       <div>{/* ad space */}</div>
 
-      <div id="ergonomic" className="section-container ">
+      <div id="compact" className="section-container ">
         <div className="">
           <div className="container">
             <div className="row align-items-center">
               <div className="col-lg-6">
                 <h2 className="display-2 font-weight-bolder text-primary">
-                  Ergonomic
+                  Compact
                 </h2>
                 <p className="lead">
-                  On most ortholinear keyboards, your fingers aren't more than
+                  With the smaller form factor on ortholinear keyboards, your fingers aren't more than
                   two keys away from what is considered home row. The less you
                   have to move around the keyboard, the less stress there is on
-                  your fingers!
+                  your fingers!  
                 </p>
                 <a href="/keyboards" className="btn btn-primary mr-2 mb-2">
                   See the keyboards

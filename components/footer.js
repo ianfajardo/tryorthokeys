@@ -20,7 +20,7 @@ export default function Footer() {
           <div className="col-6 col-md">
             <h5>Why Ortholinear</h5>
             <ul className="list-unstyled text-small">
-              <li><a className="text-muted" href="/#ergonomic">Ergonomics</a></li>
+              <li><a className="text-muted" href="/#compact">Compact</a></li>
               <li><a className="text-muted" href="/#programmable">Programmable</a></li>
               <li><a className="text-muted" href="/#programmable">QMK Firmware</a></li>
             </ul>

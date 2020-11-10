@@ -25,8 +25,7 @@ export default function Keyboards() {
                   Ortholinear keyboards
                 </h1>
                 <h2 className="text-primary font-weight-light">
-                  Not only are ortholinear keyboards ergonomic, they're pretty
-                  freaking cool
+                  Not only are ortholinear keyboards useful, they're pretty freaking cool
                 </h2>
                 <p style={{ fontSize: "20px" }}>
                   There are a plethora of keyboards to choose from and below are
@@ -46,7 +45,9 @@ export default function Keyboards() {
             <div className="px-5 py-5 py-lg-3">
               <div className="row align-items-center">
                 <div className="col-lg-5">
-                  <h2 className="font-weight-bold text-primary">OLKB Planck & Preonic</h2>
+                  <h2 className="font-weight-bold text-primary">
+                    OLKB Planck & Preonic
+                  </h2>
                   <p style={{ fontSize: "20px" }}>
                     They ortholinear keyboards from OLKB are the most popular
                     offerings today. Both are highly customizable and the Planck
@@ -86,8 +87,7 @@ export default function Keyboards() {
                   <p style={{ fontSize: "20px" }}>
                     You can usually spot a Let's Split keyboard if it has two
                     seperate PCBs connected by a cable. Let's Split keyboards
-                    literally split the keyboard in half to further better the
-                    ergonomics.
+                    literally split the keyboard in half for better ergonomics.
                   </p>
                   <a href="/letssplit" className="btn btn-primary mr-2">
                     Let's Split Keyboards
