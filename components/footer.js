@@ -13,7 +13,7 @@ export default function Footer() {
             <small className="d-block mb-1 text-muted">© 2020 All Right Reserved</small>
             <small className="d-block mb-3 text-muted">Developed by <a href="https://ianfajardo.com">Ian Fajardo</a></small>
 
-            <iframe src="https://ghbtns.com/github-btn.html?user=ianfajardo&type=follow" frameborder="0" scrolling="0" width="230" height="30" title="GitHub"></iframe>
+            <iframe src="https://ghbtns.com/github-btn.html?user=ianfajardo&type=follow" frameBorder="0" scrolling="0" width="230" height="30" title="GitHub"></iframe>
 
             <iframe src="https://ghbtns.com/github-btn.html?user=twitter&repo=tryorthokeys&type=star" frameBorder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe>
           </div>
