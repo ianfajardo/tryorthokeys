@@ -107,15 +107,7 @@ export default function Olkb() {
                 <div className="col-lg-5">
                   <h2 className="font-weight-bold text-primary">Preonic</h2>
                   <p style={{ fontSize: "20px" }}>
-                    The Planck keyboard is a highly popular 40% ortholinear
-                    keyboard by OLKB. The owner,{" "}
-                    <a href="https://github.com/jackhumbert">Jack Humbert</a> is
-                    also the founder of QMK. The latest version of the Planck
-                    keyboard supports hot swappable switches, LEDs, a small
-                    speaker and even rotary encoders. There are several
-                    offerings for baseplates: EOTW (easy on the wallet), hi-pro
-                    and low-pro. These keyboards usually come in as a kit with
-                    some light assembly required.
+                    The Preonic keyboard is the Planck's big brother with an extra row of keys for those that really missing the number row or want more keys to customize.  The newest version of the Preonic is almost identical the Planck in terms of of features.
                   </p>
                   <a
                     href="https://olkb.com/collections/planck"
