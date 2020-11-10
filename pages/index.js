@@ -1,65 +1,102 @@
-import Head from 'next/head'
-import styles from '../styles/Home.module.css'
+import Head from "next/head";
+import Nav from "../components/nav";
+import Footer from "../components/footer";
 
 export default function Home() {
   return (
-    <div className={styles.container}>
+    <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Try Ortho Keys</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main className={styles.main}>
-        <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
-        </h1>
+      <Nav />
 
-        <p className={styles.description}>
-          Get started by editing{' '}
-          <code className={styles.code}>pages/index.js</code>
-        </p>
-
-        <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
-            <h3>Documentation &rarr;</h3>
-            <p>Find in-depth information about Next.js features and API.</p>
-          </a>
-
-          <a href="https://nextjs.org/learn" className={styles.card}>
-            <h3>Learn &rarr;</h3>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
-          </a>
-
-          <a
-            href="https://github.com/vercel/next.js/tree/master/examples"
-            className={styles.card}
-          >
-            <h3>Examples &rarr;</h3>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
-          </a>
-
-          <a
-            href="https://vercel.com/import?filter=next.js&utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-            className={styles.card}
-          >
-            <h3>Deploy &rarr;</h3>
-            <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
-            </p>
-          </a>
+      <div className="jumbo-container section-container">
+        <div className="container">
+          <div className="row align-items-center">
+            <div className="col-lg-8">
+              <div className="py-3">
+                <h1 className="display-1 font-weight-bolder">
+                  Try Ortho Keys!
+                </h1>
+                <h2 className="font-weight-light">
+                  Ergonomic, Compact and Programmable
+                </h2>
+                <a href="#why" className="mt-2 btn btn-primary btn-lg">
+                  Learn More
+                </a>
+              </div>
+            </div>
+          </div>
         </div>
-      </main>
+      </div>
 
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <img src="/vercel.svg" alt="Vercel Logo" className={styles.logo} />
-        </a>
-      </footer>
+      <div>{/* ad space */}</div>
+
+      <div id="why" className="section-container ">
+        <div className="">
+          <div className="container">
+            <div className="row align-items-center">
+              <div className="col-lg-6">
+                <h2 className="display-2 font-weight-bolder text-primary">Ergonomic</h2>
+                <p className="lead">
+                  On most ortholinear keyboards, your fingers aren't more than
+                  two keys away from what is considered home row. The less you
+                  have to move around the keyboard, the less stress there is on
+                  your fingers!
+                </p>
+                <a href="https://olkb.com/" className="btn btn-primary mr-2">
+                  OLKB Keyboards
+                </a>
+                <a
+                  href="https://kbdfans.com/collections/fully-assembled-keyboard/products/fully-assembled-niu40-mechanical-keyboard"
+                  className="btn btn-secondary"
+                >
+                  NIU40
+                </a>
+              </div>
+              <div className="col-lg-6">
+                <img src="/preonic-1.jpg" alt="" className="img-fluid" />
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div className="section-container">
+        <div className="container">
+          <div className="row align-items-center">
+            <div className="col-lg-6">
+              <img
+                className="mb-1 d-block"
+                width="300"
+                src="/qmk-light.png"
+                alt="QMK Firmware"
+              />
+              <img
+                className="img-fluid"
+                src="/olkb-keymap.png"
+                alt="Planck Keymap"
+              />
+            </div>
+            <div className="col-lg-6">
+              <h2 className="display-2 font-weight-bolder text-primary">Programmable</h2>
+              <p className="lead">
+                Most ortholinear keyboards available allow you to fully
+                customize your key mappings and can even play music! They utlize
+                the open-source QMK firmware with a large supporting community.
+              </p>
+
+              <a href="https://qmk.fm/" className="btn btn-primary">
+                Learn about QMK
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <Footer />
     </div>
-  )
+  );
 }
