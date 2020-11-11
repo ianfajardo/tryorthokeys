@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Navigation from "../components/nav";
 import Footer from "../components/footer";
+import Adbanner from "../components/adbanner";
 
 export default function Home() {
   return (
@@ -55,10 +56,9 @@ export default function Home() {
                   Programmable and Compact
                 </h2>
                 <p className="py-3" style={{ fontSize: "20px" }}>
-                  Ortholinear keyboards are computer keyboards with
-                  their keys arranged in a grid layout. Most orthlinear
-                  keyboards have mechanical switches and programmable
-                  keymappings.
+                  Ortholinear keyboards are computer keyboards with their keys
+                  arranged in a grid layout. Most orthlinear keyboards have
+                  mechanical switches and programmable keymappings.
                 </p>
                 <a href="/keyboards" className="mt-2 btn btn-primary btn-lg">
                   Learn More
@@ -69,7 +69,7 @@ export default function Home() {
         </div>
       </div>
 
-      <div>{/* ad space */}</div>
+      <Adbanner />
 
       <div id="compact" className="section-container ">
         <div className="">
@@ -80,10 +80,10 @@ export default function Home() {
                   Compact
                 </h2>
                 <p className="lead">
-                  With the smaller form factor on ortholinear keyboards, your fingers aren't more than
-                  two keys away from what is considered home row. The less you
-                  have to move around the keyboard, the less stress there is on
-                  your fingers!  
+                  With the smaller form factor on ortholinear keyboards, your
+                  fingers aren't more than two keys away from what is considered
+                  home row. The less you have to move around the keyboard, the
+                  less stress there is on your fingers!
                 </p>
                 <a href="/keyboards" className="btn btn-primary mr-2 mb-2">
                   See the keyboards
