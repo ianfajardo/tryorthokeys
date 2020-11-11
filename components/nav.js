@@ -16,7 +16,7 @@ export default function Navigation() {
             <Nav className="ml-auto">
               <Nav.Link href="/keyboards">Ortholinear Keyboards</Nav.Link>
               <Nav.Link href="/olkb">OLKB Planck & Preonic</Nav.Link>
-              <Nav.Link href="/letssplit">Let's Split</Nav.Link>
+              <Nav.Link href="/split">Split</Nav.Link>
               <Nav.Link href="/niu40">NIU40</Nav.Link>
             </Nav>
           </Navbar.Collapse>

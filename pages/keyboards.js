@@ -10,7 +10,7 @@ export default function Keyboards() {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="There are several different companies that offer ortholinear keyboards.  OLKB, KBDFans and many other's sell keyboard such as the Preonic, Planck, NUI40 and Let's Split."
+          content="There are several different companies that offer ortholinear keyboards.  OLKB, KBDFans and many other's sell keyboard such as the Preonic, Planck, NUI40 and Split."
         />
       </Head>
 
@@ -25,7 +25,8 @@ export default function Keyboards() {
                   Ortholinear keyboards
                 </h1>
                 <h2 className="text-primary font-weight-light">
-                  Not only are ortholinear keyboards useful, they're pretty freaking cool
+                  Not only are ortholinear keyboards useful, they're pretty
+                  freaking cool
                 </h2>
                 <p style={{ fontSize: "20px" }}>
                   There are a plethora of keyboards to choose from and below are
@@ -83,14 +84,14 @@ export default function Keyboards() {
             <div className="px-5 py-5 py-lg-5">
               <div className="row align-items-center">
                 <div className="col-lg-5">
-                  <h2 className="font-weight-bold text-primary">Let's Split</h2>
+                  <h2 className="font-weight-bold text-primary">Split</h2>
                   <p style={{ fontSize: "20px" }}>
-                    You can usually spot a Let's Split keyboard if it has two
-                    seperate PCBs connected by a cable. Let's Split keyboards
-                    literally split the keyboard in half for better ergonomics.
+                    You can usually spot a split keyboard if it has two seperate
+                    PCBs connected by a cable. Split keyboards literally half
+                    the keyboard better ergonomics and touch typing.
                   </p>
                   <a href="/letssplit" className="btn btn-primary mr-2">
-                    Let's Split Keyboards
+                    Split Keyboards
                   </a>
                 </div>
                 <div className="col-lg-7">

@@ -30,7 +30,7 @@ export default function Footer() {
             <ul className="list-unstyled text-small">
               <li><a className="text-muted" href="/keyboards">Ortholinear Keyboards</a></li>
               <li><a className="text-muted" href="/olkb">OLKB</a></li>
-              <li><a className="text-muted" href="/letsplit">Let's Split</a></li>
+              <li><a className="text-muted" href="/split">Split</a></li>
               <li><a className="text-muted" href="/niu40">NIU40</a></li>
             </ul>
           </div>
