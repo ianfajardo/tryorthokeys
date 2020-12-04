@@ -3,7 +3,7 @@ import React, { useEffect } from "react";
 const AdBanner = () => {
   useEffect(() => {
     try {
-      (window.adsbygoogle = window.adsbygoogle || []).push({});
+      (adsbygoogle = window.adsbygoogle || []).push({});
     } catch (err) {
       console.log(err);
     }
@@ -12,7 +12,7 @@ const AdBanner = () => {
   return (
     <div align="center">
       <ins
-        className="adsbygoogle adbanner-customize"
+        className="adsbygoogle"
         style={{
           display: "block",
         }}

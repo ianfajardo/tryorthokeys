@@ -69,8 +69,6 @@ export default function Home() {
         </div>
       </div>
 
-      <Adbanner />
-
       <div id="compact" className="section-container ">
         <div className="">
           <div className="container">
