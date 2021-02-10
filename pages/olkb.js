@@ -35,7 +35,14 @@ export default function Olkb() {
                     Drop.com
                   </a>
                 </p>
-                <a href="https://olkb.com/" className="mt-3 btn btn-primary">
+
+                <a
+                  href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
+                  className="mt-3 mr-3 btn btn-primary"
+                >
+                  Buy on Drop
+                </a>
+                <a href="https://olkb.com/" className="mt-3 btn btn-outline-primary">
                   Visit Website
                 </a>
               </div>
@@ -107,7 +114,10 @@ export default function Olkb() {
                 <div className="col-lg-5">
                   <h2 className="font-weight-bold text-primary">Preonic</h2>
                   <p style={{ fontSize: "20px" }}>
-                    The Preonic keyboard is the Planck's big brother with an extra row of keys for those really missing the number row or want more keys to customize.  The newest version of the Preonic is almost identical the Planck in terms of features.
+                    The Preonic keyboard is the Planck's big brother with an
+                    extra row of keys for those really missing the number row or
+                    want more keys to customize. The newest version of the
+                    Preonic is almost identical the Planck in terms of features.
                   </p>
                   <a
                     href="https://olkb.com/collections/planck"
@@ -134,7 +144,7 @@ export default function Olkb() {
         </div>
       </div>
 
-      <div className="section-container">
+      <div className="section-container" id="videos">
         <div className="container">
           <div className="row">
             <div className="col-lg-12">

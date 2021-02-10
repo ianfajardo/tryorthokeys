@@ -15,7 +15,14 @@ export default function Navigation() {
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ml-auto">
               <Nav.Link href="/keyboards">Ortholinear Keyboards</Nav.Link>
-              <Nav.Link href="/olkb">OLKB Planck & Preonic</Nav.Link>
+              <NavDropdown title="OLKB Planck & Preonic" id="olkb-nav-dropdown">
+                <NavDropdown.Item href="/olkb">
+                  About the Keyboards
+                </NavDropdown.Item>
+                <NavDropdown.Item href="/configure">
+                  Configuring your Keyboard
+                </NavDropdown.Item>
+              </NavDropdown>
               <Nav.Link href="/split">Split</Nav.Link>
               <Nav.Link href="/niu40">NIU40</Nav.Link>
             </Nav>

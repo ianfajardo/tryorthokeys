@@ -1,8 +1,9 @@
 import Head from "next/head";
 import Navigation from "../components/nav";
 import Footer from "../components/footer";
+import Adbanner from "../components/adbanner";
 
-export default function Niu() {
+export default function Split() {
   return (
     <div>
       <Head>
@@ -36,10 +37,16 @@ export default function Niu() {
                   mentioned here are only a few.
                 </p>
                 <a
-                  href="https://ergodox-ez.com/"
-                  className="mt-3 btn btn-primary"
+                  href="#ergodox"
+                  className="mt-3 mr-3 btn btn-primary"
                 >
                   ErgoDox
+                </a>
+                <a
+                  href="#rebound"
+                  className="mt-3 btn btn-primary"
+                >
+                  Rebound
                 </a>
               </div>
             </div>
@@ -47,7 +54,9 @@ export default function Niu() {
         </div>
       </div>
 
-      <div>{/* ad space */}</div>
+      <div>
+        <Adbanner/>
+      </div>
 
       <div id="ergodox" className="section-container ">
         <div className="container">
@@ -95,11 +104,39 @@ export default function Niu() {
         </div>
       </div>
 
+      <div id="rebound" className="section-container ">
+        <div className="container">
+          <div className="card ele-2">
+            <div className="px-5 py-5 py-lg-5">
+              <div className="row align-items-center">
+                <div className="col-lg-5">
+                  <h2 className="font-weight-bold text-primary">Montsinger Rebound</h2>
+                  <p style={{ fontSize: "20px" }}>
+                    The Rebound is a 50% split ortholinear keyboard and is made to fit into most 60% percent keyboard cases.  It is highly customizable with space in the middle of the keyboard for additional switches and support for a rotary encoder.  The keyboard isn't available pre-built and the parts must be purchased seperately.
+                  </p>
+                  <a
+                    href="https://store.montsinger.net/products/rebound"
+                    className="btn btn-primary mr-2"
+                  >
+                    Buy the Rebound
+                  </a>
+                </div>
+                <div className="col-lg-7">
+                  <img className="img-fluid" src="montsinger.webp" alt="Montsinger Rebound"/>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+
       <div className="section-container">
         <div className="container">
           <div className="row">
             <div className="col-lg-12">
               <h2>Videos</h2>
+
               <div className="usa-embed-container">
                 <iframe
                   src="https://www.youtube.com/embed/mWu-_ACpSgY"

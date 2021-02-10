@@ -9,12 +9,10 @@ export default function Home() {
       <Head>
         <title>Try Ortho Keys - Ortholinear Keyboards</title>
         <link rel="icon" href="/favicon.ico" />
-
-        <title>Try Ortho Keys - Ortholinear Keyboards</title>
         <meta name="title" content="Try Ortho Keys - Ortholinear Keyboards" />
         <meta
           name="description"
-          content="Ortholinear keyboards are erognomic computer keyboards with a grid layout. Most orthlinear keyboards have mechanical key switches and programmable keymappings."
+          content="Ortholinear keyboards are computer keyboards with a grid layout. Most orthlinear keyboards have mechanical key switches and programmable keymappings."
         />
 
         <meta property="og:type" content="website" />
@@ -25,7 +23,7 @@ export default function Home() {
         />
         <meta
           property="og:description"
-          content="Ortholinear keyboards are erognomic computer keyboards with a grid layout. Most orthlinear keyboards have mechanical key switches and programmable keymappings."
+          content="Ortholinear keyboards are computer keyboards with a grid layout. Most orthlinear keyboards have mechanical key switches and programmable keymappings."
         />
         <meta property="og:image" content="/planck-2.jpg" />
 
@@ -57,11 +55,16 @@ export default function Home() {
                 </h2>
                 <p className="py-3" style={{ fontSize: "20px" }}>
                   Ortholinear keyboards are computer keyboards with their keys
-                  arranged in a grid layout. Most orthlinear keyboards have
-                  mechanical switches and programmable keymappings.
+                  arranged in a grid layout. It can be a fun DIY project to assemble your own keyboard, add your own switches, and program your own keymappings.
                 </p>
-                <a href="/keyboards" className="mt-2 btn btn-primary btn-lg">
+                <a
+                  href="/keyboards"
+                  className="mt-2 mr-3 btn btn-primary btn-lg"
+                >
                   Learn More
+                </a>
+                <a href="/olkb" className="mt-2 btn btn-secondary btn-lg">
+                  OLKB Keyboards
                 </a>
               </div>
             </div>
@@ -80,8 +83,8 @@ export default function Home() {
                 <p className="lead">
                   With the smaller form factor on ortholinear keyboards, your
                   fingers aren't more than two keys away from what is considered
-                  home row. The less you have to move around the keyboard, the
-                  less stress there is on your fingers!
+                  home row on most key keyboards. They are a favorite for those
+                  who want to carry their keyboard on the go.
                 </p>
                 <a href="/keyboards" className="btn btn-primary mr-2 mb-2">
                   See the keyboards
@@ -94,6 +97,8 @@ export default function Home() {
           </div>
         </div>
       </div>
+
+      <Adbanner />
 
       <div id="programmable" className="section-container">
         <div className="container">
@@ -118,11 +123,15 @@ export default function Home() {
               <p className="lead">
                 Most ortholinear keyboards available allow you to fully
                 customize your key mappings and can even play music if your
-                keyboard has speakers! They utilize the open-source QMK firmware
-                so that you can customize the keys mappings to your liking.
+                keyboard has speakers! Most utilize the open-source QMK firmware
+                making easier than ever to setup your keyboard the way you like.
               </p>
 
-              <a href="https://qmk.fm/" className="btn btn-secondary">
+              <a href="/configure" className=" mr-3 btn btn-secondary">
+                Configure your Planck or Preonic
+              </a>
+
+              <a href="https://qmk.fm/" className="btn btn-outline-secondary">
                 Learn about QMK
               </a>
             </div>
