@@ -50,7 +50,7 @@ export default function Keyboards() {
                     OLKB Planck & Preonic
                   </h2>
                   <p style={{ fontSize: "20px" }}>
-                    They ortholinear keyboards from OLKB are the most popular
+                    The ortholinear keyboards from OLKB are the most popular
                     offerings today. Both are highly customizable and the Planck
                     and Preonic frequently updated.
                   </p>
