@@ -91,13 +91,13 @@ export default function Home({ allPostsData }) {
       <div id="blog" className="section-container">
         <div className="container">
           <div className="col-lg-12">
-            <h2 className="display-2 font-weight-bolder text-primary mb-5">
+            <h2 className="display-2 font-weight-bolder text-secondary mb-5">
               Blog
             </h2>
             <div className="row mb-5">
               {allPostsData.map(({ slug, date, title, description, image }) => (
                 <div className="col-lg-6" key={slug}>
-                  <div className="">
+                  <div className="mb-5">
                     <div className="row">
                       <div className="col-lg-5">
                         <Link href={`/posts/${slug}`}>

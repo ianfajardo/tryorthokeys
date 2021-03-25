@@ -29,7 +29,7 @@ export default function Navigation() {
               <Nav.Link href="/niu40">NIU40</Nav.Link>
             </Nav>
             <Form inline>
-              <Button className="ml-2" variant="primary">Blog</Button>
+              <Button href="/posts" className="ml-2" variant="primary">Blog</Button>
             </Form>
           </Navbar.Collapse>
         </Container>
