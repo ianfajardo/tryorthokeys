@@ -1,9 +1,23 @@
 import Head from "next/head";
 import Navigation from "../components/nav";
 import Footer from "../components/footer";
-import Adbanner from "../components/adbanner";
+import { getSortedPostsData } from "../lib/posts";
 
-export default function Home() {
+import Link from "next/link";
+import Date from "../components/date";
+
+const recentPostscount = 4;
+
+export async function getStaticProps() {
+  const allPostsData = getSortedPostsData(recentPostscount);
+  return {
+    props: {
+      allPostsData,
+    },
+  };
+}
+
+export default function Home({ allPostsData }) {
   return (
     <div>
       <Head>
@@ -45,7 +59,7 @@ export default function Home() {
       <div className="jumbo-container section-container">
         <div className="container">
           <div className="row align-items-center">
-            <div className="col-lg-8">
+            <div className="offset-lg-2 col-lg-8">
               <div className="py-3">
                 <h1 className="display-1 font-weight-bolder">
                   Try Ortho Keys!
@@ -55,7 +69,9 @@ export default function Home() {
                 </h2>
                 <p className="py-3" style={{ fontSize: "20px" }}>
                   Ortholinear keyboards are computer keyboards with their keys
-                  arranged in a grid layout. It can be a fun DIY project to assemble your own keyboard, add your own switches, and program your own keymappings.
+                  arranged in a grid layout. It can be a fun DIY project to
+                  assemble your own keyboard, add your own switches, and program
+                  your own keymappings.
                 </p>
                 <a
                   href="/keyboards"
@@ -72,7 +88,53 @@ export default function Home() {
         </div>
       </div>
 
-      <div id="compact" className="section-container ">
+      <div id="blog" className="section-container">
+        <div className="container">
+          <div className="col-lg-12">
+            <h2 className="display-2 font-weight-bolder text-primary mb-5">
+              Blog
+            </h2>
+            <div className="row mb-5">
+              {allPostsData.map(({ slug, date, title, description, image }) => (
+                <div className="col-lg-6" key={slug}>
+                  <div className="">
+                    <div className="row">
+                      <div className="col-lg-5">
+                        <Link href={`/posts/${slug}`}>
+                          <a className="lead">
+                            <img
+                              className="img-fluid mb-3"
+                              src={image}
+                              alt="title"
+                            />
+                          </a>
+                        </Link>
+                      </div>
+                      <div className="col-lg-7">
+                        <div className="text-muted ">
+                          <small>
+                            <Date dateString={date} />
+                          </small>
+                        </div>
+                        <Link href={`/posts/${slug}`}>
+                          <a className="lead">{title}</a>
+                        </Link>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
+          <div className="col-lg-12">
+            <a href="/posts" className="btn btn-primary">
+              Read our Blog
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <div id="compact" className="section-container bg-secondary text-white">
         <div className="">
           <div className="container">
             <div className="row align-items-center">
@@ -97,8 +159,6 @@ export default function Home() {
           </div>
         </div>
       </div>
-
-      <Adbanner />
 
       <div id="programmable" className="section-container">
         <div className="container">

@@ -49,8 +49,6 @@ export default function Configuring() {
         </div>
       </div>
 
-      <div></div>
-
       <div className="section-container ">
         <div className="container">
           <div className="card ele-2">

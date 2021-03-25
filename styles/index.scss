@@ -4,13 +4,19 @@
 @import "variables";
 @import "~bootstrap/scss/bootstrap.scss";
 
+a {
+  font-weight: 600;
+  &:hover {
+    text-decoration: none;
+  }
+}
+
 .jumbo-container {
   background: url("/planck-1.jpg") center center no-repeat;
   background-size: cover;
   color: #ffffff;
   position: relative;
-  height: 80vh;
-  min-height: 800px;
+  height: 650px;
 
   .container,
   .row {

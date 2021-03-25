@@ -1,12 +1,14 @@
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
+import Form from "react-bootstrap/Form";
+import Button from 'react-bootstrap/Button';
 import NavDropdown from "react-bootstrap/NavDropdown";
 import Container from "react-bootstrap/Container";
 
 export default function Navigation() {
   return (
     <div>
-      <Navbar collapseOnSelect expand="lg" bg="light" variant="light">
+      <Navbar collapseOnSelect expand="lg" bg="white" variant="white">
         <Container>
           <Navbar.Brand className="text-primary font-weight-bolder" href="/">
             Try Ortho Keys!
@@ -26,6 +28,9 @@ export default function Navigation() {
               <Nav.Link href="/split">Split</Nav.Link>
               <Nav.Link href="/niu40">NIU40</Nav.Link>
             </Nav>
+            <Form inline>
+              <Button className="ml-2" variant="primary">Blog</Button>
+            </Form>
           </Navbar.Collapse>
         </Container>
       </Navbar>
