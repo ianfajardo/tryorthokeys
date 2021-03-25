@@ -55,7 +55,7 @@ export default function Post({ postData }) {
         />
         <meta
           property="og:image"
-          content={postData.image ? postData.image : "/planck-2.jpg"}
+          content={postData.image ? "https://www.tryorthokeys.com/" + postData.image : "/planck-2.jpg"}
         />
         <meta property="twitter:card" content="summary_large_image" />
         <meta
@@ -76,7 +76,7 @@ export default function Post({ postData }) {
         />
         <meta
           property="twitter:image"
-          content={postData.image ? postData.image : "/planck-2.jpg"}
+          content={postData.image ? "https://www.tryorthokeys.com/" + postData.image : "https://www.tryorthokeys.com/planck-2.jpg"}
         />
       </Head>
       <Layout>
