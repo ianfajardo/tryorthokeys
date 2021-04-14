@@ -1,5 +1,5 @@
 import Head from "next/head";
-import Navigation from "../components/nav";
+import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 
 export default function Split() {
@@ -51,10 +51,6 @@ export default function Split() {
             </div>
           </div>
         </div>
-      </div>
-
-      <div>
-        <Adbanner/>
       </div>
 
       <div id="ergodox" className="section-container ">
