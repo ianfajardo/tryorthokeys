@@ -1,7 +1,6 @@
 import Head from "next/head";
 import Navigation from "../components/nav";
 import Footer from "../components/footer";
-import Adbanner from "../components/adbanner";
 
 export default function Split() {
   return (
