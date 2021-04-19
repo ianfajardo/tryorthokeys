@@ -30,17 +30,17 @@ export default function Niu() {
                 </h1>
                 <p style={{ fontSize: "20px" }}>
                   The NIU 40 / NIU Mini is a 40% similar keyboard to the Planck
-                  ortholinear keyboard. You purchase them fully assembled at{" "}
-                  <a href="https://kbdfans.com/products/fully-assembled-niu40-mechanical-keyboard">
+                  ortholinear keyboard. You purchase them a DIY kit at{" "}
+                  <a href="https://kbdfans.com/r?id=eft22v">
                     KBDFans
                   </a>
                   .{" "}
                 </p>
                 <a
-                  href="https://kbdfans.com/products/fully-assembled-niu40-mechanical-keyboard"
+                  href="https://kbdfans.com/r?id=eft22v"
                   className="mt-3 btn btn-primary"
                 >
-                  Visit Website
+                  Buy Now
                 </a>
               </div>
             </div>
@@ -63,10 +63,10 @@ export default function Niu() {
                     bases. There are not any hot swappable versions available at the moment.
                   </p>
                   <a
-                    href="https://kbdfans.com/products/fully-assembled-niu40-mechanical-keyboard"
+                    href="https://kbdfans.com/r?id=eft22v"
                     className="btn btn-primary mr-2"
                   >
-                    View on KBDFans
+                    Buy Now
                   </a>
                   <a
                     href="https://github.com/qmk/qmk_firmware/tree/master/keyboards/niu_mini"
