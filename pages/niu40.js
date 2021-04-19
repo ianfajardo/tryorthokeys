@@ -34,7 +34,7 @@ export default function Niu() {
                   <a href="https://kbdfans.com/r?id=eft22v">
                     KBDFans
                   </a>
-                  .{" "}
+                  .{" "}  A bit cheaper than the OLKB offerings, it offers similar functionality and features.
                 </p>
                 <a
                   href="https://kbdfans.com/r?id=eft22v"
@@ -60,7 +60,7 @@ export default function Niu() {
                   <p style={{ fontSize: "20px" }}>
                     The NIU40 is a programmable 40% ortholinear keyboard from KBDFans. There
                     are options for different colored aluminium or acrylic
-                    bases. There are not any hot swappable versions available at the moment.
+                    bases. Features include Underglow RGB PCBs, QMK support, and precision CNC production. There are not any hot swappable versions available at the moment.
                   </p>
                   <a
                     href="https://kbdfans.com/r?id=eft22v"
