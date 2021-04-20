@@ -7,9 +7,10 @@ export default function Niu() {
     <div>
       <Head>
         <title>
-          NIU40 NIU Mini - Highly popular ortholinear keyboard producer
+          NIU40 NIU Mini - The NIU40 is a programmable 40% ortholinear keyboard from KBDFans
         </title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="title" content="NIU40 NIU Mini - The NIU40 is a programmable 40% ortholinear keyboard from KBDFans"/>
         <meta
           name="description"
           content="The NIU40 is a programmable 40% ortholinear keyboard from KBDFans. There
