@@ -1,13 +1,18 @@
 import Button from "react-bootstrap/Button";
 
+function getYear() {
+  return new Date().getFullYear();
+}
+
 export default function Footer() {
+  
   return (
     <div className="container">
       <footer className="pt-4 my-md-5 pt-md-5 border-top">
         <div className="row">
           <div className="col-lg-4 col-md-12">
             <h3 className="text-primary">Try Ortho Keys!</h3>
-            <small className="d-block mb-1 text-muted">© 2020 All Right Reserved</small>
+            <small className="d-block mb-1 text-muted">© {getYear()} All Right Reserved</small>
             <small className="d-block mb-3 text-muted">Developed by <a href="https://ianfajardo.com">Ian Fajardo</a></small>
 
             <iframe src="https://ghbtns.com/github-btn.html?user=ianfajardo&type=follow" frameBorder="0" scrolling="0" width="230" height="30" title="GitHub"></iframe>
