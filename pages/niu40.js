@@ -29,7 +29,7 @@ export default function Niu() {
                   NIU40 / NIU Mini
                 </h1>
                 <p style={{ fontSize: "20px" }}>
-                  The NIU 40 / NIU Mini is a 40% similar keyboard to the Planck
+                  The NIU 40 / NIU Mini is a 40% keyboard similar to the Planck
                   ortholinear keyboard. You purchase them a DIY kit at{" "}
                   <a href="https://kbdfans.com/r?id=eft22v">
                     KBDFans
@@ -78,7 +78,7 @@ export default function Niu() {
                 <div className="col-lg-7">
                   <img
                     className="img-fluid"
-                    src="/niu40.jpg"
+                    src="/niu40.webp"
                     alt="Planck Keyboard"
                   />
                 </div>
