@@ -7,7 +7,7 @@ export default function Olkb() {
     <div>
       <Head>
         <title>
-          OLKB Preonic & Planck - Highly popular ortholinear keyboard producer
+          OLKB Preonic & Planck - Highly popular ortholinear keyboards
         </title>
         <link rel="icon" href="/favicon.ico" />
         <meta

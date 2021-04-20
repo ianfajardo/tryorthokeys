@@ -21,23 +21,23 @@ export default function Home({ allPostsData }) {
   return (
     <div>
       <Head>
-        <title>Try Ortho Keys - Ortholinear Keyboards</title>
+        <title>Try Ortho Keys | Ortholinear Keyboards OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard</title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="title" content="Try Ortho Keys - Ortholinear Keyboards" />
+        <meta name="title" content="Try Ortho Keys | Ortholinear Keyboards OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard" />
         <meta
           name="description"
-          content="Ortholinear keyboards are computer keyboards with a grid layout. Most orthlinear keyboards have mechanical key switches and programmable keymappings."
+          content="Ortholinear keyboards are computer keyboards with a grid layout. An orthlinear keyboard usually has mechanical key switches and programmable keymappings.  Popular products include OLKB Planck and Preonic, Ergodox, NIU40 mini and more."
         />
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.tryorthokeys.com/" />
         <meta
           property="og:title"
-          content="Try Ortho Keys - Ortholinear Keyboards"
+          content="Try Ortho Keys | Ortholinear Keyboards OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard"
         />
         <meta
           property="og:description"
-          content="Ortholinear keyboards are computer keyboards with a grid layout. Most orthlinear keyboards have mechanical key switches and programmable keymappings."
+          content="Ortholinear keyboards are computer keyboards with a grid layout. An orthlinear keyboard usually has mechanical key switches and programmable keymappings.  Popular products include OLKB Planck and Preonic, Ergodox, NIU40 mini and more."
         />
         <meta property="og:image" content="/planck-2.jpg" />
 
@@ -45,11 +45,11 @@ export default function Home({ allPostsData }) {
         <meta property="twitter:url" content="https://www.tryorthokeys.com/" />
         <meta
           property="twitter:title"
-          content="Try Ortho Keys - Ortholinear Keyboards"
+          content="Try Ortho Keys | Ortholinear Keyboards OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard"
         />
         <meta
           property="twitter:description"
-          content="Ortholinear keyboards are erognomic computer keyboards with a grid layout. Most orthlinear keyboards have mechanical key switches and programmable keymappings."
+          content="Ortholinear keyboards are computer keyboards with a grid layout. An orthlinear keyboard usually has mechanical key switches and programmable keymappings.  Popular products include OLKB Planck and Preonic, Ergodox, NIU40 mini and more."
         />
         <meta property="twitter:image" content="/planck-2.jpg" />
       </Head>
