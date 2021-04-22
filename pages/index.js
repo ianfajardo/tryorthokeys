@@ -291,7 +291,7 @@ export default function Home({ allPostsData }) {
                       A bit cheaper than the OLKB offerings, it offers similar
                       functionality and features.
                     </p>
-                    <a href="/keyboards" className="btn btn-secondary mt-3">
+                    <a href="/niu40" className="btn btn-secondary mt-3">
                       Learn More
                     </a>
                   </div>
