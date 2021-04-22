@@ -6,11 +6,12 @@ export default function Keyboards() {
   return (
     <div>
       <Head>
-        <title>Try Ortho Keys - Ortholinear Keyboard Products</title>
+        <title>Try Ortho Keys | Ortholinear Keyboards Ortho Keyboards OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard</title>
         <link rel="icon" href="/favicon.ico" />
+        <meta name="title" content="Try Ortho Keys | Ortholinear Keyboards Ortho Keyboards OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard"/>
         <meta
           name="description"
-          content="There are several different companies that offer ortholinear keyboards.  OLKB, KBDFans and many other's sell keyboard such as the Preonic, Planck, NUI40 and Split."
+          content="There are several different companies that offer ortholinear keyboards.  OLKB, KBDFans and more sell keyboard such as the Preonic, Planck, NUI40 and Split."
         />
       </Head>
 
@@ -29,8 +30,7 @@ export default function Keyboards() {
                   freaking cool
                 </h2>
                 <p style={{ fontSize: "20px" }}>
-                  There are a plethora of keyboards to choose from and below are
-                  only a couple of the popular ones to choose from
+                  There are a plethora of keyboards to choose from and below are our recommendations on getting started.  It can be a fun DIY project to assemble your own ortho keyboard, add your own switches, and program your own keymappings.
                 </p>
               </div>
             </div>
