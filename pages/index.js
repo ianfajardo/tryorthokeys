@@ -21,9 +21,15 @@ export default function Home({ allPostsData }) {
   return (
     <div>
       <Head>
-        <title>Try Ortho Keys | Ortholinear Keyboards OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard</title>
+        <title>
+          Try Ortho Keys | Ortholinear Keyboards OLKB Planck Preonic Ergodox
+          NIU40 Split Ortholinear Keyboard
+        </title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="title" content="Try Ortho Keys | Ortholinear Keyboards Ortho OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard" />
+        <meta
+          name="title"
+          content="Try Ortho Keys | Ortholinear Keyboards Ortho OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard"
+        />
         <meta
           name="description"
           content="Ortholinear keyboards are computer keyboards with a grid layout. An ortho keyboard usually has mechanical key switches and programmable keymappings.  Popular products include OLKB Planck and Preonic, Ergodox, NIU40 mini and more."
@@ -91,9 +97,12 @@ export default function Home({ allPostsData }) {
       <div id="blog" className="section-container">
         <div className="container">
           <div className="col-lg-12">
-            <h2 className="display-2 font-weight-bolder text-secondary mb-5">
+            <h2 className="display-2 font-weight-bolder text-secondary mb-1">
               Blog
             </h2>
+            <h3 className="mb-5">
+              Ortholinear keyboard guides, news and more.
+            </h3>
             <div className="row mb-5">
               {allPostsData.map(({ slug, date, title, description, image }) => (
                 <div className="col-lg-6" key={slug}>
@@ -128,7 +137,7 @@ export default function Home({ allPostsData }) {
           </div>
           <div className="col-lg-12">
             <a href="/posts" className="btn btn-primary">
-              Read our Blog
+              View All
             </a>
           </div>
         </div>
@@ -194,6 +203,100 @@ export default function Home({ allPostsData }) {
               <a href="https://qmk.fm/" className="btn btn-outline-secondary">
                 Learn about QMK
               </a>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="compact" className="section-container bg-primary text-white">
+        <div className="">
+          <div className="container">
+            <div className="row mb-5">
+              <div className="col-lg-12 text-center">
+                <h2 className="display-2 font-weight-bolder text-white mb-1">
+                  Ortholinear Keyboards
+                </h2>
+                <h2 className="text-secondary font-weight-light mb-5">
+                  Not only are ortholinear keyboards useful, they're pretty
+                  freaking cool
+                </h2>
+                <p>
+                  There are a plethora of keyboards to choose from and below are
+                  our recommendations on getting started. It can be a fun DIY
+                  project to assemble your own ortho keyboard, add your own
+                  switches, and program your own keymappings.
+                </p>
+                <a href="/keyboards" className="btn btn-secondary">
+                  Learn More
+                </a>
+              </div>
+            </div>
+            <div className="row text-dark">
+              <div className="col-lg-4">
+                <div className="card">
+                  <div className="card-body">
+                    <h3>OLKB Plank & Preonic</h3>
+                    <img
+                      className="img-fluid my-3"
+                      src="/plank-preonic.jpg"
+                      alt="OLKB Planck & Preonic"
+                    />
+                    <p className="mt-3">
+                      OLKB is the producer of the highly popular Planck &
+                      Preonic Ortholinear keyboards. The owner, Jack Humbert, is
+                      also the founder of QMK. These keyboards are sold on the
+                      OLKB website and frequently on Drop.com
+                    </p>
+                    <a href="/olkb" className="btn btn-secondary mt-3">
+                      Learn More
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-4">
+                <div className="card">
+                  <div className="card-body">
+                    <h3>Split Keyboards</h3>
+                    <img
+                      className="img-fluid my-5 py-4"
+                      src="/ergodox.png"
+                      alt="Moonlander Ergodox"
+                    />
+                    <p className="mt-3">
+                      You can usually spot a split keyboard if it has two
+                      seperate PCBs connected by a cable. Split keyboards
+                      literally half the keyboard to better the ergonomics and
+                      encourage better touch typing. The ones mentioned here are
+                      only a few.
+                    </p>
+                    <a href="/split" className="btn btn-secondary mt-3">
+                      Learn More
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-4">
+                <div className="card">
+                  <div className="card-body">
+                    <h3>NIU40 / NIU Mini</h3>
+                    <img
+                      className="img-fluid"
+                      src="/niu40.webp"
+                      alt="NIU 40 NIU Mini"
+                    />
+                    <p>
+                      The NIU 40 / NIU Mini is a 40% keyboard similar to the
+                      Planck ortholinear keyboard. You purchase them a DIY kit
+                      at <a href="https://kbdfans.com/r?id=eft22v">KBDFans</a>.
+                      A bit cheaper than the OLKB offerings, it offers similar
+                      functionality and features.
+                    </p>
+                    <a href="/keyboards" className="btn btn-secondary mt-3">
+                      Learn More
+                    </a>
+                  </div>
+                </div>
+              </div>
             </div>
           </div>
         </div>
