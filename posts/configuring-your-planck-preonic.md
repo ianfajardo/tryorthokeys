@@ -34,6 +34,6 @@ Open up [QMK Toolbox](https://github.com/qmk/qmk_toolbox/releases) and your keyb
 ## Enjoy Your keyboard!
 That's it! You can creat macros, shortcuts and or even change every key on your keyboard if you so desire.  That's the beauty of the QMK firmware.  For a future mod, you could even add a rotary encoder to compatible versions of the board and have a physical dial that you can program.
 
-<div class="my-3"><a href="https://amzn.to/31g098C" class="btn btn-secondary mr-2 mb-2">Buy Planck on Drop</a><a href="https://drop.com/buy/preonic-mechanical-keyboard?utm_source=linkshare&amp;referer=T93XGG" class="btn btn-secondary mr-2 mb-2">Buy Preonic on Drop</a></div>
+<div class="my-3"><a href="https://amzn.to/333pMu0" class="btn btn-secondary mr-2 mb-2">Buy Planck on Drop</a><a href="https://drop.com/buy/preonic-mechanical-keyboard?utm_source=linkshare&amp;referer=T93XGG" class="btn btn-secondary mr-2 mb-2">Buy Preonic on Drop</a></div>
 
 <div class="my-3"><a href="" class="btn btn-primary mr-2 mb-2">Buy Planck on Amazon</a><a href="https://amzn.to/3sfnB1D" class="btn btn-primary mr-2 mb-2">Buy Preonic on Amazon</a></div>

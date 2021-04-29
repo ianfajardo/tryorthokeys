@@ -7,7 +7,7 @@ image: "/planck-preonic-amazon.jpg"
 
 ## Offered by Drop
 
-[Drop](https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG), a company specializing in group buys with a huge mechanical keyboard focus, announced on March 16 that they have started offering many of their products on [Amazon](https://amzn.to/31g098C). This includes the popular ortholinear [OLKB](/olkb) Preonic & Planck Keyboards! Those with Amazon Prime accounts can now take advantage of the 2-day shipping fulfillment for that want to get their keyboards faster than the shipping on [Drop](https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG). It looks like quantities are limited on the Amazon product pages so get yours fast!
+[Drop](https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG), a company specializing in group buys with a huge mechanical keyboard focus, announced on March 16 that they have started offering many of their products on [Amazon](https://amzn.to/333pMu0). This includes the popular ortholinear [OLKB](/olkb) Preonic & Planck Keyboards! Those with Amazon Prime accounts can now take advantage of the 2-day shipping fulfillment for that want to get their keyboards faster than the shipping on [Drop](https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG). It looks like quantities are limited on the Amazon product pages so get yours fast!
 
 <img src="/planck-preonic-amazon.jpg" alt="OLKB Planck & Preonic Keyboards" class="img-fluid my-5">
 
@@ -24,7 +24,7 @@ With the smaller form factor on ortholinear keyboards, your fingers aren't more 
 
 The latest version of the Planck keyboard supports hot swappable switches, LEDs, a small speaker and even rotary encoders. There are several offerings for baseplates: EOTW (easy on the wallet), hi-pro and low-pro. These keyboards usually come in as a kit with some light assembly required.
 
-<a class="btn btn-primary mr-2" href="https://amzn.to/31g098C">
+<a class="btn btn-primary mr-2" href="https://amzn.to/333pMu0">
     Buy on Amazon
 </a>
 
@@ -32,7 +32,7 @@ The latest version of the Planck keyboard supports hot swappable switches, LEDs,
     Buy on Drop
 </a>
 
-<a href="https://www.amazon.com/dp/B08LX7ZXS4?&linkCode=li3&tag=tryorthokeys-20&linkId=7700fe2b52a655246526f71470e044ac&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08LX7ZXS4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokeys-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokeys-20&language=en_US&l=li3&o=1&a=B08LX7ZXS4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/dp/B08LX7ZXS4?&linkCode=li3&tag=tryorthokey06-20&linkId=0b7b9faf09aac73db64f301ec3da89ce&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08LX7ZXS4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08LX7ZXS4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 </div>
 <div class="col-lg-6">
@@ -41,7 +41,7 @@ The latest version of the Planck keyboard supports hot swappable switches, LEDs,
 
 The Preonic keyboard is the Planck's big brother with an extra row of keys for those really missing the number row or want more keys to customize. The newest version of the Preonic is almost identical the Planck in terms of features.
 
-<a class="btn btn-primary mr-2" href="https://www.amazon.com/dp/B08L3WKZ73/ref=emc_b_5_t">
+<a class="btn btn-primary mr-2" href="https://amzn.to/3xzTDbF">
     Buy on Amazon
 </a>
 
@@ -49,7 +49,7 @@ The Preonic keyboard is the Planck's big brother with an extra row of keys for t
     Buy on Drop
 </a>
 
-<a href="https://www.amazon.com/Drop-OLKB-Preonic-Keyboard-Kit/dp/B08L3XY9SJ?dchild=1&keywords=ortholinear&qid=1616621692&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sr=8-1&linkCode=li3&tag=tryorthokeys-20&linkId=dc2af46e3803561ae519b99cc3bb8031&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08L3XY9SJ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokeys-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokeys-20&language=en_US&l=li3&o=1&a=B08L3XY9SJ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://www.amazon.com/dp/B08L3WKZ73?&linkCode=li3&tag=tryorthokey06-20&linkId=6af0b7506a61073b0723facda319622d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08L3WKZ73&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08L3WKZ73" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 </div>
 </div>

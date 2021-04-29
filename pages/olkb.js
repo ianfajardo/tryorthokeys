@@ -42,7 +42,16 @@ export default function Olkb() {
                 >
                   Buy on Drop
                 </a>
-                <a href="https://olkb.com/" className="mt-3 btn btn-outline-primary">
+                <a
+                  class="btn btn-primary mt-3 mr-3"
+                  href="https://amzn.to/333pMu0"
+                >
+                  Buy on Amazon
+                </a>
+                <a
+                  href="https://olkb.com/"
+                  className="mt-3 btn btn-outline-primary"
+                >
                   Visit Website
                 </a>
               </div>
@@ -78,6 +87,12 @@ export default function Olkb() {
                     className="btn btn-secondary mr-2 mb-2"
                   >
                     Buy on Drop
+                  </a>
+                  <a
+                    class="btn btn-secondary mr-2 mb-2"
+                    href="https://amzn.to/333pMu0"
+                  >
+                    Buy on Amazon
                   </a>
                   <a
                     href="https://qmk.fm/keyboards/planck/"
@@ -130,6 +145,12 @@ export default function Olkb() {
                     className="btn btn-secondary mr-2 mb-2"
                   >
                     Buy on Drop
+                  </a>
+                  <a
+                    class="btn btn-secondary mr-2 mb-2"
+                    href="https://amzn.to/3xzTDbF"
+                  >
+                    Buy on Amazon
                   </a>
                   <a
                     href="https://github.com/qmk/qmk_firmware/tree/master/keyboards/preonic"
