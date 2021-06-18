@@ -114,7 +114,7 @@ export default function Home({ allPostsData }) {
                             <img
                               className="img-fluid mb-3"
                               src={image}
-                              alt="title"
+                              alt={title}
                             />
                           </a>
                         </Link>
