@@ -232,7 +232,7 @@ export default function Home({ allPostsData }) {
               </div>
             </div>
             <div className="row text-dark">
-              <div className="col-lg-4">
+              <div className="col-lg-3">
                 <div className="card">
                   <div className="card-body">
                     <h3>OLKB Plank & Preonic</h3>
@@ -253,7 +253,30 @@ export default function Home({ allPostsData }) {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-4">
+              <div className="col-lg-3">
+                <div className="card">
+                  <div className="card-body">
+                    <h3>Idobo ID75</h3>
+                    <img
+                      className="img-fluid my-3"
+                      src="/id75.jpg"
+                      alt="Idobo ID75"
+                    />
+                    <p className="mt-3">
+                      The Idobo ID75 is a 75 key keyboard, larger than most
+                      standard ortholinear keyboards. A common layout has the
+                      alphas split on the sides with extra function keys in the
+                      middle. This is a great alternative if you want extra
+                      programmable keys opposed to the 48 keys on the OLKB
+                      Planck and 60 keys on the OLKB Preonic.
+                    </p>
+                    <a href="/id75" className="btn btn-secondary mt-3">
+                      Learn More
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-3">
                 <div className="card">
                   <div className="card-body">
                     <h3>Split Keyboards</h3>
@@ -275,7 +298,7 @@ export default function Home({ allPostsData }) {
                   </div>
                 </div>
               </div>
-              <div className="col-lg-4">
+              <div className="col-lg-3">
                 <div className="card">
                   <div className="card-body">
                     <h3>NIU40 / NIU Mini</h3>
