@@ -2,14 +2,14 @@
 title: "Best Budget Keycaps for Your Ortho Keyboard"
 description: "Here are our recommendations for the best budget starter keycaps for your Planck or Preonic keyboard."
 date: "2021-04-14"
-image: "/planck-top-view.jpg"
+image: "/best-budget-keycaps-ortho-keyboard.png"
 ---
 
 ## Shiny new keycaps
 
 Out of the ways to customize your keyboard, changing out your keycaps is probably the best way to show your personality. When I first brought my keyboard to the office, I had a lot of looks and questions on the blank DSA keycaps I put on my first Planck keyboard. I have since updated my keycaps a couple times and honestly it's pretty fun to change up the look every so often. There are plethora of different types of keycaps with different typing profiles, legends and sizes. Luckily, for ortholinear keycaps - it's mostly pretty simple. There are many that offer kits specifically for ortho keyboards and below our some of our recommendations for some budget start keycaps!
 
-<img class="img-fluid" src="/planck-top-view.jpg">
+<img class="img-fluid" src="/best-budget-keycaps-ortho-keyboard.png" alt="best budget keycaps for your ortho keyboard">
 <div class="mb-3"><small>MiTO Rams Keycaps on my Planck EOTW Keyboard</small></div>
 
 ### YMDK Carbon
