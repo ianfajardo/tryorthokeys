@@ -2,13 +2,19 @@
 
 @import "elevation";
 @import "variables";
-@import "~bootstrap/scss/bootstrap.scss";
+@import "~bootstrap/scss/bootstrap";
 
 a {
   font-weight: 600;
   &:hover {
     text-decoration: none;
   }
+}
+
+.nav-social {
+  display: block;
+  width: 45px;
+  padding: 10px 10px;
 }
 
 .jumbo-container {
@@ -74,6 +80,10 @@ a {
   left: 0;
   width: 100%;
   height: 100%;
+}
+
+.navbar-toggler-icon {
+  background-image: url("./../public/navicon.svg");
 }
 
 // Medium devices (tablets, less than 992px)

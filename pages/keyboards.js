@@ -6,9 +6,15 @@ export default function Keyboards() {
   return (
     <div>
       <Head>
-        <title>Try Ortho Keys | Ortholinear Keyboards Ortho Keyboards OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard</title>
+        <title>
+          Try Ortho Keys | Ortholinear Keyboards Ortho Keyboards OLKB Planck
+          Preonic Ergodox NIU40 Split Ortholinear Keyboard
+        </title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="title" content="Try Ortho Keys | Ortholinear Keyboards Ortho Keyboards OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard"/>
+        <meta
+          name="title"
+          content="Try Ortho Keys | Ortholinear Keyboards Ortho Keyboards OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard"
+        />
         <meta
           name="description"
           content="There are several different companies that offer ortholinear keyboards.  OLKB, KBDFans and more sell keyboard such as the Preonic, Planck, NUI40 and Split."
@@ -30,7 +36,10 @@ export default function Keyboards() {
                   freaking cool
                 </h2>
                 <p style={{ fontSize: "20px" }}>
-                  There are a plethora of keyboards to choose from and below are our recommendations on getting started.  It can be a fun DIY project to assemble your own ortho keyboard, add your own switches, and program your own keymappings.
+                  There are a plethora of keyboards to choose from and below are
+                  our recommendations on getting started. It can be a fun DIY
+                  project to assemble your own ortho keyboard, add your own
+                  switches, and program your own keymappings.
                 </p>
               </div>
             </div>
@@ -68,9 +77,43 @@ export default function Keyboards() {
                 <div className="col-lg-7">
                   <img
                     src="/plank-preonic.jpg"
-                    alt="Plance & Preonic Keyboards"
+                    alt="Planck & Preonic Keyboards Ortholinear"
                     className="img-fluid"
                   />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div id="ergodox" className="section-container ">
+        <div className="container">
+          <div className="card ele-2">
+            <div className="px-5 py-5 py-lg-5">
+              <div className="row align-items-center">
+                <div className="col-lg-5">
+                  <h2 className="font-weight-bold text-primary">Idobo ID75</h2>
+                  <p style={{ fontSize: "20px" }}>
+                    The ID75 is a 75 key keyboard, larger than most standard
+                    ortholinear keyboards. A common layout has the alphas split
+                    on the sides with extra function keys in the middle. This is
+                    a great alternative if you want extra programmable keys
+                    opposed to the 48 keys on the OLKB Planck and 60 keys on the
+                    OLKB Preonic.
+                  </p>
+                  <a href="/id75" className="btn btn-primary mr-2">
+                    Learn More
+                  </a>
+                </div>
+                <div className="col-lg-7">
+                  <div className="usa-embed-container">
+                    <img
+                      src="/id75.jpg"
+                      alt="ID75 Keyboard Ortho Orthlinear"
+                      className="img-fluid"
+                    />
+                  </div>
                 </div>
               </div>
             </div>
@@ -88,9 +131,10 @@ export default function Keyboards() {
                   <p style={{ fontSize: "20px" }}>
                     You can usually spot a split keyboard if it has two seperate
                     PCBs connected by a cable. Split keyboards literally half
-                    the keyboard better ergonomics and touch typing.
+                    the keyboard better ergonomics and touch typing. The Ergodox
+                    keyboard is an example of a popular split keyboard.
                   </p>
-                  <a href="/letssplit" className="btn btn-primary mr-2">
+                  <a href="/split" className="btn btn-primary mr-2">
                     Split Keyboards
                   </a>
                 </div>

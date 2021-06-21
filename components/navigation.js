@@ -1,14 +1,21 @@
 import Navbar from "react-bootstrap/Navbar";
 import Nav from "react-bootstrap/Nav";
 import Form from "react-bootstrap/Form";
-import Button from 'react-bootstrap/Button';
+import Button from "react-bootstrap/Button";
 import NavDropdown from "react-bootstrap/NavDropdown";
 import Container from "react-bootstrap/Container";
+
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { library } from "@fortawesome/fontawesome-svg-core";
+import { fab } from "@fortawesome/free-brands-svg-icons";
+import { faTwitter, faInstagram } from "@fortawesome/free-brands-svg-icons";
+
+library.add(fab, faTwitter, faInstagram);
 
 export default function Navigation() {
   return (
     <div>
-      <Navbar collapseOnSelect expand="lg" bg="white" variant="white">
+      <Navbar expand="lg" bg="white" variant="white">
         <Container>
           <Navbar.Brand className="text-primary font-weight-bolder" href="/">
             Try Ortho Keys!
@@ -25,12 +32,37 @@ export default function Navigation() {
                   Configuring your Keyboard
                 </NavDropdown.Item>
               </NavDropdown>
+              <Nav.Link href="/id75">ID75</Nav.Link>
               <Nav.Link href="/split">Split</Nav.Link>
               <Nav.Link href="/niu40">NIU40</Nav.Link>
             </Nav>
             <Form inline>
-              <Button href="/posts" className="ml-2" variant="primary">Blog</Button>
+              <Button href="/posts" className="ml-2" variant="primary">
+                Blog
+              </Button>
             </Form>
+            <a
+              className="nav-social"
+              href="https://www.twitter.com/tryorthokeys"
+            >
+              <FontAwesomeIcon
+                className="icon-size"
+                icon={["fab", "twitter"]}
+                size="lg"
+                className="icon-size ml-auto"
+              />
+            </a>
+            <a
+              className="nav-social"
+              href="https://www.instagram.com/try_ortho_keys"
+            >
+              <FontAwesomeIcon
+                className="icon-size"
+                icon={["fab", "instagram"]}
+                size="lg"
+                className="icon-size ml-auto"
+              />
+            </a>
           </Navbar.Collapse>
         </Container>
       </Navbar>
