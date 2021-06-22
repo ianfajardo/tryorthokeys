@@ -9,9 +9,6 @@ image: "/amazon-prime-day-deals-ortholinear-keyboard.png"
 
 Amazon Prime Day is upon us and many of us have been waiting to scoop up some new things to buy. There are a bunch of mechanical keyboard accessories that are on sale that we found. From what we have seen, the keyboards themselves aren't on sale. However, keyboard accessories from lube stations, switch openers and more are heavily discounted!  Check back here for more deals as they filter in.
 
-- 30 Switch Lube Station Kit
-- GTSP Metal Switch Opener Kit
-
 <img class="img-fluid mb-5" src="/prime-day-deals-banner.png" alt="Prime Day Deals Ortholinear Keyboard">
 
 ### 30 Switch Lube Station Kit

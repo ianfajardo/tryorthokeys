@@ -2,7 +2,7 @@
 title: "Configuring your Planck or Preonic with QMK Firmware"
 description: "For a beginner, the easiest way to change your keymappings for your Planck or Preonic is through the QMK configurator and QMK Toolbox. You can use the interface in the configurator to easily adjust the keymappings on either keyboard. In addition, the toolbox will allow you to flash your config to your keyboard or restore the original keymappings if needed."
 date: "2021-03-24"
-image: "/qmk-configurator.png"
+image: "/configure-planck-preonic.png"
 ---
 
 ## QMK Configurator & Toolbox

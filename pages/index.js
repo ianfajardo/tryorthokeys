@@ -6,7 +6,7 @@ import { getSortedPostsData } from "../lib/posts";
 import Link from "next/link";
 import Date from "../components/date";
 
-const recentPostscount = 4;
+const recentPostscount = 6;
 
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData(recentPostscount);
@@ -103,42 +103,49 @@ export default function Home({ allPostsData }) {
             <h3 className="mb-5">
               Ortholinear keyboard guides, news and more.
             </h3>
-            <div className="row mb-5">
-              {allPostsData.map(({ slug, date, title, description, image }) => (
-                <div className="col-lg-6" key={slug}>
-                  <div className="mb-5">
-                    <div className="row">
-                      <div className="col-lg-5">
-                        <Link href={`/posts/${slug}`}>
-                          <a className="lead">
-                            <img
-                              className="img-fluid mb-3"
-                              src={image}
-                              alt={title}
-                            />
-                          </a>
-                        </Link>
+          </div>
+        </div>
+
+        <div className="container-xxl">
+          <div className="row mb-5">
+            {allPostsData.map(({ slug, date, title, description, image }) => (
+              <div className="col-lg-4" key={slug}>
+                <div className="mb-5">
+                  <div className="card">
+                    <div className="card-img-top">
+                      <Link href={`/posts/${slug}`}>
+                        <a className="lead">
+                          <img
+                            className="img-fluid mb-3"
+                            src={image}
+                            alt={title}
+                          />
+                        </a>
+                      </Link>
+                    </div>
+                    <div className="card-body">
+                      <div className="text-muted ">
+                        <small>
+                          <Date dateString={date} />
+                        </small>
                       </div>
-                      <div className="col-lg-7">
-                        <div className="text-muted ">
-                          <small>
-                            <Date dateString={date} />
-                          </small>
-                        </div>
-                        <Link href={`/posts/${slug}`}>
-                          <a className="lead">{title}</a>
-                        </Link>
-                      </div>
+                      <Link href={`/posts/${slug}`}>
+                        <a className="lead">{title}</a>
+                      </Link>
                     </div>
                   </div>
                 </div>
-              ))}
-            </div>
+              </div>
+            ))}
           </div>
-          <div className="col-lg-12">
-            <a href="/posts" className="btn btn-primary">
-              View All
-            </a>
+        </div>
+        <div className="container-xxl">
+          <div className="row">
+            <div className="col-lg-12 text-center">
+              <a href="/posts" className="btn btn-primary btn-lg">
+                View All
+              </a>
+            </div>
           </div>
         </div>
       </div>
