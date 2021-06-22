@@ -5,7 +5,7 @@ import Link from "next/link";
 import Date from "../components/date";
 import { getSortedPostsData } from "../lib/posts";
 
-const recentPostscount = 4;
+const recentPostscount = 6;
 
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData(recentPostscount);
@@ -40,17 +40,32 @@ export default function Links({ allPostsData }) {
         <div className="row">
           {allPostsData.map(({ slug, date, title, description, image }) => (
             <div className="col-lg-12" key={slug}>
-              <div className="mb-2">
-                <div className="text-muted ">
-                  <small>
-                    <Date dateString={date} />
-                  </small>
+            <div className="mb-5">
+              <div className="card">
+                <div className="card-img-top">
+                  <Link href={`/posts/${slug}`}>
+                    <a className="lead">
+                      <img
+                        className="img-fluid mb-3"
+                        src={image}
+                        alt={title}
+                      />
+                    </a>
+                  </Link>
                 </div>
-                <Link href={`/posts/${slug}`}>
-                  <a className="">{title}</a>
-                </Link>
+                <div className="card-body">
+                  <div className="text-muted ">
+                    <small>
+                      <Date dateString={date} />
+                    </small>
+                  </div>
+                  <Link href={`/posts/${slug}`}>
+                    <a className="lead">{title}</a>
+                  </Link>
+                </div>
               </div>
             </div>
+          </div>
           ))}
         </div>
       </div>{" "}
