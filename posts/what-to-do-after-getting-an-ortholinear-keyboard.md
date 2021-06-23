@@ -2,7 +2,7 @@
 title: "What to do after getting your first Ortholinear Keyboard"
 description: "There are a bunch of different mods and accessories for your new ortholinear keyboard. Here are a couple must haves and recommended items to pick up first."
 date: "2021-03-25"
-image: "/planck-keyrest-zealios.jpg"
+image: "/first-ortholinear-board.png"
 ---
 
 Congratulations! You just purchased your first ortholinear keyboard and you're looking for the next the steps in your keyboard journey. A lot of these recommendations also translate to mechanical keyboards and can be resued in any other builds. Be warned, once you start getting into this hobby, it's hard to get out!
