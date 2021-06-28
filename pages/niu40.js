@@ -7,10 +7,14 @@ export default function Niu() {
     <div>
       <Head>
         <title>
-          NIU40 NIU Mini - The NIU40 is a programmable 40% ortholinear keyboard from KBDFans
+          NIU40 NIU Mini - The NIU40 is a programmable 40% ortholinear keyboard
+          from KBDFans
         </title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="title" content="NIU40 NIU Mini - The NIU40 is a programmable 40% ortholinear keyboard from KBDFans"/>
+        <meta
+          name="title"
+          content="NIU40 NIU Mini - The NIU40 is a programmable 40% ortholinear keyboard from KBDFans"
+        />
         <meta
           name="description"
           content="The NIU40 is a programmable 40% ortholinear keyboard from KBDFans. There
@@ -32,10 +36,9 @@ export default function Niu() {
                 <p style={{ fontSize: "20px" }}>
                   The NIU 40 / NIU Mini is a 40% keyboard similar to the Planck
                   ortholinear keyboard. You purchase them a DIY kit at{" "}
-                  <a href="https://kbdfans.com/r?id=eft22v">
-                    KBDFans
-                  </a>
-                  .{" "}  A bit cheaper than the OLKB offerings, it offers similar functionality and features.
+                  <a href="https://kbdfans.com/r?id=eft22v">KBDFans</a>. A bit
+                  cheaper than the OLKB offerings, it offers similar
+                  functionality and features.
                 </p>
                 <a
                   href="https://kbdfans.com/r?id=eft22v"
@@ -56,12 +59,14 @@ export default function Niu() {
           <div className="card ele-2">
             <div className="px-5 py-5 py-lg-5">
               <div className="row align-items-center">
-                <div className="col-lg-5">
+                <div className="col-lg-8">
                   <h2 className="font-weight-bold text-primary">NIU40</h2>
                   <p style={{ fontSize: "20px" }}>
-                    The NIU40 is a programmable 40% ortholinear keyboard from KBDFans. There
-                    are options for different colored aluminium or acrylic
-                    bases. Features include Underglow RGB PCBs, QMK support, and precision CNC production. There are not any hot swappable versions available at the moment.
+                    The NIU40 is a programmable 40% ortholinear keyboard from
+                    KBDFans. There are options for different colored aluminium
+                    or acrylic bases. Features include Underglow RGB PCBs, QMK
+                    support, and precision CNC production. There are not any hot
+                    swappable versions available at the moment.
                   </p>
                   <a
                     href="https://kbdfans.com/r?id=eft22v"
@@ -76,12 +81,67 @@ export default function Niu() {
                     QMK Firmware
                   </a>
                 </div>
-                <div className="col-lg-7">
+                <div className="col-lg-4">
                   <img
                     className="img-fluid"
                     src="/niu40.webp"
                     alt="Planck Keyboard"
                   />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div className="section-container">
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-6">
+              <div className="card">
+                <div className="card-img-top">
+                  <a href="/posts/what-to-do-after-getting-an-ortholinear-keyboard">
+                    <img
+                      src="/first-ortholinear-board.png"
+                      alt="What to do after getting an Ortholinear Keyboard"
+                      className="img-fluid"
+                    />
+                  </a>
+                </div>
+                <div className="card-body">
+                  <div className="text-muted">
+                    <small>March 25, 2021</small>
+                  </div>
+                  <a
+                    class="lead"
+                    href="/posts/what-to-do-after-getting-an-ortholinear-keyboard"
+                  >
+                    What to do after getting your first Ortholinear Keyboard
+                  </a>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg-6">
+              <div className="card">
+                <div className="card-img-top">
+                  <a href="/posts/budget-keycaps-for-your-ortho-keyboard">
+                    <img
+                      src="/best-budget-keycaps-ortho-keyboard.png"
+                      alt="Best Budget Keycaps Ortho Keyboard"
+                      className="img-fluid"
+                    />
+                  </a>
+                </div>
+                <div className="card-body">
+                  <div className="text-muted">
+                    <small>April 14, 2021</small>
+                  </div>
+                  <a
+                    class="lead"
+                    href="/posts/budget-keycaps-for-your-ortho-keyboard"
+                  >
+                    Best Budget Keycaps for Your Ortho Keyboard
+                  </a>
                 </div>
               </div>
             </div>
