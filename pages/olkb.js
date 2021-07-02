@@ -43,7 +43,7 @@ export default function Olkb() {
                   Buy on Drop
                 </a>
                 <a
-                  class="btn btn-primary mt-3 mr-3"
+                  className="btn btn-primary mt-3 mr-3"
                   href="https://amzn.to/333pMu0"
                 >
                   Buy on Amazon
@@ -89,7 +89,7 @@ export default function Olkb() {
                     Buy on Drop
                   </a>
                   <a
-                    class="btn btn-secondary mr-2 mb-2"
+                    className="btn btn-secondary mr-2 mb-2"
                     href="https://amzn.to/333pMu0"
                   >
                     Buy on Amazon
@@ -147,7 +147,7 @@ export default function Olkb() {
                     Buy on Drop
                   </a>
                   <a
-                    class="btn btn-secondary mr-2 mb-2"
+                    className="btn btn-secondary mr-2 mb-2"
                     href="https://amzn.to/3xzTDbF"
                   >
                     Buy on Amazon

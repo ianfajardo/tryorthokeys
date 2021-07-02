@@ -27,7 +27,9 @@ export default function Configuring() {
                   Configuring your Planck or Preonic
                 </h1>
                 <p style={{ fontSize: "20px" }}>
-                  The QMK firmware makes it a lot easier to flash your keyboard than ever before.  Follow the steps below to change your keymappings on your Planck or Preonic!
+                  The QMK firmware makes it a lot easier to flash your keyboard
+                  than ever before. Follow the steps below to change your
+                  keymappings on your Planck or Preonic!
                 </p>
 
                 <a
@@ -35,6 +37,12 @@ export default function Configuring() {
                   className="mt-3 mr-3 btn btn-primary"
                 >
                   Buy on Drop
+                </a>
+                <a
+                  className="mt-3 mr-3 btn btn-primary"
+                  href="https://amzn.to/333pMu0"
+                >
+                  Buy on Amazon
                 </a>
                 <a
                   href="https://olkb.com/"
@@ -59,9 +67,12 @@ export default function Configuring() {
                   </h2>
                   <p style={{ fontSize: "20px" }}>
                     For a beginner, the easiest way to change your keymappings
-                    for your Planck or Preonic is through the QMK configurator and QMK Toolbox.
-                    You can use the interface in the configurator to easily
-                    adjust the keymappings on either keyboard. In addition, the toolbox will allow you to flash your config to your keyboard or restore the original keymappings if needed.
+                    for your Planck or Preonic is through the QMK configurator
+                    and QMK Toolbox. You can use the interface in the
+                    configurator to easily adjust the keymappings on either
+                    keyboard. In addition, the toolbox will allow you to flash
+                    your config to your keyboard or restore the original
+                    keymappings if needed.
                   </p>
 
                   <h3>1. Create your Keymap File</h3>
@@ -132,7 +143,7 @@ export default function Configuring() {
                     plug it back in, and enjoy your new keymapping!
                   </p>
 
-                  <div className="mt-3">
+                  <div className="mt-5">
                     <a
                       href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
                       className="btn btn-secondary mr-2 mb-2"
@@ -141,10 +152,26 @@ export default function Configuring() {
                     </a>
 
                     <a
+                      className="btn btn-secondary mr-2 mb-2"
+                      href="https://amzn.to/333pMu0"
+                    >
+                      Buy Planck on Amazon
+                    </a>
+
+                    <br/><br/>
+
+                    <a
                       href="https://drop.com/buy/preonic-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
                       className="btn btn-secondary mr-2 mb-2"
                     >
                       Buy Preonic on Drop
+                    </a>
+
+                    <a
+                      className="btn btn-secondary mr-2 mb-2"
+                      href="https://amzn.to/3xzTDbF"
+                    >
+                      Buy Preonic on Amazon
                     </a>
                   </div>
                 </div>
@@ -180,6 +207,14 @@ export default function Configuring() {
                   >
                     Buy on Drop
                   </a>
+
+                  <a
+                    className="btn btn-secondary mr-2 mb-2"
+                    href="https://amzn.to/333pMu0"
+                  >
+                    Buy on Amazon
+                  </a>
+
                   <a
                     href="https://qmk.fm/keyboards/planck/"
                     className="btn btn-link mb-2"
@@ -231,6 +266,12 @@ export default function Configuring() {
                     className="btn btn-secondary mr-2 mb-2"
                   >
                     Buy on Drop
+                  </a>
+                  <a
+                    className="btn btn-secondary mr-2 mb-2"
+                    href="https://amzn.to/3xzTDbF"
+                  >
+                    Buy on Amazon
                   </a>
                   <a
                     href="https://github.com/qmk/qmk_firmware/tree/master/keyboards/preonic"
