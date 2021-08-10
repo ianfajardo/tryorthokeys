@@ -95,6 +95,18 @@ a {
   margin-left: auto;
 }
 
+.medium-img {
+  max-width: 600px;
+}
+
+.small-img {
+  max-width: 300px;
+}
+
+.smaller-img {
+  max-width: 150px;
+}
+
 // Extra small devices (portrait phones, less than 576px)
 @media (max-width: 575.98px) {
 }
