@@ -16,7 +16,7 @@ export default function Navigation() {
   return (
     <div>
       <Navbar expand="lg" bg="white" variant="white">
-        <Container>
+        <Container fluid>
           <Navbar.Brand className="text-primary font-weight-bolder" href="/">
             Try Ortho Keys!
           </Navbar.Brand>
@@ -24,6 +24,7 @@ export default function Navigation() {
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ml-auto">
               <Nav.Link href="/keyboards">Ortholinear Keyboards</Nav.Link>
+              <Nav.Link href="/keycaps">Keycaps</Nav.Link>
               <NavDropdown title="OLKB Planck & Preonic" id="olkb-nav-dropdown">
                 <NavDropdown.Item href="/olkb">
                   About the Keyboards
