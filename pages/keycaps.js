@@ -23,6 +23,7 @@ export default function Keycaps() {
         />
         <meta property="og:image" content="/ortho-keycaps.png" />
         <meta name="twitter:image" content="/ortho-keycaps.png" />
+        <meta property="og:type" content="website"/ >
       </Head>
 
       <Navigation />
