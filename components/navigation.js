@@ -36,6 +36,7 @@ export default function Navigation() {
               <Nav.Link href="/id75">ID75</Nav.Link>
               <Nav.Link href="/split">Split</Nav.Link>
               <Nav.Link href="/niu40">NIU40</Nav.Link>
+              <Nav.Link href="/jj40">JJ40</Nav.Link>
             </Nav>
             <Form inline>
               <Button href="/posts" className="ml-2" variant="primary">

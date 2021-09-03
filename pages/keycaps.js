@@ -21,7 +21,10 @@ export default function Keycaps() {
           name="description"
           content="Here is a list of ortholinear keycaps availble for your ortho keyboard such as the OLKB Planck or Preonic. Ortho Keycaps can be an option along with the standard layouts for more common mechanical keyboards."
         />
-        <meta property="og:image" content="https://www.tryorthokeys.com/ortho-keycaps.png" />
+        <meta
+          property="og:image"
+          content="https://www.tryorthokeys.com/ortho-keycaps.png"
+        />
         <meta
           property="og:title"
           content="Ortholinear Keycap Set List | OLKB Planck Preonic NIU40 NIUmini ortho keyboard ortho keycaps budget keycaps Drop KBDfans Amazon keycaps mechanical keyboard"
@@ -30,7 +33,7 @@ export default function Keycaps() {
           property="og:description"
           content="Here is a list of ortholinear keycaps availble for your ortho keyboard such as the OLKB Planck or Preonic. Ortho Keycaps can be an option along with the standard layouts for more common mechanical keyboards."
         />
-        <meta property="og:type" content="website"/ >
+        <meta property="og:type" content="website" />
         <meta property="twitter:card" content="summary_large_image" />
         <meta
           property="twitter:url"
@@ -44,7 +47,10 @@ export default function Keycaps() {
           property="twitter:description"
           content="Here is a list of ortholinear keycaps availble for your ortho keyboard such as the OLKB Planck or Preonic. Ortho Keycaps can be an option along with the standard layouts for more common mechanical keyboards."
         />
-        <meta property="twitter:image" content="https://www.tryorthokeys.com/ortho-keycaps.png" />
+        <meta
+          property="twitter:image"
+          content="https://www.tryorthokeys.com/ortho-keycaps.png"
+        />
       </Head>
 
       <Navigation />
@@ -103,6 +109,11 @@ export default function Keycaps() {
             <Nav.Item as="li">
               <Nav.Link className="text-white" href="#amazon">
                 Amazon
+              </Nav.Link>
+            </Nav.Item>
+            <Nav.Item as="li">
+              <Nav.Link className="text-white" href="#other">
+                Other
               </Nav.Link>
             </Nav.Item>
           </Nav>
@@ -883,6 +894,89 @@ export default function Keycaps() {
                               </td>
                               <td>
                                 <a href="https://amzn.to/3yFMqWP">Amazon</a>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </Table>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="other" className="section-container ">
+              <div className="">
+                <div className="card ele-2">
+                  <div className="px-5 py-5">
+                    <div className="row align-items-center">
+                      <div className="col-lg-12">
+                        <h2 className="font-weight-bold text-primary">Other</h2>
+                        <p>
+                          Here you will find a collection of sites that provide
+                          some options for ortholinear keyboards like modifiers,
+                          1u blanks and more.
+                        </p>
+
+                        <Table
+                          responsive
+                          striped
+                          bordered
+                          hover
+                          className="mt-3"
+                        >
+                          <thead>
+                            <tr>
+                              <th>Name</th>
+                              <th>Profile</th>
+                              <th>Image</th>
+                              <th>Link</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td>GMK N9 Ortholinear Add-on Kit</td>
+                              <td>Cherry</td>
+                              <td>
+                                <a href="https://keeb.io/products/gmk-n9-ortholinear-add-on-kit">
+                                  <img
+                                    style={{ maxWidth: "160px" }}
+                                    src="https://cdn.shopify.com/s/files/1/1851/5125/products/NJ3Hssh_1024x1024@2x.png?v=1591984903"
+                                    alt="GMK N9 Ortholinear Add-On Kit"
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://keeb.io/products/gmk-n9-ortholinear-add-on-kit">
+                                  View Now
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>KPRepublic</td>
+                              <td>
+                                Most DSA Kits offer 1u key options,
+                                <br />
+                                Might need to add blanks to fill in modifiers
+                              </td>
+                              <td>
+                                <a href="https://kprepublic.com/products/dsa-pbt-blank-light-grey-grey-keycaps-60-gh60-poker2-xd64-87-104-xd75-xd96-xd84-cosair-k70-razer-blackwidow-planck-jj40-jj50?_pos=8&_sid=cd25eba9b&_ss=r&variant=7310696939564">
+                                  <img
+                                    style={{ maxWidth: "160px;" }}
+                                    src="https://cdn.shopify.com/s/files/1/2711/4238/products/TIM_20180228031111.jpg?v=1569170154"
+                                    alt=""
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://kprepublic.com/products/dsa-pbt-blank-light-grey-grey-keycaps-60-gh60-poker2-xd64-87-104-xd75-xd96-xd84-cosair-k70-razer-blackwidow-planck-jj40-jj50?_pos=8&_sid=cd25eba9b&_ss=r&variant=7310696939564">
+                                  View Now
+                                </a>
+                                <br />
+                                <br />
+                                <a href="https://a.marsello.com/l/613284530880c012c0798cf0">
+                                  $2 Off Referral Link
+                                </a>
                               </td>
                             </tr>
                           </tbody>
