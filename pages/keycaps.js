@@ -63,7 +63,7 @@ export default function Keycaps() {
                 </h2>
                 <p style={{ fontSize: "20px" }}>
                   Below is a list of available keycap sets for otholinear
-                  keyboards or have a ortholinear keycap option. This list will
+                  keyboards or have an ortholinear keycap option. This list will
                   be updated as often as possible. <br />
                   <br />
                   For any recommendations to this list, please send us a tweet
