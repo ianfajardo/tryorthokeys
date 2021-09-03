@@ -22,7 +22,7 @@ export default function Keycaps() {
           content="Here is a list of ortholinear keycaps availble for your ortho keyboard such as the OLKB Planck or Preonic. Ortho Keycaps can be an option along with the standard layouts for more common mechanical keyboards."
         />
         <meta property="og:image" content="https://www.tryorthokeys.com//ortho-keycaps.png" />
-        <meta name="twitter:image" content="https://www.tryorthokeys.com//ortho-keycaps.png" />
+        <meta property="twitter:image" content="https://www.tryorthokeys.com//ortho-keycaps.png" />
         <meta property="og:type" content="website"/ >
         <meta property="twitter:card" content="summary_large_image" />
         <meta
