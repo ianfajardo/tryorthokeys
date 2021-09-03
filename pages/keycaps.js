@@ -147,7 +147,7 @@ export default function Keycaps() {
                           Amazon and group buys on their websites.
                         </p>
                         <a
-                          href="https://www.amazon.com/stores/page/7E6B67C0-CFDA-4552-A642-BBF1186FF973?ingress=0&visitId=5407d16d-ac2a-4145-9f44-7cb9d2cfc9c5"
+                          href="https://amzn.to/3kOm0gT"
                           className="btn btn-primary mr-2 mb-2"
                         >
                           Drop on Amazon
