@@ -15,7 +15,7 @@ export default function Keycaps() {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="title"
-          content="Ortholinear Keycap Set List | OLKB Planck Preonic NIU40 NIUmini ortho keyboard ortho keycaps budget keycaps Drop KBDfans Amazon keycaps"
+          content="Ortholinear Keycap Set List | OLKB Planck Preonic NIU40 NIUmini ortho keyboard ortho keycaps budget keycaps Drop KBDfans Amazon keycaps mechanical keyboard"
         />
         <meta
           name="description"
@@ -24,6 +24,19 @@ export default function Keycaps() {
         <meta property="og:image" content="/ortho-keycaps.png" />
         <meta name="twitter:image" content="/ortho-keycaps.png" />
         <meta property="og:type" content="website"/ >
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta
+          property="twitter:url"
+          content="https://www.tryorthokeys.com/keycaps/"
+        />
+        <meta
+          property="twitter:title"
+          content="Ortholinear Keycap Set List | OLKB Planck Preonic NIU40 NIUmini ortho keyboard ortho keycaps budget keycaps Drop KBDfans Amazon keycaps mechanical keyboard"
+        />
+        <meta
+          property="twitter:description"
+          content="Here is a list of ortholinear keycaps availble for your ortho keyboard such as the OLKB Planck or Preonic. Ortho Keycaps can be an option along with the standard layouts for more common mechanical keyboards."
+        />
       </Head>
 
       <Navigation />
