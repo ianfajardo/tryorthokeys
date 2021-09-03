@@ -69,6 +69,11 @@ export default function Keycaps() {
               </Nav.Link>
             </Nav.Item>
             <Nav.Item as="li">
+              <Nav.Link className="text-white" href="#pimpmykeyboard">
+                Pimp My Keyboard
+              </Nav.Link>
+            </Nav.Item>
+            <Nav.Item as="li">
               <Nav.Link className="text-white" href="#kbdfans">
                 KBDfans
               </Nav.Link>
@@ -423,6 +428,156 @@ export default function Keycaps() {
                               </td>
                               <td>
                                 <a href="https://amzn.to/3kLJL9m">Amazon</a>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </Table>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="pimpmykeyboard" className="section-container ">
+              <div>
+                <div className="card ele-2">
+                  <div className="px-5 py-5">
+                    <div className="row align-items-center">
+                      <div className="col-lg-12">
+                        <h2 className="font-weight-bold text-primary">
+                          <a href="http://pimpmykeyboard.com?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate">
+                            Pimp My Keyboard
+                          </a>{" "}
+                          Keycaps
+                        </h2>
+                        <p>
+                          Pimp My Keyboard has a lot of options to choose from,
+                          though on some you might need to buy alphas and the
+                          ortho modifiers seperately. The sets in the table
+                          below are just a handful of the sets they offer.
+                        </p>
+                        <p>
+                          Click the website button here to view a full list of
+                          sets that offer an ortho option on Pimp My Keyboard:
+                        </p>
+                        <a
+                          href="https://pimpmykeyboard.com/all-products/keycaps/?search_query=&page=1&limit=75&sort=bestselling&Board=Ortho&category=33&is_category_page=1&afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate"
+                          className="btn btn-secondary mb-2"
+                        >
+                          Pimp My Keyboard Website
+                        </a>
+
+                        <Table
+                          responsive
+                          striped
+                          bordered
+                          hover
+                          className="mt-3"
+                        >
+                          <thead>
+                            <tr>
+                              <th>Name</th>
+                              <th>Profile</th>
+                              <th>Image</th>
+                              <th>Link</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td>SA-P Snow Cap Keyset</td>
+                              <td>SA</td>
+                              <td>
+                                <a href="https://pimpmykeyboard.com/sa-p-snow-cap-keyset-original/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate">
+                                  <img
+                                    style={{ maxWidth: "160px" }}
+                                    src="https://cdn10.bigcommerce.com/s-ktpi93fl/products/267/images/2091/Snowcap_Hero_Image__18586.1572026288.1280.1280.png?c=2"
+                                    alt=""
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://pimpmykeyboard.com/sa-p-snow-cap-keyset-original/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate">
+                                  View Now
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>SA Ice Cap Keyset</td>
+                              <td>SA</td>
+                              <td>
+                                <a
+                                  href="https://pimpmykeyboard.com/sa-ice-cap-keyset-sublimated/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate
+"
+                                >
+                                  <img
+                                    style={{ maxWidth: "160px" }}
+                                    src="https://cdn10.bigcommerce.com/s-ktpi93fl/products/216/images/819/icecapIMG_8769a__01060.1596325746.800.600.JPG?c=2"
+                                    alt=""
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://pimpmykeyboard.com/sa-ice-cap-keyset-sublimated/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate">
+                                  View Now
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>DSA Beyond Set</td>
+                              <td>DSA</td>
+                              <td>
+                                <a href="https://pimpmykeyboard.com/dsa-beyond-keyset-sublimated/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate">
+                                  <img
+                                    style={{ maxWidth: "160px" }}
+                                    src="https://cdn10.bigcommerce.com/s-ktpi93fl/products/265/images/1393/IMGP0273__38757.1578462202.1280.1280.jpg?c=2"
+                                    alt=""
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://pimpmykeyboard.com/dsa-beyond-keyset-sublimated/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate">
+                                  View Now
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>DSA Quartz Keyset</td>
+                              <td>DSA</td>
+                              <td>
+                                <a href="https://pimpmykeyboard.com/dsa-quartz-keyset-sublimated/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate">
+                                  <img
+                                    style={{ maxWidth: "160px;" }}
+                                    src="https://cdn10.bigcommerce.com/s-ktpi93fl/products/165/images/1131/IMG_6988__60647.1513284077.800.600.png?c=2"
+                                    alt=""
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://pimpmykeyboard.com/dsa-quartz-keyset-sublimated/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate">
+                                  View Now
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>DSA Ferrous Keyset</td>
+                              <td>DSA</td>
+                              <td>
+                                <a
+                                  href="https://pimpmykeyboard.com/dsa-ferrous-keyset-sublimated/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate
+"
+                                >
+                                  <img
+                                    style={{ maxWidth: "160px;" }}
+                                    src="https://cdn10.bigcommerce.com/s-ktpi93fl/products/270/images/1551/IMGP1651__69003.1548357540.1280.1280.jpg?c=2"
+                                    alt=""
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://pimpmykeyboard.com/dsa-ferrous-keyset-sublimated/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate">
+                                  View Now
+                                </a>
                               </td>
                             </tr>
                           </tbody>
