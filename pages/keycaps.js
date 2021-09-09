@@ -695,7 +695,7 @@ export default function Keycaps() {
                               </td>
                             </tr>
                             <tr>
-                              <td>EPBT PBT Blank Ortholinaer Keycaps</td>
+                              <td>EPBT PBT Blank Ortholinear Keycaps</td>
                               <td>Cherry</td>
                               <td>
                                 <a href="https://kbdfans.com/r?id=2ea9io">
@@ -935,6 +935,24 @@ export default function Keycaps() {
                           </thead>
                           <tbody>
                             <tr>
+                              <td>MBK Glow</td>
+                              <td>Choc (low-profile)</td>
+                              <td>
+                                <a href="https://boardsource.xyz/store/610ae434e32a6c051281c3fd">
+                                  <img
+                                    style={{ maxWidth: "160px" }}
+                                    src="https://boardsource.imgix.net/fbc5e6e5-7c95-4d71-9e20-95c88e5f8346.jpg"
+                                    alt="MBK Glow"
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://boardsource.xyz/store/610ae434e32a6c051281c3fd">
+                                  View Now
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
                               <td>GMK N9 Ortholinear Add-on Kit</td>
                               <td>Cherry</td>
                               <td>
@@ -948,6 +966,24 @@ export default function Keycaps() {
                               </td>
                               <td>
                                 <a href="https://keeb.io/products/gmk-n9-ortholinear-add-on-kit">
+                                  View Now
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>Ergodox EZ Glow Keycaps</td>
+                              <td>OEM</td>
+                              <td>
+                                <a href="https://ergodox-ez.com/collections/accessories/products/a-set-of-keycaps?variant=12940956270647">
+                                  <img
+                                    style={{ maxWidth: "160px" }}
+                                    src="https://cdn.shopify.com/s/files/1/1152/3264/products/keycaps_1024x1024.jpg?v=1493390613"
+                                    alt="Ergodox EZ Glow Keycaps"
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://ergodox-ez.com/collections/accessories/products/a-set-of-keycaps?variant=12940956270647">
                                   View Now
                                 </a>
                               </td>
