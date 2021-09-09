@@ -46,9 +46,15 @@ export default function Configuring() {
                 </a>
                 <a
                   href="https://olkb.com/"
-                  className="mt-3 btn btn-outline-primary"
+                  className="mt-3 mr-3 btn btn-outline-primary"
                 >
                   Visit Website
+                </a>
+                <a
+                  href="/keycaps"
+                  className="mt-3 btn btn-outline-primary"
+                >
+                  Ortho Keycaps
                 </a>
               </div>
             </div>
