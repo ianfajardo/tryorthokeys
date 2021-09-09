@@ -9,8 +9,9 @@ export default function Keycaps() {
     <div>
       <Head>
         <title>
-          Try Ortho Keys | Ortho Keycaps Ortholinear Keycaps Ortholinear
-          Keyboards Ortho Keyboards OLKB Planck Preonic Ergodox NIU40 Split
+          Ortholinear Keycap Set List | OLKB Planck Preonic NIU40 NIUmini ortho
+          keyboard ortho keycaps budget keycaps Drop KBDfans Amazon keycaps
+          mechanical keyboard
         </title>
         <link rel="icon" href="/favicon.ico" />
         <meta
@@ -181,7 +182,7 @@ export default function Keycaps() {
                           Keycaps
                         </h2>
                         <p>
-                          Drop offers keyboards, keycaps, audio peripherals on
+                          Drop offers keyboards, keycaps, and audio peripherals on
                           Amazon and group buys on their websites.
                         </p>
                         <a
