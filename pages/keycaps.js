@@ -464,6 +464,31 @@ export default function Keycaps() {
                                 <a href="https://amzn.to/3kLJL9m">Amazon</a>
                               </td>
                             </tr>
+                            <tr>
+                              <td>MiTO Cyber Keycap Set</td>
+                              <td>MT3</td>
+                              <td>
+                                <a
+                                  href="https://www.amazon.com/Hi-Profile-Doubleshot-Compatible-Ortholinear-Mechanical/dp/B099Y1P3VT?dchild=1&keywords=mechanical+keyboard+ortholinear&qid=1631570459&sr=8-13&linkCode=li2&tag=tryorthokey06-20&linkId=28fe1739afbb5f5d27bb7dfe7dbbfc0e&language=en_US&ref_=as_li_ss_il"
+                                  target="_blank"
+                                >
+                                  <img
+                                    border="0"
+                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B099Y1P3VT&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                  />
+                                </a>
+                                <img
+                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B099Y1P3VT"
+                                  width="1"
+                                  height="1"
+                                  border="0"
+                                  alt=""
+                                />
+                              </td>
+                              <td>
+                                <a href="https://amzn.to/3humB6r">Amazon</a>
+                              </td>
+                            </tr>
                           </tbody>
                         </Table>
 
@@ -475,13 +500,13 @@ export default function Keycaps() {
                           scrolling="no"
                           border="0"
                           marginWidth="0"
-                          style={{border: "none"}}
+                          style={{ border: "none" }}
                           frameBorder="0"
                         ></iframe>
                       </div>
                     </div>
                   </div>
-                </div>
+                </div> 
               </div>
             </div>
 
@@ -920,7 +945,7 @@ export default function Keycaps() {
                           scrolling="no"
                           border="0"
                           marginWidth="0"
-                          style={{border: "none"}}  
+                          style={{ border: "none" }}
                           frameBorder="0"
                         ></iframe>
                       </div>
