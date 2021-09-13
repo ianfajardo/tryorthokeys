@@ -468,14 +468,15 @@ export default function Keycaps() {
                         </Table>
 
                         <iframe
+                          className="d-none d-xl-block"
                           src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=prime_up&banner=13X19G3KXJPB8R7KG782&f=ifr&linkID=31bc46daa187ff9e2cd10925de1ccb59&t=tryorthokey06-20&tracking_id=tryorthokey06-20"
                           width="728"
                           height="90"
                           scrolling="no"
                           border="0"
-                          marginwidth="0"
+                          marginWidth="0"
                           style={{border: "none"}}
-                          frameborder="0"
+                          frameBorder="0"
                         ></iframe>
                       </div>
                     </div>
@@ -912,14 +913,15 @@ export default function Keycaps() {
                         </Table>
 
                         <iframe
+                          className="d-none d-lg-block d-xl-block"
                           src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=prime_up&banner=0B87032Z18DPFFYKJ0R2&f=ifr&linkID=a2273376931a60dcd42402249d38d81e&t=tryorthokey06-20&tracking_id=tryorthokey06-20"
                           width="728"
                           height="90"
                           scrolling="no"
                           border="0"
-                          marginwidth="0"
+                          marginWidth="0"
                           style={{border: "none"}}  
-                          frameborder="0"
+                          frameBorder="0"
                         ></iframe>
                       </div>
                     </div>
