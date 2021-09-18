@@ -17,6 +17,23 @@ a {
   padding: 10px 10px;
 }
 
+.link-image {
+  background: url("/ig-logo.png") center center;
+  background-size: cover;
+  border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  margin: 15px auto;
+
+}
+
+
+.ortho-links {
+  .btn {
+    font-size: 14px;
+  }
+}
+
 .jumbo-container {
   background: url("/planck-eotw-mito-rams.jpg") center center no-repeat;
   background-size: cover;
