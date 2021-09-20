@@ -45,6 +45,12 @@ export default function Links() {
                 Planck - Compact 40% Ortholinear Keyboard
               </a>
               <a
+                href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
+                className="btn btn-primary btn-lg btn-block mb-3"
+              >
+                Drop: Get $10 when you sign up!
+              </a>
+              <a
                 href="https://www.tryorthokeys.com/posts/budget-keycaps-for-your-ortho-keyboard"
                 className="btn btn-primary btn-lg btn-block mb-3"
               >
