@@ -11,7 +11,8 @@ export default function Links() {
         <div className="container text-white">
           <div className="row">
             <div className="col-lg-12 text-center">
-              <div className="link-image"></div>
+              
+              <a href="/" className="link-image"></a>
               <h1 className="h4 font-weight-bolder text-primary mt-3">
                 @tryorthokeys
               </h1>
