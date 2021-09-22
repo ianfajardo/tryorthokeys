@@ -1,6 +1,6 @@
 ---
 title: "Drop Announces Keycap Club with Monthly Discounts"
-description: "Keyboard accessories from lube stations, switch openers and more are heavily discounted!  Check back here for more deals as they filter in."
+description: "Drop recently announced the with a paid annual program with monthly coupons and discounts on keycap purchases for your mechnical keyboard."
 date: "2021-09-22"
 image: "/drop-keyclub-blog.png"
 ---
