@@ -5,9 +5,19 @@ date: "2021-09-22"
 image: "/drop-keyclub-blog.png"
 ---
 
-## What is Drop Keyclub?
+<div class="row align-items-center">
+<div class="col-lg-6">
+
+# What is Drop Keyclub?
 
 Drop recently announced the [Drop Keycap Club (DKC)](https://drop.com/keycapclub?referer=T93XGG) with a paid annual program with monthly coupons and discounts on keycap purchases. Drop has been a staple in the keyboard community with a variety of limited time mechanical keyboards, keycaps, accessories and more. In addition, they have regularly stocked items that are available including a couple keycap sets.
+
+</div>
+<div class="col-lg-6">
+<a href="https://drop.com/keycapclub?referer=T93XGG" title="Drop Keycap Club Mechnical Keyboard OLKB Ortholinear Keyboard Ortho Keyboard">
+<img class="img-fluid pb-5" src="/drop-keyclub-blog.png" alt="Drop Keycap Club Mechnical Keyboard OLKB Ortholinear Keyboard Ortho Keyboard"/>
+</a>
+</div>
 
 ## What's in the membership?
 
