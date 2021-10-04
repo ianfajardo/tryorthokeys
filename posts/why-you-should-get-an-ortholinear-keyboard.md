@@ -1,5 +1,5 @@
 ---
-title: "Why you should get an ortholinear keyboard"
+title: "Why you should get an ortholinear keyboard | ortho keyboard 40% keyboard qmk ortholinear keycaps ortholinear vs staggered ortholinear layout"
 description: "In this article, we'll go over what ortholinear keyboards are and why you migth want to get an ortho keybard like the OLKB Planck or Preonic, the NIU40 NIUmini and more."
 date: "2021-08-05"
 image: "/why-you-should-get-an-ortholinear-keyboard.png"

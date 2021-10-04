@@ -8,10 +8,10 @@ export default function Configuring() {
       <Head>
         <title>Configuring your Planck or Preonic</title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="title" content="Configuring your Planck or Preonic" />
+        <meta name="title" content="Configuring your Planck or Preonic | QMK toolbox OLKB ortholinear keyboard ortho keyboard 40% keyboard kit Drop keycaps ortholinear keycaps qmk keyboard preonic keyboard qmk configurator" />
         <meta
           name="description"
-          content="This guide will show you how to configure your OLKB Planck or Preonic Keyboard such as the QMK configurator  and toolbox."
+          content="This guide will show you how to configure your OLKB Planck or Preonic Keyboard such as the QMK configurator and toolbox. "
         />
       </Head>
 
