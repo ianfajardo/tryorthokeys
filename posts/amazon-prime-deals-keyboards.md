@@ -1,5 +1,6 @@
 ---
 title: "Amazon Prime Day Deals for Ortholinear Keyboards"
+metatitle: "Amazon Prime Day Deals for Ortholinear Keyboards | keyboard switch opener lube stations"
 description: "Keyboard accessories from lube stations, switch openers and more are heavily discounted!  Check back here for more deals as they filter in."
 date: "2021-06-21"
 image: "/amazon-prime-day-deals-ortholinear-keyboard.png"

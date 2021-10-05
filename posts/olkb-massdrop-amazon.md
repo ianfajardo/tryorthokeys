@@ -1,5 +1,6 @@
 ---
 title: "OLKB Planck and Preonic keyboards are now available on Amazon"
+metatitle: "OLKB Planck and Preonic keyboards are now available on Amazon | ortholinear keycaps mechanical keyboards discount sale"
 description: "Drop has now started selling the OLKB Planck and Preonic ortholinear keyboards on Amazon."
 date: "2021-03-16"
 image: "/planck-preonic-amazon.jpg"

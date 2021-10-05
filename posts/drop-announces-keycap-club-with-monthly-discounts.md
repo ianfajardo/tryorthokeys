@@ -1,5 +1,6 @@
 ---
 title: "Drop Announces Keycap Club with Monthly Discounts"
+metatitle: "Drop Announces Keycap Club with Monthly Discounts | ortholinear keyboards ortho keyboard ortho keycaps ortholinear keycaps"
 description: "Drop recently announced the with a paid annual program with monthly coupons and discounts on keycap purchases for your mechnical keyboard."
 date: "2021-09-22"
 image: "/drop-keyclub-blog.png"

@@ -1,5 +1,6 @@
 ---
 title: "What to do after getting your first Ortholinear Keyboard"
+metatitle: "What to do after getting your first Ortholinear Keyboard | ortho keyboard OLKB Planck Preonic drop"
 description: "There are a bunch of different mods and accessories for your new ortholinear keyboard. Here are a couple must haves and recommended items to pick up first."
 date: "2021-03-25"
 image: "/first-ortholinear-board.png"

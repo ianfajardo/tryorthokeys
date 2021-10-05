@@ -1,5 +1,6 @@
 ---
 title: "Setup a Rotary Encoder on your Ortholinear Keyboard"
+metatitle: "Setup a Rotary Encoder on your Ortholinear Keyboard | OLKB planck preonic 40% keyboard keycaps ortho keyboard ortho keycaps"
 description: "A rotary encoder is a knob that converts the physical turns into a digital signal to your computer. This article will go over what you may need to install rotary encoder on your ortho keyboard."
 date: "2021-08-09"
 image: "/blog-rotary-encoder.png"

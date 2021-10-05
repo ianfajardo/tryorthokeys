@@ -43,7 +43,7 @@ export default function Post({ postData }) {
         />
         <meta
           property="og:title"
-          content={"Try Ortho Keys - " + postData.title}
+          content={"Try Ortho Keys - " + postData.metatitle ? postData.metatitle : postData.title }
         />
         <meta
           property="og:description"
@@ -64,7 +64,7 @@ export default function Post({ postData }) {
         />
         <meta
           property="twitter:title"
-          content={"Try Ortho Keys - " + postData.title}
+          content={"Try Ortho Keys - " + postData.metatitle ? postData.metatitle : postData.title }
         />
         <meta
           property="twitter:description"
