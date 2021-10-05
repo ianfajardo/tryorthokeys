@@ -12,7 +12,7 @@ export default function Olkb() {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="title"
-          content="OLKB Preonic & Planck - Highly popular ortholinear keyboards 40% Keyboard Kit ortho keyboard qmk ortholinear keyboard ortholinear keycaps"
+          content="OLKB Preonic & Planck - Highly popular ortholinear keyboards 40% Keyboard Kit ortho keyboard qmk ortholinear keyboard ortholinear keycaps forty percent keyboard"
         />
         <meta
           name="description"

@@ -28,7 +28,7 @@ export default function Home({ allPostsData }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="title"
-          content="Try Ortho Keys | Ortholinear Keyboards Ortho OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard"
+          content="Try Ortho Keys | Ortholinear Keyboards Ortho OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard 40 keyboard"
         />
         <meta
           name="description"
