@@ -1,15 +1,22 @@
 import Head from "next/head";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
+import Nav from "react-bootstrap/Nav";
 
 export default function Split() {
   return (
     <div>
       <Head>
         <title>
-          Split Keyboards - Ortholinear Split keyboards for better ergonomics
+          Split Keyboards - Ortholinear Split keyboards for better ergonomics |
+          split keyboards ortho split keyboard keyboard split in half Kenesis
+          Advantage2 Ergodox
         </title>
         <link rel="icon" href="/favicon.ico" />
+        <meta
+          name="title"
+          content="Split Keyboards - Ortholinear Split keyboards for better ergonomics | split keyboards ortho split keyboard keyboard split in half Kenesis Advantage2 Ergodox"
+        />
         <meta
           name="description"
           content="You can usually spot a Split keyboard if it has two
@@ -34,15 +41,31 @@ export default function Split() {
                   keyboard to better the ergonomics and encourage better touch
                   typing. The ones mentioned here are only a few.
                 </p>
-                <a href="#ergodox" className="mt-3 mr-3 btn btn-primary">
-                  ErgoDox
-                </a>
-                <a href="#rebound" className="mt-3 btn btn-primary">
-                  Rebound
-                </a>
               </div>
             </div>
           </div>
+        </div>
+      </div>
+
+      <div className="bg-primary">
+        <div className="container">
+          <Nav defaultActiveKey="/home" as="ul" className="py-2">
+            <Nav.Item as="li">
+              <Nav.Link className="text-white" href="#kenesis">
+                Kenesis Advantage2
+              </Nav.Link>
+            </Nav.Item>
+            <Nav.Item as="li">
+              <Nav.Link className="text-white" href="#ergodox">
+                Ergodox
+              </Nav.Link>
+            </Nav.Item>
+            <Nav.Item as="li">
+              <Nav.Link className="text-white" href="#rebound">
+                Montsinger Rebound
+              </Nav.Link>
+            </Nav.Item>
+          </Nav>
         </div>
       </div>
 

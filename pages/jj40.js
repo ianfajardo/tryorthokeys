@@ -103,15 +103,18 @@ export default function JJ40() {
           <div className="row">
             <div className="col-lg-12">
               <h2>Read Our Blog</h2>
-              <p className="lead">Catch up on our blog for the latest guides & news for all your ortholinear keyboard needs!</p>
-              <a href="/blog" className="btn btn-primary my-2">Learn More</a>
-
+              <p className="lead">
+                Catch up on our blog for the latest guides & news for all your
+                ortholinear keyboard needs!
+              </p>
+              <a href="/posts" className="btn btn-primary my-2">
+                Learn More
+              </a>
             </div>
           </div>
         </div>
       </div>
 
-      
       <Footer />
     </div>
   );
