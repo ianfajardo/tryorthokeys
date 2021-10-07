@@ -112,6 +112,13 @@ export default function Keycaps() {
                 Amazon
               </Nav.Link>
             </Nav.Item>
+
+            <Nav.Item as="li">
+              <Nav.Link className="text-white" href="#split">
+                Split Keycaps
+              </Nav.Link>
+            </Nav.Item>
+
             <Nav.Item as="li">
               <Nav.Link className="text-white" href="#other">
                 Other
@@ -506,7 +513,7 @@ export default function Keycaps() {
                       </div>
                     </div>
                   </div>
-                </div> 
+                </div>
               </div>
             </div>
 
@@ -932,6 +939,160 @@ export default function Keycaps() {
                               </td>
                               <td>
                                 <a href="https://amzn.to/3yFMqWP">Amazon</a>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </Table>
+
+                        <iframe
+                          className="d-none d-lg-block d-xl-block"
+                          src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=prime_up&banner=0B87032Z18DPFFYKJ0R2&f=ifr&linkID=a2273376931a60dcd42402249d38d81e&t=tryorthokey06-20&tracking_id=tryorthokey06-20"
+                          width="728"
+                          height="90"
+                          scrolling="no"
+                          border="0"
+                          marginWidth="0"
+                          style={{ border: "none" }}
+                          frameBorder="0"
+                        ></iframe>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="split" className="section-container ">
+              <div className="">
+                <div className="card ele-2">
+                  <div className="px-5 py-5">
+                    <div className="row align-items-center">
+                      <div className="col-lg-12">
+                        <h2 className="font-weight-bold text-primary">
+                          Split Keycaps
+                        </h2>
+                        <p>
+                          Keycap sets specifically for split ergonomic keyboards
+                          with an ortholinear layout
+                        </p>
+
+                        <Table
+                          responsive
+                          striped
+                          bordered
+                          hover
+                          className="mt-3"
+                        >
+                          <thead>
+                            <tr>
+                              <th>Name</th>
+                              <th>Profile</th>
+                              <th>Image</th>
+                              <th>Link</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td>
+                                Max Keyboard x Ergodox PBT (Multiple Color
+                                Options)
+                              </td>
+                              <td>DSA</td>
+                              <td>
+                                <a
+                                  href="https://www.amazon.com/Max-Keyboard-Ergodox-keycap-Profile/dp/B08BTVTDG3?dchild=1&keywords=ergodox&link_code=qs&qid=1633572413&sr=8-2&linkCode=li3&tag=tryorthokey06-20&linkId=8875b126326bdee19645fd223459f87c&language=en_US&ref_=as_li_ss_il"
+                                  target="_blank"
+                                >
+                                  <img
+                                    border="0"
+                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08BTVTDG3&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                  />
+                                </a>
+                                <img
+                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08BTVTDG3"
+                                  width="1"
+                                  height="1"
+                                  border="0"
+                                  alt=""
+                                />
+                              </td>
+                              <td>
+                                <a href="https://amzn.to/3oG5wei">Amazon</a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>YMDK Thick PBT Top Print Ergodox</td>
+                              <td>Cherry</td>
+                              <td>
+                                <a
+                                  href="https://www.amazon.com/YMDK-Cherry-Profile-Ergodox-Keyboard/dp/B07CQ3HHQR?dchild=1&keywords=ergodox&link_code=qs&qid=1633572413&sr=8-3&linkCode=li3&tag=tryorthokey06-20&linkId=951122574792b5f019002be6e0803055&language=en_US&ref_=as_li_ss_il"
+                                  target="_blank"
+                                >
+                                  <img
+                                    border="0"
+                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07CQ3HHQR&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                  />
+                                </a>
+                                <img
+                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B07CQ3HHQR"
+                                  width="1"
+                                  height="1"
+                                  border="0"
+                                  alt=""
+                                />
+                              </td>
+                              <td>
+                                <a href="https://amzn.to/3FkPw7r">Amazon</a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>YMDK Keycaps Matcha Dye-Sub</td>
+                              <td>ZDA</td>
+                              <td>
+                                <a
+                                  href="https://www.amazon.com/YMDK-Similar-Keycaps-Dye-Sublimation-Alphabet/dp/B0965C35CG?dchild=1&keywords=ergodox&link_code=qs&qid=1633572413&sr=8-13&linkCode=li3&tag=tryorthokey06-20&linkId=7e054550c524731ec42e9f193f270e47&language=en_US&ref_=as_li_ss_il"
+                                  target="_blank"
+                                >
+                                  <img
+                                    border="0"
+                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0965C35CG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                  />
+                                </a>
+                                <img
+                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B0965C35CG"
+                                  width="1"
+                                  height="1"
+                                  border="0"
+                                  alt=""
+                                />
+                              </td>
+                              <td>
+                                <a href="https://amzn.to/3oE5R0V">Amazon</a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>Kenesis Advantage2 Blank Keycap Set</td>
+                              <td>OEM</td>
+                              <td>
+                                <a
+                                  href="https://www.amazon.com/Kinesis-Advantage2-Blank-Keycap-Set/dp/B089NLHGC3?dchild=1&keywords=ergodox+keycaps&qid=1633572828&sr=8-17&linkCode=li3&tag=tryorthokey06-20&linkId=f371ce5dba91a5f5cf559a2e2b5db13e&language=en_US&ref_=as_li_ss_il"
+                                  target="_blank"
+                                >
+                                  <img
+                                    border="0"
+                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B089NLHGC3&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                  />
+                                </a>
+                                <img
+                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B089NLHGC3"
+                                  width="1"
+                                  height="1"
+                                  border="0"
+                                  alt=""
+                                />
+                              </td>
+                              <td>
+                                <a href="https://amzn.to/3BiMr5a">Amazon</a>
                               </td>
                             </tr>
                           </tbody>
