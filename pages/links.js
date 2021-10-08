@@ -43,7 +43,7 @@ export default function Links() {
                   Ortholinear Keycap List
                 </a>
                 <a
-                  href="https://kbdfans.com/r?id=k4fhhm"
+                  href="https://kbdfans.com/r?id=81km6r"
                   className="btn btn-primary btn-lg btn-block mb-3"
                 >
                   NIU Mini 40% Restock
