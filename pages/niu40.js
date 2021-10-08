@@ -13,7 +13,7 @@ export default function Niu() {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="title"
-          content="NIU40 NIU Mini - The NIU40 is a programmable 40% ortholinear keyboard from KBDFans"
+          content="NIU40 NIU Mini - The NIU40 is a programmable 40% ortholinear keyboard from KBDFans | NIU ortho keyboard NIU 40 NIU Mini"
         />
         <meta
           name="description"
@@ -36,12 +36,12 @@ export default function Niu() {
                 <p style={{ fontSize: "20px" }}>
                   The NIU 40 / NIU Mini is a 40% keyboard similar to the Planck
                   ortholinear keyboard. You purchase them a DIY kit at{" "}
-                  <a href="https://kbdfans.com/r?id=eft22v">KBDFans</a>. A bit
+                  <a href="https://kbdfans.com/r?id=k4fhhm">KBDFans</a>. A bit
                   cheaper than the OLKB offerings, it offers similar
                   functionality and features.
                 </p>
                 <a
-                  href="https://kbdfans.com/r?id=eft22v"
+                  href="https://kbdfans.com/r?id=k4fhhm"
                   className="mt-3 btn btn-primary"
                 >
                   Buy Now
@@ -69,7 +69,7 @@ export default function Niu() {
                     swappable versions available at the moment.
                   </p>
                   <a
-                    href="https://kbdfans.com/r?id=eft22v"
+                    href="https://kbdfans.com/r?id=k4fhhm"
                     className="btn btn-primary mr-2"
                   >
                     Buy Now
