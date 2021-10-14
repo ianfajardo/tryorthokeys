@@ -12,6 +12,11 @@ class MyDocument extends Document {
         <Head>
           <script
             async
+            src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7303268260949065"
+            crossOrigin="anonymous"
+          ></script>
+          <script
+            async
             src="https://www.googletagmanager.com/gtag/js?id=G-2N26P4HEDD"
           ></script>
           <script
