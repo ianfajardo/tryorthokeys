@@ -48,6 +48,7 @@ export default function Links() {
                 >
                   NIU Mini 40% Restock
                 </a>
+                <a href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG" className="btn btn-primary btn-lg btn-block mb-3">Planck Keyboard 30% off on Drop</a>
                 <a
                   href="https://amzn.to/2VRlx4W"
                   className="btn btn-primary btn-lg btn-block mb-3"
