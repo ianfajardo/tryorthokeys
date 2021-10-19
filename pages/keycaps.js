@@ -993,6 +993,20 @@ export default function Keycaps() {
                           </thead>
                           <tbody>
                             <tr>
+                              <td>ErgoDox Blank DSA Keycaps</td>
+                              <td>DSA</td>
+                              <td>
+                                <a href="https://kbdfans.com/r?id=quqnil">
+                                  <img src="https://cdn.shopify.com/s/files/1/1473/3902/products/2_16105510-1545-47b1-a93e-a57048500a78_900x.jpg?v=1600995094" alt="ErgoDox BLank DSA Keycaps" style={{ maxWidth: "160px" }} />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://kbdfans.com/r?id=quqnil">
+                                  Buy Now
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
                               <td>
                                 Max Keyboard x Ergodox PBT (Multiple Color
                                 Options)
