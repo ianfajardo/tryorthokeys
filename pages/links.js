@@ -43,10 +43,10 @@ export default function Links() {
                   Ortholinear Keycap List
                 </a>
                 <a
-                  href="https://kbdfans.com/r?id=81km6r"
+                  href="https://kbdfans.com/r?id=s856a4"
                   className="btn btn-primary btn-lg btn-block mb-3"
                 >
-                  NIU Mini 40% Restock
+                  NIU Mini 40% Restock LAST CHANCE
                 </a>
                 <a href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG" className="btn btn-primary btn-lg btn-block mb-3">Planck Keyboard 30% off on Drop</a>
                 <a
