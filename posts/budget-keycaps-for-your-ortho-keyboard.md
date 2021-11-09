@@ -102,7 +102,7 @@ Remember, you don't have to break the bank on your first set of keycaps. You als
 
 Here are some articles you might be interested in:
 
-- [Best Keycaps on Drop for your Planck or Preonic](/best-keycaps-on-drop-for-planck-preonic)
+- [Best Keycaps on Drop for your Planck or Preonic](/posts/best-keycaps-on-drop-for-planck-preonic)
 - [What to do after getting your first Ortholinear Keyboard](/posts/what-to-do-after-getting-an-ortholinear-keyboard)
 - [Configuring your Planck or Preonic](/configure)
 
