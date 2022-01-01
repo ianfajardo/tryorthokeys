@@ -3,6 +3,7 @@ import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 import Table from "react-bootstrap/Table";
 import Nav from "react-bootstrap/Nav";
+import Sticky from "react-stickynode";
 
 export default function Keycaps() {
   return (
@@ -56,7 +57,7 @@ export default function Keycaps() {
 
       <Navigation />
 
-      <div className="bg-secondary text-white section-container">
+      <div id="header" className="bg-secondary text-white section-container">
         <div className="container">
           <div className="row align-items-center">
             <div className="col-lg-12">
@@ -89,46 +90,56 @@ export default function Keycaps() {
         </div>
       </div>
 
-      <div className="bg-primary">
-        <div className="container">
-          <Nav defaultActiveKey="/home" as="ul" className="py-2">
-            <Nav.Item as="li">
-              <Nav.Link className="text-white" href="#drop">
-                Drop
-              </Nav.Link>
-            </Nav.Item>
-            <Nav.Item as="li">
-              <Nav.Link className="text-white" href="#pimpmykeyboard">
-                Pimp My Keyboard
-              </Nav.Link>
-            </Nav.Item>
-            <Nav.Item as="li">
-              <Nav.Link className="text-white" href="#kbdfans">
-                KBDfans
-              </Nav.Link>
-            </Nav.Item>
-            <Nav.Item as="li">
-              <Nav.Link className="text-white" href="#amazon">
-                Amazon
-              </Nav.Link>
-            </Nav.Item>
+      <Sticky enabled={true} top="#secondnav" bottomBoundary="#content" innerZ="99999">
+        <div
+          className="bg-primary"
+          style={{ position: "relative", zIndex: "99999" }}
+        >
+          <div className="container">
+            <Nav
+              id="#secondnav"
+              defaultActiveKey="/home"
+              as="ul"
+              className="py-2"
+            >
+              <Nav.Item as="li">
+                <Nav.Link className="text-white" href="#drop">
+                  Drop
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item as="li">
+                <Nav.Link className="text-white" href="#pimpmykeyboard">
+                  Pimp My Keyboard
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item as="li">
+                <Nav.Link className="text-white" href="#kbdfans">
+                  KBDfans
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item as="li">
+                <Nav.Link className="text-white" href="#amazon">
+                  Amazon
+                </Nav.Link>
+              </Nav.Item>
 
-            <Nav.Item as="li">
-              <Nav.Link className="text-white" href="#split">
-                Split Keycaps
-              </Nav.Link>
-            </Nav.Item>
+              <Nav.Item as="li">
+                <Nav.Link className="text-white" href="#split">
+                  Split Keycaps
+                </Nav.Link>
+              </Nav.Item>
 
-            <Nav.Item as="li">
-              <Nav.Link className="text-white" href="#other">
-                Other
-              </Nav.Link>
-            </Nav.Item>
-          </Nav>
+              <Nav.Item as="li">
+                <Nav.Link className="text-white" href="#other">
+                  Other
+                </Nav.Link>
+              </Nav.Item>
+            </Nav>
+          </div>
         </div>
-      </div>
+      </Sticky>
 
-      <div className="container-fluid">
+      <div id="content" className="container-fluid">
         <div className="row">
           <div className="d-none d-lg-block d-xl-block col-lg-2">
             <div className="section-container">
@@ -815,7 +826,7 @@ export default function Keycaps() {
                           </thead>
                           <tbody>
                             <tr>
-                              <td>YMDK XDA Blanck PBT Keycaps</td>
+                              <td>YMDK XDA Blank PBT Keycaps</td>
                               <td>XDA</td>
                               <td>
                                 <a
@@ -941,6 +952,56 @@ export default function Keycaps() {
                                 <a href="https://amzn.to/3yFMqWP">Amazon</a>
                               </td>
                             </tr>
+                            <tr>
+                              <td>N\C 1u Blank Keycaps</td>
+                              <td>DSA</td>
+                              <td>
+                                <a
+                                  href="https://www.amazon.com/gp/product/B09GG4DD65?&linkCode=li2&tag=tryorthokey06-20&linkId=dc44ae824da3a0d657f0a28f8a8fdc0b&language=en_US&ref_=as_li_ss_il"
+                                  target="_blank"
+                                >
+                                  <img
+                                    border="0"
+                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09GG4DD65&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                  />
+                                </a>
+                                <img
+                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B09GG4DD65"
+                                  width="1"
+                                  height="1"
+                                  border="0"
+                                  alt=""
+                                />
+                              </td>
+                              <td>
+                                <a href="https://amzn.to/3eHGPbc">Amazon</a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>Tokey DSA FC Gaming Keycaps</td>
+                              <td>DSA</td>
+                              <td>
+                                <a
+                                  href="https://www.amazon.com/gp/product/B08T9BJ34H?&linkCode=li2&tag=tryorthokey06-20&linkId=f98fea4acb66ff128a402e8d367b9a0f&language=en_US&ref_=as_li_ss_il"
+                                  target="_blank"
+                                >
+                                  <img
+                                    border="0"
+                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08T9BJ34H&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                  />
+                                </a>
+                                <img
+                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B08T9BJ34H"
+                                  width="1"
+                                  height="1"
+                                  border="0"
+                                  alt=""
+                                />
+                              </td>
+                              <td>
+                                <a href="https://amzn.to/31kGnws">Amazon</a>
+                              </td>
+                            </tr>
                           </tbody>
                         </Table>
 
@@ -997,7 +1058,11 @@ export default function Keycaps() {
                               <td>DSA</td>
                               <td>
                                 <a href="https://kbdfans.com/r?id=quqnil">
-                                  <img src="https://cdn.shopify.com/s/files/1/1473/3902/products/2_16105510-1545-47b1-a93e-a57048500a78_900x.jpg?v=1600995094" alt="ErgoDox BLank DSA Keycaps" style={{ maxWidth: "160px" }} />
+                                  <img
+                                    src="https://cdn.shopify.com/s/files/1/1473/3902/products/2_16105510-1545-47b1-a93e-a57048500a78_900x.jpg?v=1600995094"
+                                    alt="ErgoDox BLank DSA Keycaps"
+                                    style={{ maxWidth: "160px" }}
+                                  />
                                 </a>
                               </td>
                               <td>
