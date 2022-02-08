@@ -43,12 +43,23 @@ export default function Links() {
                   Ortholinear Keycap List
                 </a>
                 <a
+                  className="btn btn-primary btn-lg btn-block mb-3"
+                  href="https://www.tryorthokeys.com/posts/awesome-planck-keyboard-setups"
+                >
+                  Awesome Planck Keycap Setups
+                </a>
+                <a
                   href="https://www.tryorthokeys.com/posts/mt3-keycaps-for-ortholinear-keyboards"
                   className="btn btn-primary btn-lg btn-block mb-3"
                 >
                   MT3 Keycaps for your Ortho
                 </a>
-                <a href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG" className="btn btn-primary btn-lg btn-block mb-3">Planck Keyboard 30% off on Drop</a>
+                <a
+                  href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
+                  className="btn btn-primary btn-lg btn-block mb-3"
+                >
+                  Planck Keyboard 30% off on Drop
+                </a>
                 <a
                   href="https://amzn.to/2VRlx4W"
                   className="btn btn-primary btn-lg btn-block mb-3"
