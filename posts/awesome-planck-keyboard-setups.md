@@ -3,14 +3,19 @@ title: "Awesome Planck Keyboard Setups"
 metatitle: "Awesome Planck Keyboard Setups | planck keyboard olkb 40 keyboard ortholinear keyboard"
 description: "Looking for some inspiration for your first or next Planck keyboard setup? Check out our picks of beautiful ortholinear keyboards to get inspriation from."
 date: "2022-02-07"
-image: "/awesome-planck-keyboard-setups.png"
+image: "/awesome-planck-keyboard-setups.jpg"
 ---
 
-## Planck Keyboard
+## Why We Love the Planck Keyboard
 
-Amazon Prime Day is upon us and many of us have been waiting to scoop up some new things to buy. There are a bunch of mechanical keyboard accessories that are on sale that we found. From what we have seen, the keyboards themselves aren't on sale. However, keyboard accessories from lube stations, switch openers and more are heavily discounted!  Check back here for more deals as they filter in.
+There's plenty to love about OLKB's 40% [Planck keyboard](/olkb) . The build quality is the most consistent out of all orthos we've found and there are plenty of guides and documentation to help you with any troubleshooting issues. With QMK firmware and VIA support added in 2021, the Planck is easily customizable out of the box.  And importantly, with all the inventory issues from the pandemic, it's the most available. You buy via Drop on [Amazon](https://amzn.to/333pMu0) or directly on the [Drop](https://drop.com/buy/preonic-mechanical-keyboard?utm_source=linkshare&referer=T93XGG) website. Though certain colors come and go, other similar 40% ortholinear keyboard have been out of stock or even completely gone from the stores. 
 
-<img class="img-fluid mb-5" src="/prime-day-deals-banner.png" alt="Prime Day Deals Ortholinear Keyboard">
+What's great is that there are still plenty of [keycaps](/keycaps) available for orthos like the Planck and below are a couple of our favorite combinations we've seen online! 
+
+## Inspirational Setups
+
+
+
 
 ### 30 Switch Lube Station Kit
 
