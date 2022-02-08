@@ -254,7 +254,7 @@ export default function Keycaps() {
                                 />
                               </td>
                               <td>
-                                <a href="https://amzn.to/3yFMqWP">Amazon</a>
+                                <a href="https://amzn.to/3rzSVKH">Amazon</a>
                               </td>
                             </tr>
                             <tr>
