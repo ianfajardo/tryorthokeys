@@ -23,8 +23,7 @@ export default function Navigation() {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ml-auto">
-              <Nav.Link href="/keyboards">Ortholinear Keyboards</Nav.Link>
-              <Nav.Link href="/keycaps">Keycaps</Nav.Link>
+              <Nav.Link href="/keycaps"> Ortho Keycap Sets</Nav.Link>
               <NavDropdown title="OLKB Planck & Preonic" id="olkb-nav-dropdown">
                 <NavDropdown.Item href="/olkb">
                   About the Keyboards
@@ -33,10 +32,13 @@ export default function Navigation() {
                   Configuring your Keyboard
                 </NavDropdown.Item>
               </NavDropdown>
-              <Nav.Link href="/id75">ID75</Nav.Link>
-              <Nav.Link href="/split">Split</Nav.Link>
-              <Nav.Link href="/niu40">NIU40</Nav.Link>
-              <Nav.Link href="/jj40">JJ40</Nav.Link>
+              <NavDropdown title="Other Ortho Keyboards" id="olkb-nav-dropdown">
+                <NavDropdown.Item href="/id75">ID75</NavDropdown.Item>
+                <NavDropdown.Item href="/split">Split</NavDropdown.Item>
+                <NavDropdown.Item href="/niu40">NIU40</NavDropdown.Item>
+                <NavDropdown.Item href="/jj40">JJ40</NavDropdown.Item>
+                <NavDropdown.Item href="/keyboards">View All</NavDropdown.Item>
+              </NavDropdown>
             </Nav>
             <Form inline>
               <Button href="/posts" className="ml-2" variant="primary">

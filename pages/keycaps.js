@@ -636,7 +636,7 @@ export default function Keycaps() {
                               <td>
                                 <a href="https://pimpmykeyboard.com/dsa-quartz-keyset-sublimated/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate">
                                   <img
-                                    style={{ maxWidth: "160px;" }}
+                                    style={{ maxWidth: "160px" }}
                                     src="https://cdn10.bigcommerce.com/s-ktpi93fl/products/165/images/1131/IMG_6988__60647.1513284077.800.600.png?c=2"
                                     alt=""
                                   />
@@ -657,7 +657,7 @@ export default function Keycaps() {
 "
                                 >
                                   <img
-                                    style={{ maxWidth: "160px;" }}
+                                    style={{ maxWidth: "160px" }}
                                     src="https://cdn10.bigcommerce.com/s-ktpi93fl/products/270/images/1551/IMGP1651__69003.1548357540.1280.1280.jpg?c=2"
                                     alt=""
                                   />
@@ -1288,7 +1288,7 @@ export default function Keycaps() {
                               <td>
                                 <a href="https://kprepublic.com/products/dsa-pbt-blank-light-grey-grey-keycaps-60-gh60-poker2-xd64-87-104-xd75-xd96-xd84-cosair-k70-razer-blackwidow-planck-jj40-jj50?_pos=8&_sid=cd25eba9b&_ss=r&variant=7310696939564">
                                   <img
-                                    style={{ maxWidth: "160px;" }}
+                                    style={{ maxWidth: "160px" }}
                                     src="https://cdn.shopify.com/s/files/1/2711/4238/products/TIM_20180228031111.jpg?v=1569170154"
                                     alt=""
                                   />
