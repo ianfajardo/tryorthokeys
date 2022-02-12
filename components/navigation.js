@@ -23,7 +23,7 @@ export default function Navigation() {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ml-auto">
-              <Nav.Link href="/keycaps"> Ortho Keycap Sets</Nav.Link>
+              <Nav.Link href="/keycaps">Ortho Keycap Sets</Nav.Link>
               <NavDropdown title="OLKB Planck & Preonic" id="olkb-nav-dropdown">
                 <NavDropdown.Item href="/olkb">
                   About the Keyboards
@@ -32,6 +32,7 @@ export default function Navigation() {
                   Configuring your Keyboard
                 </NavDropdown.Item>
               </NavDropdown>
+              <Nav.Link href="/worklouder">Work Louder</Nav.Link>
               <NavDropdown title="Other Ortho Keyboards" id="olkb-nav-dropdown">
                 <NavDropdown.Item href="/id75">ID75</NavDropdown.Item>
                 <NavDropdown.Item href="/split">Split</NavDropdown.Item>

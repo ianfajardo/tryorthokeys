@@ -1,8 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300;400;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;500;700;800&display=swap");
 
 @import "elevation";
 @import "variables";
 @import "~bootstrap/scss/bootstrap";
+
+h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
 
 a {
   font-weight: 600;
@@ -76,6 +80,30 @@ a {
 
 .section-container {
   padding: 3rem 0;
+}
+
+.work-louder-jumbo {
+  background: url("/work-louder-creator-board.jpg") center center no-repeat;
+  background-size: cover;
+  position: relative;
+  padding: 4rem 0;
+
+  &:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #2c3e50;
+    opacity: 0.6;
+    content: "";
+    z-index: 2;
+  }
+
+  div {
+    position: relative;
+    z-index: 3;
+  }
 }
 
 .lead {
@@ -153,4 +181,3 @@ a {
     font-size: 3rem;
   }
 }
-
