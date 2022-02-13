@@ -32,7 +32,7 @@ What's great is that there are still plenty of [keycaps](/keycaps) available for
 ### SA-P Snow Cap Keyset
 
 <a href="https://pimpmykeyboard.com/sa-p-snow-cap-keyset-original/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate"><img src="/blog/sa-snowcaps-planck.jpg" class="img-fluid" alt="SA Snow Cap Keyset ortho keyboard"></a><br/>
-<small>Source: <a href="buff.ly/3wY2NPl">buff.ly/3wY2NPl</a></small>
+<small>Source: <a href="https://buff.ly/3wY2NPl">https://buff.ly/3wY2NPl</a></small>
 
 </div>
 <div class="col-lg-5">
@@ -95,7 +95,7 @@ The [YMDK Carbon](https://amzn.to/3DEKmCd) is a great budget keycap set that loo
 ### Acute Keycaps
 
 <a href="https://amzn.to/3rzSVKH"><img src="/blog/drop-acute-planck.jpg" class="img-fluid" alt="Drop Acute Planck keycaps ortho keyboard"></a><br/>
-<small>Source: <a href="buff.ly/3chfLhD">buff.ly/3chfLhD</a></small>
+<small>Source: <a href="https://buff.ly/3chfLhD">https://buff.ly/3chfLhD</a></small>
 
 </div>
 <div class="col-lg-5">
