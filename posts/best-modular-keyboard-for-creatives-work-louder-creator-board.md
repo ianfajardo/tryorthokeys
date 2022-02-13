@@ -64,6 +64,15 @@ If they're not your thing or you'd rather add your own keycaps and switches, the
 </div>
 </div>
 
+<div class="row my-3">
+<div class="col-lg-6">
+<img class="img-fluid" src="/creator-board/work-louder-creator-board-diy.jpg">
+</div>
+<div class="col-lg-6">
+<img class="img-fluid" src="/creator-board/work-louder-creator-board-side.jpg">
+</div>
+</div>
+
 ## If you're a creator, you should get this keyboard
 
 The Creator Board is perfect for you if you need modularity and customizability. Like its name, it's specifically made for creators, designers, and content creators and it does it amazingly. Compared to other keyboars, the price tag is a lot higher than others. But what you're paying for is customizabiliy and a company that cares about design. More modules are planned, the creators are proactive with the community. Recently, there has been a contest in the community to design a mousepad to sell in their store.
