@@ -102,11 +102,7 @@ export default function Worklouder() {
             <div className="col-lg-6">
               <h2>Creator Board</h2>
               <p>
-                The Creator Board is an innovative modular design keyboard that
-                can be configured to suit individual preferences. This is a
-                customizable keyboard (customizable in terms of keys,
-                orientation, modules, and size), which means you can create a
-                personally tailored setup to fit your needs.
+                The Creator Board is an innovative modular design keyboard that can be configured to suit individual preferences. This is a customizable keyboard (customizable in terms of keys, orientation, modules, and size), which means you can create a personally tailored setup to fit your needs.
               </p>
               <ul>
                 <li>Cusomizable removable modules</li>

@@ -199,12 +199,20 @@ export default function Home({ allPostsData }) {
               <p className="lead">
                 Most ortholinear keyboards available allow you to fully
                 customize your key mappings and can even play music if your
-                keyboard has speakers! Most utilize the open-source QMK firmware
-                making easier than ever to setup your keyboard the way you like.
+                keyboard has speakers! Most utilize VIA and open-source QMK
+                firmware making easier than ever to setup your keyboard the way
+                you like.
               </p>
 
               <a href="/configure" className=" mr-3 btn btn-secondary">
                 Configure your Planck or Preonic
+              </a>
+
+              <a
+                href="https://www.caniusevia.com/"
+                className=" mr-3 btn btn-secondary"
+              >
+                Learn about VIA
               </a>
 
               <a href="https://qmk.fm/" className="btn btn-outline-secondary">
@@ -223,7 +231,7 @@ export default function Home({ allPostsData }) {
                 <h2 className="display-2 font-weight-bolder text-white mb-1">
                   Ortholinear Keyboards
                 </h2>
-                <h2 className="text-secondary font-weight-light mb-5">
+                <h2 className="text-secondary font-weight-light mb-3">
                   Not only are ortholinear keyboards useful, they're pretty
                   freaking cool
                 </h2>
@@ -238,9 +246,11 @@ export default function Home({ allPostsData }) {
                 </a>
               </div>
             </div>
+          </div>
+          <div className="container-fluid">
             <div className="row text-dark">
               <div className="col-lg-3">
-                <div className="card">
+                <div className="card ele-3">
                   <div className="card-body">
                     <h3>OLKB Plank & Preonic</h3>
                     <img
@@ -261,7 +271,7 @@ export default function Home({ allPostsData }) {
                 </div>
               </div>
               <div className="col-lg-3">
-                <div className="card">
+                <div className="card ele-3">
                   <div className="card-body">
                     <h3>Idobo ID75</h3>
                     <img
@@ -284,7 +294,7 @@ export default function Home({ allPostsData }) {
                 </div>
               </div>
               <div className="col-lg-3">
-                <div className="card">
+                <div className="card ele-3">
                   <div className="card-body">
                     <h3>Split Keyboards</h3>
                     <img
@@ -306,22 +316,22 @@ export default function Home({ allPostsData }) {
                 </div>
               </div>
               <div className="col-lg-3">
-                <div className="card">
+                <div className="card ele-3">
                   <div className="card-body">
-                    <h3>NIU40 / NIU Mini</h3>
+                    <h3>Work Louder: Creator Board</h3>
                     <img
                       className="img-fluid"
-                      src="/niu40.webp"
-                      alt="NIU 40 NIU Mini"
+                      src="/creator-board/work-louder-creator-board.jpg"
+                      alt="Work Louder Creator Board"
                     />
-                    <p>
-                      The NIU 40 / NIU Mini is a 40% keyboard similar to the
-                      Planck ortholinear keyboard. You purchase them a DIY kit
-                      at <a href="https://kbdfans.com/r?id=eft22v">KBDFans</a>.
-                      A bit cheaper than the OLKB offerings, it offers similar
-                      functionality and features.
+                    <p className="mt-3">
+                      The Creator Board is an innovative modular design keyboard
+                      that can be configured to suit individual preferences.
+                      This is a customizable keyboard (customizable in terms of
+                      keys, orientation, modules, and size), which means you can
+                      create a personally tailored setup to fit your needs.
                     </p>
-                    <a href="/niu40" className="btn btn-secondary mt-3">
+                    <a href="/worklouder" className="btn btn-secondary mt-3">
                       Learn More
                     </a>
                   </div>

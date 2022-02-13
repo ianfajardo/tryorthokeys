@@ -87,6 +87,42 @@ export default function Keyboards() {
         </div>
       </div>
 
+      <div id="worklouder" className="section-container ">
+        <div className="container">
+          <div className="card ele-2">
+            <div className="px-5 py-5 py-lg-3">
+              <div className="row align-items-center">
+                <div className="col-lg-5">
+                  <h2 className="font-weight-bold text-primary">
+                    Work Louder: Creator Board
+                  </h2>
+                  <p style={{ fontSize: "20px" }}>
+                    Work Louder is a company building keyboards with innovative
+                    like their creator Board is an innovative modular design
+                    keyboard with features designed to make things easier for
+                    creatives. This is a customizable keyboard (customizable in
+                    terms of keys, orientation, modules, and size), which means
+                    you can create a personally tailored setup to fit your
+                    needs.
+                  </p>
+
+                  <a href="/worklouder" className="btn btn-primary mr-2 mb-2">
+                    Learn More
+                  </a>
+                </div>
+                <div className="col-lg-7">
+                  <img
+                    src="/plank-preonic.jpg"
+                    alt="Planck & Preonic Keyboards Ortholinear"
+                    className="img-fluid"
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
       <div id="ergodox" className="section-container ">
         <div className="container">
           <div className="card ele-2">
