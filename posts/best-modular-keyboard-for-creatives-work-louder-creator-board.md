@@ -51,7 +51,7 @@ Even the packaging that the keyboard came in was impressive.
 
 ## Included Keycaps and Switches
 
-If you choose to get a ready-to-use kit in comes with Kailh choc low-profile switches and their own "wrk." keycaps that align with their design language. They do the job, but they might not be for everyone. The Kailh chocolate dark yellow switches are fairly heavy linear switches and aren't MX compatible, and the low-profile keycaps aren't the most ergonomic or comfortable to type on.
+If you choose to get a ready-to-use kit in comes with Kailh choc low-profile switches and their own "wrk." keycaps that align with their design language. They do the job, but they might not be for everyone. The Kailh choc dark yellow switches are fairly heavy linear switches and aren't MX compatible, and the low-profile keycaps aren't the most ergonomic or comfortable to type on.
 
 If they're not your thing or you'd rather add your own keycaps and switches, then you should choose the DIY option. You'll have to solder your own switches since they don't offer a hot-swap option.
 
