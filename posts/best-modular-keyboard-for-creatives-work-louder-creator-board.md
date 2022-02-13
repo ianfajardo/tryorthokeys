@@ -2,71 +2,79 @@
 title: "The Best Modular Keyboard for Creatives: The Work Louder Creator Board"
 metatitle: "The Best Modular Keyboard for Creatives: The Work Louder Creator Board | worklouder world louder creator board 60% keyboard 60 percent keyboard ortho keyboard ortholinear keyboard"
 description: "The Work Louder Creator Board is a modular, ortholinear keyboard for the creative who types all day long - writers, coders, business owners, and more.  It's designed to be highly customizable, and can change with your needs."
-date: "2022-02-12"
-image: "/why-you-should-switch-to-an-ortholinear-keyboard.png"
+date: "2022-02-13"
+image: "/best-modular-keyboard-for-creatives-work-louder-creator-board.jpg"
 ---
 
-## What is an Ortholinear Keyboard and How Does it Differ from a Traditional Keyboard?
+<h2 class="mb-4">The Creator Board: An Amazing Tool for Creatives</h2>
 
-<div class="row align-items-top">
-<div class="col-lg-7">
+<div class="row align-items-top mb-4">
+<div class="col-lg-6">
 
-Ortholinear keyboards don’t have all the standard keys of a regular keyboard. The biggest difference is that traditional keyboards are laid out in a staggered fashion, while an ortholinear keyboard has all the keys in a straight row. This means that the user’s hands never have to leave the home row in order to type.
+Chances are you've seen this ortholinear keyboard from Work Louder all over Instagram and TikTok. The [Creator Board](/worklouder) is an innovative modular design keyboard that can be configured to suit individual preferences. This is a customizable keyboard (customizable in terms of keys, orientation, modules, and size), which means you can create a personally tailored setup to fit your needs. Additional modules can be added with more customizable knobs and keys. There are currently only two modules, the Loop Pad and the Nano Pad, but additional modules are planned for the future.
 
-These ortho keyboards are also customizable, meaning that they can be tailored to your needs and preferences. For this reason, many ortholinear keyboards are the smaller 40% keyboard size. They utilize a key layer system where you hold down a layer key to access different key strokes depending what layer you are on. For example, the first layer would serve as your alpha keys while the second layer might be custom shortcuts for Photoshop.
+Features:
 
-The grid layout makes the keyboard faster to type on because you don't have to move your hands as much while scrolling through symbols. This also takes a bit of remembering the different shortcuts and has a higher learning curve.
+- Cusomizable removable modules
+- Up to 6 rotary knobs
+- 236 programmable keys across 4 key layers
+- VIA and QMK configurarable to customize all keys
+- 60% layout
 
 </div>
-<div class="col-lg-5">
+<div class="col-lg-6">
 
-<a href="https://amzn.to/333pMu0">
-<img class="img-fluid" src="/planck-left.jpg">
+<a href="/worklouder">
+<img class="img-fluid" src="/work-louder-creator-board.jpg">
 </a>
 
 </div>
 </div>
 
-## How to Choose the Right Ortho Keyboard for You
+## Great Design and Modularity
 
-A keyboard is the most important tool in your arsenal, especially when you are typing for long periods of time. So it's important to choose a keyboard that will not only satisfy your needs but also do so in a cost effective manner. Fortunately, ortho keyboards are relatively inexpensive as compared to many of the other customizable keyboards out there.
+It is immediately apparent that the Creator Board was designed for and by designers. Like other ortholinear keyboards, the alpha keyboard itself has the standard 40% layout with 48 keys. However, the ability to add and remove modules is a game-changer. Each of the different modules acts like its own keyboard. Even the underglow and keycap lighting are seperately customizable under the Loop Pad, Nano Pad, and Alpha Keys. You can customize each module for what you want it tailored to, whether its for Photoshop, Twitch, or another program.
 
-Choosing the right keyboard is a personal decision. There are a number of considerations that factor in, such as aesthetics, ergonomics, and cost. Below are some factors to consider when making your decision.:
+Even the packaging that the keyboard came in was impressive.
 
-- What type of layout do you require? Japanese, Korean, Arabic, Dvorak, Qwerty?
-- Do you need multimedia keys or shortcuts?
-- What is your budget for this purchase?
-- Are you traveling with the keyboard?
-
-Take a look at all the different types of keyboards we have reviewed and researched here: [Ortholinear Keyboards](/keyboards)
-
-## Planck & Preonic
-
-<div class="row">
-<div class="col-lg-8">
-
-The most popular options are the [OLKB Planck and Preonic keyboards](/olkb) which use customizable hot-swappable switches. They are also available online. You can order them right away with Drop or Amazon, so you don't have to wait for them to come back in stock. Assembly for this product should be easy, as the majority of the parts come pre-assembled. All you'll need is a screwdriver.
-
-The [Planck](https://amzn.to/333pMu0) and [Preonic](https://amzn.to/3xzTDbF) offer a compact keyboard that frees up space on your desk, and allows you to work more efficiently when set up with your own macros. The grid layout and universal 1u size of each keycap on the Preonic and Planck keyboards allows you to map a key or command without worrying about hierarchy.
-
-For example, you can change the key of the default "Shift" or "Enter" and it's not a giant key compared to everything else. It's the same size as every other key and the experience is the same. Read our article on [how to configure your Planck or Preonic](/configure) to see how easy it is!
-
+<div class="row my-3">
+<div class="col-lg-4">
+<img class="img-fluid" src="/creator-board/work-louder-creator-board-bag.jpg">
 </div>
 <div class="col-lg-4">
-<a href="/olkb">
-<img src="/plank-preonic.jpg" class="img-fluid" alt="planck and preonic keyboard with mito xda keycaps">
-</a>
+<img class="img-fluid" src="/creator-board/work-louder-creator-board-packaging.jpg">
+</div>
+<div class="col-lg-4">
+<img class="img-fluid" src="/creator-board/work-louder-creator-board-packaging-keycaps.jpg">
 </div>
 </div>
 
-## What are the disadvantages of ortholinear keyboards?
+## Included Keycaps and Switches
 
-These keyboards are highly customizable as compared to traditional ones, and it takes a lot of time for people to get used to them. The grid-like pattern takes some time to get used to compared to the traditional keyboard staggered key layout. Of course, an ortholinear keyboard isn’t for everyone. However, if you like to customize your keyboard, the time investment might be worth it for you.
+If you choose to get a ready-to-use kit in comes with Kailh choc low-profile switches and their own "wrk." keycaps that align with their design language. They do the job, but they might not be for everyone. The Kailh chocolate dark yellow switches are fairly heavy linear switches and aren't MX compatible, and the low-profile keycaps aren't the most ergonomic or comfortable to type on.
 
-## Conclusion
-Ortholinear keyboards are often overlooked because they don't fit the standard layout of most keyboards. But what makes them so great is that they can be customized to fit your needs and be as compact as possible with no wasted space. This also means ortholinear keyboards are lightweight and easy to transport, making them the ideal solution for anyone who spends a lot of time traveling.
+If they're not your thing or you'd rather add your own keycaps and switches, then you should choose the DIY option. You'll have to solder your own switches since they don't offer a hot-swap option.
 
-The ortholinear keyboard is a great option for people who want a more efficient way to type or who are looking for a portable keyboard that they can customize.
+<div class="row my-3">
+<div class="col-lg-6">
+<img class="img-fluid" src="/creator-board/work-louder-creator-board-switches.jpg">
+</div>
+<div class="col-lg-6">
+<img class="img-fluid" src="/creator-board/work-louder-creator-board-keycaps.jpg">
+</div>
+</div>
+
+## If you're a creator, you should get this keyboard
+
+The Creator Board is perfect for you if you need modularity and customizability. Like its name, it's specifically made for creators, designers, and content creators and it does it amazingly. Compared to other keyboars, the price tag is a lot higher than others. But what you're paying for is customizabiliy and a company that cares about design. More modules are planned, the creators are proactive with the community. Recently, there has been a contest in the community to design a mousepad to sell in their store.
+
+Even if you already have a keyboard you like, Work Louder is working on a micropad called the Creator Micro that has a similar design. They are a fairly new company in the game, but they are already shaking things up in the ortholinear game. You can expect great products coming from this company in the future.
+
+If you're a photographer, video editor or video game designer, the Creator Board can help you make creating easier with its efficient workflow. It's an all-in-one package and you don't need to have more than one keypad. It's portable and compact, perfect for editing on the go.
+
+<a href="/worklouder" class="btn btn-primary">Learn More</a>
+
+<hr/>
 
 <div class="row mt-5">
 <div class="col-lg-6">
