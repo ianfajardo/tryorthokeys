@@ -13,6 +13,8 @@ image: "/complete-guide-to-mt3-profile-keycaps-why-buy-one.png"
 
 In this article, I will be exploring the benefits of buying a MT3 profile keycap. I will be discussing the top three reasons why you should consider buying one of these keycaps for your keyboard.
 
+One of the most popular retro mechanical keyboards are the original IBM keyboards from the 1970s. The MT3 profile is based on this profile and recreates the heavily slanted design and the scooped contoured tops of each keycap. The MT3 profile sucessfully captures the feel of vintage keyboards while also incorporating modern keycap design.
+
 1. MT3 profile keycaps can be more comfortable to type on than traditional keycaps.
 2. They are also more durable and less likely to break.
 3. They come in a variety of different colors and styles which can make a keyboard look even better!
@@ -78,7 +80,7 @@ Features:
 
 There are many different keycaps available on the market, and it can be difficult to find the best deal. Prices can vary depending on where you purchase them from, but there are also other factors to consider. On their main website DROP often has buy one get one deals. At the time of writing they have a [MT3 Bogo deal](https://drop.com/?referer=T93XGG) going on right now if you use code **MT3FREE** valid until 2/20/2022 for specific sets.
 
-- - -
+---
 
 <div class="row mt-5">
 <div class="col-lg-6">
