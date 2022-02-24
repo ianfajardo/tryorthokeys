@@ -1,6 +1,6 @@
 ---
 title: "Awesome Planck Keyboard Setups"
-metatitle: "Awesome Planck Keyboard Setups | planck keyboard olkb 40 keyboard ortholinear keyboard"
+metatitle: "Awesome Planck Keyboard Setups | drop planck keyboard olkb 40 keyboard ortholinear keyboard"
 description: "Looking for some inspiration for your first or next Planck keyboard setup? Check out our picks of beautiful ortholinear keyboards to get inspriation from."
 date: "2022-02-07"
 image: "/awesome-planck-keyboard-setups.jpg"
