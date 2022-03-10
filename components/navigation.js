@@ -39,6 +39,7 @@ export default function Navigation() {
                 <NavDropdown.Item href="/split">Split</NavDropdown.Item>
                 <NavDropdown.Item href="/niu40">NIU40</NavDropdown.Item>
                 <NavDropdown.Item href="/jj40">JJ40</NavDropdown.Item>
+                <NavDropdown.Item href="/koolertron">Koolertron</NavDropdown.Item>
                 <NavDropdown.Item href="/keyboards">View All</NavDropdown.Item>
               </NavDropdown>
             </Nav>
