@@ -51,8 +51,8 @@ export default function Split() {
         <div className="container">
           <Nav defaultActiveKey="/home" as="ul" className="py-2">
             <Nav.Item as="li">
-              <Nav.Link className="text-white" href="#kenesis">
-                Kenesis Advantage2
+              <Nav.Link className="text-white" href="#kinesis">
+                Kinesis Advantage2
               </Nav.Link>
             </Nav.Item>
             <Nav.Item as="li">
@@ -69,7 +69,7 @@ export default function Split() {
         </div>
       </div>
 
-      <div id="kenesis" className="section-container ">
+      <div id="kinesis" className="section-container ">
         <div className="container">
           <div className="card ele-2">
             <div className="px-5 py-5 py-lg-5">
@@ -79,7 +79,7 @@ export default function Split() {
                     Kinesis Advantage2
                   </h2>
                   <p style={{ fontSize: "20px" }}>
-                    The Kenesis Advantage 2 is a an ergonomic keyboard with
+                    The Kinesis Advantage 2 is a an ergonomic keyboard with
                     Cherry MX Brown switches, 20 degrees of tenting, integrated
                     palm supports, and more.
                   </p>
@@ -88,6 +88,9 @@ export default function Split() {
                     className="btn btn-primary mr-2"
                   >
                     View on Amazon
+                  </a>
+                  <a href="/kinesis" className="btn btn-primary mr-2">
+                    Learn more
                   </a>
                 </div>
                 <div className="col-lg-4">

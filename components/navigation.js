@@ -35,6 +35,7 @@ export default function Navigation() {
               <Nav.Link href="/worklouder">Work Louder</Nav.Link>
               <NavDropdown title="Other Ortho Keyboards" id="olkb-nav-dropdown">
                 <NavDropdown.Item href="/id75">ID75</NavDropdown.Item>
+                <NavDropdown.Item href="/kinesis">Kinesis</NavDropdown.Item>
                 <NavDropdown.Item href="/split">Split</NavDropdown.Item>
                 <NavDropdown.Item href="/niu40">NIU40</NavDropdown.Item>
                 <NavDropdown.Item href="/jj40">JJ40</NavDropdown.Item>
