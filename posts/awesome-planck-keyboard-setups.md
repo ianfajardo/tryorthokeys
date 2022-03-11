@@ -41,7 +41,7 @@ We saw this setup on the Drop website and we loved the simplicity and how clean 
 
 <a href="https://pimpmykeyboard.com/sa-p-snow-cap-keyset-original/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate" class="btn btn-primary">SA Snow Keycap Set</a>
 
-<a class="btn btn-outline-primary" ref="https://amzn.to/2SJoa7z">Planck Keyboard</a>
+<a class="btn btn-outline-primary"href="https://amzn.to/2SJoa7z">Planck Keyboard</a>
 
 </div>
 </div>
@@ -62,7 +62,7 @@ The MT3 keycap profile is based off the original IBM keyboards from the 1970s an
 
 <a href="https://amzn.to/3BzUg69" class="btn btn-primary">Drop White-on-Black Keycaps</a>
 
-<a class="btn btn-outline-primary" ref="https://amzn.to/2SJoa7z">Planck Keyboard</a>
+<a class="btn btn-outline-primary"href="https://amzn.to/2SJoa7z">Planck Keyboard</a>
 
 </div>
 </div>
@@ -83,7 +83,7 @@ The [YMDK Carbon](https://amzn.to/3DEKmCd) is a great budget keycap set that loo
 
 <a href="https://amzn.to/3DEKmCd" class="btn btn-primary">YMDK Carbon</a>
 
-<a class="btn btn-outline-primary" ref="https://amzn.to/2SJoa7z">Planck Keyboard</a>
+<a class="btn btn-outline-primary"href="https://amzn.to/2SJoa7z">Planck Keyboard</a>
 
 </div>
 </div>
@@ -104,7 +104,7 @@ The [Acute keycaps](https://amzn.to/3rzSVKH) hold a special place in our heart s
 
 <a href="https://amzn.to/3rzSVKH" class="btn btn-primary">Acute Keycap Set</a>
 
-<a class="btn btn-outline-primary" ref="https://amzn.to/2SJoa7z">Planck Keyboard</a>
+<a class="btn btn-outline-primary"href="https://amzn.to/2SJoa7z">Planck Keyboard</a>
 
 </div></div>
 
