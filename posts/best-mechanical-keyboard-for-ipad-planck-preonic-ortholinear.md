@@ -1,6 +1,6 @@
 ---
 title: "The Best Mechanical Keyboard for your iPad - The OLKB Planck and Preonic"
-metatitle: "The OLKB Planck Mechanical Keyboard is the perfect companion for your iPad Pro. It is a small, portable 40% keyboard that is as wide as the 11-inch iPad Pro or the iPad Air. "
+metatitle: "The Best Mechanical Keyboard for your iPad - The OLKB Planck and Preonic | 40% keyboard ortholinear keyboard"
 description: "The OLKB Planck Mechanical Keyboard is the perfect companion for your iPad Pro. It is a small, portable 40% keyboard that is as wide as the 11-inch iPad Pro or the iPad Air. "
 date: "2022-03-21"
 image: "/best-mechanical-keyboard-for-ipad-planck-preonic-ortholinear.png"
