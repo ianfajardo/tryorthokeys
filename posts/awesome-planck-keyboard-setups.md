@@ -62,7 +62,7 @@ The MT3 keycap profile is based off the original IBM keyboards from the 1970s an
 
 <a href="https://amzn.to/3BzUg69" class="btn btn-primary">Drop White-on-Black Keycaps</a>
 
-<a class="btn btn-outline-primary"href="https://amzn.to/2SJoa7z">Planck Keyboard</a>
+<a class="btn btn-outline-primary" href="https://amzn.to/2SJoa7z">Planck Keyboard</a>
 
 </div>
 </div>
@@ -83,7 +83,7 @@ The [YMDK Carbon](https://amzn.to/3DEKmCd) is a great budget keycap set that loo
 
 <a href="https://amzn.to/3DEKmCd" class="btn btn-primary">YMDK Carbon</a>
 
-<a class="btn btn-outline-primary"href="https://amzn.to/2SJoa7z">Planck Keyboard</a>
+<a class="btn btn-outline-primary" href="https://amzn.to/2SJoa7z">Planck Keyboard</a>
 
 </div>
 </div>
