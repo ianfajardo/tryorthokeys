@@ -45,7 +45,7 @@ export default function Home({ allPostsData }) {
           property="og:description"
           content="Ortholinear keyboards are computer keyboards with a grid layout. An ortho keyboard usually has mechanical key switches and programmable keymappings.  Popular products include OLKB Planck and Preonic, Ergodox, NIU40 mini and more."
         />
-        <meta property="og:image" content="/planck-2.jpg" />
+        <meta property="og:image" content="https://tryorthokeys.com/planck-2.jpg" />
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://www.tryorthokeys.com/" />
@@ -57,7 +57,7 @@ export default function Home({ allPostsData }) {
           property="twitter:description"
           content="Ortholinear keyboards are computer keyboards with a grid layout. An ortho keyboard usually has mechanical key switches and programmable keymappings.  Popular products include OLKB Planck and Preonic, Ergodox, NIU40 mini and more."
         />
-        <meta property="twitter:image" content="/planck-2.jpg" />
+        <meta property="twitter:image" content="https://tryorthokeys.com/planck-2.jpg" />
       </Head>
 
       <Navigation />

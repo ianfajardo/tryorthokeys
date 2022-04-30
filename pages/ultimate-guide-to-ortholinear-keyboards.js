@@ -39,6 +39,41 @@ export default function Ultimateguide({ keycapPostData, switchPostData }) {
           name="description"
           content="Learn about the benefits of an ortholinear keyboard, and how to make the switch with this comprehensive guide"
         />
+
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.tryorthokeys.com/" />
+        <meta
+          property="og:title"
+          content="Ultimate Guide to Ortholinear Keyboards | ortho keyboard, ortho
+          keycaps, ortholinear keycaps"
+        />
+        <meta
+          property="og:description"
+          content="Learn about the benefits of an ortholinear keyboard, and how to make the switch with this comprehensive guide"
+        />
+        <meta
+          property="og:image"
+          content="https://tryorthokeys.com/creator-board/work-louder-creator-board-diy.jpg"
+        />
+
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta
+          property="twitter:url"
+          content="https://www.tryorthokeys.com/ultimate-guide-to-ortholinear-keyboards"
+        />
+        <meta
+          property="twitter:title"
+          content="Ultimate Guide to Ortholinear Keyboards | ortho keyboard, ortho
+          keycaps, ortholinear keycaps"
+        />
+        <meta
+          property="twitter:description"
+          content="Learn about the benefits of an ortholinear keyboard, and how to make the switch with this comprehensive guide"
+        />
+        <meta
+          property="twitter:image"
+          content="https://tryorthokeys.com/creator-board/work-louder-creator-board-diy.jpg"
+        />
       </Head>
 
       <Navigation />
