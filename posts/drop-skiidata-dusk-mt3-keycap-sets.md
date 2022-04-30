@@ -4,6 +4,7 @@ metatitle: "Drop's new Red, Green and Blue Ortholinear MT3 Keycap Sets | ortholi
 description: "Drop has recently released some great MT3 dark keycap sets with ortholinear layouts for keyboards such as the Planck or Preonic."
 date: "2021-10-27"
 image: "/skiidata.jpg"
+tags: ["keycaps"]
 ---
 
 ## Drop MT3 Skiidata and Dusk Keycap Sets

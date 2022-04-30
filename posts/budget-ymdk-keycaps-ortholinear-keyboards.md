@@ -4,6 +4,7 @@ metatitle: "Budget YMDK Keycaps for your Ortholinear Keyboards Available on Amaz
 description: "YDMK offers great budget keycaps for your first ortholinear keyboard build and are available on Amazon."
 date: "2021-12-31"
 image: "/budget-ymdk-keycaps-amazon.jpg"
+tags: "keycaps, keycaps-guide"
 ---
 
 ## Budget Amazon Ortho Keycaps

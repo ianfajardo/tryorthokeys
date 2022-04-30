@@ -4,6 +4,7 @@ metatitle: "Best Budget Keycaps for Your Ortho Keyboard | Drop ortholinear keyca
 description: "Here are our recommendations for the best budget starter keycaps for your Planck or Preonic keyboard."
 date: "2021-04-14"
 image: "/best-budget-keycaps-ortho-keyboard.png"
+tags: "keycaps, keycaps-guide"
 ---
 
 <div class="row">

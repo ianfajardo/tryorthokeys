@@ -4,13 +4,14 @@ metatitle: "Top 5 Best Tactile Switches for your Mechanical Keyboard | holy pand
 description: "You may be wondering what the best tactile switch is for your mechanical keyboard. Well, we’ve scoured the internet and read tons of reviews to find the top 5 best tactile switches on the market today."
 date: "2022-03-10"
 image: "/top-5-best-tactile-switches-for-your-mechanical-keyboard.jpg"
+tags: "switches"
 ---
 
 <div class="row align-items-center mb-5"><div class="col-lg-7">
 
 ## Tactile Switches and What They Do
 
-If you've been in the mechanical keyboard world for any length of time, you've probably come across different kinds of mechanical switches. A tactile switch is one that uses a "tactile" bump feel to indicate when the key has been pressed. The bump also tells you that the key has been pressed and released, as opposed to a clicky switch which will only have an audible sound. The other type of switch is a linear switch, which has no bump and has a smooth keystroke throughout the press. If you've been in the mechanical keyboard world for any length of time, you've probably come across different kinds of mechanical switches.
+If you've been in the mechanical keyboard world for any length of time, you've probably come across different kinds of mechanical switches. A tactile switch is one that uses a "tactile" bump feel to indicate when the key has been pressed. The bump also tells you that the key has been pressed and released, as opposed to a clicky switch which will only have an audible sound. The other type of switch is a linear switch, which has no bump and has a smooth keystroke throughout the press. 
 
 The most common entry-level tactile switch is the [Cherry MX Brown](https://amzn.to/3J5boVN). These are a solid way to get introduced to this style of switch, but there are plenty more with different weights and feels. Well, we’ve scoured the internet and read tons of reviews to find the top 5 best tactile switches on the market today taking into account popularity, price, feel, and availability.
 

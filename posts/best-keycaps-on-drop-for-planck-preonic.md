@@ -4,6 +4,7 @@ metatitle: "Best Keycaps on Drop for your Planck or Preonic | drop keycaps drop 
 description: "Here are our recommendations for the best keycaps on Drop for your Planck or Preonic keyboard."
 date: "2021-06-18"
 image: "/best-keycaps-blog.png"
+tags: "keycaps, keycaps-guide"
 ---
 
 ## Premium keycaps

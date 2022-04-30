@@ -4,8 +4,17 @@
 @import "variables";
 @import "~bootstrap/scss/bootstrap";
 
-h2, h3, h4, h5, h6 {
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-weight: 700;
+}
+
+h3 {
+  font-weight: 500;
+  font-size: 1.75rem;
 }
 
 a {
@@ -46,6 +55,12 @@ blockquote {
     font-size: 16px;
     padding: 16px 20px;
   }
+}
+
+.container-lg {
+  max-width: 1440px;
+  padding-left: 15px;
+  padding-right: 15px;
 }
 
 .ortho-link-container {
@@ -106,6 +121,31 @@ blockquote {
     width: 100%;
     background: #2c3e50;
     opacity: 0.6;
+    content: "";
+    z-index: 2;
+  }
+
+  div {
+    position: relative;
+    z-index: 3;
+  }
+}
+
+.ortho-guide {
+  background: url("/creator-board/work-louder-creator-board-diy.jpg") center
+    center no-repeat;
+  background-size: cover;
+  position: relative;
+  padding: 7rem 0;
+
+  &:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #2c3e50;
+    opacity: 0.8;
     content: "";
     z-index: 2;
   }

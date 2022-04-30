@@ -4,6 +4,7 @@ metatitle: "The Best Linear Switches for your Mechanical Keyboard | gateron yell
 description: "If you're looking for the best linear switches for your mechanical keyboard, we've got you covered. We rank and review all of the best switches available, like Gateron, Cherry, and more!"
 date: "2022-04-27"
 image: "/best-linear-switches-for-your-mechanical-keyboard.jpg"
+tags: "switches"
 ---
 
 <div class="row align-items-center mb-5"><div class="col-lg-7">

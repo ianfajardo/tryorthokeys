@@ -23,6 +23,7 @@ export default function Navigation() {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ml-auto">
+            <Nav.Link href="/ultimate-guide-to-ortholinear-keyboards">Ultimate Guide to Ortholinear Keyboards</Nav.Link>
               <Nav.Link href="/keycaps">Ortho Keycap Sets</Nav.Link>
               <NavDropdown title="OLKB Planck & Preonic" id="olkb-nav-dropdown">
                 <NavDropdown.Item href="/olkb">

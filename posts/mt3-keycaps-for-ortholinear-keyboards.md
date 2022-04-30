@@ -4,6 +4,7 @@ metatitle: "MT3 Profile Keycaps for your Ortholinear Keyboard | drop keycaps dro
 description: "Our favorite sets of MT3 profile keycaps for your ortholinear keyboard like Planck or Preonic."
 date: "2021-12-30"
 image: "/mt3-keycaps.jpg"
+tags: "keycaps, keycaps-guide"
 ---
 
 ## MT3 Profile Keycaps

@@ -4,6 +4,7 @@ metatitle: "New MT2 Profile Keycaps Announced by Drop | Low-profile MT3 keycaps"
 description: "Drop just announced a new profile coming soon to their shop which look to be a lower-profile version of their popular MT3 profile keycaps."
 date: "2022-04-08"
 image: "/mt2-keycaps.png"
+tags: ["keycaps"]
 ---
 
 <div class="row mb-4">

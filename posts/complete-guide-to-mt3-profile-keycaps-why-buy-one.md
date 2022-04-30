@@ -4,6 +4,7 @@ metatitle: "The Complete Guide to MT3 Profile Keycaps and Why You Should Buy One
 description: "MT3 Profile Keycaps: What They Are and Why You Should Buy One - A complete guide to profile keycaps and why you should buy one."
 date: "2022-02-15"
 image: "/complete-guide-to-mt3-profile-keycaps-why-buy-one.png"
+tags: ["keycaps"]
 ---
 
 <div class="row align-items-center">

@@ -80,7 +80,7 @@ export default function Home({ allPostsData }) {
                   your own keymappings.
                 </p>
                 <a
-                  href="/keyboards"
+                  href="/ultimate-guide-to-ortholinear-keyboards"
                   className="mt-2 mr-3 btn btn-primary btn-lg"
                 >
                   Learn More

@@ -4,6 +4,7 @@ metatitle: "The Best Budget Keycaps For Your Mechanical Keyboard | budget keyboa
 description: "When it comes to keyboards, quality is important, but price is too. We've found the best budget keycaps for your mechanical keyboard."
 date: "2022-02-16"
 image: "/the-best-budget-keycaps-for-mechanical-keyboard.png"
+tags: "keycaps, keycaps-guide"
 ---
 
 <div class="row">
