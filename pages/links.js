@@ -36,6 +36,12 @@ export default function Links() {
           <div className="container mt-3">
             <div className="row">
               <div className="col-lg-12">
+              <a
+                  href="https://www.tryorthokeys.com/ultimate-guide-to-ortholinear-keyboards"
+                  className="btn btn-primary btn-lg btn-block mb-3"
+                >
+                  Ultimate Guide to Ortholinear Keyboards
+                </a>
                 <a
                   href="https://www.tryorthokeys.com/keycaps"
                   className="btn btn-primary btn-lg btn-block mb-3"
