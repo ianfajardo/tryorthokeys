@@ -41,7 +41,7 @@ export default function Ultimateguide({ keycapPostData, switchPostData }) {
         />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.tryorthokeys.com/" />
+        <meta property="og:url" content="https://www.tryorthokeys.com/ultimate-guide-to-ortholinear-keyboards" />
         <meta
           property="og:title"
           content="Ultimate Guide to Ortholinear Keyboards | ortho keyboard, ortho
