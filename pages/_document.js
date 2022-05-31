@@ -33,6 +33,12 @@ class MyDocument extends Document {
             `,
             }}
           />
+        </Head>
+
+        <body>
+          <Main />
+          <NextScript />
+
           <script
             dangerouslySetInnerHTML={{
               __html: `
@@ -48,11 +54,6 @@ class MyDocument extends Document {
             `,
             }}
           />
-        </Head>
-
-        <body>
-          <Main />
-          <NextScript />
         </body>
       </Html>
     );
