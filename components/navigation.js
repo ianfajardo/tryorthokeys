@@ -23,7 +23,9 @@ export default function Navigation() {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ml-auto">
-            <Nav.Link href="/ultimate-guide-to-ortholinear-keyboards">Ultimate Guide to Ortholinear Keyboards</Nav.Link>
+              <Nav.Link href="/ultimate-guide-to-ortholinear-keyboards">
+                Ultimate Guide to Ortholinear Keyboards
+              </Nav.Link>
               <Nav.Link href="/keycaps">Ortho Keycap Sets</Nav.Link>
               <NavDropdown title="OLKB Planck & Preonic" id="olkb-nav-dropdown">
                 <NavDropdown.Item href="/olkb">
@@ -36,11 +38,14 @@ export default function Navigation() {
               <Nav.Link href="/worklouder">Work Louder</Nav.Link>
               <NavDropdown title="Other Ortho Keyboards" id="olkb-nav-dropdown">
                 <NavDropdown.Item href="/id75">ID75</NavDropdown.Item>
+                <NavDropdown.Item href="/gizmo-engineering-gk6">GK6</NavDropdown.Item>
                 <NavDropdown.Item href="/kinesis">Kinesis</NavDropdown.Item>
                 <NavDropdown.Item href="/split">Split</NavDropdown.Item>
                 <NavDropdown.Item href="/niu40">NIU40</NavDropdown.Item>
                 <NavDropdown.Item href="/jj40">JJ40</NavDropdown.Item>
-                <NavDropdown.Item href="/koolertron">Koolertron</NavDropdown.Item>
+                <NavDropdown.Item href="/koolertron">
+                  Koolertron
+                </NavDropdown.Item>
                 <NavDropdown.Item href="/keyboards">View All</NavDropdown.Item>
               </NavDropdown>
             </Nav>
