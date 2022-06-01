@@ -669,6 +669,26 @@ export default function Keycaps() {
                                 </a>
                               </td>
                             </tr>
+                            <tr>
+                              <td>DCS PBT Blank Keyset</td>
+                              <td>DCS</td>
+                              <td>
+                                <a
+                                  href="https://pimpmykeyboard.com/dcs-pbt-blank-keysets/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate"
+                                >
+                                  <img
+                                    style={{ maxWidth: "160px" }}
+                                    src="https://cdn10.bigcommerce.com/s-ktpi93fl/products/283/images/1866/Planck_1__63576.1565895985.800.600.jpg?c=2"
+                                    alt=""
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://pimpmykeyboard.com/dcs-pbt-blank-keysets/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate">
+                                  View Now
+                                </a>
+                              </td>
+                            </tr>
                           </tbody>
                         </Table>
                       </div>
