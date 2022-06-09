@@ -20,7 +20,8 @@ The ideal stabilizer allows for no wobble and minimal sound when those keys are 
 </div>
 <div class="col-lg-6">
 
-<img class=" img-fluid my-2" src="/blog/best-keyboard-stabilizers.jpg" />
+<a href="https://prevailkeyco.com/collections/stabilizers/products/durock-v2-stabilizers?ref=tryorthokeys&variant=41994084843774">
+<img class=" img-fluid my-2" src="/blog/best-keyboard-stabilizers.jpg" /></a>
 
 </div>
 </div>
