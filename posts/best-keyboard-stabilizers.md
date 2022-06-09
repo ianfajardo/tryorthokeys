@@ -29,6 +29,26 @@ The ideal stabilizer allows for no wobble and minimal sound when those keys are 
 
 <br/>
 
+### Durock V2 Stabilzers
+
+<a href="https://prevailkeyco.com/collections/stabilizers/products/durock-v2-stabilizers?ref=tryorthokeys&variant=41994084843774">
+<img src="/durock-v2-stabilizers.jpg" class="img-fluid small-img my-3">
+</a>
+
+Durock is well-known for making great stabilizers (like the Everglide branded one above) and the Durock V2 Stabs are well-known for good reason. They are super-smooth, come pre-clipped, and are screw-in mounted. Just make sure you can install screw-ins on your PCB and you're good to go.
+
+Features:
+
+- Gold-planted stainless steel wires
+- Polymer Polycarbonate
+- Screw-in only
+- Pre-clipped
+- Can purchase individual sizes or a kit
+
+<a class="btn btn-primary mt-2 mb-4" href="https://prevailkeyco.com/collections/stabilizers/products/durock-v2-stabilizers?ref=tryorthokeys&variant=41994084843774">Buy Now</a>
+
+---
+
 ### KBDFans Dyboox PC Screw-in Stabilizers
 
 <a href="https://kbdfans.com/r?id=acem8o">
@@ -36,7 +56,7 @@ The ideal stabilizer allows for no wobble and minimal sound when those keys are 
 <img class="img-fluid small-img my-2" src="/kbd-fans-kyboox-stabilizers.jpg" alt="Best Keyboard Stabilizers for your Mechanical Keyboard" />
 </a>
 
-If you're looking for a great starter set, these KBDFand Dyboox Screw-in Stabs are perfect. These are the same ones used with many of KBDFans' pre-built keyboards and come in a couple different colors for those that want to personalize their stabilizers. They offer the ability to use as mount or screw-in for those that want the options. We highly recommend using a keyboard PCB that supports screw-in it's the best at reducing vibration. The great thing about KBDFans is that they sometimes offer some extra services to save you some time on your purchase. They to clip and lube your stabiliers for an extra $2 and those tasks greatly reduce rattle and make your stabilizers way beter.
+If you're looking for a great starter set, these KBDFans Dyboox Screw-in Stabs are perfect. These are the same ones used with many of KBDFans' pre-built keyboards and come in a couple different colors for those that want to personalize their stabilizers. They offer the ability to use as mount or screw-in for those that want the options. We highly recommend using a keyboard PCB that supports screw-in it's the best at reducing vibration. The great thing about KBDFans is that they sometimes offer some extra services to save you some time on your purchase. They to clip and lube your stabiliers for an extra $2 and those tasks greatly reduce rattle and make your stabilizers way beter.
 
 Features:
 
@@ -65,26 +85,6 @@ Features:
 - (7) 2u stabilizers
 - (1) 6.26u stabilizer
 - (1) 7u stabilizer wire
-
----
-
-### Durock V2 Stabilzers
-
-<a href="https://prevailkeyco.com/collections/stabilizers/products/durock-v2-stabilizers?variant=41994084843774">
-<img src="/durock-v2-stabilizers.jpg" class="img-fluid small-img my-3">
-</a>
-
-Durock is well-known for making great stabilizers (like the Everglide branded one above) and the Durock V2 Stabs are well-known for good reason. They are super-smooth, come pre-clipped, and are screw-in mounted. Just make sure you can install screw-ins on your PCB and you're good to go.
-
-Features:
-
-- Gold-planted stainless steel wires
-- Polymer Polycarbonate
-- Screw-in only
-- Pre-clipped
-- Can purchase individual sizes or a kit
-
-<a class="btn btn-primary mt-2 mb-4" href="https://prevailkeyco.com/collections/stabilizers/products/durock-v2-stabilizers?variant=41994084843774">Buy Now</a>
 
 ---
 
