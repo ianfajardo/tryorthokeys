@@ -15,7 +15,7 @@ library.add(fab, faTwitter, faInstagram);
 export default function Navigation() {
   return (
     <div>
-      <Navbar expand="lg" bg="white" variant="white">
+      <Navbar expand="xl" bg="white" variant="white">
         <Container fluid>
           <Navbar.Brand className="text-primary font-weight-bolder" href="/">
             Try Ortho Keys!
@@ -24,9 +24,10 @@ export default function Navigation() {
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ml-auto">
               <Nav.Link href="/ultimate-guide-to-ortholinear-keyboards">
-                Ultimate Guide to Ortholinear Keyboards
+                Ultimate Ortholinear Guide
               </Nav.Link>
               <Nav.Link href="/keycaps">Ortho Keycap Sets</Nav.Link>
+              <Nav.Link href="/deals">Keyboard Deals</Nav.Link>
               <NavDropdown title="OLKB Planck & Preonic" id="olkb-nav-dropdown">
                 <NavDropdown.Item href="/olkb">
                   About the Keyboards
