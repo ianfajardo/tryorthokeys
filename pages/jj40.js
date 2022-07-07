@@ -35,16 +35,10 @@ export default function JJ40() {
                   that is a similar ortho keyboard to the OLKB Planck.
                 </p>
                 <a
-                  href="https://kprepublic.com/collections/daisy-40"
+                  href="https://kprepublic.com/collections/daisy-40?dt_id=94852"
                   className="mt-3 btn btn-primary mr-2"
                 >
                   Buy Now
-                </a>
-                <a
-                  className="mt-3 btn btn-outline-primary"
-                  href="https://a.marsello.com/l/613284530880c012c0798cf0"
-                >
-                  $2 off Referral Link
                 </a>
               </div>
             </div>
@@ -69,20 +63,16 @@ export default function JJ40() {
                     <a href="https://www.reddit.com/r/MechanicalKeyboards/comments/71muxn/jj40_new_ortho_kit_from_kprepublic_build_log_and/">
                       qmk out of the box
                     </a>{" "}
-                    . KPRepublic offers different options for cases and the site
-                    mentions the pcb is compatible with Planck cases as well.
+                    . In addition, this keyboard is not hotswap and you have to
+                    solder the switches on. KPRepublic offers different options
+                    for cases and the site mentions the pcb is compatible with
+                    Planck cases as well.
                   </p>
                   <a
-                    href="https://kprepublic.com/collections/daisy-40"
+                    href="https://kprepublic.com/collections/daisy-40?dt_id=94852"
                     className="mt-3 btn btn-primary mr-2"
                   >
                     Buy Now
-                  </a>
-                  <a
-                    href="https://a.marsello.com/l/613284530880c012c0798cf0"
-                    className="mt-3 btn btn-outline-primary mr-2"
-                  >
-                    $2 off Referral Link
                   </a>
                 </div>
                 <div className="col-lg-7">

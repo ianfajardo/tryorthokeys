@@ -42,6 +42,7 @@ export default function Navigation() {
                 <NavDropdown.Item href="/kinesis">Kinesis</NavDropdown.Item>
                 <NavDropdown.Item href="/split">Split</NavDropdown.Item>
                 <NavDropdown.Item href="/niu40">NIU40</NavDropdown.Item>
+                <NavDropdown.Item href="/bm40">BM40</NavDropdown.Item>
                 <NavDropdown.Item href="/jj40">JJ40</NavDropdown.Item>
                 <NavDropdown.Item href="/koolertron">
                   Koolertron
