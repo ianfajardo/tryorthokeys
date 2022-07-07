@@ -32,8 +32,7 @@ export default function Keyboards() {
                   Ortholinear keyboards
                 </h1>
                 <h2 className="text-primary font-weight-light">
-                  Not only are ortholinear keyboards useful, they're pretty
-                  freaking cool
+                  Programmable and Compact
                 </h2>
                 <p style={{ fontSize: "20px" }}>
                   There are a plethora of keyboards to choose from and below are
@@ -112,8 +111,8 @@ export default function Keyboards() {
                 </div>
                 <div className="col-lg-7">
                   <img
-                    src="/plank-preonic.jpg"
-                    alt="Planck & Preonic Keyboards Ortholinear"
+                    src="/work-louder-creator-board.jpg"
+                    alt="Work Louder Keyboard"
                     className="img-fluid"
                   />
                 </div>
