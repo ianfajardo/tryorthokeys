@@ -1,10 +1,10 @@
 ---
 title: "The Best Screw-In Keyboard Stabilizer: Durock V2"
 metatitle: "The Best Screw-In Keyboard Stabilizer: Durock V2"
-description: '"The Durock V2 Stabilizers are the best screw-in stabilizers you
-  can get for your mechanical keyboard in terms of performance, durability, and
-  availability."'
-date: '"2022-08-25"'
+description: The Durock V2 Stabilizers are the best screw-in stabilizers you can
+  get for your mechanical keyboard in terms of performance, durability, and
+  availability.
+date: 2022-08-25
 image: /screw-in-stabilizer-durock-v2.jpg
 ---
 ## What Advantages do the Durock V2 Stabilizers Have Over Other Screw-ins?
@@ -55,4 +55,5 @@ If you plan on getting into the hobby of mechanical keyboards, Durock V2 stabs a
 <a class="btn btn-primary" href="https://prevailkeyco.com/products/durock-v2-stabilizers?ref=tryorthokeys&variant=42451809206526">Buy Now</a>
 
 <small>Use coupon code **tryorthokeys** for 5% off your purchase</small>
+
 
