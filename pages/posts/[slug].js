@@ -88,7 +88,7 @@ export default function Post({ postData }) {
                   <a className="text-white">Blog</a>
                 </Link>
                 <h1 className="display-4 font-weight-bolder">{postData.title}</h1>
-                <Date dateString={postData.toString().date} />
+                <Date dateString={postData.date.toString()} />
               </div>
             </div>
           </div>
