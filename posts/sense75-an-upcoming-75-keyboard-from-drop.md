@@ -9,6 +9,8 @@ image: /sense75-keyboard-drop.png
 ---
 ## What is the SENSE75 Keyboard?
 
+![SENSE75 Keyboard](/sense75-drop-keyboard.jpg "SENSE75 Keyboard")
+
 The SENSE75 Keyboard is the newest keyboard edition from the [Drop](https://drop.com/?referer=T93XGG) along with the Drop ALT, CTRL, and ENTR. The keyboard is created with CNC-machined, aircraft-grade aluminum; bundled with their new DCX profile keycaps, Holy Panda X switches, and their own phantom stabilizers. It's truly a keyboard created with all of DROP's best products in one. The design is very minimal with only two colors: a "Nightfall" all black design and a white version with a "white electrophoretic coating". The white version looks especially sleek with a color matched rotary knob. 
 
 Speaking of rotary knobs, the knob on the keyboard is aluminum with mountain knurling. This mountain knurling texture give the knob a great grip to allow for minimal force when turning. The knob isn't a free spinning-knob and on each turn, clicks due to the premium alps encoder. 
