@@ -25,9 +25,30 @@ a {
 }
 
 blockquote {
-  background: #2c3e50;
-  color: #ffffff;
-  padding: 20px;
+  font-size: 20px;
+  margin-top: 2rem;
+  margin-bottom: 3rem;
+  font-family: Open Sans;
+  font-style: italic;
+  color: #2c3e50;
+  padding: 1.2em 30px 1.2em 75px;
+  border-left: 8px solid #2c3e50;
+  line-height: 1.6;
+  position: relative;
+  background: #ededed;
+}
+
+blockquote::before {
+  content: "\201C";
+  color: #2c3e50;
+  font-size: 4em;
+  position: absolute;
+  left: 10px;
+  top: -10px;
+}
+
+blockquote::after {
+  content: "";
 }
 
 .navbar-nav {
@@ -205,6 +226,13 @@ blockquote {
 
 .smaller-img {
   max-width: 150px;
+}
+
+.blog-content-container {
+  img {
+    max-width: 100%;
+    height: auto;
+  }
 }
 
 // Extra small devices (portrait phones, less than 576px)

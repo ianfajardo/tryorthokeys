@@ -93,7 +93,7 @@ export default function Post({ postData }) {
             </div>
           </div>
         </div>
-        <div className="section-container">
+        <div className="blog-content-container section-container">
           <div className="container">
             <div className="row">
               <div className="col-lg-12">
