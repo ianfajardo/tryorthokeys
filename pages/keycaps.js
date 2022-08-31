@@ -573,6 +573,24 @@ export default function Keycaps() {
                             </tr>
                           </thead>
                           <tbody>
+                          <tr>
+                              <td>DSA Blank Space 1u</td>
+                              <td>DSA</td>
+                              <td>
+                                <a href="https://pimpmykeyboard.com/dsa-1-space-pack-of-10/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate">
+                                  <img
+                                    style={{ maxWidth: "160px" }}
+                                    src="https://cdn10.bigcommerce.com/s-ktpi93fl/products/128/images/448/DSA_1_Space__38682.1434490137.800.600.jpg?c=2"
+                                    alt=""
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://pimpmykeyboard.com/sa-p-snow-cap-keyset-original/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate">
+                                  View Now
+                                </a>
+                              </td>
+                            </tr>
                             <tr>
                               <td>SA-P Snow Cap Keyset</td>
                               <td>SA</td>
@@ -735,73 +753,37 @@ export default function Keycaps() {
                           </thead>
                           <tbody>
                             <tr>
-                              <td>1u Blank Keycaps - 10pc</td>
-                              <td>DSA</td>
+                              <td>R2 DA Profile 40V2</td>
+                              <td>DA</td>
                               <td>
-                                <a href="https://kbdfans.com/r?id=84sm0h">
+                                <a href="https://kbdfans.com/r?id=a584gd">
                                   <img
                                     style={{ maxWidth: "160px" }}
-                                    src="https://cdn.shopify.com/s/files/1/1473/3902/products/23_bf5a5cb2-e25d-44e2-99d4-1b27ee84ec15_360x.jpg?v=1605064620"
+                                    src="https://cdn.shopify.com/s/files/1/1473/3902/products/2_ed9114a6-6036-4f11-ba06-0f208b534be6_900x.png?v=1584436755"
                                     alt=""
                                   />
                                 </a>
                               </td>
                               <td>
-                                <a href="https://kbdfans.com/r?id=84sm0h">
+                                <a href="https://kbdfans.com/r?id=a584gd">
                                   View Now
                                 </a>
                               </td>
                             </tr>
                             <tr>
-                              <td>DSA 40% Dye-sub Keycaps Set</td>
-                              <td>DSA</td>
-                              <td>
-                                <a href="https://kbdfans.com/r?id=pu6bri">
-                                  <img
-                                    style={{ maxWidth: "160px" }}
-                                    src="https://cdn.shopify.com/s/files/1/1473/3902/products/1_ff791cf2-068e-43f1-b80f-44c8f0f3ad07_360x.jpg?v=1584436726"
-                                    alt=""
-                                  />
-                                </a>
-                              </td>
-                              <td>
-                                <a href="https://kbdfans.com/r?id=pu6bri">
-                                  View Now
-                                </a>
-                              </td>
-                            </tr>
-                            <tr>
-                              <td>EPBT PBT Blank Ortholinear Keycaps</td>
+                              <td>R2 Enjoypbt Grayscale Keycaps</td>
                               <td>Cherry</td>
                               <td>
-                                <a href="https://kbdfans.com/r?id=2ea9io">
+                                <a href="https://kbdfans.com/r?id=81qd7t">
                                   <img
                                     style={{ maxWidth: "160px" }}
-                                    src="https://cdn.shopify.com/s/files/1/1473/3902/products/819c3e31ba5f4d67d590ab80ffda528b_360x.jpg?v=1584437013"
+                                    src="https://cdn.shopify.com/s/files/1/1473/3902/products/40_e627bde9-3581-4678-8569-f569b64a5e4a_900x.jpg?v=1649383848"
                                     alt=""
                                   />
                                 </a>
                               </td>
                               <td>
-                                <a href="https://kbdfans.com/r?id=2ea9io">
-                                  View now
-                                </a>
-                              </td>
-                            </tr>
-                            <tr>
-                              <td>Dye Subbed DSA Keycap Set</td>
-                              <td>DSA</td>
-                              <td>
-                                <a href="https://kbdfans.com/r?id=ikcq6d">
-                                  <img
-                                    style={{ maxWidth: "160px" }}
-                                    src="https://cdn.shopify.com/s/files/1/1473/3902/products/kit2_d6482b06-22d8-4b28-b31b-5abe002ab7ed_1080x.jpg?v=1584436696"
-                                    alt=""
-                                  />
-                                </a>
-                              </td>
-                              <td>
-                                <a href="https://kbdfans.com/r?id=ikcq6d">
+                                <a href="https://kbdfans.com/r?id=81qd7t">
                                   View now
                                 </a>
                               </td>
