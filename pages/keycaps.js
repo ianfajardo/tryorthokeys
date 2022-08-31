@@ -90,7 +90,12 @@ export default function Keycaps() {
         </div>
       </div>
 
-      <Sticky enabled={true} top="#secondnav" bottomBoundary="#content" innerZ="99999">
+      <Sticky
+        enabled={true}
+        top="#secondnav"
+        bottomBoundary="#content"
+        innerZ="99999"
+      >
         <div
           className="bg-primary"
           style={{ position: "relative", zIndex: "99999" }}
@@ -507,6 +512,31 @@ export default function Keycaps() {
                                 <a href="https://amzn.to/3humB6r">Amazon</a>
                               </td>
                             </tr>
+                            <tr>
+                              <td>DROP MT3 Skiidata Keycap Set</td>
+                              <td>MT3</td>
+                              <td>
+                                <a
+                                  href="https://www.amazon.com/DROP-Skiidata-Hi-Profile-Doubleshot-Compatible/dp/B0B5BBCKMG?keywords=ortholinear+keycaps&link_code=qs&qid=1661975023&sr=8-15&linkCode=li2&tag=tryorthokey06-20&linkId=0e31654825118f0a4bdb22a976438cf5&language=en_US&ref_=as_li_ss_il"
+                                  target="_blank"
+                                >
+                                  <img
+                                    border="0"
+                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B5BBCKMG&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                  />
+                                </a>
+                                <img
+                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B0B5BBCKMG"
+                                  width="1"
+                                  height="1"
+                                  border="0"
+                                  alt=""
+                                />
+                              </td>
+                              <td>
+                                <a href="https://amzn.to/3pWAcaq">Amazon</a>
+                              </td>
+                            </tr>
                           </tbody>
                         </Table>
 
@@ -573,7 +603,7 @@ export default function Keycaps() {
                             </tr>
                           </thead>
                           <tbody>
-                          <tr>
+                            <tr>
                               <td>DSA Blank Space 1u</td>
                               <td>DSA</td>
                               <td>
@@ -691,9 +721,7 @@ export default function Keycaps() {
                               <td>DCS PBT Blank Keyset</td>
                               <td>DCS</td>
                               <td>
-                                <a
-                                  href="https://pimpmykeyboard.com/dcs-pbt-blank-keysets/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate"
-                                >
+                                <a href="https://pimpmykeyboard.com/dcs-pbt-blank-keysets/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate">
                                   <img
                                     style={{ maxWidth: "160px" }}
                                     src="https://cdn10.bigcommerce.com/s-ktpi93fl/products/283/images/1866/Planck_1__63576.1565895985.800.600.jpg?c=2"
@@ -1055,24 +1083,6 @@ export default function Keycaps() {
                             </tr>
                           </thead>
                           <tbody>
-                            <tr>
-                              <td>ErgoDox Blank DSA Keycaps</td>
-                              <td>DSA</td>
-                              <td>
-                                <a href="https://kbdfans.com/r?id=quqnil">
-                                  <img
-                                    src="https://cdn.shopify.com/s/files/1/1473/3902/products/2_16105510-1545-47b1-a93e-a57048500a78_900x.jpg?v=1600995094"
-                                    alt="ErgoDox BLank DSA Keycaps"
-                                    style={{ maxWidth: "160px" }}
-                                  />
-                                </a>
-                              </td>
-                              <td>
-                                <a href="https://kbdfans.com/r?id=quqnil">
-                                  Buy Now
-                                </a>
-                              </td>
-                            </tr>
                             <tr>
                               <td>
                                 Max Keyboard x Ergodox PBT (Multiple Color
