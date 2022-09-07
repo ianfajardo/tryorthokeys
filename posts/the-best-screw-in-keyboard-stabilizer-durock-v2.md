@@ -11,24 +11,18 @@ image: /screw-in-stabilizer-durock-v2.jpg
 
 No one likes a rattly space bar, and often the stock stabilizers that keep it from doing so just aren't cutting it. Keyboard stabilizers that screw directly into the PCB are considered the best ones since they are super secure and tend to vibrate less due to this fact. Once you try screw-in stabilizers, you'll realize they're the best option for your mechanical keyboard. The Durock V2 stabs are rightfully regarded as one of the best  to install onto your keyboard. 
 
-
-
 The Durock V2 come pre-clipped out of the box and also are redesigned with new mold to prevent wire drop out. The V2 stabilizers are offered in kits and single stabilizer options, this offers flexibility to those who may need different configurations than the kits. They also come in different colors: clear, black, and smokey black.
 
 The mechanical keyboard community is obsessed with fine-tuning the sounds of their keyboards, and stabilizers (or stabs) are notorious for being difficult to get right.  There are many, often very random, mods out there to prevent the dreaded rattle. One of which is called the “Holee” mod, which starts with cutting up a bandaid and sticking it in between the stabilizer and the keyboard to prevent vibrations. 
 
-
-
-With so many different mods out there, it’s pretty apparent that some stabs just aren’t getting it right out of the box. The Durock V2 stabs are the best out of the box so you should start with these and then work your way to mods only if you need them! 
-Durock V2 Stabilizer Kit
+With so many different mods out there, it’s pretty apparent that some stabs just aren’t getting it right out of the box. The Durock V2 stabs are the best out of the box so you should start with these and then work your way to mods only if you need them! There are definitely better stabs out there but the Durocks are always usually in-stock and probably the best for most beginners to start off with.
 
 **Features**
 
-
-- One kit includes: 4x 2u stabilizers, 1x 6.25u stabilizer & 1x 7u wire
-- Improved housing design
-- Includes washers, gold-plated wires & screws
-- PCB screw-in design, will not work in plate mounted boards
+* One kit includes: 4x 2u stabilizers, 1x 6.25u stabilizer & 1x 7u wire
+* Improved housing design
+* Includes washers, gold-plated wires & screws
+* PCB screw-in design, will not work in plate mounted boards
 
 <a class="btn btn-primary" href="https://prevailkeyco.com/products/durock-v2-stabilizers?ref=tryorthokeys&variant=42451809206526">Buy Now</a>
 
@@ -55,5 +49,3 @@ If you plan on getting into the hobby of mechanical keyboards, Durock V2 stabs a
 <a class="btn btn-primary" href="https://prevailkeyco.com/products/durock-v2-stabilizers?ref=tryorthokeys&variant=42451809206526">Buy Now</a>
 
 <small>Use coupon code **tryorthokeys** for 5% off your purchase</small>
-
-
