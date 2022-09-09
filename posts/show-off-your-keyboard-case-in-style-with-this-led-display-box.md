@@ -13,13 +13,13 @@ The latest keyboard cases are sleek and modern, designed with a slim profile tha
 
 ![Keebmonkey Keyboard case](/keebmonkey-keyboard-display-box-2.jpg "Keebmonkey Keyboard case")
 
-<﻿a class="btn btn-primary" href="https://drop.com/buy/keebmonkey-keyboard-wireless-display-box?utm_source=linkshare&referer=T93XGG">Learn More</a>
+<a class='btn btn-primary' href='https://drop.com/buy/keebmonkey-keyboard-wireless-display-box?utm_source=linkshare&referer=T93XGG'>Learn More</a>
 
 Drop also offers the Keebmonkey keyboard stand without the case in two versions: single and triple. While the single one looks like the same one that comes with the case, the triple stand can hold up to three keyboards to show off! 
 
 ![](/keebmonkey-triple-stand.jpg)
 
-<﻿a class="btn btn-primary" href="https://drop.com/buy/keebmonkey-acrylic-and-steel-keyboard-display-stand?utm_source=linkshare&referer=T93XGG">Learn More</a>
+<a class='btn btn-primary' href='https://drop.com/buy/keebmonkey-acrylic-and-steel-keyboard-display-stand?utm_source=linkshare&referer=T93XGG'>Learn More</a>
 
 **Specifications**
 
