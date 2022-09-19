@@ -13,7 +13,7 @@ export default function Kinesis() {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="title"
-          content="Gizmo Engineering GK6 | GK6 ergonomic 50% ortholinear keyboard from Kono"
+          content="Gizmo Engineering GK6 | GK6 ergonomic 50% ortholinear keyboard from Kono | mechanical keyboard | qmk firmware"
         />
         <meta
           name="description"
