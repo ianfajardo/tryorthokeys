@@ -123,6 +123,11 @@ export default function Keycaps() {
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li">
+                <Nav.Link className="text-white" href="#kono">
+                  Kono
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item as="li">
                 <Nav.Link className="text-white" href="#amazon">
                   Amazon
                 </Nav.Link>
@@ -813,6 +818,105 @@ export default function Keycaps() {
                               <td>
                                 <a href="https://kbdfans.com/r?id=81qd7t">
                                   View now
+                                </a>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </Table>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="kono" className="section-container ">
+              <div className="">
+                <div className="card ele-2">
+                  <div className="px-5 py-5">
+                    <div className="row align-items-center">
+                      <div className="col-lg-12">
+                        <h2 className="font-weight-bold text-primary">
+                          <a href="https://sovrn.co/rgjoybp">Kono</a>
+                        </h2>
+                        <p>
+                          Kono offers many of original keyboards, keycaps, and
+                          much more. They offer a handful of ortho kits. Some of these sets you may need to buy the alpha kit and the ortho modifers together.
+                        </p>
+                        <a
+                          href="https://sovrn.co/rgjoybp"
+                          className="btn btn-primary mr-2 mb-2"
+                        >
+                          Kono Website
+                        </a>
+
+                        <Table
+                          responsive
+                          striped
+                          bordered
+                          hover
+                          className="mt-3"
+                        >
+                          <thead>
+                            <tr>
+                              <th>Name</th>
+                              <th>Profile</th>
+                              <th>Image</th>
+                              <th>Link</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td>SA Granite</td>
+                              <td>SA</td>
+                              <td>
+                                <a href="https://sovrn.co/sb7810p">
+                                  <img
+                                    style={{ maxWidth: "160px" }}
+                                    src="/sa-granite.jpg"
+                                    alt="SA Granite Ortho Keycaps"
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://kbdfans.com/r?id=a584gd">
+                                  View Now
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>SA Magica</td>
+                              <td>SA</td>
+                              <td>
+                                <a href="https://sovrn.co/1oajv87">
+                                  <img
+                                    style={{ maxWidth: "160px" }}
+                                    src="/sa-magica.png"
+                                    alt="SA Magica Ortho Keycaps"
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://sovrn.co/1oajv87">
+                                  View Now
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>SA Espresso</td>
+                              <td>SA</td>
+                              <td>
+                                <a href="https://sovrn.co/apxgs25">
+                                  <img
+                                    style={{ maxWidth: "160px" }}
+                                    src="/sa-espresso.jpg"
+                                    alt="SA Espresso Ortho Keycaps"
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://sovrn.co/apxgs25">
+                                  View Now
                                 </a>
                               </td>
                             </tr>
