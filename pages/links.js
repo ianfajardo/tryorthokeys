@@ -50,9 +50,9 @@ export default function Links() {
                 </a>
                 <a
                   className="btn btn-primary btn-lg btn-block mb-3"
-                  href="https://www.tryorthokeys.com/posts/awesome-planck-keyboard-setups"
+                  href="https://www.tryorthokeys.com/deals"
                 >
-                  Awesome Planck Keycap Setups
+                  Keyboard Deals and Coupons
                 </a>
                 <a
                   className="btn btn-primary btn-lg btn-block mb-3"
