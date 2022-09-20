@@ -25,6 +25,10 @@ export default function Split() {
           ergonomics and encourage better touch typing. The ones
           mentioned here are only but a few."
         />
+        <meta
+          property="og:image"
+          content="https://www.tryorthokeys.com/montsinger.webp"
+        />
       </Head>
 
       <Navigation />
@@ -190,7 +194,7 @@ export default function Split() {
                 <div className="col-lg-7">
                   <img
                     className="img-fluid"
-                    src="montsinger.webp"
+                    src="/montsinger.webp"
                     alt="Montsinger Rebound"
                   />
                 </div>

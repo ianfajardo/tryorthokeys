@@ -19,6 +19,10 @@ export default function Keyboards() {
           name="description"
           content="There are several different companies that offer ortholinear keyboards.  OLKB, KBDFans and more sell keyboard such as the Preonic, Planck, NUI40 and Split."
         />
+        <meta
+          property="og:image"
+          content="https://www.tryorthokeys.com/plank-preonic.jpg"
+        />
       </Head>
 
       <Navigation />

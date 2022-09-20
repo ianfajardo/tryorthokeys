@@ -24,6 +24,10 @@ export default function JJ40() {
           a similar ortho keyboard to the OLKB Planck | OLKB NIU40 Try Ortho
           Keys Keycaps Mechnical Keyboard."
         />
+        <meta
+          property="og:image"
+          content="https://www.tryorthokeys.com/bm40.jpg"
+        />
       </Head>
 
       <Navigation />

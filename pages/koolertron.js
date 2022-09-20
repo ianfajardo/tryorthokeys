@@ -19,6 +19,10 @@ export default function Kinesis() {
           name="description"
           content="Koolertron keyboard is a 48 programmable keys & 8 macro keys perfect for office and gaming use  | ortholinear Keyboard split ortho keyboard 46 programmable keypad"
         />
+        <meta
+          property="og:image"
+          content="https://www.tryorthokeys.com/koolertron.jpg"
+        />
       </Head>
 
       <Navigation />

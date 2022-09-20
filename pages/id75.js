@@ -21,6 +21,7 @@ export default function Id75() {
           ortholinear keyboards. A common layout has the alphas split on
           the sides with extra function keys in the middle."
         />
+        <meta property="og:image" content="https://www.tryorthokeys.com/id75.jpg"/>
       </Head>
 
       <Navigation />

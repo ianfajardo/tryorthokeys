@@ -23,6 +23,10 @@ export default function Kinesis() {
           offer 3 split keyboard designs with their Advantage 2 being
           ortholinear."
         />
+        <meta
+          property="og:image"
+          content="https://www.tryorthokeys.com/kinesis-advantage2.jpg"
+        />
       </Head>
 
       <Navigation />

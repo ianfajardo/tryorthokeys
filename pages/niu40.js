@@ -21,6 +21,10 @@ export default function Niu() {
           are options for different colored aluminium or acrylic
           bases. There are not any hot swappable versions available at the moment."
         />
+        <meta
+          property="og:image"
+          content="https://www.tryorthokeys.com/niu40.webp"
+        />
       </Head>
 
       <Navigation />

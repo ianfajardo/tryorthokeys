@@ -19,6 +19,8 @@ export default function Kinesis() {
           name="description"
           content="The Gizmo Engineering GK6 is an ergonomic 50% keyboard editable with QMK firmware, hot-swap PCB, and aluminum case."
         />
+        <meta property="og:image" content="https://www.tryorthokeys.com/gk6.webp"/>
+
       </Head>
 
       <Navigation />

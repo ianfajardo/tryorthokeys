@@ -18,6 +18,10 @@ export default function Olkb() {
           name="description"
           content="OLKB is the producer of the highly popular Planck & Preonic Ortholinear keyboards. The owner, Jack Humbert, is also the founder of QMK. These keyboards are sold on the OLKB website and frequently on Drop.com"
         />
+        <meta
+          property="og:image"
+          content="https://www.tryorthokeys.com/planck-2.jpg"
+        />
       </Head>
 
       <Navigation />
