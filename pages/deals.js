@@ -183,9 +183,18 @@ export default function Keycaps() {
                               </td>
                             </tr>
                             <tr>
+                              <td>Cablemod</td>
+                              <td></td>
+                              <td>
+                                <a href="https://store.cablemod.com?ref=65078">
+                                  Link
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
                               <td>KBDFans</td>
                               <td>
-                                $2 off over $35 coupon code:{" "}
+                                $5 off orders over $65 coupon code:{" "}
                                 <strong>ILOVEKBDFANS</strong>
                               </td>
                               <td>
