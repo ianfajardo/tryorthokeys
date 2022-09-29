@@ -42,7 +42,7 @@ export default function Terms() {
           <div className="col-lg-12">
             <h2>Privacy Policy</h2>
             <p>
-              This Privacy Policy describes how modmytacoma.com (the “Site” or
+              This Privacy Policy describes how tryorthokeys.com (the “Site” or
               “we”) collects, uses, and discloses your Personal Information when
               you visit or make a purchase from the Site.
             </p>

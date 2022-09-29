@@ -28,18 +28,28 @@ export default function Footer() {
             <h5>Why Ortholinear</h5>
             <ul className="list-unstyled text-small">
               <li>
-                <a className="text-muted" href="/#compact">
-                  Compact
+                <a
+                  className="text-muted"
+                  href="/ultimate-guide-to-ortholinear-keyboards"
+                >
+                  Ultimate Guide to Ortholinear Keyboards
                 </a>
               </li>
               <li>
-                <a className="text-muted" href="/#programmable">
-                  Programmable
+                <a
+                  className="text-muted"
+                  href="/posts/best-mechanical-keyboard-for-ipad-planck-preonic-ortholinear"
+                >
+                  The Best Mechanical Keyboard for your iPad - The OLKB Planck
+                  and Preonic
                 </a>
               </li>
               <li>
-                <a className="text-muted" href="/#programmable">
-                  QMK Firmware
+                <a
+                  className="text-muted"
+                  href="/posts/what-to-do-after-getting-an-ortholinear-keyboard"
+                >
+                  What to do after getting your first Ortholinear
                 </a>
               </li>
               <Button href="/posts" className="btn btn-primary btn-sm mt-2">

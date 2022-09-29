@@ -39,13 +39,17 @@ export default function Niu() {
                 </h1>
                 <p style={{ fontSize: "20px" }}>
                   The NIU 40 / NIU Mini is a 40% keyboard similar to the Planck
-                  ortholinear keyboard. You purchase them a DIY kit at{" "}
-                  <a href="https://kbdfans.com/r?id=s856a4">KBDFans</a>. A bit
-                  cheaper than the OLKB offerings, it offers similar
-                  functionality and features.
+                  ortholinear keyboard. A bit cheaper than the OLKB offerings,
+                  it offers similar functionality and features. The NIU 40 is no
+                  longer available anymore at KBDFans but a new ortholienar
+                  keyboard by them in the works called the{" "}
+                  <a href="https://kbdfans.com/r?id=be1aik">
+                    Solar Keyboard Kit
+                  </a>
+                  .
                 </p>
                 <a
-                  href="https://kbdfans.com/r?id=s856a4"
+                  href="https://kbdfans.com/r?id=be1aik"
                   className="mt-3 btn btn-primary"
                 >
                   Buy Now
@@ -73,7 +77,7 @@ export default function Niu() {
                     swappable versions available at the moment.
                   </p>
                   <a
-                    href="https://kbdfans.com/r?id=s856a4"
+                    href="https://kbdfans.com/r?id=be1aik"
                     className="btn btn-primary mr-2"
                   >
                     Buy Now

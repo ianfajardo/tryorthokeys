@@ -2,6 +2,84 @@ import Head from "next/head";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 
+var keyboards = [
+  {
+    name: "OLKB Planck",
+    price: "$89 - $110",
+    description:
+      "The latest version of the Planck keyboard supports hot swappable switches, LEDs, a small speaker and even rotary encoders. There are several offerings for baseplates: EOTW (easy on the wallet), hi-pro and low-pro. These keyboards usually come in as a kit with some light assembly required.",
+    image: "https://www.tryorthokeys.com/planck-2.jpg",
+    buyNow:
+      "https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG",
+    learnMore: "/olkb",
+  },
+  {
+    name: "OLKB Preonic",
+    price: "$110 - $155",
+    description:
+      "The Preonic keyboard is the Planck's big brother with an extra row of keys for those really missing the number row or want more keys to customize. The newest version of the Preonic is almost identical the Planck in terms of features.",
+    image: "https://www.tryorthokeys.com/preonic-1.jpg",
+    buyNow: "https://amzn.to/3rhGRg0",
+    learnMore: "/olkb",
+  },
+  {
+    name: "Idobao x YMDK ID75",
+    price: "$105",
+    description:
+      "The ID75 has a hotswappable PCB and connects via USB Type C with 75 keys. In addition, the case is CNC milled anodized aluminum with several color options including an acrylic bottom to allow the underglow led to shine through.",
+    image: "https://www.tryorthokeys.com/id75.jpg",
+    buyNow: "https://amzn.to/3SoDHmI",
+    learnMore: "/id75",
+  },
+  {
+    name: "MechDIY 59",
+    price: "$175",
+    description:
+      "The MechDIY 59-Key ortholinear keyboard has an acrylic case, hotswap PCB, RGB backlit, and is fully customizable through VIA software.",
+    image: "https://www.tryorthokeys.com/mechdiy-59.jpg",
+    buyNow:
+      "https://mechdiy.com/products/59-key-rgb-backlit-hot-swappable-mechanical-keyboard-customized-planck-kit?ref=MvdrdiAA",
+    learnMore: "/mechdiy-59",
+  },
+  {
+    name: "Work Louder: Creator Board",
+    price: "$249",
+    description:
+      "The Work Louder: Creator Board is geared towards creatives. The board features a original and unique modular design to attach different key layouts or knobs. It also comes with low-profile custom choc keycaps. The PCB is not hotswap, however.",
+    image: "https://www.tryorthokeys.com/work-louder-creator-board.jpg",
+    buyNow: "https://worklouder.cc/shop/",
+    learnMore: "/worklouder",
+  },
+  {
+    name: "KBDFans Solar Keyboard",
+    price: "TBD",
+    description:
+      "KBDFans discontinued their NIU 40 but has created an interest page for a new ortholinear kit called the Solar. From the specs, it will have 50 keys, hotswap PCB, aluminium case, gasket mount, replaceable OLED and RGB modules, and 4 knobs.",
+    image:
+      "https://www.tryorthokeys.com/kbdfans-solar-keyboard-kit-ortholinear.png",
+    buyNow: "https://kbdfans.com/r?id=be1aik",
+    learnMore: "/posts/kbdfans-solar-keyboard-kit-ortholinear",
+  },
+  {
+    name: "Gizmo Engineering GK6",
+    price: "$329",
+    description:
+      "The Gizmo Engineering GK6 is a 50% keyboard editable with QMK firmware, hot-swap PCB, multiple bottom-row layouts, and aluminum case with ceramic coating.",
+    image: "https://www.tryorthokeys.com/gk6.webp",
+    buyNow: "https://sovrn.co/1iddf86",
+    learnMore: "/gizmo-engineering-gk6",
+  },
+  {
+    name: "Kinesis Advantage2",
+    price: "$339",
+    description:
+      "The Kenesis Advantage 2 is a an ergonomic split keyboard with orthogonal layout, Cherry MX Brown switches, 20 degrees of tenting, integrated palm supports, and more.",
+    image: "http://localhost:3000/kinesis-advantage2.jpg",
+    buyNow: "https://amzn.to/3CsZySE",
+    learnMore: "/kinesis",
+  },
+];
+
 export default function Keyboards() {
   return (
     <div>
@@ -27,18 +105,15 @@ export default function Keyboards() {
 
       <Navigation />
 
-      <div className="bg-secondary text-white section-container">
-        <div className="container">
+      <div className="section-container text-white keyboards-jumbo">
+        <div className="container-lg">
           <div className="row align-items-center">
             <div className="col-lg-12">
               <div className="py-3">
                 <h1 className="display-4 font-weight-bolder">
-                  Ortholinear keyboards
+                  Ortholinear keyboards{" "}
                 </h1>
-                <h2 className="text-primary font-weight-light">
-                  Programmable and Compact
-                </h2>
-                <p style={{ fontSize: "20px" }}>
+                <p className="lead">
                   There are a plethora of keyboards to choose from and below are
                   our recommendations on getting started. It can be a fun DIY
                   project to assemble your own ortho keyboard, add your own
@@ -50,177 +125,164 @@ export default function Keyboards() {
         </div>
       </div>
 
-      <div>{/* ad space */}</div>
-
-      <div id="why" className="section-container ">
-        <div className="container">
-          <div className="card ele-2">
-            <div className="px-5 py-5 py-lg-3">
-              <div className="row align-items-center">
-                <div className="col-lg-5">
-                  <h2 className="font-weight-bold text-primary">
-                    OLKB Planck & Preonic
-                  </h2>
-                  <p style={{ fontSize: "20px" }}>
-                    The ortholinear keyboards from OLKB are the most popular
-                    offerings today. Both are highly customizable and the Planck
-                    and Preonic frequently updated.
-                  </p>
-
-                  <a href="/olkb" className="btn btn-primary mr-2 mb-2">
-                    View OLKB Keyboards
-                  </a>
-                  <a
-                    href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
-                    className="btn btn-secondary mb-2"
-                  >
-                    Buy on Drop
-                  </a>
-                </div>
-                <div className="col-lg-7">
+      <div className="keyboard-section">
+        <div className="row">
+          {keyboards.map((keyboard, index) => (
+            <div id={index} className="col-lg-3">
+              <div className="keyboard-card">
+                <div className="card">
                   <img
-                    src="/plank-preonic.jpg"
-                    alt="Planck & Preonic Keyboards Ortholinear"
-                    className="img-fluid"
+                    className="card-img-top"
+                    src={keyboard.image}
+                    alt={keyboard.name}
                   />
+                  <div className="card-body">
+                    <h5 className="card-title">{keyboard.name}</h5>
+                    <p className="card-text">{keyboard.description}</p>
+                    <a href={keyboard.buyNow} className="btn btn-primary mr-3">
+                      Buy Now
+                    </a>
+                    <a
+                      href={keyboard.learnMore}
+                      className="btn btn-secondary mr-3"
+                    >
+                      Learn More
+                    </a>
+                  </div>
+                  <div className="card-footer text-muted">
+                    <strong>Price:</strong> {keyboard.price}
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
+          ))}
         </div>
       </div>
 
-      <div id="worklouder" className="section-container ">
-        <div className="container">
-          <div className="card ele-2">
-            <div className="px-5 py-5 py-lg-3">
-              <div className="row align-items-center">
-                <div className="col-lg-5">
-                  <h2 className="font-weight-bold text-primary">
-                    Work Louder: Creator Board
-                  </h2>
-                  <p style={{ fontSize: "20px" }}>
-                    Work Louder is a company building keyboards with innovative
-                    like their creator Board is an innovative modular design
-                    keyboard with features designed to make things easier for
-                    creatives. This is a customizable keyboard (customizable in
-                    terms of keys, orientation, modules, and size), which means
-                    you can create a personally tailored setup to fit your
-                    needs.
-                  </p>
-
-                  <a href="/worklouder" className="btn btn-primary mr-2 mb-2">
-                    Learn More
-                  </a>
-                </div>
-                <div className="col-lg-7">
-                  <img
-                    src="/work-louder-creator-board.jpg"
-                    alt="Work Louder Keyboard"
-                    className="img-fluid"
-                  />
+      <div className="section-container" id="keycaps">
+        <div className="container-lg">
+          <div className="row">
+            <div className="col-lg-12">
+              <h2>Keycaps</h2>
+              <p>
+                Finally picked out your ortholinear keyboard? You'll need some
+                keycaps! Read our articles on the best keycaps you can get for
+                your ortholienar or see our page on ortholinear specific keycap
+                sets <a href="/keycaps">available now</a>.
+              </p>
+            </div>
+          </div>
+          <div className="row">
+            <div className="col-lg">
+              <div className="mb-5">
+                <div className="card">
+                  <div className="card-img-top">
+                    <a href="/posts/the-best-budget-keycaps-for-mechanical-keyboard">
+                      <img
+                        className="img-fluid mb-3"
+                        src="/the-best-budget-keycaps-for-mechanical-keyboard.png"
+                        alt="The Best Budget Keycaps For Your Mechanical Keyboard "
+                      />
+                    </a>
+                  </div>
+                  <div className="card-body">
+                    <a href="/posts/the-best-budget-keycaps-for-mechanical-keyboard">
+                      The Best Budget Keycaps For Your Mechanical Keyboard{" "}
+                    </a>
+                  </div>
                 </div>
               </div>
             </div>
-          </div>
-        </div>
-      </div>
-
-      <div id="ergodox" className="section-container ">
-        <div className="container">
-          <div className="card ele-2">
-            <div className="px-5 py-5 py-lg-5">
-              <div className="row align-items-center">
-                <div className="col-lg-5">
-                  <h2 className="font-weight-bold text-primary">Idobo ID75</h2>
-                  <p style={{ fontSize: "20px" }}>
-                    The ID75 is a 75 key keyboard, larger than most standard
-                    ortholinear keyboards. A common layout has the alphas split
-                    on the sides with extra function keys in the middle. This is
-                    a great alternative if you want extra programmable keys
-                    opposed to the 48 keys on the OLKB Planck and 60 keys on the
-                    OLKB Preonic.
-                  </p>
-                  <a href="/id75" className="btn btn-primary mr-2">
-                    Learn More
-                  </a>
+            <div className="col-lg">
+              <div className="mb-5">
+                <div className="card">
+                  <div className="card-img-top">
+                    <a href="/posts/budget-ymdk-keycaps-ortholinear-keyboards">
+                      <img
+                        className="img-fluid mb-3"
+                        src="/budget-ymdk-keycaps-amazon.jpg"
+                        alt="Budget YMDK Keycaps for your Ortholinear Keyboards Available on Amazon"
+                      />
+                    </a>
+                  </div>
+                  <div className="card-body">
+                    <a href="/posts/budget-ymdk-keycaps-ortholinear-keyboards">
+                      Budget YMDK Keycaps for your Ortholinear Keyboards
+                      Available on Amazon
+                    </a>
+                  </div>
                 </div>
-                <div className="col-lg-7">
-                  <div className="usa-embed-container">
-                    <img
-                      src="/id75.jpg"
-                      alt="ID75 Keyboard Ortho Orthlinear"
-                      className="img-fluid"
-                    />
+              </div>
+            </div>
+            <div className="col-lg">
+              <div className="mb-5">
+                <div className="card">
+                  <div className="card-img-top">
+                    <a href="/posts/mt3-keycaps-for-ortholinear-keyboards">
+                      <img
+                        className="img-fluid mb-3"
+                        src="/mt3-keycaps.jpg"
+                        alt="MT3 Profile Keycaps for your Ortholinear Keyboard"
+                      />
+                    </a>
+                  </div>
+                  <div className="card-body">
+                    <a href="/posts/mt3-keycaps-for-ortholinear-keyboards">
+                      MT3 Profile Keycaps for your Ortholinear Keyboard
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg">
+              <div className="mb-5">
+                <div className="card">
+                  <div className="card-img-top">
+                    <a href="/posts/best-keycaps-on-drop-for-planck-preonic">
+                      <img
+                        className="img-fluid mb-3"
+                        src="/best-keycaps-blog.png"
+                        alt="Best Keycaps on Drop for your Planck or Preonic"
+                      />
+                    </a>
+                  </div>
+                  <div className="card-body">
+                    <a href="/posts/best-keycaps-on-drop-for-planck-preonic">
+                      Best Keycaps on Drop for your Planck or Preonic
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="col-lg">
+              <div className="mb-5">
+                <div className="card">
+                  <div className="card-img-top">
+                    <a href="/posts/budget-keycaps-for-your-ortho-keyboard">
+                      <img
+                        className="img-fluid mb-3"
+                        src="/best-budget-keycaps-ortho-keyboard.png"
+                        alt="Best Budget Keycaps for Your Ortho Keyboard"
+                      />
+                    </a>
+                  </div>
+                  <div className="card-body">
+                    <a href="/posts/budget-keycaps-for-your-ortho-keyboard">
+                      Best Budget Keycaps for Your Ortho Keyboard
+                    </a>
                   </div>
                 </div>
               </div>
             </div>
           </div>
-        </div>
-      </div>
-
-      <div id="ergodox" className="section-container ">
-        <div className="container">
-          <div className="card ele-2">
-            <div className="px-5 py-5 py-lg-5">
-              <div className="row align-items-center">
-                <div className="col-lg-5">
-                  <h2 className="font-weight-bold text-primary">Split</h2>
-                  <p style={{ fontSize: "20px" }}>
-                    You can usually spot a split keyboard if it has two seperate
-                    PCBs connected by a cable. Split keyboards literally half
-                    the keyboard better ergonomics and touch typing. The Ergodox
-                    keyboard is an example of a popular split keyboard.
-                  </p>
-                  <a href="/split" className="btn btn-primary mr-2">
-                    Split Keyboards
-                  </a>
-                </div>
-                <div className="col-lg-7">
-                  <div className="usa-embed-container">
-                    <iframe
-                      src="https://www.youtube.com/embed/mWu-_ACpSgY"
-                      frameBorder="0"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                      allowFullScreen
-                    ></iframe>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div className="section-container">
-        <div className="container">
-          <div className="card ele-2">
-            <div className="px-5 py-5 py-lg-3">
-              <div className="row align-items-center">
-                <div className="col-lg-8">
-                  <div className="usa-embed-container">
-                    <iframe
-                      src="https://www.youtube.com/embed/rM0m5Xg1D3s"
-                      frameBorder="0"
-                      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                      allowFullScreen
-                    ></iframe>
-                  </div>
-                </div>
-                <div className="col-lg-4">
-                  <h2 className="font-weight-bold text-primary">NIU40</h2>
-                  <p style={{ fontSize: "20px" }}>
-                    The NIU40 is a programmable 40% ortholinear keyboard from
-                    KBDFans. There are options for different colored aluminium
-                    or acrylic bases.
-                  </p>
-
-                  <a href="/niu40" className="btn btn-primary">
-                    Learn about NIU40
-                  </a>
-                </div>
-              </div>
+          <div className="row">
+            <div className="col-lg-12">
+              <a className="btn btn-primary mr-3" href="/keycaps">
+                See Our Keycap List
+              </a>
+              <a className="btn btn-secondary" href="/posts">
+                Read Our Blog
+              </a>
             </div>
           </div>
         </div>

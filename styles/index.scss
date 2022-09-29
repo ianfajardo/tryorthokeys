@@ -177,6 +177,30 @@ blockquote::after {
   }
 }
 
+.keyboards-jumbo {
+  background: url("/planck-keyrest-zealios.jpg") center center no-repeat;
+  background-size: cover;
+  position: relative;
+  padding: 3rem 0;
+
+  &:after {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background: #2c3e50;
+    opacity: 0.6;
+    content: "";
+    z-index: 2;
+  }
+
+  div {
+    position: relative;
+    z-index: 3;
+  }
+}
+
 .lead {
   font-size: 1.75rem;
 }
@@ -233,7 +257,25 @@ blockquote::after {
     max-width: 100%;
     height: auto;
     margin-top: 1rem;
-    margin-bottom:1rem;
+    margin-bottom: 1rem;
+  }
+}
+
+.keyboard-section {
+  max-width: 1440px;
+  padding: 60px 15px;
+  margin: 0 auto;
+  .keyboard-card {
+    margin-bottom: 15px;
+    height: 100%;
+    padding-bottom: 30px;
+  }
+  .card {
+    height: 100%;
+  }
+  p.card-text {
+    font-size: 16px;
+    line-height: 18px;
   }
 }
 
