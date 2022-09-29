@@ -74,7 +74,7 @@ var keyboards = [
     price: "$339",
     description:
       "The Kenesis Advantage 2 is a an ergonomic split keyboard with orthogonal layout, Cherry MX Brown switches, 20 degrees of tenting, integrated palm supports, and more.",
-    image: "http://localhost:3000/kinesis-advantage2.jpg",
+    image: "/kinesis-advantage2.jpg",
     buyNow: "https://amzn.to/3CsZySE",
     learnMore: "/kinesis",
   },
