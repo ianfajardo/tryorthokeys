@@ -1,9 +1,11 @@
 ---
-title: "Best Keyboard Stabilizers for your Mechanical Keyboard"
-metatitle: "Best Keyboard Stabilizers for your Mechanical Keyboard | durock stabilizers plate mount stabilizers everglide stabilizers"
-description: "We created this list of the best keyboard stabilizers to reduce your keyboard key rattle."
-date: "2022-04-24"
-image: "/blog/best-keyboard-stabilizers.jpg"
+title: Best Keyboard Stabilizers for your Mechanical Keyboard
+metatitle: Best Keyboard Stabilizers for your Mechanical Keyboard | durock
+  stabilizers plate mount stabilizers everglide stabilizers
+description: We created this list of the best keyboard stabilizers to reduce
+  your keyboard key rattle.
+date: 2022-04-24
+image: /blog/best-keyboard-stabilizers.jpg
 ---
 
 <div class="row mb-4">
@@ -86,6 +88,8 @@ Features:
 - (7) 2u stabilizers
 - (1) 6.26u stabilizer
 - (1) 7u stabilizer wire
+
+<a href="https://amzn.to/3BYqhH2" class="btn btn-primary">Buy Now</a>
 
 ---
 
