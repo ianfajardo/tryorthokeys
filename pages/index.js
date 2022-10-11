@@ -45,7 +45,10 @@ export default function Home({ allPostsData }) {
           property="og:description"
           content="Ortholinear keyboards are computer keyboards with a grid layout. An ortho keyboard usually has mechanical key switches and programmable keymappings.  Popular products include OLKB Planck and Preonic, Ergodox, NIU40 mini and more."
         />
-        <meta property="og:image" content="https://tryorthokeys.com/planck-2.jpg" />
+        <meta
+          property="og:image"
+          content="https://tryorthokeys.com/planck-2.jpg"
+        />
 
         <meta property="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://www.tryorthokeys.com/" />
@@ -57,7 +60,10 @@ export default function Home({ allPostsData }) {
           property="twitter:description"
           content="Ortholinear keyboards are computer keyboards with a grid layout. An ortho keyboard usually has mechanical key switches and programmable keymappings.  Popular products include OLKB Planck and Preonic, Ergodox, NIU40 mini and more."
         />
-        <meta property="twitter:image" content="https://tryorthokeys.com/planck-2.jpg" />
+        <meta
+          property="twitter:image"
+          content="https://tryorthokeys.com/planck-2.jpg"
+        />
       </Head>
 
       <Navigation />
@@ -67,7 +73,12 @@ export default function Home({ allPostsData }) {
           <div className="row align-items-center">
             <div className="offset-lg-2 col-lg-8">
               <div className="py-3">
-                <h1 className="display-1 font-weight-bolder">
+                <img
+                  className="img-fluid"
+                  src="/try-ortho-keys-logo.png"
+                  alt="Try Ortho Keys, Ortholinear Keyboards"
+                />
+                <h1 className="display-1 font-weight-bolder d-none">
                   Try Ortho Keys!
                 </h1>
                 <h2 className="text-primary font-weight-bold py-2">

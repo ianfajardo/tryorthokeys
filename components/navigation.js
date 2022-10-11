@@ -18,7 +18,12 @@ export default function Navigation() {
       <Navbar expand="xl" bg="white" variant="white">
         <Container fluid>
           <Navbar.Brand className="text-primary font-weight-bolder" href="/">
-            Try Ortho Keys!
+          <img
+              className="img-fluid"
+              style={{maxHeight: "45px"}}
+              src="/try-ortho-keys-logo-green.png"
+              alt="Try Ortho Keys, Ortholinear Keyboards"
+            />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
@@ -39,7 +44,9 @@ export default function Navigation() {
               <Nav.Link href="/worklouder">Work Louder</Nav.Link>
               <NavDropdown title="Other Ortho Keyboards" id="olkb-nav-dropdown">
                 <NavDropdown.Item href="/id75">ID75</NavDropdown.Item>
-                <NavDropdown.Item href="/gizmo-engineering-gk6">GK6</NavDropdown.Item>
+                <NavDropdown.Item href="/gizmo-engineering-gk6">
+                  GK6
+                </NavDropdown.Item>
                 <NavDropdown.Item href="/kinesis">Kinesis</NavDropdown.Item>
                 <NavDropdown.Item href="/split">Split</NavDropdown.Item>
                 <NavDropdown.Item href="/niu40">NIU40</NavDropdown.Item>
@@ -61,7 +68,6 @@ export default function Navigation() {
               href="https://www.twitter.com/tryorthokeys"
             >
               <FontAwesomeIcon
-                className="icon-size"
                 icon={["fab", "twitter"]}
                 size="lg"
                 className="icon-size ml-auto"
@@ -72,7 +78,6 @@ export default function Navigation() {
               href="https://www.instagram.com/try_ortho_keys"
             >
               <FontAwesomeIcon
-                className="icon-size"
                 icon={["fab", "instagram"]}
                 size="lg"
                 className="icon-size ml-auto"

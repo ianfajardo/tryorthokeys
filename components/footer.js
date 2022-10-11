@@ -10,7 +10,13 @@ export default function Footer() {
       <footer className="pt-4 my-md-5 pt-md-5 border-top">
         <div className="row">
           <div className="col-lg-4 col-md-12">
-            <h3 className="text-primary">Try Ortho Keys!</h3>
+            <img
+              className="img-fluid"
+              style={{ maxHeight: "45px" }}
+              src="/try-ortho-keys-logo-green.png"
+              alt="Try Ortho Keys, Ortholinear Keyboards"
+            />
+            <div className="text-primary mt-3">Try Ortho Keys!</div>
             <small className="d-block mb-1 text-muted">
               © {getYear()} All Right Reserved
             </small>
