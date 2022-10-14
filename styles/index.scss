@@ -265,6 +265,9 @@ blockquote::after {
   max-width: 1440px;
   padding: 60px 15px;
   margin: 0 auto;
+  h2 {
+    font-size: 1.5rem;
+  }
   .keyboard-card {
     margin-bottom: 15px;
     height: 100%;

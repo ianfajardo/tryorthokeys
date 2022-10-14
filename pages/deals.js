@@ -176,10 +176,10 @@ export default function Keycaps() {
                             <tr>
                               <td>KPrepublic</td>
                               <td>
-                                $5 off, $15 minimum purchase. Once per customer
+                                $5 off, $15 minimum purchase. Once per customer. Use code at checkout: <strong>TRY_ORTHO_KEYS</strong>
                               </td>
                               <td>
-                                <a href="kprepublic.com/try_ortho_keys">Link</a>
+                                <a href="https://kprepublic.com/try_ortho_keys">Link</a>
                               </td>
                             </tr>
                             <tr>

@@ -18,9 +18,9 @@ export default function Navigation() {
       <Navbar expand="xl" bg="white" variant="white">
         <Container fluid>
           <Navbar.Brand className="text-primary font-weight-bolder" href="/">
-          <img
+            <img
               className="img-fluid"
-              style={{maxHeight: "45px"}}
+              style={{ maxHeight: "45px" }}
               src="/try-ortho-keys-logo-green.png"
               alt="Try Ortho Keys, Ortholinear Keyboards"
             />
@@ -32,7 +32,8 @@ export default function Navigation() {
                 Ultimate Ortholinear Guide
               </Nav.Link>
               <Nav.Link href="/keycaps">Ortho Keycap Sets</Nav.Link>
-              <Nav.Link href="/deals">Keyboard Deals</Nav.Link>
+              <Nav.Link href="/keyboards">Keyboards</Nav.Link>
+              <Nav.Link href="/deals">Deals & Coupons</Nav.Link>
               <NavDropdown title="OLKB Planck & Preonic" id="olkb-nav-dropdown">
                 <NavDropdown.Item href="/olkb">
                   About the Keyboards
@@ -40,22 +41,6 @@ export default function Navigation() {
                 <NavDropdown.Item href="/configure">
                   Configuring your Keyboard
                 </NavDropdown.Item>
-              </NavDropdown>
-              <Nav.Link href="/worklouder">Work Louder</Nav.Link>
-              <NavDropdown title="Other Ortho Keyboards" id="olkb-nav-dropdown">
-                <NavDropdown.Item href="/id75">ID75</NavDropdown.Item>
-                <NavDropdown.Item href="/gizmo-engineering-gk6">
-                  GK6
-                </NavDropdown.Item>
-                <NavDropdown.Item href="/kinesis">Kinesis</NavDropdown.Item>
-                <NavDropdown.Item href="/split">Split</NavDropdown.Item>
-                <NavDropdown.Item href="/niu40">NIU40</NavDropdown.Item>
-                <NavDropdown.Item href="/bm40">BM40</NavDropdown.Item>
-                <NavDropdown.Item href="/jj40">JJ40</NavDropdown.Item>
-                <NavDropdown.Item href="/koolertron">
-                  Koolertron
-                </NavDropdown.Item>
-                <NavDropdown.Item href="/keyboards">View All</NavDropdown.Item>
               </NavDropdown>
             </Nav>
             <Form inline>

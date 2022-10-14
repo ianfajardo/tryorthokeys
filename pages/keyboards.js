@@ -32,6 +32,24 @@ var keyboards = [
     learnMore: "/id75",
   },
   {
+    name: "KPrepublic CSTC40",
+    price: "$48.90",
+    description:
+      "The KPrepublic CSTC40 a 40% ortholinear layout similar to the Planck keyboard. It has a hot-swap pcb, rgb lighting, and more. A great budget Planck alternative. Configurable through VIA software.",
+    image: "/cstc40.jpg",
+    buyNow: "https://collabs.shop/f9rpy8",
+    learnMore: "/kprepublic-cstc40",
+  },
+  {
+    name: "KPrepublic DNA59",
+    price: "$64.80",
+    description:
+      "The DNA59 is designed with a 2u spacebar and 58 1u keys referencing the Preonic layout. It has an acrylic case, hot-swap pcb, rgb lighting and more. A great budget Preonic alternative. It does not support VIA or QMK and uses their own software.",
+    image: "/dna59.jpg",
+    buyNow: "https://collabs.shop/ajjcnp",
+    learnMore: "/kprepublic-dna59",
+  },
+  {
     name: "MechDIY 59",
     price: "$175",
     description:
@@ -137,7 +155,7 @@ export default function Keyboards() {
                     alt={keyboard.name}
                   />
                   <div className="card-body">
-                    <h5 className="card-title">{keyboard.name}</h5>
+                    <h2 className="card-title">{keyboard.name}</h2>
                     <p className="card-text">{keyboard.description}</p>
                     <a href={keyboard.buyNow} className="btn btn-primary mr-3">
                       Buy Now
