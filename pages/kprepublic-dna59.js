@@ -1,30 +1,23 @@
 import Head from "next/head";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
+import SEOHead from "../components/SEOHead";
+
+var meta = {
+  title:
+    "KPrepublic DNA59: Designed with a 2u spacebar and 58 1u keys referencing the Preonic layout",
+  metatitle:
+    "KPrepublic DNA59: Designed with a 2u spacebar and 58 1u keys referencing the Preonic layout",
+  description:
+    "The KPrepublic DNA59 a 40% ortholinear layout similar to the Planck keyboard. It has a hot-swap pcb, rgb lighting, and more. A great budget Planck alternative. Configurable through VIA software.",
+  image: "/dna59.jpg",
+  slug: "/kprepublic-dna59",
+};
 
 export default function Dna59() {
   return (
     <div>
-      <Head>
-        <title>
-          The KPrepublic DNA59 a 40% ortholinear layout similar to the Planck
-          keyboard. It has a hot-swap pcb, rgb lighting, and more. A great
-          budget Planck alternative. Configurable through VIA software.
-        </title>
-        <link rel="icon" href="/favicon.ico" />
-        <meta
-          name="title"
-          content="KPrepublic DNA59 - 40% Ortholinear Keyboard | Ortho Keyboard"
-        />
-        <meta
-          name="description"
-          content="The DNA59 is designed with a 2u spacebar and 58 1u keys referencing the Preonic layout. It has an acrylic case, hot-swap pcb, rgb lighting and more. A great budget Preonic alternative. It does not support VIA or QMK and uses their own software."
-        />
-        <meta
-          property="og:image"
-          content="https://www.tryorthokeys.com/cstc40.jpg"
-        />
-      </Head>
+      <SEOHead meta={meta} />
 
       <Navigation />
 

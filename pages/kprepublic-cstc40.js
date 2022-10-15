@@ -1,30 +1,22 @@
 import Head from "next/head";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
+import SEOHead from "../components/SEOHead";
+
+export const meta = {
+  title: "KPrepublic CSTC40: Budget 40% ortholinear keyboard from KPrepublic",
+  metatitle:
+    "KPrepublic CSTC40: Budget 40% ortholinear keyboard from KPrepublic | 40 percent keyboard ortho keyboard ortholinear keyboard hot swap",
+  description:
+    "The CSTC40 a 40% ortholinear layout similar to the Planck keyboard. It has a hot-swap pcb, rgb lighting, and more. A great budget Planck alternative. Configurable through VIA software.",
+  image: "/cstc40.jpg",
+  slug: "/kprepublic-cstc40",
+};
 
 export default function Cstc40() {
   return (
     <div>
-      <Head>
-        <title>
-          The CSTC40 a 40% ortholinear layout similar to the Planck keyboard. It
-          has a hot-swap pcb, rgb lighting, and more. A great budget Planck
-          alternative. Configurable through VIA software.
-        </title>
-        <link rel="icon" href="/favicon.ico" />
-        <meta
-          name="title"
-          content="KPrepublic CSTC40 - 40% Ortholinear Keyboard | Ortho Keyboard"
-        />
-        <meta
-          name="description"
-          content="The KPrepublic CSTC40 a 40% ortholinear layout similar to the Planck keyboard. It has a hot-swap pcb, rgb lighting, and more. A great budget Planck alternative. Configurable through VIA software."
-        />
-        <meta
-          property="og:image"
-          content="https://www.tryorthokeys.com/cstc40.jpg"
-        />
-      </Head>
+      <SEOHead meta={meta} />
 
       <Navigation />
 
