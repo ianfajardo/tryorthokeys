@@ -38,7 +38,7 @@ The ideal stabilizer allows for no wobble and minimal sound when those keys are 
 <img src="/durock-v2-stabilizers.jpg" class="img-fluid small-img my-3">
 </a>
 
-Durock is well-known for making great stabilizers (like the Everglide branded one above) and the Durock V2 Stabs are well-known for good reason. They are super-smooth, come pre-clipped, and are screw-in mounted. Just make sure you can install screw-ins on your PCB and you're good to go.
+Durock is well-known for making great stabilizers (like the Everglide branded one above) and the [Durock V2 Stabs](https://www.tryorthokeys.com/posts/the-best-screw-in-keyboard-stabilizer-durock-v2) are well-known for good reason. They are super-smooth, come pre-clipped, and are screw-in mounted. Just make sure you can install screw-ins on your PCB and you're good to go.
 
 Features:
 
@@ -49,6 +49,8 @@ Features:
 - Can purchase individual sizes or a kit
 
 <a class="btn btn-primary mt-2 mb-4" href="https://prevailkeyco.com/collections/stabilizers/products/durock-v2-stabilizers?ref=tryorthokeys&variant=41994084843774">Buy Now</a>
+
+<a class="btn btn-primary mt-2 mb-4" href="https://www.tryorthokeys.com/posts/the-best-screw-in-keyboard-stabilizer-durock-v2">Read Our Review</a>
 
 ---
 
