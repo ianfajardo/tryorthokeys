@@ -47,7 +47,7 @@ export default function Home({ allPostsData }) {
         />
         <meta
           property="og:image"
-          content="https://tryorthokeys.com/planck-2.jpg"
+          content="https://tryorthokeys.com/tryorthokeys.jpg"
         />
 
         <meta property="twitter:card" content="summary_large_image" />
@@ -62,7 +62,7 @@ export default function Home({ allPostsData }) {
         />
         <meta
           property="twitter:image"
-          content="https://tryorthokeys.com/planck-2.jpg"
+          content="https://tryorthokeys.com/tryorthokeys.jpg"
         />
       </Head>
 

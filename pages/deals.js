@@ -1,57 +1,22 @@
-import Head from "next/head";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 import Table from "react-bootstrap/Table";
-import Nav from "react-bootstrap/Nav";
-import Sticky from "react-stickynode";
+import SEOHead from "../components/SEOHead";
+
+export const meta = {
+  title: "Keyboard Deals and Discounts | mechanical keyboard coupons",
+  metatitle:
+    "Keyboard Deals and Discounts | mechanical keyboard coupons | ortholinear keyboard deals",
+  description:
+    "Here are a list of special mechanical keyboard discounts and coupons. This page is periodically updated with deals for mechanical and ortholinear keyboards.",
+  image: "/tryorthokeys.jpg",
+  slug: "/deals",
+};
 
 export default function Keycaps() {
   return (
     <div>
-      <Head>
-        <title>
-          Keyboard Deals and Discounts | mechanical keyboard coupons
-        </title>
-        <link rel="icon" href="/favicon.ico" />
-        <meta
-          name="title"
-          content="Keyboard Deals and Discounts | mechanical keyboard coupons"
-        />
-        <meta
-          name="description"
-          content="Here are a list of special mechanical keyboard discounts and coupons."
-        />
-        <meta
-          property="og:image"
-          content="https://www.tryorthokeys.com/ortho-keycaps.png"
-        />
-        <meta
-          property="og:title"
-          content="Keyboard Deals and Discounts | mechanical keyboard coupons"
-        />
-        <meta
-          property="og:description"
-          content="Here are a list of special mechanical keyboard discounts and coupons."
-        />
-        <meta property="og:type" content="website" />
-        <meta property="twitter:card" content="summary_large_image" />
-        <meta
-          property="twitter:url"
-          content="https://www.tryorthokeys.com/deals/"
-        />
-        <meta
-          property="twitter:title"
-          content="Keyboard Deals and Discounts | mechanical keyboard coupons"
-        />
-        <meta
-          property="twitter:description"
-          content="Here are a list of special mechanical keyboard discounts and coupons."
-        />
-        <meta
-          property="twitter:image"
-          content="https://www.tryorthokeys.com/ortho-keycaps.png"
-        />
-      </Head>
+      <SEOHead meta={meta} />
 
       <Navigation />
 
@@ -174,19 +139,30 @@ export default function Keycaps() {
                               </td>
                             </tr>
                             <tr>
-                              <td>KPrepublic</td>
+                              <td>Drop MT3 BOGO</td>
                               <td>
-                                $5 off, $15 minimum purchase. Once per customer. Use code at checkout: <strong>TRY_ORTHO_KEYS</strong>
+                                Hallowheel MT3 BOOGOO. Buy one MT3 Base Kit or
+                                Ortho Kit and get a second one of your choice,
+                                free. Use code <strong>MT3BOOGOO</strong> at
+                                checkout. The BOOGOO ends 11:59PM PST on
+                                10/31/2022, or as long as supplies last. T&Cs
+                                apply.
                               </td>
                               <td>
-                                <a href="https://kprepublic.com/try_ortho_keys">Link</a>
+                                <a href="https://drop.com/all-communities/drops/MT3BOOGOO?referer=T93XGG">
+                                  Link
+                                </a>
                               </td>
                             </tr>
                             <tr>
-                              <td>Cablemod</td>
-                              <td></td>
+                              <td>KPrepublic</td>
                               <td>
-                                <a href="https://store.cablemod.com?ref=65078">
+                                $5 off, $15 minimum purchase. Once per customer.
+                                Use code at checkout:{" "}
+                                <strong>TRY_ORTHO_KEYS</strong>
+                              </td>
+                              <td>
+                                <a href="https://kprepublic.com/try_ortho_keys">
                                   Link
                                 </a>
                               </td>
