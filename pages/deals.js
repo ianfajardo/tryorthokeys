@@ -139,17 +139,25 @@ export default function Keycaps() {
                               </td>
                             </tr>
                             <tr>
-                              <td>Drop MT3 BOGO</td>
+                              <td>Drop</td>
                               <td>
-                                Hallowheel MT3 BOOGOO. Buy one MT3 Base Kit or
-                                Ortho Kit and get a second one of your choice,
-                                free. Use code <strong>MT3BOOGOO</strong> at
-                                checkout. The BOOGOO ends 11:59PM PST on
-                                10/31/2022, or as long as supplies last. T&Cs
-                                apply.
+                                Get $10 off your first order on Drop by signing
+                                up with our link
                               </td>
                               <td>
-                                <a href="https://drop.com/all-communities/drops/MT3BOOGOO?referer=T93XGG">
+                                <a href="https://drop.com/?referer=T93XGG">
+                                  Link
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>Drop MT3 BOGO</td>
+                              <td>
+                                Use code <strong>BROKENJACK10</strong> to get
+                                $10 off.
+                              </td>
+                              <td>
+                                <a href="https://drop.com/?referer=T93XGG">
                                   Link
                                 </a>
                               </td>
