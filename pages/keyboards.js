@@ -28,7 +28,8 @@ var keyboards = [
     description:
       "The ID75 has a hotswappable PCB and connects via USB Type C with 75 keys. In addition, the case is CNC milled anodized aluminum with several color options including an acrylic bottom to allow the underglow led to shine through.",
     image: "https://www.tryorthokeys.com/id75.jpg",
-    buyNow: "https://amzn.to/3SoDHmI",
+    buyNow:
+      "https://ymdkey.com/products/idobo-75-keys-ortholinear-layout-qmk-anodized-aluminum-case-plate-hot-swappable-hot-swap-type-c-pcb-mechanical-keyboard-kit?sca_ref=3163375.1C4wKHXQtf",
     learnMore: "/id75",
   },
   {

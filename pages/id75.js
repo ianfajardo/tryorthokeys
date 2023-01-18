@@ -21,7 +21,10 @@ export default function Id75() {
           ortholinear keyboards. A common layout has the alphas split on
           the sides with extra function keys in the middle."
         />
-        <meta property="og:image" content="https://www.tryorthokeys.com/id75.jpg"/>
+        <meta
+          property="og:image"
+          content="https://www.tryorthokeys.com/id75.jpg"
+        />
       </Head>
 
       <Navigation />
@@ -41,7 +44,7 @@ export default function Id75() {
                   Preonic.
                 </p>
                 <a
-                  href="https://amzn.to/3vSJgxP"
+                  href="https://ymdkey.com/products/idobo-75-keys-ortholinear-layout-qmk-anodized-aluminum-case-plate-hot-swappable-hot-swap-type-c-pcb-mechanical-keyboard-kit?sca_ref=3163375.1C4wKHXQtf"
                   className="mt-3 btn btn-primary"
                 >
                   Buy Now
@@ -60,9 +63,7 @@ export default function Id75() {
             <div className="px-5 py-5 py-lg-5">
               <div className="row align-items-center">
                 <div className="col-lg-5">
-                  <h2 className="font-weight-bold text-primary">
-                    Idobo ID75
-                  </h2>
+                  <h2 className="font-weight-bold text-primary">Idobo ID75</h2>
                   <p style={{ fontSize: "20px" }}>
                     The ID75 has a hotswappable PCB and connects via USB Type C.
                     In addition, the case is CNC milled anodized aluminum with
@@ -72,7 +73,7 @@ export default function Id75() {
                     <a href="/olkb">OLKB Planck & Preonic</a>.
                   </p>
                   <a
-                    href="https://amzn.to/3vSJgxP"
+                    href="https://ymdkey.com/products/idobo-75-keys-ortholinear-layout-qmk-anodized-aluminum-case-plate-hot-swappable-hot-swap-type-c-pcb-mechanical-keyboard-kit?sca_ref=3163375.1C4wKHXQtf"
                     className="btn btn-primary mr-2"
                   >
                     Buy Now
