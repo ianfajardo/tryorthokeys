@@ -3,6 +3,7 @@ backend:
   branch: main # Branch to update (optional; defaults to master)
 media_folder: public/
 public_folder: /
+publish_mode: editorial_workflow
 collections:
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "posts" # Used in the UI

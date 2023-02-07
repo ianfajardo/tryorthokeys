@@ -49,7 +49,7 @@ export default function Posts({ allPostsData }) {
                 <div className="mb-5">
                   <div className="row">
                     <div className="col-lg-5">
-                      <Link href={`/posts/${slug}`}>
+                      <Link legacyBehavior href={`/posts/${slug}`}>
                         <a className="d-block">
                           <img
                             className="img-fluid mb-3"
@@ -65,7 +65,7 @@ export default function Posts({ allPostsData }) {
                           <Date dateString={date} />
                         </small>
                       </div>
-                      <Link href={`/posts/${slug}`}>
+                      <Link legacyBehavior href={`/posts/${slug}`}>
                         <a className="lead">{title}</a>
                       </Link>
                     </div>

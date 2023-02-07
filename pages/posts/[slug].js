@@ -84,7 +84,7 @@ export default function Post({ postData }) {
           <div className="container">
             <div className="row">
               <div className="col-lg-12">
-                <Link href="/posts">
+                <Link legacyBehavior href="/posts">
                   <a className="text-white">Blog</a>
                 </Link>
                 <h1 className="display-4 font-weight-bolder">{postData.title}</h1>

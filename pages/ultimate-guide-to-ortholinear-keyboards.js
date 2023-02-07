@@ -438,7 +438,7 @@ export default function Ultimateguide({ keycapPostData, switchPostData }) {
                 <div className="mb-5">
                   <div className="card">
                     <div className="card-img-top">
-                      <Link href={`/posts/${slug}`}>
+                      <Link legacyBehavior href={`/posts/${slug}`}>
                         <a>
                           <img
                             className="img-fluid mb-3"
@@ -449,7 +449,7 @@ export default function Ultimateguide({ keycapPostData, switchPostData }) {
                       </Link>
                     </div>
                     <div className="card-body">
-                      <Link href={`/posts/${slug}`}>
+                      <Link legacyBehavior href={`/posts/${slug}`}>
                         <a>{title}</a>
                       </Link>
                     </div>
@@ -499,7 +499,7 @@ export default function Ultimateguide({ keycapPostData, switchPostData }) {
                 <div className="mb-5">
                   <div className="card">
                     <div className="card-img-top">
-                      <Link href={`/posts/${slug}`}>
+                      <Link legacyBehavior href={`/posts/${slug}`}>
                         <a>
                           <img
                             className="img-fluid mb-3"
@@ -510,7 +510,7 @@ export default function Ultimateguide({ keycapPostData, switchPostData }) {
                       </Link>
                     </div>
                     <div className="card-body">
-                      <Link href={`/posts/${slug}`}>
+                      <Link legacyBehavior href={`/posts/${slug}`}>
                         <a>{title}</a>
                       </Link>
                     </div>
