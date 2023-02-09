@@ -8,7 +8,7 @@ date: 2023-02-09T19:06:54.132Z
 image: /drop-planck-v7-ortholinear-preorder.png
 ---
 <div class="lead mb-3">Pre-order the newest version of the DROP + OLKB Planck V7 compact keyboard. Iterating on one of the most popular ortholinear keyboards, there are new additions like a new POM plate option and more encoder slots! Read on to learn about what has stayed the same and what has changed.</div>
-<a class="btn btn-primary" href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG">
+<a class="mb-3" href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG">
 
 ![](/suplea1sraih1snlx0t2_6691-copy-pdp.jpg)
 
@@ -23,7 +23,7 @@ Not surprisingly the OLKB Planck is one of our favorite ortholinear keyboards ou
 * Eight new encoder slots (four on the left and four on the right)
 * Steel Plate and New POM Plate option in both white and black colorways
 * Four CNC alumnium case colors: black, green, red and polycarbonate 
-<a class="btn btn-primary" href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG">
+<a class="mb-3" href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG">
 
 ![](/blfupwxgrbg6xjycg22v_8210-copy-pdp.jpg)
 
