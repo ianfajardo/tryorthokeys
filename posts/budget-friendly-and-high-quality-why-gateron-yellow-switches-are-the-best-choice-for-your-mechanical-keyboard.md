@@ -44,4 +44,4 @@ Gateron Yellow switches are compatible with a wide range of keycaps, allowing fo
 
 In conclusion, Gateron Yellow switches are a great choice for anyone looking for a smooth, responsive, and budget-friendly mechanical keyboard switch. Their quiet operation, durability, and compatibility make them a popular choice among the keyboard community. So, whether you're building a new keyboard or upgrading an existing one, give Gateron Yellow switches a try and experience the difference they can make in your typing experience.
 
-<div class="btn btn-primary" href="https://amzn.to/3Yue4mB"/>Learn More</a>
+<a class="btn btn-primary" href="https://amzn.to/3Yue4mB"/>Learn More</a>
