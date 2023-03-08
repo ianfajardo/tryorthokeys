@@ -36,7 +36,9 @@ Gateron Yellow switches are compatible with a wide range of keycaps, allowing fo
 
 ## Video Review by Glarses
 
-<div class="usa-embed-container><iframe width="560" height="315" src="https://www.youtube.com/embed/oQBWfKC5nxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="usa-embed-container">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oQBWfKC5nxU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 
 ## Conclusion
 
