@@ -7,7 +7,7 @@ description: Upgrade your mechanical keyboard without breaking the bank with
   Gateron Yellow switches. Smooth, quiet, and durable, these switches offer a
   high-quality typing experience at a budget-friendly price. Learn why Gateron
   Yellow switches are the best choice for your next keyboard build or upgrade.
-date: 2023-03-08T19:13:25.091Z
+date: 2023-03-07T19:13:25.091Z
 image: /gateron-yellow-blog-post.png
 ---
 Gateron Yellow switches have quickly become a popular choice among mechanical keyboard enthusiasts. If you're considering upgrading your keyboard or building a new one, here are some reasons why you should get Gateron Yellow switches.
