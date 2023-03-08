@@ -22,6 +22,11 @@ Keyboards are an essential tool in our daily lives, whether we're using them for
 
 ![Customize Your Typing Experience: Why You Should Build Your Own Solderable DIY Keyboard with the Weekin Y-40 Kit](/23_c5edf877-d915-4935-8954-d2fbdad6aa46.jpg "Customize Your Typing Experience: Why You Should Build Your Own Solderable DIY Keyboard with the Weekin Y-40 Kit")
 
+KBDFans is known for offering high-quality components in their keyboard kits, and the Weekin Y-40 is no exception. The kit includes a PCB designed specifically for the Y-40 layout, which ensures compatibility with the case and plate. The PCB also supports QMK and VIA firmware, allowing for advanced customization options. Despite the high-quality components, KBDFans offers the Weekin Y-40 kit at an affordable price. This makes it a great option for beginners or anyone on a budget who still wants to build a custom keyboard without breaking the bank.
+
+
+In addition to the [Weekin Y-40 kit](https://kbdfans.com/r?id=0vmssg), KBDFans offers a wide selection of accessories such as switches, keycaps, and cables to complete your custom keyboard. This makes it a one-stop-shop for all your keyboard needs, saving you time and hassle.
+
 In conclusion, building your own solderable DIY keyboard kit with the [Weekin Y-40](https://kbdfans.com/r?id=0vmssg) is an excellent way to customize your keyboard, learn new skills, gain a sense of accomplishment, ensure quality control, and become part of a vibrant community. It's a rewarding hobby that can provide hours of enjoyment, and we highly recommend giving it a try!
 
 <a class="btn btn-primary" href="https://kbdfans.com/r?id=0vmssg">Learn More</a>
