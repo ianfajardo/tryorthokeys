@@ -32,8 +32,6 @@ Gateron Yellow switches are designed to last, with a lifespan of up to 50 millio
 
 ## Customizable
 
-
-
 Gateron Yellow switches are compatible with a wide range of keycaps, allowing for customization to fit your personal style. They're also easy to mod, with options such as switch films, lube, and spring swaps available to enhance their performance even further.
 
 ## Video Review by Glarses
