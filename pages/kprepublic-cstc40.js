@@ -1,6 +1,6 @@
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
-import SEOhead from "../components/SEOHead";
+import SEOhead from "../components/SEOhead";
 
 export const meta = {
   title: "KPrepublic CSTC40: Budget 40% ortholinear keyboard from KPrepublic",
@@ -14,7 +14,7 @@ export const meta = {
 
 export default function Cstc40() {
   return (
-    <div>
+    <div> 
       <SEOhead meta={meta} />
 
       <Navigation />

@@ -1,7 +1,7 @@
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 import Table from "react-bootstrap/Table";
-import SEOHead from "../components/SEOHead";
+import SEOhead from "../components/SEOhead";
 
 export const meta = {
   title: "Keyboard Deals and Discounts | mechanical keyboard coupons",
@@ -16,7 +16,7 @@ export const meta = {
 export default function Keycaps() {
   return (
     <div>
-      <SEOHead meta={meta} />
+      <SEOhead meta={meta} />
 
       <Navigation />
 

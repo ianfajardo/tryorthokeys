@@ -15,7 +15,7 @@ export const meta = {
 
 export default function Dna59() {
   return (
-    <div> 
+    <div>  
       <SEOhead meta={meta} />
 
       <Navigation />
