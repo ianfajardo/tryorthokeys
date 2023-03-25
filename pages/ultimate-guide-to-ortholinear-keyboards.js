@@ -41,7 +41,10 @@ export default function Ultimateguide({ keycapPostData, switchPostData }) {
         />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.tryorthokeys.com/ultimate-guide-to-ortholinear-keyboards" />
+        <meta
+          property="og:url"
+          content="https://www.tryorthokeys.com/ultimate-guide-to-ortholinear-keyboards"
+        />
         <meta
           property="og:title"
           content="Ultimate Guide to Ortholinear Keyboards | ortho keyboard, ortho
@@ -357,15 +360,16 @@ export default function Ultimateguide({ keycapPostData, switchPostData }) {
               <p>
                 Features:
                 <br />
-                <ul>
-                  <li>Cusomizable removable modules</li>
-                  <li>Up to 6 rotary knobs</li>
-                  <li>236 programmable keys across 4 key layers</li>
-                  <li>
-                    VIA and QMK configurarable to customize all keys 60% layout
-                  </li>
-                </ul>
               </p>
+
+              <ul>
+                <li>Cusomizable removable modules</li>
+                <li>Up to 6 rotary knobs</li>
+                <li>236 programmable keys across 4 key layers</li>
+                <li>
+                  VIA and QMK configurarable to customize all keys 60% layout
+                </li>
+              </ul>
               <a
                 href="https://www.tryorthokeys.com/keyboards"
                 className="mt-3 btn btn-primary mr-2"

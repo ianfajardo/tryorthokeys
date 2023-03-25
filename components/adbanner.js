@@ -5,7 +5,7 @@ const AdBanner = () => {
     try {
       (adsbygoogle = window.adsbygoogle || []).push({});
     } catch (err) {
-      console.log(err);
+      //console.log(err);
     }
   }, []);
 

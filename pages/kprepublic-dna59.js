@@ -1,11 +1,11 @@
 import Head from "next/head";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
-import SEOHead from "../components/SEOHead";
+import SEOhead from "../components/SEOhead";
 
-var meta = {
+export const meta = {
   title:
-    "KPrepublic DNA59: Designed with a 2u spacebar and 58 1u keys referencing the Preonic layout",
+    "KPrepublic DNA59 Designed with a 2u spacebar and 58 1u keys referencing the Preonic layout",
   metatitle:
     "KPrepublic DNA59: Designed with a 2u spacebar and 58 1u keys referencing the Preonic layout",
   description:
@@ -17,7 +17,7 @@ var meta = {
 export default function Dna59() {
   return (
     <div>
-      <SEOHead meta={meta} />
+      <SEOhead meta={meta} />
 
       <Navigation />
 
