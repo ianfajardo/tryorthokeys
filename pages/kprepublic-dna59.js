@@ -1,4 +1,3 @@
-import Head from "next/head";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 import SEOhead from "../components/SEOhead";
@@ -16,7 +15,7 @@ export const meta = {
 
 export default function Dna59() {
   return (
-    <div>
+    <div> 
       <SEOhead meta={meta} />
 
       <Navigation />
