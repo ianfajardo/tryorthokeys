@@ -1,9 +1,13 @@
 ---
-title: "5 Tips to Keep Your Mechanical Keyboard Clean and Happy "
-metatitle: "5 Tips to Keep Your Mechanical Keyboard Clean and Happy | best mechanical keyboard cleaner, buy mechanical keyboard, how to clean a mechanical keyboard"
-description: "Keyboards are essential to the typing experience. Maintaining yours is important! Use these five tips to keep your mechanical keyboard clean and happy."
-date: "2022-02-15"
-image: "/5-tips-keep-your-mechanical-keyboard-clean-happy.png"
+title: 5 Tips to Keep Your Mechanical Keyboard Clean and Happy
+metatitle: Keyboard 5 Tips to Keep Your Mechanical Keyboard Clean and Happy |
+  best mechanical keyboard cleaner, buy mechanical keyboard, how to clean a
+  mechanical keyboard
+description: Keyboards are essential to the typing experience. Maintaining yours
+  is important! Use these five tips to keep your mechanical keyboard clean and
+  happy.
+date: 2022-02-15
+image: /5-tips-keep-your-mechanical-keyboard-clean-happy.png
 ---
 
 <div class="row">
