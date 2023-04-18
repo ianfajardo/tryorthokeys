@@ -51,6 +51,13 @@ var keyboards = [
     learnMore: "/kprepublic-dna59",
   },
   {
+    name: "Inland 47", 
+    price: "$49.99",
+    description: "A budget ortholinear from MicroCenter that features hot-swappable switches and a rgb lighting.",
+    image: "https://tryorthokeys.com/inland-47.jpg",
+    buyNow: "https://sovrn.co/1p0itng",
+  },
+  {
     name: "MechDIY 59",
     price: "$175",
     description:
@@ -161,12 +168,14 @@ export default function Keyboards() {
                     <a href={keyboard.buyNow} className="btn btn-primary mr-3">
                       Buy Now
                     </a>
-                    <a
-                      href={keyboard.learnMore}
-                      className="btn btn-secondary mr-3"
-                    >
-                      Learn More
-                    </a>
+                    {
+                      (keyboard.learnMore) ? (<a
+                        href={keyboard.learnMore}
+                        className="btn btn-secondary mr-3"
+                      >
+                        Learn More
+                      </a>) : ""
+                    }
                   </div>
                   <div className="card-footer text-muted">
                     <strong>Price:</strong> {keyboard.price}
