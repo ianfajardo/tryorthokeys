@@ -223,7 +223,7 @@ export default function Keycaps() {
                           Keycaps
                         </h2>
                         <p>
-                          YDMK offers a budget friendly keycap sets!
+                          YDMK offers budget friendly keycap sets!
                         </p>
                         
                         <a
