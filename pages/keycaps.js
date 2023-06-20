@@ -108,10 +108,16 @@ export default function Keycaps() {
               className="py-2"
             >
               <Nav.Item as="li">
+                <Nav.Link className="text-white" href="#ydmk">
+                  YMDK
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item as="li">
                 <Nav.Link className="text-white" href="#drop">
                   Drop
                 </Nav.Link>
               </Nav.Item>
+
               <Nav.Item as="li">
                 <Nav.Link className="text-white" href="#pimpmykeyboard">
                   Pimp My Keyboard
@@ -177,28 +183,152 @@ export default function Keycaps() {
             <div className="mt-3">
               <div className="card">
                 <div className="card-body">
-                  <h3>NIU40 / NIU Mini</h3>
-                  <img
-                    className="img-fluid"
-                    src="/niu40.webp"
-                    alt="NIU 40 NIU Mini"
-                  />
+                  <h3>KPrepublic CSTC40</h3>
+                  <a
+                    href="/kprepublic-cstc40"
+                  >
+                    <img
+                      className="img-fluid"
+                      src="/cstc40.jpg"
+                      alt="KPrepublic CSTC40"
+                    />
+                  </a>
                   <p>
-                    The NIU 40 / NIU Mini is a 40% keyboard similar to the
-                    Planck ortholinear keyboard. You purchase them a DIY kit at{" "}
-                    <a href="https://kbdfans.com/r?id=eft22v">KBDFans</a>. A bit
-                    cheaper than the OLKB offerings, it offers similar
-                    functionality and features.
+                    The KPrepublic CSTC40 a 40% ortholinear layout similar to
+                    the Planck keyboard. It has a hot-swap pcb, rgb lighting,
+                    and more. A great budget Planck alternative. Configurable
+                    through VIA software.
                   </p>
-                  <a href="/niu40" className="btn btn-secondary mt-3">
+                  <a
+                    href="/kprepublic-cstc40"
+                    className="btn btn-secondary mt-3"
+                  >
                     Learn More
                   </a>
                 </div>
               </div>
             </div>
           </div>
+          
 
           <div className="col-lg-8 col-md-8">
+            <div id="ymdk" className="section-container ">
+              <div>
+                <div className="card ele-2">
+                  <div className="px-5 py-5">
+                    <div className="row align-items-center">
+                      <div className="col-lg-12">
+                        <h2 className="font-weight-bold text-primary">
+                          <a href="https://drop.com/?referer=T93XGG">YMDK</a>{" "}
+                          Keycaps
+                        </h2>
+                        <p>
+                          YDMK offers a budget friendly keycap sets!
+                        </p>
+                        
+                        <a
+                          href="https://ymdkey.com/search?q=ortholinear&options%5Bprefix%5D=last&sca_ref=3163375.1C4wKHXQtf"
+                          className="btn btn-secondary mb-2"
+                        >
+                          YDMK Site
+                        </a>
+
+                        <Table
+                          responsive
+                          striped
+                          bordered
+                          hover
+                          className="mt-3"
+                        >
+                          <thead>
+                            <tr>
+                              <th>Name</th>
+                              <th>Profile</th>
+                              <th>Image</th>
+                              <th>Link</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td>Matcha Keycaps</td>
+                              <td>ZDA</td>
+                              <td>
+                                <a
+                                  href="https://ymdkey.com/products/68-matcha-keycaps-dye-sub-zda-profile-for-ergo-ergodox-lily58-planck-preonic?variant=39337151037501&sca_ref=3163375.1C4wKHXQtf"
+                                  target="_blank"
+                                >
+                                  <img
+                                    border="0"
+                                    src="/matcha-68.jpg"
+                                    style={{maxWidth: "160px"}}
+                                  />
+                                </a>
+                                
+                              </td>
+                              <td>
+                                <a href="https://ymdkey.com/products/68-matcha-keycaps-dye-sub-zda-profile-for-ergo-ergodox-lily58-planck-preonic?variant=39337151037501&sca_ref=3163375.1C4wKHXQtf">View Now</a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>DSA 48 Keycaps</td>
+                              <td>DSA</td>
+                              <td>
+                                <a
+                                  href="https://ymdkey.com/products/dsa-48-keycaps-for-planck-filco-ergodox?_pos=6&_sid=21df443e9&_ss=r&sca_ref=3163375.1C4wKHXQtf"
+                                  target="_blank"
+                                >
+                                  <img
+                                    border="0"
+                                    src="/dsa-48.jpg"
+                                    style={{maxWidth: "160px"}}
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://ymdkey.com/products/dsa-48-keycaps-for-planck-filco-ergodox?_pos=6&_sid=21df443e9&_ss=r&sca_ref=3163375.1C4wKHXQtf">View Now</a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>58 Mixed Colors Keycaps</td>
+                              <td>DSA</td>
+                              <td>
+                                <a
+                                  href="https://ymdkey.com/products/58-mixed-color-keycaps-due-sub-dsa-profile-for-amj40-niu40-ymd-40?variant=30994888294461&sca_ref=3163375.1C4wKHXQtf"
+                                  target="_blank"
+                                >
+                                  <img
+                                    border="0"
+                                    src="/58-key.jpg"
+                                    style={{maxWidth: "160px"}}
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://ymdkey.com/products/58-mixed-color-keycaps-due-sub-dsa-profile-for-amj40-niu40-ymd-40?variant=30994888294461&sca_ref=3163375.1C4wKHXQtf">View More</a>
+                              </td>
+                            </tr>
+                            
+                          </tbody>
+                        </Table>
+
+                        <iframe
+                          className="d-none d-xl-block"
+                          src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=48&l=ur1&category=prime_up&banner=13X19G3KXJPB8R7KG782&f=ifr&linkID=31bc46daa187ff9e2cd10925de1ccb59&t=tryorthokey06-20&tracking_id=tryorthokey06-20"
+                          width="728"
+                          height="90"
+                          scrolling="no"
+                          border="0"
+                          marginWidth="0"
+                          style={{ border: "none" }}
+                          frameBorder="0"
+                        ></iframe>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
             <div id="drop" className="section-container ">
               <div>
                 <div className="card ele-2">
@@ -841,7 +971,9 @@ export default function Keycaps() {
                         </h2>
                         <p>
                           Kono offers many of original keyboards, keycaps, and
-                          much more. They offer a handful of ortho kits. Some of these sets you may need to buy the alpha kit and the ortho modifers together.
+                          much more. They offer a handful of ortho kits. Some of
+                          these sets you may need to buy the alpha kit and the
+                          ortho modifers together.
                         </p>
                         <a
                           href="https://sovrn.co/rgjoybp"
@@ -897,9 +1029,7 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://sovrn.co/1oajv87">
-                                  View Now
-                                </a>
+                                <a href="https://sovrn.co/1oajv87">View Now</a>
                               </td>
                             </tr>
                             <tr>
@@ -915,9 +1045,7 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://sovrn.co/apxgs25">
-                                  View Now
-                                </a>
+                                <a href="https://sovrn.co/apxgs25">View Now</a>
                               </td>
                             </tr>
                           </tbody>
