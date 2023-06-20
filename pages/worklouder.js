@@ -58,7 +58,7 @@ export default function Worklouder() {
         enabled={true}
         top="#secondnav"
         bottomBoundary="#content"
-        innerZ="99999"
+        innerZ="5"
       >
         <div
           className="bg-primary"
