@@ -98,7 +98,7 @@ export default function Keycaps() {
                         <img className="img-fluid" src="fkcaps.jpg"/>
                       </div>
                       <div className="col-lg-8 text-light">
-                        <h2>Design your own keycaps</h2>
+                        <h2>Design your own keycaps with FKcaps</h2>
                         <p>Use our link to get a special <strong>10% off</strong> affordable customizable keycaps at FKcaps. They offer cherry, DSA, MDA, choc-style caps, and much more. Choose from different layouts to fit your needs, pick custom fonts, and more with their awesome customizer. </p>
                       </div>
                       <div className="col-lg-2">

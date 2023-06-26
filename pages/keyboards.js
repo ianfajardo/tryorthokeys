@@ -51,9 +51,10 @@ var keyboards = [
     learnMore: "/kprepublic-dna59",
   },
   {
-    name: "Inland 47", 
+    name: "Inland 47",
     price: "$49.99",
-    description: "A budget ortholinear from MicroCenter that features hot-swappable switches and a rgb lighting.",
+    description:
+      "A budget ortholinear from MicroCenter that features hot-swappable switches and a rgb lighting.",
     image: "https://tryorthokeys.com/inland-47.jpg",
     buyNow: "https://sovrn.co/1p0itng",
   },
@@ -168,14 +169,16 @@ export default function Keyboards() {
                     <a href={keyboard.buyNow} className="btn btn-primary mr-3">
                       Buy Now
                     </a>
-                    {
-                      (keyboard.learnMore) ? (<a
+                    {keyboard.learnMore ? (
+                      <a
                         href={keyboard.learnMore}
                         className="btn btn-secondary mr-3"
                       >
                         Learn More
-                      </a>) : ""
-                    }
+                      </a>
+                    ) : (
+                      ""
+                    )}
                   </div>
                   <div className="card-footer text-muted">
                     <strong>Price:</strong> {keyboard.price}
@@ -192,12 +195,40 @@ export default function Keyboards() {
           <div className="row">
             <div className="col-lg-12">
               <h2>Keycaps</h2>
+
               <p>
                 Finally picked out your ortholinear keyboard? You'll need some
                 keycaps! Read our articles on the best keycaps you can get for
                 your ortholienar or see our page on ortholinear specific keycap
                 sets <a href="/keycaps">available now</a>.
               </p>
+            </div>
+          </div>
+          <div className="card ele-2 mb-4 bg-primary">
+            <div className="px-5 py-5">
+              <div className="row align-items-center">
+                <div className="col-lg-2">
+                  <img className="img-fluid" src="fkcaps.jpg" />
+                </div>
+                <div className="col-lg-8 text-light">
+                  <h2>Design your own keycaps with FKcaps</h2>
+                  <p>
+                    Use our link to get a special <strong>10% off</strong>{" "}
+                    affordable customizable keycaps at FKcaps. They offer
+                    cherry, DSA, MDA, choc-style caps, and much more. Choose
+                    from different layouts to fit your needs, pick custom fonts,
+                    and more with their awesome customizer.{" "}
+                  </p>
+                </div>
+                <div className="col-lg-2">
+                  <a
+                    href="https://fkcaps.com/custom?a=tryorthokeys"
+                    className="btn btn-lg btn-light"
+                  >
+                    Learn More
+                  </a>
+                </div>
+              </div>
             </div>
           </div>
           <div className="row">
