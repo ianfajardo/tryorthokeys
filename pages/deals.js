@@ -89,8 +89,24 @@ export default function Keycaps() {
           </div>
 
           <div className="col-lg-8 col-md-8">
-            <div id="drop" className="section-container ">
+            <div id="FKcaps" className="section-container ">
               <div>
+                <div className="card ele-2 mb-4 bg-primary">
+                  <div className="px-5 py-5">
+                    <div className="row align-items-center">
+                      <div className="col-lg-2">
+                        <img className="img-fluid" src="fkcaps.jpg"/>
+                      </div>
+                      <div className="col-lg-8 text-light">
+                        <h2>Design your own keycaps</h2>
+                        <p>Use our link to get a special <strong>10% off</strong> affordable customizable keycaps at FKcaps. They offer cherry, DSA, MDA, choc-style caps, and much more. Choose from different layouts to fit your needs, pick custom fonts, and more with their awesome customizer. </p>
+                      </div>
+                      <div className="col-lg-2">
+                        <a href="https://fkcaps.com/custom?a=tryorthokeys" className="btn btn-lg btn-light">Learn More</a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
                 <div className="card ele-2">
                   <div className="px-5 py-5">
                     <div className="row align-items-center">
@@ -115,18 +131,6 @@ export default function Keycaps() {
                           </thead>
                           <tbody>
                             <tr>
-                              <td>Prevail Key Co.</td>
-                              <td>
-                                Use coupon code <strong>tryorthokeys</strong> to
-                                get 5% off
-                              </td>
-                              <td>
-                                <a href="https://prevailkeyco.com/?ref=tryorthokeys">
-                                  Link
-                                </a>
-                              </td>
-                            </tr>
-                            <tr>
                               <td>Drop</td>
                               <td>
                                 Get $10 off your first order on Drop by signing
@@ -151,13 +155,13 @@ export default function Keycaps() {
                               </td>
                             </tr>
                             <tr>
-                              <td>Drop MT3 BOGO</td>
+                              <td>Excluive DROP Deals</td>
                               <td>
-                                Use code <strong>BROKENJACK10</strong> to get
-                                $10 off.
+                                Visit the link below to see exclusive deals from
+                                DROP.
                               </td>
                               <td>
-                                <a href="https://drop.com/?referer=T93XGG">
+                                <a href="https://drop.com/all-communities/drops/exclusive-deals?referer=T93XGG">
                                   Link
                                 </a>
                               </td>

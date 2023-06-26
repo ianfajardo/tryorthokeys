@@ -184,9 +184,7 @@ export default function Keycaps() {
               <div className="card">
                 <div className="card-body">
                   <h3>KPrepublic CSTC40</h3>
-                  <a
-                    href="/kprepublic-cstc40"
-                  >
+                  <a href="/kprepublic-cstc40">
                     <img
                       className="img-fluid"
                       src="/cstc40.jpg"
@@ -209,9 +207,40 @@ export default function Keycaps() {
               </div>
             </div>
           </div>
-          
 
           <div className="col-lg-8 col-md-8">
+            <div id="FKcaps" className="section-container pb-0">
+              <div>
+                <div className="card ele-2 bg-primary">
+                  <div className="px-5 py-5">
+                    <div className="row align-items-center">
+                      <div className="col-lg-2">
+                        <img className="img-fluid" src="fkcaps.jpg" />
+                      </div>
+                      <div className="col-lg-8 text-light">
+                        <h2>Design your own keycaps with FKcaps</h2>
+                        <p>
+                          Use our link to get a special <strong>10% off</strong>{" "}
+                          affordable customizable keycaps at FKcaps. They offer
+                          cherry, DSA, MDA, choc-style caps, and much more.
+                          Choose from different layouts to fit your needs, pick
+                          custom fonts, and more with their awesome customizer.{" "}
+                        </p>
+                      </div>
+                      <div className="col-lg-2">
+                        <a
+                          href="https://fkcaps.com/custom?a=tryorthokeys"
+                          className="btn btn-lg btn-light"
+                        >
+                          Learn More
+                        </a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                
+              </div>
+            </div>
             <div id="ymdk" className="section-container ">
               <div>
                 <div className="card ele-2">
@@ -222,10 +251,8 @@ export default function Keycaps() {
                           <a href="https://drop.com/?referer=T93XGG">YMDK</a>{" "}
                           Keycaps
                         </h2>
-                        <p>
-                          YDMK offers budget friendly keycap sets!
-                        </p>
-                        
+                        <p>YDMK offers budget friendly keycap sets!</p>
+
                         <a
                           href="https://ymdkey.com/search?q=ortholinear&options%5Bprefix%5D=last&sca_ref=3163375.1C4wKHXQtf"
                           className="btn btn-secondary mb-2"
@@ -260,13 +287,14 @@ export default function Keycaps() {
                                   <img
                                     border="0"
                                     src="/matcha-68.jpg"
-                                    style={{maxWidth: "160px"}}
+                                    style={{ maxWidth: "160px" }}
                                   />
                                 </a>
-                                
                               </td>
                               <td>
-                                <a href="https://ymdkey.com/products/68-matcha-keycaps-dye-sub-zda-profile-for-ergo-ergodox-lily58-planck-preonic?variant=39337151037501&sca_ref=3163375.1C4wKHXQtf">View Now</a>
+                                <a href="https://ymdkey.com/products/68-matcha-keycaps-dye-sub-zda-profile-for-ergo-ergodox-lily58-planck-preonic?variant=39337151037501&sca_ref=3163375.1C4wKHXQtf">
+                                  View Now
+                                </a>
                               </td>
                             </tr>
                             <tr>
@@ -280,12 +308,14 @@ export default function Keycaps() {
                                   <img
                                     border="0"
                                     src="/dsa-48.jpg"
-                                    style={{maxWidth: "160px"}}
+                                    style={{ maxWidth: "160px" }}
                                   />
                                 </a>
                               </td>
                               <td>
-                                <a href="https://ymdkey.com/products/dsa-48-keycaps-for-planck-filco-ergodox?_pos=6&_sid=21df443e9&_ss=r&sca_ref=3163375.1C4wKHXQtf">View Now</a>
+                                <a href="https://ymdkey.com/products/dsa-48-keycaps-for-planck-filco-ergodox?_pos=6&_sid=21df443e9&_ss=r&sca_ref=3163375.1C4wKHXQtf">
+                                  View Now
+                                </a>
                               </td>
                             </tr>
                             <tr>
@@ -299,15 +329,16 @@ export default function Keycaps() {
                                   <img
                                     border="0"
                                     src="/58-key.jpg"
-                                    style={{maxWidth: "160px"}}
+                                    style={{ maxWidth: "160px" }}
                                   />
                                 </a>
                               </td>
                               <td>
-                                <a href="https://ymdkey.com/products/58-mixed-color-keycaps-due-sub-dsa-profile-for-amj40-niu40-ymd-40?variant=30994888294461&sca_ref=3163375.1C4wKHXQtf">View More</a>
+                                <a href="https://ymdkey.com/products/58-mixed-color-keycaps-due-sub-dsa-profile-for-amj40-niu40-ymd-40?variant=30994888294461&sca_ref=3163375.1C4wKHXQtf">
+                                  View More
+                                </a>
                               </td>
                             </tr>
-                            
                           </tbody>
                         </Table>
 
