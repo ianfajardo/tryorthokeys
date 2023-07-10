@@ -95,14 +95,25 @@ export default function Keycaps() {
                   <div className="px-5 py-5">
                     <div className="row align-items-center">
                       <div className="col-lg-2">
-                        <img className="img-fluid" src="fkcaps.jpg"/>
+                        <img className="img-fluid" src="fkcaps.jpg" />
                       </div>
                       <div className="col-lg-8 text-light">
                         <h2>Design your own keycaps with FKcaps</h2>
-                        <p>Use our link to get a special <strong>10% off</strong> affordable customizable keycaps at FKcaps. They offer cherry, DSA, MDA, choc-style caps, and much more. Choose from different layouts to fit your needs, pick custom fonts, and more with their awesome customizer. </p>
+                        <p>
+                          Use our link to get a special <strong>10% off</strong>{" "}
+                          affordable customizable keycaps at FKcaps. They offer
+                          cherry, DSA, MDA, choc-style caps, and much more.
+                          Choose from different layouts to fit your needs, pick
+                          custom fonts, and more with their awesome customizer.{" "}
+                        </p>
                       </div>
                       <div className="col-lg-2">
-                        <a href="https://fkcaps.com/custom?a=tryorthokeys" className="btn btn-lg btn-light">Learn More</a>
+                        <a
+                          href="https://fkcaps.com/custom?a=tryorthokeys"
+                          className="btn btn-lg btn-light"
+                        >
+                          Learn More
+                        </a>
                       </div>
                     </div>
                   </div>
@@ -131,42 +142,6 @@ export default function Keycaps() {
                           </thead>
                           <tbody>
                             <tr>
-                              <td>Drop</td>
-                              <td>
-                                Get $10 off your first order on Drop by signing
-                                up with our link
-                              </td>
-                              <td>
-                                <a href="https://drop.com/?referer=T93XGG">
-                                  Link
-                                </a>
-                              </td>
-                            </tr>
-                            <tr>
-                              <td>Drop</td>
-                              <td>
-                                Get $10 off your first order on Drop by signing
-                                up with our link
-                              </td>
-                              <td>
-                                <a href="https://drop.com/?referer=T93XGG">
-                                  Link
-                                </a>
-                              </td>
-                            </tr>
-                            <tr>
-                              <td>Excluive DROP Deals</td>
-                              <td>
-                                Visit the link below to see exclusive deals from
-                                DROP.
-                              </td>
-                              <td>
-                                <a href="https://drop.com/all-communities/drops/exclusive-deals?referer=T93XGG">
-                                  Link
-                                </a>
-                              </td>
-                            </tr>
-                            <tr>
                               <td>KPrepublic</td>
                               <td>
                                 $5 off, $15 minimum purchase. Once per customer.
@@ -175,6 +150,51 @@ export default function Keycaps() {
                               </td>
                               <td>
                                 <a href="https://kprepublic.com/try_ortho_keys">
+                                  Link
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>Drop</td>
+                              <td>
+                                Get $10 off your first order on Drop by signing
+                                up with our link
+                              </td>
+                              <td>
+                                <a href="https://drop.com/?referer=T93XGG">
+                                  Link
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>Akko Outlet Deals</td>
+                              <td>
+                                Get a free switch sample with orders over $50
+                              </td>
+                              <td>
+                                <a href="https://en.akkogear.com/akko-outlet-deals/?ref=29468">
+                                  Link
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>DROP Keyboard Club</td>
+                              <td>
+                                Get monthly discounts that can save up to $100 on mechanical keyboards. Get $30 or more coupons every month!
+                              </td>
+                              <td>
+                                <a href="https://drop.com/keyboardclub/non-member?referer=T93XGG">
+                                  Link
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>FKcaps</td>
+                              <td>
+                                Get 10% off off custom keycap sets that you can design youself with custom fonts and icons.
+                              </td>
+                              <td>
+                                <a href="https://fkcaps.com/custom?a=tryorthokeys">
                                   Link
                                 </a>
                               </td>
