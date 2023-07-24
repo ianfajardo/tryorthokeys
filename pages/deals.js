@@ -142,6 +142,18 @@ export default function Keycaps() {
                           </thead>
                           <tbody>
                             <tr>
+                              <td>MechDIY</td>
+                              <td>
+                                Exclusive: 12% OFF on Mechdiy
+                                <strong>S12</strong>
+                              </td>
+                              <td>
+                                <a href="https://shrsl.com/45sgz">
+                                  Link
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
                               <td>KPrepublic</td>
                               <td>
                                 $5 off, $15 minimum purchase. Once per customer.
@@ -180,7 +192,9 @@ export default function Keycaps() {
                             <tr>
                               <td>DROP Keyboard Club</td>
                               <td>
-                                Get monthly discounts that can save up to $100 on mechanical keyboards. Get $30 or more coupons every month!
+                                Get monthly discounts that can save up to $100
+                                on mechanical keyboards. Get $30 or more coupons
+                                every month!
                               </td>
                               <td>
                                 <a href="https://drop.com/keyboardclub/non-member?referer=T93XGG">
@@ -191,7 +205,8 @@ export default function Keycaps() {
                             <tr>
                               <td>FKcaps</td>
                               <td>
-                                Get 10% off off custom keycap sets that you can design youself with custom fonts and icons.
+                                Get 10% off off custom keycap sets that you can
+                                design youself with custom fonts and icons.
                               </td>
                               <td>
                                 <a href="https://fkcaps.com/custom?a=tryorthokeys">

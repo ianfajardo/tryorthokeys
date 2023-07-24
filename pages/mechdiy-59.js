@@ -37,7 +37,7 @@ export default function Kinesis() {
                   VIA software.
                 </p>
                 <a
-                  href="https://mechdiy.com/products/59-key-rgb-backlit-hot-swappable-mechanical-keyboard-customized-planck-kit?ref=MvdrdiAA"
+                  href="https://shrsl.com/45sgz"
                   className="mt-3 btn btn-primary mr-3"
                 >
                   Buy Now
@@ -83,14 +83,14 @@ export default function Kinesis() {
                     <li>Aluminum case and ceramic coating</li>
                   </ul>
                   <a
-                    href="https://sovrn.co/1iddf86"
+                    href="https://shrsl.com/45sgz"
                     className="btn btn-primary mr-2"
                   >
                     Buy Now
                   </a>
                 </div>
                 <div className="col-lg-6">
-                  <a href="https://sovrn.co/1iddf86">
+                  <a href="https://shrsl.com/45sgz">
                     <img
                       src="/gk6.webp"
                       alt="Gizmo Engineering GK6"

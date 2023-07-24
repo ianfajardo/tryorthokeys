@@ -65,7 +65,7 @@ var keyboards = [
       "The MechDIY 59-Key ortholinear keyboard has an acrylic case, hotswap PCB, RGB backlit, and is fully customizable through VIA software.",
     image: "https://www.tryorthokeys.com/mechdiy-59.jpg",
     buyNow:
-      "https://mechdiy.com/products/59-key-rgb-backlit-hot-swappable-mechanical-keyboard-customized-planck-kit?ref=MvdrdiAA",
+      "https://shrsl.com/45sgz",
     learnMore: "/mechdiy-59",
   },
   {
