@@ -13,7 +13,7 @@ Ortholinear keyboards have gained popularity among mechanical keyboard enthusias
 
 1. **MT3 /dev/tty Keycap Set**
 
-<a href="https://drop.com/buy/drop-matt3o-mt3-dev-tty-keycap-set?utm_source=linkshare&referer=T93XGG" class="btn btn-primary"><img src="https://massdrop-s3.imgix.net/product-images/drop-matt3o-mt3-dev-tty-keycap-set/FP/ceTfOcEUTiqkih7P7z7K_ortholinearkit.jpg?auto=format&fm=jpg&fit=fill&w=820&h=547&bg=f0f0f0&dpr=1&chromasub=444&q=70" width="350"/></a>
+<a href="https://drop.com/buy/drop-matt3o-mt3-dev-tty-keycap-set?utm_source=linkshare&referer=T93XGG"><img src="https://massdrop-s3.imgix.net/product-images/drop-matt3o-mt3-dev-tty-keycap-set/FP/ceTfOcEUTiqkih7P7z7K_ortholinearkit.jpg?auto=format&fm=jpg&fit=fill&w=820&h=547&bg=f0f0f0&dpr=1&chromasub=444&q=70" width="350"/></a>
 
 The MT3 /dev/tty keycap set is a timeless classic, inspired by the iconic terminals of early computing. With a warm beige colorway and a distinct spherical profile, these keycaps provide a comfortable and retro aesthetic. The sculpted profile of the MT3 /dev/tty keycaps ensures that each key is within easy reach, making it an excellent choice for ortholinear keyboards where efficiency and comfort are paramount.
 
@@ -21,7 +21,7 @@ The MT3 /dev/tty keycap set is a timeless classic, inspired by the iconic termin
 
 2. **MT3 Serika Keycap Set**
 
-<a href="https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set?utm_source=linkshare&referer=T93XGG&ranMID=50354&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-IKRcuWhMCmZNyCiI7T_bLA&defaultSelectionIds=973449" class="btn btn-primary"><img src="https://www.tryorthokeys.com/1589778999850.388903475590462968330794-ab0809e30f8640cdba17e99ae9677d3f.jpeg" width="350"/></a>
+<a href="https://drop.com/buy/drop-zambumon-mt3-serika-custom-keycap-set?utm_source=linkshare&referer=T93XGG&ranMID=50354&ranEAID=je6NUbpObpQ&ranSiteID=je6NUbpObpQ-IKRcuWhMCmZNyCiI7T_bLA&defaultSelectionIds=973449" ><img src="https://www.tryorthokeys.com/1589778999850.388903475590462968330794-ab0809e30f8640cdba17e99ae9677d3f.jpeg" width="350"/></a>
 
 Designed with a modern and minimalistic approach, the MT3 Serika keycap set features a serene blue and white color scheme. The legends are crisp and clear, ensuring excellent visibility while typing. The spherical shape of the keycaps provides a comfortable typing experience, and the overall aesthetic is both sophisticated and versatile, making it suitable for a wide range of ortholinear keyboard setups.
 
