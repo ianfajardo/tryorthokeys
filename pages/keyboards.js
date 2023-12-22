@@ -18,7 +18,7 @@ var keyboards = [
     price: "$110 - $155",
     description:
       "The Preonic keyboard is the Planck's big brother with an extra row of keys for those really missing the number row or want more keys to customize. The newest version of the Preonic is almost identical the Planck in terms of features.",
-    image: "https://www.tryorthokeys.com/preonic-1.jpg",
+    image: "https://www.tryorthokeys.com/olkb-preonic.jpg",
     buyNow: "https://amzn.to/3rhGRg0",
     learnMore: "/olkb",
   },
