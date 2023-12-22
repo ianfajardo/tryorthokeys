@@ -91,13 +91,13 @@ export default function Home({ allPostsData }) {
                   your own keymappings.
                 </p>
                 <a
-                  href="/ultimate-guide-to-ortholinear-keyboards"
+                  href="/keyboards"
                   className="mt-2 mr-3 btn btn-primary btn-lg"
                 >
-                  Learn More
+                  Keyboards
                 </a>
-                <a href="/olkb" className="mt-2 btn btn-secondary btn-lg">
-                  OLKB Keyboards
+                <a href="/deals" className="mt-2 btn btn-secondary btn-lg">
+                  Deals
                 </a>
               </div>
             </div>
