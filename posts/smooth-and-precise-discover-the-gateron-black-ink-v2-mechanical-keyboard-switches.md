@@ -8,7 +8,7 @@ description: Discover the Gateron Black Ink V2 mechanical keyboard switches,
   these switches offer a high-quality typing experience for both gamers and
   typists alike.
 date: 2023-03-14T13:16:12.628Z
-image: /gateron-blacks.png
+image: /gat-black-ink-v2.png
 ---
 [Gateron Black Ink V](https://kbdfans.com/r?id=emh2o0)2 mechanical keyboard switches have gained quite a reputation in the mechanical keyboard community for their smooth feel. These switches are designed to provide a high-quality typing experience with a focus on precision, speed, and comfort.
 
