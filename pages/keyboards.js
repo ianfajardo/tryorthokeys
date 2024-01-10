@@ -34,7 +34,7 @@ var keyboards = [
   },
   {
     name: "KPrepublic BM40",
-    price: "$48.90",
+    price: "$81.30",
     description:
       "The KPrepublic BM40 is a 40% ortholinear layout with VIA/QMK compatability, hot-swap sockets, full RGB LED switches, and a type-c port. You can also purchase a case and plate seperately.",
     image: "/bm40.jpg",
