@@ -2,6 +2,11 @@
     from = "/blog/*"
     to = "/post/*"
 
+[[redirects]]
+    from = "/bm40"
+    to = "/kprepublic-bm40"
+    force = true
+
 [build]
   command = "yarn build"
   publish = ".next"

@@ -8,6 +8,13 @@ const nextConfig = {
     // your project has ESLint errors.
     ignoreDuringBuilds: true,
   },
+  redirects: [
+    {
+      source: "/bm40",
+      destination: "/kprepublic-bm40",
+      permanent: "true",
+    },
+  ],
 };
 
 module.exports = nextConfig;
