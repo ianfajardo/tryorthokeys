@@ -40,7 +40,11 @@ MT3 Key Profile, Source: [https://matt3o.com/about-mt3-profile-and-devtty-set/](
 
 ### Drop + Matt3o MT3 /dev/tty Keycap Set
 
-<a href="https://www.amazon.com/DROP-Matt3o-MT3-Keycap-Keyboards/dp/B081DDQQ58?crid=2BJJ680H9DO2W&keywords=mt3&qid=1644943653&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=mt3%2Caps%2C93&sr=8-5&linkCode=li3&tag=tryorthokey06-20&linkId=d7ecd99e812f6c75ed0017c212447214&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B081DDQQ58&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B081DDQQ58" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://amzn.to/3uSLYXc">
+
+<img src="https://tryorthokeys.com/keycaps/dev.jpg" class="img-fluid">
+
+</a>
 
 <a class="btn btn-outline-primary" href="https://amzn.to/3uSLYXc">Learn More</a>
 
@@ -49,7 +53,11 @@ MT3 Key Profile, Source: [https://matt3o.com/about-mt3-profile-and-devtty-set/](
 
 ### Drop + Matt3o MT3 Susuwatari Custom Keycap Set
 
-<a href="https://www.amazon.com/Susuwatari-Hi-Profile-Doubleshot-Tenkeyless-Winkeyless/dp/B08HPWX9HG?crid=2BJJ680H9DO2W&keywords=mt3&qid=1644943653&refinements=p_85%3A2470955011&rnid=2470954011&rps=1&sprefix=mt3%2Caps%2C93&sr=8-4&linkCode=li3&tag=gamestreamingsetup-20&linkId=9c4f7646e5fea065f9433f77944b23e4&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08HPWX9HG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=gamestreamingsetup-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=gamestreamingsetup-20&language=en_US&l=li3&o=1&a=B08HPWX9HG" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://amzn.to/369XMtz">
+
+<img src="https://tryorthokeys.com/keycaps/dev2.jpg" class="img-fluid">
+
+</a>
 
 <a class="btn btn-outline-primary" href="https://amzn.to/369XMtz">Learn More</a>
 
@@ -58,7 +66,11 @@ MT3 Key Profile, Source: [https://matt3o.com/about-mt3-profile-and-devtty-set/](
 
 ### DROP MT3 Black-on-White Keycap Set
 
-<a href="https://www.amazon.com/DROP-Hi-Profile-Doubleshot-Tenkeyless-Winkeyless/dp/B08P55VPGD?crid=HSEL0XEP1W1T&keywords=mt3+keycap&qid=1644944059&sprefix=mt3+keycap%2Caps%2C89&sr=8-2&linkCode=li3&tag=tryorthokey06-20&linkId=c69f10b3eaa292988db8b0f6cad0828a&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08P55VPGD&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08P55VPGD" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://amzn.to/3sED0Kp">
+
+<img src="https://tryorthokeys.com/keycaps/mt3bow.jpg" class="img-fluid">
+
+</a>
 
 <a class="btn btn-outline-primary" href="https://amzn.to/3sED0Kp">Learn More</a>
 
@@ -79,7 +91,7 @@ Features:
 
 ## How to Find the Best Deal on MT3 Keycaps
 
-There are many different keycaps available on the market, and it can be difficult to find the best deal. Prices can vary depending on where you purchase them from, but there are also other factors to consider. On their main website DROP often has buy one get one deals. At the time of writing they have a [MT3 Bogo deal](https://drop.com/?referer=T93XGG) going on right now if you use code **MT3FREE** valid until 2/20/2022 for specific sets.
+There are many different keycaps available on the market, and it can be difficult to find the best deal. Prices can vary depending on where you purchase them from, but there are also other factors to consider. Drop often has deals and even a buy one get one BOGO deal on sets every so often. [Use our link](https://drop.com/?referer=T93XGG) to get $10 off your first order.
 
 ---
 
@@ -98,8 +110,6 @@ The latest version of the Planck keyboard supports hot swappable switches, LEDs,
     Buy on Drop
 </a>
 
-<a href="https://www.amazon.com/dp/B08LX7ZXS4?&linkCode=li3&tag=tryorthokey06-20&linkId=0b7b9faf09aac73db64f301ec3da89ce&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08LX7ZXS4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08LX7ZXS4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
 </div>
 <div class="col-lg-6">
 
@@ -114,8 +124,6 @@ The Preonic keyboard is the Planck's big brother with an extra row of keys for t
 <a class="btn btn-secondary mr-2" href="https://drop.com/buy/preonic-mechanical-keyboard?utm_source=linkshare&referer=T93XGG">
     Buy on Drop
 </a>
-
-<a href="https://www.amazon.com/dp/B08L3WKZ73?&linkCode=li3&tag=tryorthokey06-20&linkId=6af0b7506a61073b0723facda319622d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08L3WKZ73&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08L3WKZ73" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 </div>
 </div>

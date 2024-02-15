@@ -29,7 +29,9 @@ Designed with a modern and minimalistic approach, the MT3 Serika keycap set feat
 
 3. **MT3 Susuwatari Keycap Set**
 
-<a href="https://www.amazon.com/Susuwatari-Hi-Profile-Doubleshot-Tenkeyless-Winkeyless/dp/B08HPLS7R8?crid=32RJ5ODJLMCY0&keywords=%2Fdev%2Ftty%2Bortho&qid=1703013056&sprefix=dev%2Ftty%2Bortho%2Caps%2C71&sr=8-2-fkmr0&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&th=1&linkCode=li3&tag=tryorthokey06-20&linkId=b23c4f47f47f5b3fdf2d446962cf0fa3&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08HPLS7R8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08HPLS7R8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://amzn.to/48oQJYP">
+<img src="https://www.tryorthokeys.com/keycaps/dev2.jpg" width="350"/>
+</a>
 
 For those seeking a touch of the mystical and ethereal, the MT3 Susuwatari keycap set delivers with its dark, moody colorway inspired by Studio Ghibli's "My Neighbor Totoro." The deep purples and blues, combined with the spherical profile, create an otherworldly and visually striking keyboard setup. The sculpted keycaps enhance the overall typing experience, making each keystroke a pleasure.
 
@@ -37,7 +39,9 @@ For those seeking a touch of the mystical and ethereal, the MT3 Susuwatari keyca
 
 4. **MT3 Camillo Keycap Set**
 
-<a href="https://www.amazon.com/dp/B08VKM4H1N?_encoding=UTF8&psc=1&linkCode=li3&tag=tryorthokey06-20&linkId=89ec06d26d6b76739fde8972c6ce60e2&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08VKM4H1N&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08VKM4H1N" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://amzn.to/41wLvYL">
+<img src="https://www.tryorthokeys.com/keycaps/camilo.jpg" width="350"/>
+</a>
 
 The MT3 Camillo keycap set is a vibrant and lively option for those who want to inject energy into their ortholinear keyboard. With a playful mix of red, yellow, and green colors, these keycaps bring a sense of fun without sacrificing the comfort of the MT3 profile. The spherical sculpting ensures that your fingers effortlessly find the right keys, maintaining an efficient and enjoyable typing experience.
 
@@ -45,7 +49,9 @@ The MT3 Camillo keycap set is a vibrant and lively option for those who want to 
 
 5. **DROP MT3 Black-on-White**
 
-<a href="https://www.amazon.com/DROP-Hi-Profile-Doubleshot-Ortholinear-Mechanical/dp/B0961VB8LR?crid=3EYC7QM34CQV8&keywords=drop+bow+mt3&qid=1703013459&sprefix=drop+bow+mt3%2Caps%2C96&sr=8-2&ufe=app_do%3Aamzn1.fos.18ed3cb5-28d5-4975-8bc7-93deae8f9840&linkCode=li3&tag=tryorthokey06-20&linkId=0d2ccfc9cce0dcd5ce47fb59fb174e6f&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0961VB8LR&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B0961VB8LR" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://amzn.to/3NuZ6dC">
+<img src="https://www.tryorthokeys.com/keycaps/mt3bow.jpg" width="350"/>
+</a>
 
 Designed in with crisp white caps in the mt3 profile, this set is a classic design that will fit any keyboard aesthetic. If you're looking for something modern and clean - then this is your set.
 
