@@ -8,7 +8,10 @@ export default function Configuring() {
       <Head>
         <title>Configuring your Planck or Preonic</title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="title" content="Configuring your Planck or Preonic | QMK toolbox OLKB ortholinear keyboard ortho keyboard 40% keyboard kit Drop keycaps ortholinear keycaps qmk keyboard preonic keyboard qmk configurator" />
+        <meta
+          name="title"
+          content="Configuring your Planck or Preonic | QMK toolbox OLKB ortholinear keyboard ortho keyboard 40% keyboard kit Drop keycaps ortholinear keycaps qmk keyboard preonic keyboard qmk configurator"
+        />
         <meta
           name="description"
           content="This guide will show you how to configure your OLKB Planck or Preonic Keyboard such as the QMK configurator and toolbox. "
@@ -50,10 +53,7 @@ export default function Configuring() {
                 >
                   Visit Website
                 </a>
-                <a
-                  href="/keycaps"
-                  className="mt-3 btn btn-outline-primary"
-                >
+                <a href="/keycaps" className="mt-3 btn btn-outline-primary">
                   Ortho Keycaps
                 </a>
               </div>
@@ -70,6 +70,25 @@ export default function Configuring() {
               <div className="mt-3">
                 <div className="card">
                   <div className="card-body">
+                    <h3>Keyboard List</h3>
+                    <img
+                      className="img-fluid"
+                      src="/niu40.webp"
+                      alt="ortholinear keyboard"
+                    />
+                    <p>
+                      See all the options of ortholinear keyboards that you can
+                      purchase today.
+                    </p>
+                    <a href="/keyboards" className="btn btn-secondary mt-3">
+                      Learn More
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div className="mt-3">
+                <div className="card">
+                  <div className="card-body">
                     <h3>OLKB Plank &amp; Preonic</h3>
                     <img
                       className="img-fluid my-3"
@@ -83,28 +102,6 @@ export default function Configuring() {
                       OLKB website and frequently on Drop.com
                     </p>
                     <a href="/olkb" className="btn btn-secondary mt-3">
-                      Learn More
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <div className="mt-3">
-                <div className="card">
-                  <div className="card-body">
-                    <h3>NIU40 / NIU Mini</h3>
-                    <img
-                      className="img-fluid"
-                      src="/niu40.webp"
-                      alt="NIU 40 NIU Mini"
-                    />
-                    <p>
-                      The NIU 40 / NIU Mini is a 40% keyboard similar to the
-                      Planck ortholinear keyboard. You purchase them a DIY kit
-                      at <a href="https://kbdfans.com/r?id=eft22v">KBDFans</a>.
-                      A bit cheaper than the OLKB offerings, it offers similar
-                      functionality and features.
-                    </p>
-                    <a href="/niu40" className="btn btn-secondary mt-3">
                       Learn More
                     </a>
                   </div>
