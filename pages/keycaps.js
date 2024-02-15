@@ -238,7 +238,6 @@ export default function Keycaps() {
                     </div>
                   </div>
                 </div>
-                
               </div>
             </div>
             <div id="ymdk" className="section-container ">
@@ -404,50 +403,16 @@ export default function Keycaps() {
                           </thead>
                           <tbody>
                             <tr>
-                              <td>Planck Acute Keycaps</td>
-                              <td>OEM</td>
-                              <td>
-                                <a
-                                  href="https://www.amazon.com/Drop-Planck-Acute-Keycaps-Dye-subliminated/dp/B08LXB13L4?dchild=1&keywords=ortholinear+keycaps&link_code=qs&qid=1630610919&sr=8-8&linkCode=li2&tag=tryorthokey06-20&linkId=ace8a07328ec11bb4c16d4d24644d5cb&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
-                                  <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08LXB13L4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
-                                  />
-                                </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B08LXB13L4"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
-                              </td>
-                              <td>
-                                <a href="https://amzn.to/3rzSVKH">Amazon</a>
-                              </td>
-                            </tr>
-                            <tr>
                               <td>Preonic Acute Keycaps</td>
                               <td>OEM</td>
                               <td>
-                                <a
-                                  href="https://www.amazon.com/Drop-OLKB-Preonic-Acute-Keycaps/dp/B08L3X6MDM?dchild=1&keywords=ortholinear+keycaps&link_code=qs&qid=1630610919&sr=8-9&linkCode=li2&tag=tryorthokey06-20&linkId=bc2227bc2882f61b82ae7c9fa98d7a81&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
+                                <a href="https://amzn.to/3jCLKx5">
                                   <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08L3X6MDM&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                    src="/keycaps/acutepreonic.jpg"
+                                    alt="Preonic Keycaps"
+                                    style={{ maxWidth: "160px" }}
                                   />
                                 </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B08L3X6MDM"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
                               </td>
                               <td>
                                 <a href="https://amzn.to/3jCLKx5">Amazon</a>
@@ -457,22 +422,13 @@ export default function Keycaps() {
                               <td>Black-on-White Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a
-                                  href="https://www.amazon.com/DROP-Hi-Profile-Doubleshot-Tenkeyless-Winkeyless/dp/B0961VB8LR?dchild=1&keywords=drop%2Bkeycaps&qid=1630602928&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQ0dBRTFPWEwxQUdEJmVuY3J5cHRlZElkPUEwMDI3NTcxMTE0RzQzRTBORjZXJmVuY3J5cHRlZEFkSWQ9QTA3NTgxNjYxRjA0T0c1NE1QRUpQJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1&linkCode=li2&tag=tryorthokey06-20&linkId=9c9b3574fa55add08b502d4336abf634&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
+                                <a href="https://amzn.to/3zKJ6Lu">
                                   <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0961VB8LR&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                    src="/keycaps/mt3bow.jpg"
+                                    alt="MT3 BoW Ortholinear keycaps"
+                                    style={{ maxWidth: "160px" }}
                                   />
                                 </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B0961VB8LR"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
                               </td>
                               <td>
                                 <a href="https://amzn.to/3zKJ6Lu">Amazon</a>
@@ -482,22 +438,13 @@ export default function Keycaps() {
                               <td>White-on-Black Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a
-                                  href="https://www.amazon.com/dp/B09624QSZF?_encoding=UTF8&th=1&linkCode=li2&tag=tryorthokey06-20&linkId=786ddda6e66836e6b8435c817a26a875&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
+                                <a href="https://amzn.to/3BzUg69">
                                   <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09624QSZF&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                    src="/keycaps/mt3wob.jpg"
+                                    alt="MT3 WoB Ortholinear keycaps"
+                                    style={{ maxWidth: "160px" }}
                                   />
                                 </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B09624QSZF"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
                               </td>
                               <td>
                                 <a href="https://amzn.to/3BzUg69">Amazon</a>
@@ -507,22 +454,13 @@ export default function Keycaps() {
                               <td>Dasher Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a
-                                  href="https://www.amazon.com/DROP-Hi-Profile-Doubleshot-Ortholinear-Keyboards/dp/B08W2B1N8V?dchild=1&keywords=dasher+keycaps&qid=1630605241&sr=8-3&linkCode=li2&tag=tryorthokey06-20&linkId=c49eb0df9aad5c2f71a0ae9ef5f9767d&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
+                                <a href="https://amzn.to/38AcCaN">
                                   <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08W2B1N8V&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                    src="/keycaps/mt3dasher.jpg"
+                                    alt="MT3 Dasher Ortholinear keycaps"
+                                    style={{ maxWidth: "160px" }}
                                   />
                                 </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B08W2B1N8V"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
                               </td>
                               <td>
                                 <a href="https://amzn.to/38AcCaN">Amazon</a>
@@ -532,22 +470,13 @@ export default function Keycaps() {
                               <td>MiTo Canvas Keycap Set</td>
                               <td>XDA</td>
                               <td>
-                                <a
-                                  href="https://www.amazon.com/DROP-Canvas-Keycap-Tenkeyless-Keyboards/dp/B081DDX77T?th=1&linkCode=li2&tag=tryorthokey06-20&linkId=b69e80572907fdaddfeace8aa097a9fe&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
+                                <a href="https://amzn.to/3t7UMoY">
                                   <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B081DDX77T&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                    src="/keycaps/canvas.jpg"
+                                    alt="MiTo Canvas Ortholinear keycaps"
+                                    style={{ maxWidth: "160px" }}
                                   />
                                 </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B081DDX77T"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
                               </td>
                               <td>
                                 <a href="https://amzn.to/3t7UMoY">Amazon</a>
@@ -557,22 +486,13 @@ export default function Keycaps() {
                               <td>Matt3o /dev/tty Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a
-                                  href="https://www.amazon.com/Drop-Matt3o-Keycap-Full-Size-Keyboards/dp/B081DD7W11?dchild=1&keywords=drop%2Bkeycaps&qid=1630602928&sr=8-3&th=1&linkCode=li2&tag=tryorthokey06-20&linkId=c1cd433d5d5d52b6fc034f1f6d126cf5&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
+                                <a href="https://drop.com/buy/drop-matt3o-mt3-dev-tty-keycap-set?utm_source=linkshare&referer=T93XGG">
                                   <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B081DD7W11&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                    src="/keycaps/dev.jpg"
+                                    alt="Matt3o /dev/tty Ortholinear keycaps"
+                                    style={{ maxWidth: "160px" }}
                                   />
                                 </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B081DD7W11"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
                               </td>
                               <td>
                                 <a href="https://amzn.to/3jCBsgw">Amazon</a>
@@ -582,22 +502,13 @@ export default function Keycaps() {
                               <td>Matt3o Susuwatari Custom Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a
-                                  href="https://www.amazon.com/Susuwatari-Hi-Profile-Doubleshot-Ortholinear-MDX-33813-5/dp/B08HPLS7R8?dchild=1&keywords=ortho+keycaps&qid=1630602950&sr=8-3&linkCode=li2&tag=tryorthokey06-20&linkId=da13015602e1eb1e22ac9f51dcffbf08&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
+                                <a href="https://amzn.to/38FBs96">
                                   <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08HPLS7R8&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                    src="/keycaps/dev2.jpg"
+                                    alt="Matt3o Susuwatari Ortholinear Keycap"
+                                    style={{ maxWidth: "160px" }}
                                   />
                                 </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B08HPLS7R8"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
                               </td>
                               <td>
                                 <a href="https://amzn.to/38FBs96">Amazon</a>
@@ -607,22 +518,13 @@ export default function Keycaps() {
                               <td>Camillo Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a
-                                  href="https://www.amazon.com/dp/B08VKM4H1N?_encoding=UTF8&psc=1&linkCode=li2&tag=tryorthokey06-20&linkId=3d0a03c5256ddd8ef0b8824b5a2a60a8&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
+                                <a href="https://drop.com/buy/drop-mt3-camillo-keycap-set?utm_source=linkshare&referer=T93XGG">
                                   <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08VKM4H1N&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                    src="/keycaps/camilo.jpg"
+                                    alt="Camillo Ortholinear Keycap Set"
+                                    style={{ maxWidth: "160px" }}
                                   />
                                 </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B08VKM4H1N"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
                               </td>
                               <td>
                                 <a href="https://amzn.to/3zEMeII">Amazon</a>
@@ -632,22 +534,13 @@ export default function Keycaps() {
                               <td>Jukebox Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a
-                                  href="https://www.amazon.com/DROP-Hi-Profile-Doubleshot-Ortholinear-Keyboards/dp/B08VL2S4LL?dchild=1&keywords=ortholinear+keycaps&link_code=qs&qid=1630610919&sr=8-15&linkCode=li2&tag=tryorthokey06-20&linkId=55208fe6257872e90904fdf1f454c190&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
+                                <a href="https://amzn.to/3kLJL9m">
                                   <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08VL2S4LL&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                    src="/keycaps/jukebox.jpg"
+                                    alt="Jukebox Ortholinear Keycap Set"
+                                    style={{ maxWidth: "160px" }}
                                   />
                                 </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B08VL2S4LL"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
                               </td>
                               <td>
                                 <a href="https://amzn.to/3kLJL9m">Amazon</a>
@@ -657,22 +550,13 @@ export default function Keycaps() {
                               <td>MiTO Cyber Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a
-                                  href="https://www.amazon.com/Hi-Profile-Doubleshot-Compatible-Ortholinear-Mechanical/dp/B099Y1P3VT?dchild=1&keywords=mechanical+keyboard+ortholinear&qid=1631570459&sr=8-13&linkCode=li2&tag=tryorthokey06-20&linkId=28fe1739afbb5f5d27bb7dfe7dbbfc0e&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
+                                <a href="https://amzn.to/3humB6r">
                                   <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B099Y1P3VT&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                    src="/keycaps/cyber.jpg"
+                                    alt="MiTO Cyber Orthlinear Keycap Set"
+                                    style={{ maxWidth: "160px" }}
                                   />
                                 </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B099Y1P3VT"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
                               </td>
                               <td>
                                 <a href="https://amzn.to/3humB6r">Amazon</a>
@@ -682,25 +566,32 @@ export default function Keycaps() {
                               <td>DROP MT3 Skiidata Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a
-                                  href="https://www.amazon.com/DROP-Skiidata-Hi-Profile-Doubleshot-Compatible/dp/B0B5BBCKMG?keywords=ortholinear+keycaps&link_code=qs&qid=1661975023&sr=8-15&linkCode=li2&tag=tryorthokey06-20&linkId=0e31654825118f0a4bdb22a976438cf5&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
+                                <a href="https://amzn.to/3pWAcaq">
                                   <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B5BBCKMG&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                    src="/keycaps/skiidata.jpg"
+                                    alt="DROP MT3 Skiidata Orthlinear Keycap Set"
+                                    style={{ maxWidth: "160px" }}
                                   />
                                 </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B0B5BBCKMG"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
                               </td>
                               <td>
                                 <a href="https://amzn.to/3pWAcaq">Amazon</a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>Planck Acute Keycaps</td>
+                              <td>OEM</td>
+                              <td>
+                                <a href="https://amzn.to/3rzSVKH">
+                                  <img
+                                    src="/keycaps/acute.jpg"
+                                    alt="Acute Planck Keycaps"
+                                    style={{ maxWidth: "160px" }}
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href="https://amzn.to/3rzSVKH">Amazon</a>
                               </td>
                             </tr>
                           </tbody>
@@ -769,24 +660,6 @@ export default function Keycaps() {
                             </tr>
                           </thead>
                           <tbody>
-                            <tr>
-                              <td>DSA Blank Space 1u</td>
-                              <td>DSA</td>
-                              <td>
-                                <a href="https://pimpmykeyboard.com/dsa-1-space-pack-of-10/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate">
-                                  <img
-                                    style={{ maxWidth: "160px" }}
-                                    src="https://cdn10.bigcommerce.com/s-ktpi93fl/products/128/images/448/DSA_1_Space__38682.1434490137.800.600.jpg?c=2"
-                                    alt=""
-                                  />
-                                </a>
-                              </td>
-                              <td>
-                                <a href="https://pimpmykeyboard.com/sa-p-snow-cap-keyset-original/?afmc=5w&utm_campaign=5w&utm_source=leaddyno&utm_medium=affiliate">
-                                  View Now
-                                </a>
-                              </td>
-                            </tr>
                             <tr>
                               <td>SA-P Snow Cap Keyset</td>
                               <td>SA</td>
@@ -1122,22 +995,13 @@ export default function Keycaps() {
                               <td>YMDK XDA Blank PBT Keycaps</td>
                               <td>XDA</td>
                               <td>
-                                <a
-                                  href="https://www.amazon.com/Keycaps-Suitable-Ortholinear-Keyboard-Preonic/dp/B07TKX26HV?dchild=1&keywords=ortholinear+keycaps&link_code=qs&qid=1630609901&sr=8-5&linkCode=li2&tag=tryorthokey06-20&linkId=4f021261d0d7146d0df2f127c2c4af67&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
+                                <a href="https://amzn.to/3DLbdwG">
                                   <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07TKX26HV&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                    style={{ maxWidth: "160px" }}
+                                    src="/keycaps/ymdk-dsa.jpg"
+                                    alt="YMDK XDA Ortholinear Keycaps"
                                   />
                                 </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B07TKX26HV"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
                               </td>
                               <td>
                                 <a href="https://amzn.to/3DLbdwG">Amazon</a>
@@ -1147,22 +1011,13 @@ export default function Keycaps() {
                               <td>YMDK DSA Blank PBT Keycaps</td>
                               <td>DSA</td>
                               <td>
-                                <a
-                                  href="https://www.amazon.com/Keycaps-Suitable-Ortholinear-Keyboard-Preonic/dp/B07TLWX3TX?dchild=1&keywords=ortholinear%2Bkeycaps&link_code=qs&qid=1630609901&sr=8-5&th=1&linkCode=li2&tag=tryorthokey06-20&linkId=5a6c5c26aac0c76fed2e84896d46ee81&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
+                                <a href="https://amzn.to/3jKH2xH">
                                   <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07TLWX3TX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                    style={{ maxWidth: "160px" }}
+                                    src="/keycaps/ymdk-dsa.jpg"
+                                    alt="YMDK XDA Ortholinear Keycaps"
                                   />
                                 </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B07TLWX3TX"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
                               </td>
                               <td>
                                 <a href="https://amzn.to/3jKH2xH">Amazon</a>
@@ -1172,22 +1027,13 @@ export default function Keycaps() {
                               <td>YMDK 75 Keys DSA PBT Keycaps</td>
                               <td>DSA</td>
                               <td>
-                                <a
-                                  href="https://www.amazon.com/Keycaps-Suitable-Ortholinear-Keyboard-Preonic/dp/B07QHRNRGR?ac_md=2-1-QmV0d2VlbiAkMzAgYW5kICQ1MA%3D%3D-ac_d_pm_pm_pm&cv_ct_cx=ortholinear+keycaps&dchild=1&keywords=ortholinear+keycaps&link_code=qs&pd_rd_i=B07QHRNRGR&pd_rd_r=1d433dc1-6a4c-43a3-b367-7cc9b5eb520d&pd_rd_w=sNF3C&pd_rd_wg=2uqjy&pf_rd_p=e7796530-105c-494b-a53a-3b9963e9350b&pf_rd_r=86NX29MMGMR2J9YPMPJ7&psc=1&qid=1630610350&sr=1-2-22d05c05-1231-4126-b7c4-3e7a9c0027d0&linkCode=li2&tag=tryorthokey06-20&linkId=116c8fe898ec38a19f172143757dc4fc&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
+                                <a href="https://amzn.to/3mWpj8h">
                                   <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07QHRNRGR&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                    style={{ maxWidth: "160px" }}
+                                    src="/keycaps/ymdk-75.jpg"
+                                    alt="YMDK 75 Keys Ortholinear"
                                   />
                                 </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B07QHRNRGR"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
                               </td>
                               <td>
                                 <a href="https://amzn.to/3mWpj8h">Amazon</a>
@@ -1199,100 +1045,16 @@ export default function Keycaps() {
                               </td>
                               <td>OEM</td>
                               <td>
-                                <a
-                                  href="https://www.amazon.com/YMDK-Laser-Etched-Switches-Preonic-Keyboard/dp/B07JKTQJQ7?dchild=1&keywords=ortholinear%2Bkeycaps&link_code=qs&qid=1630610350&sr=8-11&th=1&linkCode=li2&tag=tryorthokey06-20&linkId=94c134335c25a04284dc79290943e13b&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
+                                <a href="https://amzn.to/3DEKmCd">
                                   <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07JKTQJQ7&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                    style={{ maxWidth: "160px" }}
+                                    src="/keycaps/carbon.jpg"
+                                    alt="YMDK Carbon Ortholinear"
                                   />
                                 </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B07JKTQJQ7"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
                               </td>
                               <td>
                                 <a href="https://amzn.to/3DEKmCd">Amazon</a>
-                              </td>
-                            </tr>
-                            <tr>
-                              <td>NPKC Dye-Sub Top Print PBT Keycap</td>
-                              <td>DSA</td>
-                              <td>
-                                <a
-                                  href="https://www.amazon.com/Dye-Sub-Profile-Suitable-Switches-Keyboard/dp/B07RKFZM7H?dchild=1&keywords=ortholinear+keycaps&link_code=qs&qid=1630610350&sr=8-18&linkCode=li2&tag=tryorthokey06-20&linkId=8d2324e63f7862fe082e65370e2d3c33&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
-                                  <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07RKFZM7H&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
-                                  />
-                                </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B07RKFZM7H"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
-                              </td>
-                              <td>
-                                <a href="https://amzn.to/3yFMqWP">Amazon</a>
-                              </td>
-                            </tr>
-                            <tr>
-                              <td>N\C 1u Blank Keycaps</td>
-                              <td>DSA</td>
-                              <td>
-                                <a
-                                  href="https://www.amazon.com/gp/product/B09GG4DD65?&linkCode=li2&tag=tryorthokey06-20&linkId=dc44ae824da3a0d657f0a28f8a8fdc0b&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
-                                  <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09GG4DD65&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
-                                  />
-                                </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B09GG4DD65"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
-                              </td>
-                              <td>
-                                <a href="https://amzn.to/3eHGPbc">Amazon</a>
-                              </td>
-                            </tr>
-                            <tr>
-                              <td>Tokey DSA FC Gaming Keycaps</td>
-                              <td>DSA</td>
-                              <td>
-                                <a
-                                  href="https://www.amazon.com/gp/product/B08T9BJ34H?&linkCode=li2&tag=tryorthokey06-20&linkId=f98fea4acb66ff128a402e8d367b9a0f&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
-                                  <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08T9BJ34H&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
-                                  />
-                                </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li2&o=1&a=B08T9BJ34H"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
-                              </td>
-                              <td>
-                                <a href="https://amzn.to/31kGnws">Amazon</a>
                               </td>
                             </tr>
                           </tbody>
@@ -1347,106 +1109,19 @@ export default function Keycaps() {
                           </thead>
                           <tbody>
                             <tr>
-                              <td>
-                                Max Keyboard x Ergodox PBT (Multiple Color
-                                Options)
-                              </td>
-                              <td>DSA</td>
-                              <td>
-                                <a
-                                  href="https://www.amazon.com/Max-Keyboard-Ergodox-keycap-Profile/dp/B08BTVTDG3?dchild=1&keywords=ergodox&link_code=qs&qid=1633572413&sr=8-2&linkCode=li3&tag=tryorthokey06-20&linkId=8875b126326bdee19645fd223459f87c&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
-                                  <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08BTVTDG3&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
-                                  />
-                                </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08BTVTDG3"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
-                              </td>
-                              <td>
-                                <a href="https://amzn.to/3oG5wei">Amazon</a>
-                              </td>
-                            </tr>
-                            <tr>
-                              <td>YMDK Thick PBT Top Print Ergodox</td>
-                              <td>Cherry</td>
-                              <td>
-                                <a
-                                  href="https://www.amazon.com/YMDK-Cherry-Profile-Ergodox-Keyboard/dp/B07CQ3HHQR?dchild=1&keywords=ergodox&link_code=qs&qid=1633572413&sr=8-3&linkCode=li3&tag=tryorthokey06-20&linkId=951122574792b5f019002be6e0803055&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
-                                  <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07CQ3HHQR&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
-                                  />
-                                </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B07CQ3HHQR"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
-                              </td>
-                              <td>
-                                <a href="https://amzn.to/3FkPw7r">Amazon</a>
-                              </td>
-                            </tr>
-                            <tr>
                               <td>YMDK Keycaps Matcha Dye-Sub</td>
                               <td>ZDA</td>
                               <td>
-                                <a
-                                  href="https://www.amazon.com/YMDK-Similar-Keycaps-Dye-Sublimation-Alphabet/dp/B0965C35CG?dchild=1&keywords=ergodox&link_code=qs&qid=1633572413&sr=8-13&linkCode=li3&tag=tryorthokey06-20&linkId=7e054550c524731ec42e9f193f270e47&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
+                                <a href="https://amzn.to/3oE5R0V">
                                   <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0965C35CG&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
+                                    src="/keycaps/ymdk-matcha.jpg"
+                                    alt="YMDK Matcha Split Keycaps"
+                                    style={{ maxWidth: "160px" }}
                                   />
                                 </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B0965C35CG"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
                               </td>
                               <td>
                                 <a href="https://amzn.to/3oE5R0V">Amazon</a>
-                              </td>
-                            </tr>
-                            <tr>
-                              <td>Kenesis Advantage2 Blank Keycap Set</td>
-                              <td>OEM</td>
-                              <td>
-                                <a
-                                  href="https://www.amazon.com/Kinesis-Advantage2-Blank-Keycap-Set/dp/B089NLHGC3?dchild=1&keywords=ergodox+keycaps&qid=1633572828&sr=8-17&linkCode=li3&tag=tryorthokey06-20&linkId=f371ce5dba91a5f5cf559a2e2b5db13e&language=en_US&ref_=as_li_ss_il"
-                                  target="_blank"
-                                >
-                                  <img
-                                    border="0"
-                                    src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B089NLHGC3&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
-                                  />
-                                </a>
-                                <img
-                                  src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B089NLHGC3"
-                                  width="1"
-                                  height="1"
-                                  border="0"
-                                  alt=""
-                                />
-                              </td>
-                              <td>
-                                <a href="https://amzn.to/3BiMr5a">Amazon</a>
                               </td>
                             </tr>
                           </tbody>

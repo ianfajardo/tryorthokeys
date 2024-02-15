@@ -144,13 +144,11 @@ export default function Keycaps() {
                             <tr>
                               <td>MechDIY</td>
                               <td>
-                                Exclusive: 12% OFF on Mechdiy
+                                Exclusive: 12% OFF on Mechdiy{" "}
                                 <strong>S12</strong>
                               </td>
                               <td>
-                                <a href="https://shrsl.com/45sgz">
-                                  Link
-                                </a>
+                                <a href="https://shrsl.com/45sgz">Link</a>
                               </td>
                             </tr>
                             <tr>
