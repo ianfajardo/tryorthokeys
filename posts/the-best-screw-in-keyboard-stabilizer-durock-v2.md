@@ -24,7 +24,7 @@ With so many different mods out there, it’s pretty apparent that some stabs ju
 * Includes washers, gold-plated wires & screws
 * PCB screw-in design, will not work in plate mounted boards
 
-<a class="btn btn-primary" href="https://prevailkeyco.com/products/durock-v2-stabilizers?ref=tryorthokeys&variant=42451809206526">Buy Now</a>
+<a class="btn btn-primary" href="https://amzn.to/3UIiyb7">Buy Now</a>
 
 <small>Use coupon code **tryorthokeys** for 5% off your purchase</small>
 
@@ -46,6 +46,6 @@ Lubricating your stabs is the first mod you should do if you are interested in i
 
 If you plan on getting into the hobby of mechanical keyboards, Durock V2 stabs are a must-have when customizing your keyboard. There are plenty of other stabs out there but these are relatively widely available and thoroughly tested by the community. 
 
-<a class="btn btn-primary" href="https://prevailkeyco.com/products/durock-v2-stabilizers?ref=tryorthokeys&variant=42451809206526">Buy Now</a>
+<a class="btn btn-primary" href="https://amzn.to/3UIiyb7">Buy Now</a>
 
 <small>Use coupon code **tryorthokeys** for 5% off your purchase</small>
