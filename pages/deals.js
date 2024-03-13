@@ -67,20 +67,18 @@ export default function Keycaps() {
             <div className="mt-3">
               <div className="card">
                 <div className="card-body">
-                  <h3>NIU40 / NIU Mini</h3>
-                  <img
-                    className="img-fluid"
-                    src="/niu40.webp"
-                    alt="NIU 40 NIU Mini"
-                  />
+                  <h3>KPrepublic CSTC40</h3>
+                  <img className="img-fluid" src="/cstc40.jpg" alt="CSTC40" />
                   <p>
-                    The NIU 40 / NIU Mini is a 40% keyboard similar to the
-                    Planck ortholinear keyboard. You purchase them a DIY kit at{" "}
-                    <a href="https://kbdfans.com/r?id=eft22v">KBDFans</a>. A bit
-                    cheaper than the OLKB offerings, it offers similar
-                    functionality and features.
+                    The KPrepublic CSTC40 a 40% ortholinear layout similar to
+                    the Planck keyboard. It has a hot-swap pcb, rgb lighting,
+                    and more. A great budget Planck alternative. Configurable
+                    through VIA software.
                   </p>
-                  <a href="/niu40" className="btn btn-secondary mt-3">
+                  <a
+                    href="https://www.tryorthokeys.com/kprepublic-cstc40"
+                    className="btn btn-secondary mt-3"
+                  >
                     Learn More
                   </a>
                 </div>
