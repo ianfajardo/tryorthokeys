@@ -4,6 +4,15 @@ import Footer from "../components/footer";
 
 var keyboards = [
   {
+    name: "KPrepublic CSTC40",
+    price: "$48.90",
+    description:
+      "The KPrepublic CSTC40 a 40% ortholinear layout similar to the Planck keyboard. It has a hot-swap pcb, rgb lighting, and more. A great budget Planck alternative. Configurable through VIA software.",
+    image: "/cstc40.jpg",
+    buyNow: "https://collabs.shop/f9rpy8",
+    learnMore: "/kprepublic-cstc40",
+  },
+  {
     name: "OLKB Planck",
     price: "$89 - $110",
     description:
@@ -41,15 +50,7 @@ var keyboards = [
     buyNow: "https://kprepublic.com/search?q=bm40&dt_id=94852",
     learnMore: "/kprepublic-bm40",
   },
-  {
-    name: "KPrepublic CSTC40",
-    price: "$48.90",
-    description:
-      "The KPrepublic CSTC40 a 40% ortholinear layout similar to the Planck keyboard. It has a hot-swap pcb, rgb lighting, and more. A great budget Planck alternative. Configurable through VIA software.",
-    image: "/cstc40.jpg",
-    buyNow: "https://collabs.shop/f9rpy8",
-    learnMore: "/kprepublic-cstc40",
-  },
+
   {
     name: "KPrepublic DNA59",
     price: "$64.80",
@@ -73,8 +74,7 @@ var keyboards = [
     description:
       "The MechDIY 59-Key ortholinear keyboard has an acrylic case, hotswap PCB, RGB backlit, and is fully customizable through VIA software.",
     image: "https://www.tryorthokeys.com/mechdiy-59.jpg",
-    buyNow:
-      "https://shrsl.com/45sgz",
+    buyNow: "https://shrsl.com/45sgz",
     learnMore: "/mechdiy-59",
   },
   {
