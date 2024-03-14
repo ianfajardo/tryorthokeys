@@ -11,9 +11,9 @@ tags: "switches"
 
 ## Tactile Switches and What They Do
 
-If you've been in the mechanical keyboard world for any length of time, you've probably come across different kinds of mechanical switches. A tactile switch is one that uses a "tactile" bump feel to indicate when the key has been pressed. The bump also tells you that the key has been pressed and released, as opposed to a clicky switch which will only have an audible sound. The other type of switch is a linear switch, which has no bump and has a smooth keystroke throughout the press. 
+If you've been in the mechanical keyboard world for any length of time, you've probably come across different kinds of mechanical switches. A tactile switch is one that uses a "tactile" bump feel to indicate when the key has been pressed. The bump also tells you that the key has been pressed and released, as opposed to a clicky switch which will only have an audible sound. The other type of switch is a linear switch, which has no bump and has a smooth keystroke throughout the press.
 
-The most common entry-level tactile switch is the [Cherry MX Brown](https://amzn.to/3J5boVN). These are a solid way to get introduced to this style of switch, but there are plenty more with different weights and feels. Well, we’ve scoured the internet and read tons of reviews to find the top 5 best tactile switches on the market today taking into account popularity, price, feel, and availability.
+The most common entry-level tactile switch is the [Cherry MX Brown](https://amzn.to/48OCOv6). These are a solid way to get introduced to this style of switch, but there are plenty more with different weights and feels. Well, we’ve scoured the internet and read tons of reviews to find the top 5 best tactile switches on the market today taking into account popularity, price, feel, and availability.
 
 </div>
 <div class="col-lg-5">
@@ -30,7 +30,11 @@ The most common entry-level tactile switch is the [Cherry MX Brown](https://amzn
 
 <div class="row align-items-center"><div class="col-lg-4">
 
-<a href="https://www.amazon.com/Glorious-Panda-Switch-UNLUBED-GLO-SWT-HPANDA/dp/B096DF64NS?crid=3RYSZH34FP9Y2&keywords=glorious%2Bpanda&qid=1646967080&sprefix=glorious%2Bpanda%2Caps%2C72&sr=8-2&th=1&linkCode=li3&tag=tryorthokey06-20&linkId=8ed12255c34b761e6cfcb7ce8c711614&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B096DF64NS&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B096DF64NS" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://amzn.to/3Vima42">
+
+<img className="img-fluid" src="/glorious-panda.webp" alt="Glorius Panda Tactile Switches" />
+
+</a>
 
 </div>
 <div class="col-lg-8">
@@ -56,8 +60,11 @@ Glorious Pandas are based off the design of highly-regarded Holy Pandas but at a
 
 <div class="row align-items-center"><div class="col-lg-4">
 
-<a href="https://www.amazon.com/Cherry-Mechanical-Keyboard-Replacement-MX1A-C1NN/dp/B09NVHYJ5Y?crid=3MAOC0XITFQ7I&keywords=cherry%2Bmx%2Bclear%2Bswitches&qid=1646967271&sprefix=cherry%2Bmx%2Bclear%2Bswitche%2Caps%2C61&sr=8-6&th=1&linkCode=li3&tag=tryorthokey06-20&linkId=4ad22470a647768d9d643c951f8d4107&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09NVHYJ5Y&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B09NVHYJ5Y" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<a href="https://amzn.to/43fx2kO">
 
+<img className="img-fluid" src="/cherry-clear.jpg" alt="Glorius Panda Tactile Switches" />
+
+</a>
 </div>
 <div class="col-lg-8">
 
@@ -72,7 +79,7 @@ If you're a beginner enthusiast and don't want to spend too much money or stray 
 - 2mm pre-travel 4mm total-travel
 - 10 switches per pack
 
-<a class="btn btn-outline-primary" href="https://amzn.to/3tUPK0a">Buy on Amazon</a>
+<a class="btn btn-outline-primary" href="https://amzn.to/43fx2kO">Buy on Amazon</a>
 
 </div>
 </div>
