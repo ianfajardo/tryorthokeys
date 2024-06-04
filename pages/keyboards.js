@@ -4,6 +4,15 @@ import Footer from "../components/footer";
 
 var keyboards = [
   {
+    name: "YMDK Air40",
+    price: "$102.90",
+    description:
+      "Available with aluminum and wood cases, the YMDK Air40 offers a plethora of options like RGB, hotswap, VIA suport, USB-C, and more.",
+    image: "/Air40.jpg",
+    buyNow: "https://ymdkey.com/products/air40-rgb-hot-swap-cute-40-mechanical-keyboard-assembled-qmk-via-type-c-pcb-cnc-case-plate-kit?variant=39442979586109&sca_ref=3163375.1C4wKHXQtf",
+    learnMore: "/ymdk-air40",
+  },
+  {
     name: "KPrepublic CSTC40",
     price: "$48.90",
     description:
