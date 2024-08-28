@@ -13,6 +13,15 @@ var keyboards = [
     learnMore: "/ymdk-air40",
   },
   {
+    name: "Work Louder: Creator Board",
+    price: "$249",
+    description:
+      "The Work Louder: Creator Board is geared towards creatives. The board features a original and unique modular design to attach different key layouts or knobs. It also comes with low-profile custom choc keycaps. The PCB is not hotswap, however.",
+    image: "https://www.tryorthokeys.com/work-louder-creator-board.jpg",
+    buyNow: "https://collabs.shop/7w1zmm",
+    learnMore: "/worklouder",
+  },
+  {
     name: "KPrepublic CSTC40",
     price: "$48.90",
     description:
@@ -86,15 +95,7 @@ var keyboards = [
     buyNow: "https://shrsl.com/45sgz",
     learnMore: "/mechdiy-59",
   },
-  {
-    name: "Work Louder: Creator Board",
-    price: "$249",
-    description:
-      "The Work Louder: Creator Board is geared towards creatives. The board features a original and unique modular design to attach different key layouts or knobs. It also comes with low-profile custom choc keycaps. The PCB is not hotswap, however.",
-    image: "https://www.tryorthokeys.com/work-louder-creator-board.jpg",
-    buyNow: "https://worklouder.cc/shop/",
-    learnMore: "/worklouder",
-  },
+  
   {
     name: "KBDFans Solar Keyboard",
     price: "TBD",

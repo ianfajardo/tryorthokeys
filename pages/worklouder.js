@@ -37,16 +37,10 @@ export default function Worklouder() {
                   features designed to make things easier for creatives.
                 </p>
                 <a
-                  href="https://worklouder.cc/shop/"
+                  href="https://collabs.shop/7w1zmm"
                   className="mt-3 btn btn-primary mr-2"
                 >
                   Buy Now
-                </a>
-                <a
-                  className="mt-3 btn btn-outline-primary"
-                  href="https://worklouder.cc/"
-                >
-                  Website
                 </a>
               </div>
             </div>
@@ -112,16 +106,10 @@ export default function Worklouder() {
                 <li>60% layout</li>
               </ul>
               <a
-                href="https://worklouder.cc/creator-board/"
+                href="https://collabs.shop/7w1zmm"
                 className="mt-3 btn btn-primary mr-2"
               >
                 Buy Now
-              </a>
-              <a
-                className="mt-3 btn btn-outline-primary"
-                href="https://worklouder.cc/"
-              >
-                Website
               </a>
             </div>
             <div className="col-lg-6">
@@ -152,10 +140,10 @@ export default function Worklouder() {
                 keyboard with a similar design as their Creator Board.
               </p>
               <a
-                href="https://worklouder.cc/creator-micro/"
+                href="https://collabs.shop/yroph0"
                 className="mt-3 btn btn-primary mr-2"
               >
-                Coming Soon
+                Buy Now
               </a>
             </div>
           </div>

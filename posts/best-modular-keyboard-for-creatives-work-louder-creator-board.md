@@ -21,6 +21,8 @@ Features:
 - VIA and QMK configurarable to customize all keys
 - 60% layout
 
+<a class="btn btn-primary" href="https://collabs.shop/7w1zmm">Buy Now</a>
+
 </div>
 <div class="col-lg-6">
 
@@ -81,7 +83,9 @@ Even if you already have a keyboard you like, Work Louder is working on a microp
 
 If you're a photographer, video editor or video game designer, the Creator Board can help you make creating easier with its efficient workflow. It's an all-in-one package and you don't need to have more than one keypad. It's portable and compact, perfect for editing on the go.
 
-<a href="/worklouder" class="btn btn-primary">Learn More</a>
+<a class="btn btn-primary mr-3" href="https://collabs.shop/7w1zmm">Buy Now</a>
+
+<a href="/worklouder" class="btn btn-secondary">Learn More</a>
 
 <hr/>
 
@@ -100,7 +104,6 @@ The latest version of the Planck keyboard supports hot swappable switches, LEDs,
     Buy on Drop
 </a>
 
-<a href="https://www.amazon.com/dp/B08LX7ZXS4?&linkCode=li3&tag=tryorthokey06-20&linkId=0b7b9faf09aac73db64f301ec3da89ce&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08LX7ZXS4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08LX7ZXS4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 </div>
 <div class="col-lg-6">
@@ -117,7 +120,6 @@ The Preonic keyboard is the Planck's big brother with an extra row of keys for t
     Buy on Drop
 </a>
 
-<a href="https://www.amazon.com/dp/B08L3WKZ73?&linkCode=li3&tag=tryorthokey06-20&linkId=6af0b7506a61073b0723facda319622d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08L3WKZ73&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08L3WKZ73" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 </div>
 </div>
