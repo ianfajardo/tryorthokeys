@@ -175,12 +175,12 @@ export default function Keycaps() {
                               </td>
                             </tr>
                             <tr>
-                              <td>Akko Outlet Deals</td>
+                              <td>Akko Spring Coupon 15% Off</td>
                               <td>
-                                Get a free switch sample with orders over $50
+                                Use coupon code <strong>spring</strong> at checkout to get 15% off.
                               </td>
                               <td>
-                                <a href="https://en.akkogear.com/akko-outlet-deals/?ref=29468">
+                                <a href="https://en.akkogear.com?ref=29468">
                                   Link
                                 </a>
                               </td>
