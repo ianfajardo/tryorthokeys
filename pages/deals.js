@@ -140,13 +140,13 @@ export default function Keycaps() {
                           </thead>
                           <tbody>
                             <tr>
-                              <td>MechDIY</td>
+                              <td>KBDcraft</td>
                               <td>
-                                Exclusive: 12% OFF on Mechdiy{" "}
-                                <strong>S12</strong>
+                                <strong>5% off</strong> your entire order! Use code at checkout:{" "}
+                                <strong>tryorthokeys</strong>
                               </td>
                               <td>
-                                <a href="https://shrsl.com/45sgz">Link</a>
+                                <a href="https://shln.top/ESlV1ACH">Link</a>
                               </td>
                             </tr>
                             <tr>
