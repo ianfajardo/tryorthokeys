@@ -13,6 +13,14 @@ var keyboards = [
     learnMore: "/ymdk-air40",
   },
   {
+    name: "KBDcraft Israfel",
+    price: "$64.99",
+    description:
+      "The Israfel keyboard features a low-profile system and an exclusive 50% ortho layout built into a unique building block-inspired architecture and compatible with LEGO. Available in black and white, it's a great affordable starter full ortho kit with included switches and keycaps.",
+    image: "https://www.tryorthokeys.com/kbdcraft-israfel.webp",
+    buyNow: "https://kbdcraft.store/products/16067128766732540406491690?source_type=sales_plugin_af&slt=sales_plugin_af&referral_code=KFGP7S8BBX4B",
+  },
+  {
     name: "Work Louder: Creator Board",
     price: "$249",
     description:
