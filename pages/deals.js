@@ -143,7 +143,11 @@ export default function Keycaps() {
                               <td>KBDcraft</td>
                               <td>
                                 <strong>5% off</strong> your entire order! Use code at checkout:{" "}
-                                <strong>tryorthokeys</strong>
+                                <strong>tryorthokeys</strong><br/><br/>
+                                <strong>$20 off</strong> orders of over $99. Use code at checkout:{" "}
+                                <strong>GROW20</strong><br/><br/>
+                                <strong>$40 off</strong> orders of over $199. Use code at checkout:{" "}
+                                <strong>GROW40</strong>
                               </td>
                               <td>
                                 <a href="https://shln.top/ESlV1ACH">Link</a>
