@@ -41,6 +41,7 @@ class MyDocument extends Document {
               __html: `!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/9d8a3440190c7038888502308/32edc0eb1cf71aeab8c219b96.js");`,
             }}
           />
+          <script src="https://analytics.ahrefs.com/analytics.js" data-key="H3Q9q6ezPn3JM39t5g7lOw" async></script>
         </Head>
 
         <body>
