@@ -142,12 +142,8 @@ export default function Keycaps() {
                             <tr>
                               <td>KBDcraft</td>
                               <td>
-                                <strong>5% off</strong> your entire order! Use code at checkout:{" "}
-                                <strong>tryorthokeys</strong><br/><br/>
-                                <strong>$20 off</strong> orders of over $99. Use code at checkout:{" "}
-                                <strong>GROW20</strong><br/><br/>
-                                <strong>$40 off</strong> orders of over $199. Use code at checkout:{" "}
-                                <strong>GROW40</strong>
+                                <strong>5% off</strong> your entire order! Use
+                                code at checkout: <strong>tryorthokeys</strong>
                               </td>
                               <td>
                                 <a href="https://shln.top/ESlV1ACH">Link</a>
@@ -179,9 +175,10 @@ export default function Keycaps() {
                               </td>
                             </tr>
                             <tr>
-                              <td>Akko Spring Coupon 15% Off</td>
+                              <td>Akko Mid Clearance Sale: Up to 50% Off</td>
                               <td>
-                                Use coupon code <strong>spring</strong> at checkout to get 15% off.
+                                Get up to 50% off select Akko products during
+                                their mid clearance sale.
                               </td>
                               <td>
                                 <a href="https://en.akkogear.com?ref=29468">
@@ -217,8 +214,8 @@ export default function Keycaps() {
                             <tr>
                               <td>KBDFans</td>
                               <td>
-                                $5 off orders over $65 coupon code:{" "}
-                                <strong>ILOVEKBDFANS</strong>
+                                 $65-$6 shipping code::{" "}
+                                <strong>Wafflebetter</strong>
                               </td>
                               <td>
                                 <a href="https://kbdfans.com/r?id=rq0n5d">
