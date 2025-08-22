@@ -2,6 +2,8 @@ import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 import Table from "react-bootstrap/Table";
 import SEOhead from "../components/SEOhead";
+import Link from "next/link";
+import SpecialDeals from "../components/specialdeals";
 
 export const meta = {
   title: "Keyboard Deals and Discounts | mechanical keyboard coupons",
@@ -42,6 +44,7 @@ export default function Keycaps() {
       <div id="content" className="container-fluid">
         <div className="row">
           <div className="d-none d-lg-block d-xl-block col-lg-2">
+
             <div className="section-container">
               <h3 className="font-weight-bold text-primary">Keyboards</h3>
               <div className="card">
@@ -87,35 +90,10 @@ export default function Keycaps() {
           </div>
 
           <div className="col-lg-8 col-md-8">
-            <div id="FKcaps" className="section-container ">
+            <div className="section-container ">
               <div>
-                <div className="card ele-2 mb-4 bg-primary">
-                  <div className="px-5 py-5">
-                    <div className="row align-items-center">
-                      <div className="col-lg-2">
-                        <img className="img-fluid" src="fkcaps.jpg" />
-                      </div>
-                      <div className="col-lg-8 text-light">
-                        <h2>Design your own keycaps with FKcaps</h2>
-                        <p>
-                          Use our link to get a special <strong>10% off</strong>{" "}
-                          affordable customizable keycaps at FKcaps. They offer
-                          cherry, DSA, MDA, choc-style caps, and much more.
-                          Choose from different layouts to fit your needs, pick
-                          custom fonts, and more with their awesome customizer.{" "}
-                        </p>
-                      </div>
-                      <div className="col-lg-2">
-                        <a
-                          href="https://fkcaps.com/custom?a=tryorthokeys"
-                          className="btn btn-lg btn-light"
-                        >
-                          Learn More
-                        </a>
-                      </div>
-                    </div>
-                  </div>
-                </div>
+                <SpecialDeals/>
+
                 <div className="card ele-2">
                   <div className="px-5 py-5">
                     <div className="row align-items-center">
@@ -142,7 +120,7 @@ export default function Keycaps() {
                             <tr>
                               <td>KBDcraft</td>
                               <td>
-                                <strong>5% off</strong> your entire order! Use
+                                <strong>20% off</strong> your entire order! Use
                                 code at checkout: <strong>tryorthokeys</strong>
                               </td>
                               <td>
@@ -175,10 +153,11 @@ export default function Keycaps() {
                               </td>
                             </tr>
                             <tr>
-                              <td>Akko Mid Clearance Sale: Up to 50% Off</td>
+                              <td>Akko Free US Delivery</td>
                               <td>
-                                Get up to 50% off select Akko products during
-                                their mid clearance sale.
+                                Get free delivery using code{" "}
+                                <strong>USFREE</strong> from US warehouse.
+                                Normally shipping is free over $199.
                               </td>
                               <td>
                                 <a href="https://en.akkogear.com?ref=29468">
@@ -214,7 +193,7 @@ export default function Keycaps() {
                             <tr>
                               <td>KBDFans</td>
                               <td>
-                                 $65-$6 shipping code::{" "}
+                                $65-$6 shipping code::{" "}
                                 <strong>Wafflebetter</strong>
                               </td>
                               <td>

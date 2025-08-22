@@ -3,6 +3,7 @@ import Link from "next/link";
 import { getAllPostIds, getPostData } from "../../lib/posts";
 import Date from "../../components/date";
 import Head from "next/head";
+import SpecialDeals from "../../components/specialdeals";
 
 export async function getStaticProps({ params }) {
   const postData = await getPostData(params.slug);
@@ -43,7 +44,11 @@ export default function Post({ postData }) {
         />
         <meta
           property="og:title"
-          content={"Try Ortho Keys - " + postData.metatitle ? postData.metatitle : postData.title }
+          content={
+            "Try Ortho Keys - " + postData.metatitle
+              ? postData.metatitle
+              : postData.title
+          }
         />
         <meta
           property="og:description"
@@ -55,7 +60,11 @@ export default function Post({ postData }) {
         />
         <meta
           property="og:image"
-          content={postData.image ? "https://www.tryorthokeys.com/" + postData.image : "/planck-2.jpg"}
+          content={
+            postData.image
+              ? "https://www.tryorthokeys.com/" + postData.image
+              : "/planck-2.jpg"
+          }
         />
         <meta property="twitter:card" content="summary_large_image" />
         <meta
@@ -64,7 +73,11 @@ export default function Post({ postData }) {
         />
         <meta
           property="twitter:title"
-          content={"Try Ortho Keys - " + postData.metatitle ? postData.metatitle : postData.title }
+          content={
+            "Try Ortho Keys - " + postData.metatitle
+              ? postData.metatitle
+              : postData.title
+          }
         />
         <meta
           property="twitter:description"
@@ -76,7 +89,11 @@ export default function Post({ postData }) {
         />
         <meta
           property="twitter:image"
-          content={postData.image ? "https://www.tryorthokeys.com" + postData.image : "https://www.tryorthokeys.com/planck-2.jpg"}
+          content={
+            postData.image
+              ? "https://www.tryorthokeys.com" + postData.image
+              : "https://www.tryorthokeys.com/planck-2.jpg"
+          }
         />
       </Head>
       <Layout>
@@ -87,7 +104,9 @@ export default function Post({ postData }) {
                 <Link legacyBehavior href="/posts">
                   <a className="text-white">Blog</a>
                 </Link>
-                <h1 className="display-4 font-weight-bolder">{postData.title}</h1>
+                <h1 className="display-4 font-weight-bolder">
+                  {postData.title}
+                </h1>
                 <Date dateString={postData.date} />
               </div>
             </div>
@@ -96,10 +115,13 @@ export default function Post({ postData }) {
         <div className="blog-content-container section-container">
           <div className="container">
             <div className="row">
-              <div className="col-lg-12">
+              <div className="col-lg-8">
                 <div
                   dangerouslySetInnerHTML={{ __html: postData.contentHtml }}
                 />
+              </div>
+              <div className="col-lg-4">
+                <SpecialDeals col="col-lg-12" />
               </div>
             </div>
           </div>
