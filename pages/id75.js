@@ -7,17 +7,17 @@ export default function Id75() {
     <div>
       <Head>
         <title>
-          The Idobo ID75 is a 75 key keyboard, larger than most standard
+          The Idobao x YMDK ID75 is a 75 key keyboard, larger than most standard
           ortholinear keyboards.
         </title>
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="title"
-          content="Idobo ID75 - 75 Key Ortholinear Keyboard | Ortho Keyboard"
+          content="Idobao x YMDK ID75 - 75 Key Ortholinear Keyboard | Ortho Keyboard"
         />
         <meta
           name="description"
-          content="The Idobo ID75 is a 75 key keyboard, larger than most standard
+          content="The Idobao x YMDK ID75 is a 75 key keyboard, larger than most standard
           ortholinear keyboards. A common layout has the alphas split on
           the sides with extra function keys in the middle."
         />
@@ -34,9 +34,9 @@ export default function Id75() {
           <div className="row align-items-center">
             <div className="col-lg-12">
               <div className="py-3">
-                <h1 className="display-4 font-weight-bolder">ID75</h1>
+                <h1 className="display-4 font-weight-bolder">Idobao x YMDK ID75</h1>
                 <p style={{ fontSize: "20px" }}>
-                  The Idobo ID75 is a 75 key keyboard, larger than most standard
+                  The Idobao x YMDK ID75 is a 75 key keyboard, larger than most standard
                   ortholinear keyboards. A common layout has the alphas split on
                   the sides with extra function keys in the middle. This is a
                   great alternative if you want extra programmable keys opposed
@@ -63,7 +63,7 @@ export default function Id75() {
             <div className="px-5 py-5 py-lg-5">
               <div className="row align-items-center">
                 <div className="col-lg-5">
-                  <h2 className="font-weight-bold text-primary">Idobo ID75</h2>
+                  <h2 className="font-weight-bold text-primary">Idobao x YMDK ID75</h2>
                   <p style={{ fontSize: "20px" }}>
                     The ID75 has a hotswappable PCB and connects via USB Type C.
                     In addition, the case is CNC milled anodized aluminum with

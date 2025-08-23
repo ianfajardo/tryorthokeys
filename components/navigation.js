@@ -32,16 +32,25 @@ export default function Navigation() {
                 Ultimate Ortholinear Guide
               </Nav.Link>
               <Nav.Link href="/keycaps">Ortho Keycap Sets</Nav.Link>
+
               <Nav.Link href="/keyboards">Keyboards</Nav.Link>
-              <Nav.Link href="/deals">Deals & Coupons</Nav.Link>
-              <NavDropdown title="OLKB Planck & Preonic" id="olkb-nav-dropdown">
-                <NavDropdown.Item href="/olkb">
-                  About the Keyboards
+
+              <NavDropdown title="Brands" id="olkb-nav-dropdown">
+                <NavDropdown.Item href="/keyboards">
+                  View Keyboards List
                 </NavDropdown.Item>
-                <NavDropdown.Item href="/configure">
-                  Configuring your Keyboard
+                <NavDropdown.Item href="/olkb">
+                  OLKB Planck & Preonic
+                </NavDropdown.Item>
+                <NavDropdown.Item href="/kbdcraft">
+                  KBDcraft
+                </NavDropdown.Item>
+                <NavDropdown.Item href="/id75">
+                  Idobao x YMDK ID75
                 </NavDropdown.Item>
               </NavDropdown>
+
+              <Nav.Link href="/deals">Deals & Coupons</Nav.Link>
             </Nav>
             <Form inline>
               <Button href="/posts" className="ml-2" variant="primary">
