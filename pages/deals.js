@@ -153,11 +153,10 @@ export default function Keycaps() {
                               </td>
                             </tr>
                             <tr>
-                              <td>Akko Free US Delivery</td>
+                              <td>Akko 15% OFF</td>
                               <td>
-                                Get free delivery using code{" "}
-                                <strong>USFREE</strong> from US warehouse.
-                                Normally shipping is free over $199.
+                                Get 15% using code{" "}
+                                <strong>9TH</strong>.
                               </td>
                               <td>
                                 <a href="https://en.akkogear.com?ref=29468">
