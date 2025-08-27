@@ -35,6 +35,17 @@ A keyboard stabilizer is placed beneath the bigger keys on your keyboard to allo
 
 <br/>
 
+### Keyboard Stabilizer Comparison Table
+
+| Stabilizer | Type | Mount | Price | Rating |
+|------------|------|-------|-------|--------|
+| WS Stabs V3.1 Black Glitter | TPE Housing | Screw-in | $25-35 | ⭐⭐⭐⭐⭐ |
+| Durock V2 Stabilizers | Polycarbonate | Screw-in | $20-30 | ⭐⭐⭐⭐⭐ |
+| KBDFans Dyboox PC | Polycarbonate | PCB/Screw-in | $15-25 | ⭐⭐⭐⭐ |
+| DROP Everglide | Polycarbonate | Plate Mount | $18-28 | ⭐⭐⭐⭐ |
+
+<br/>
+
 ### What are the Benefits of Using a Keyboard Stabilizer?
 
 The ideal stabilizer allows for no wobble and minimal sound when those keys are pressed at any angle or area. On a standard keyboard, the keys that need a stabilizer are the spacebar, shift keys, enter/return, and backspace. Having a stable and consistent keypress is important when typing and gaming. For sound, it is a must-have as a noisy and rattly spacebar can be grating to the ears.

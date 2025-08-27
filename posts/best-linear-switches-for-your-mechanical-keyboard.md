@@ -13,6 +13,14 @@ tags: "switches"
 
 There are many linear switches to choose from, but we narrowed them down to the top three. Here are some desired traits for linear switches that factored into our decision: smoothness, sound, and actuation force.
 
+### Linear Switch Comparison
+
+| Switch | Actuation Force | Sound Profile | Price Range | Best For |
+|--------|----------------|---------------|-------------|----------|
+| Gateron Yellow | 50g | Quiet, smooth | $20-30 | Beginners, budget builds |
+| Gateron Ink Black V2 | 60g | Deep, smooth | $40-60 | Premium feel, smooth typing |
+| Novelkey Cream | 55g | Low bass | $50-70 | Unique sound, POM material |
+
 Linear switches are great for gaming, quieter for the office, and buttery smooth. Compared to clicky and tactile switches, there is no percievable bump for initial actuation. Linears are great switches for those that need precision and speed when typing. If you also value smoothness and a quieter sound compared to clicky and tactile switches these are so for you. Below are our recommendations for the best swtiches to pick up for your next linear switch build.
 
 </div>

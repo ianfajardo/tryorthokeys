@@ -301,6 +301,42 @@ blockquote::after {
     margin-top: 1rem;
     margin-bottom: 1rem;
   }
+  
+  // Table styles for markdown tables
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1.5rem 0;
+    font-size: 0.9rem;
+    
+    th, td {
+      padding: 0.75rem;
+      text-align: left;
+      border-bottom: 1px solid #e2e8f0;
+    }
+    
+    th {
+      background-color: #f8fafc;
+      font-weight: 600;
+      color: #374151;
+      border-bottom: 2px solid #d1d5db;
+    }
+    
+    tr:hover {
+      background-color: #f9fafb;
+    }
+    
+    // Responsive table
+    @media (max-width: 768px) {
+      display: block;
+      overflow-x: auto;
+      white-space: nowrap;
+      
+      th, td {
+        min-width: 120px;
+      }
+    }
+  }
 }
 
 .keyboard-section {
