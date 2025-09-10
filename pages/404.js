@@ -6,13 +6,33 @@ export default function Custom404() {
   return (
     <div>
       <Head>
-        <title>404 | Try Ortho Keys</title>
+        <title>404 - Page Not Found | Try Ortho Keys</title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="title" content="Configuring your Planck or Preonic | QMK toolbox OLKB ortholinear keyboard ortho keyboard 40% keyboard kit Drop keycaps ortholinear keycaps qmk keyboard preonic keyboard qmk configurator" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="robots" content="noindex, nofollow" />
+        <link rel="canonical" href="https://www.tryorthokeys.com/404" />
+        
+        <meta name="title" content="404 - Page Not Found | Try Ortho Keys" />
         <meta
           name="description"
-          content="This guide will show you how to configure your OLKB Planck or Preonic Keyboard such as the QMK configurator and toolbox. "
+          content="The page you were looking for could not be found. Explore our ortholinear keyboards, keycaps, and guides to find what you need."
         />
+        <meta name="keywords" content="404, page not found, ortholinear keyboards, mechanical keyboards, OLKB, Planck, Preonic" />
+
+        {/* Open Graph */}
+        <meta property="og:type" content="website" />
+        <meta property="og:url" content="https://www.tryorthokeys.com/404" />
+        <meta property="og:title" content="404 - Page Not Found | Try Ortho Keys" />
+        <meta property="og:description" content="The page you were looking for could not be found. Explore our ortholinear keyboards, keycaps, and guides to find what you need." />
+        <meta property="og:image" content="https://tryorthokeys.com/tryorthokeys.jpg" />
+        <meta property="og:site_name" content="Try Ortho Keys" />
+
+        {/* Twitter */}
+        <meta property="twitter:card" content="summary_large_image" />
+        <meta property="twitter:url" content="https://www.tryorthokeys.com/404" />
+        <meta property="twitter:title" content="404 - Page Not Found | Try Ortho Keys" />
+        <meta property="twitter:description" content="The page you were looking for could not be found. Explore our ortholinear keyboards, keycaps, and guides to find what you need." />
+        <meta property="twitter:image" content="https://tryorthokeys.com/tryorthokeys.jpg" />
       </Head>
 
       <Navigation />

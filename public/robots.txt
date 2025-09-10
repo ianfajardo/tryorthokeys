@@ -1,1 +1,21 @@
-User-agent: * Disallow:
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://tryorthokeys.com/sitemap.xml
+
+# Crawl-delay for respectful crawling
+Crawl-delay: 1
+
+# Disallow admin areas
+Disallow: /admin/
+Disallow: /api/
+Disallow: /_next/
+Disallow: /static/
+
+# Allow important pages
+Allow: /keyboards
+Allow: /keycaps
+Allow: /posts/
+Allow: /deals
+Allow: /configure

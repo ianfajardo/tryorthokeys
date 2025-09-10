@@ -23,77 +23,92 @@ export async function getStaticPaths() {
 }
 
 export default function Post({ postData }) {
+  const title = `Try Ortho Keys - ${postData.title}`;
+  const description = postData.description || "Ortholinear keyboards are computer keyboards with a grid layout. Most orthlinear keyboards have mechanical key switches and programmable keymappings.";
+  const image = postData.image ? `https://www.tryorthokeys.com${postData.image}` : "https://www.tryorthokeys.com/planck-2.jpg";
+  const url = `https://www.tryorthokeys.com/posts/${postData.slug}`;
+  const publishedDate = new Date(postData.date).toISOString();
+  const modifiedDate = new Date().toISOString();
+
   return (
     <div>
       <Head>
-        <title>{"Try Ortho Keys - " + postData.title}</title>
+        <title>{title}</title>
         <link rel="icon" href="/favicon.ico" />
-        <meta name="title" content={"Try Ortho Keys - " + postData.title} />
-        <meta
-          name="description"
-          content={
-            postData.description
-              ? postData.description
-              : "Ortholinear keyboards are computer keyboards with a grid layout. Most orthlinear keyboards have mechanical key switches and programmable keymappings."
-          }
-        />
-        <meta property="og:type" content="website" />
-        <meta
-          property="og:url"
-          content={"https://www.tryorthokeys.com/posts/" + postData.slug}
-        />
-        <meta
-          property="og:title"
-          content={
-            "Try Ortho Keys - " + postData.metatitle
-              ? postData.metatitle
-              : postData.title
-          }
-        />
-        <meta
-          property="og:description"
-          content={
-            postData.description
-              ? postData.description
-              : "Ortholinear keyboards are computer keyboards with a grid layout. Most orthlinear keyboards have mechanical key switches and programmable keymappings."
-          }
-        />
-        <meta
-          property="og:image"
-          content={
-            postData.image
-              ? "https://www.tryorthokeys.com/" + postData.image
-              : "/planck-2.jpg"
-          }
-        />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <meta name="robots" content="index, follow" />
+        <link rel="canonical" href={url} />
+        
+        {/* Primary Meta Tags */}
+        <meta name="title" content={title} />
+        <meta name="description" content={description} />
+        <meta name="keywords" content="ortholinear keyboards, mechanical keyboards, OLKB, Planck, Preonic, Ergodox, programmable keyboards, QMK, VIA, keyboard review" />
+        <meta name="author" content="Try Ortho Keys" />
+        <meta name="article:author" content="Try Ortho Keys" />
+        <meta name="article:published_time" content={publishedDate} />
+        <meta name="article:modified_time" content={modifiedDate} />
+        <meta name="article:section" content="Technology" />
+        <meta name="article:tag" content="Keyboards" />
+
+        {/* Open Graph / Facebook */}
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content={url} />
+        <meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
+        <meta property="og:image" content={image} />
+        <meta property="og:image:width" content="1200" />
+        <meta property="og:image:height" content="630" />
+        <meta property="og:site_name" content="Try Ortho Keys" />
+        <meta property="og:locale" content="en_US" />
+        <meta property="article:published_time" content={publishedDate} />
+        <meta property="article:modified_time" content={modifiedDate} />
+        <meta property="article:author" content="Try Ortho Keys" />
+        <meta property="article:section" content="Technology" />
+        <meta property="article:tag" content="Keyboards" />
+
+        {/* Twitter */}
         <meta property="twitter:card" content="summary_large_image" />
-        <meta
-          property="twitter:url"
-          content={"https://www.tryorthokeys.com/posts/" + postData.slug}
-        />
-        <meta
-          property="twitter:title"
-          content={
-            "Try Ortho Keys - " + postData.metatitle
-              ? postData.metatitle
-              : postData.title
-          }
-        />
-        <meta
-          property="twitter:description"
-          content={
-            postData.description
-              ? postData.description
-              : "Ortholinear keyboards are computer keyboards with a grid layout. Most orthlinear keyboards have mechanical key switches and programmable keymappings."
-          }
-        />
-        <meta
-          property="twitter:image"
-          content={
-            postData.image
-              ? "https://www.tryorthokeys.com" + postData.image
-              : "https://www.tryorthokeys.com/planck-2.jpg"
-          }
+        <meta property="twitter:url" content={url} />
+        <meta property="twitter:title" content={title} />
+        <meta property="twitter:description" content={description} />
+        <meta property="twitter:image" content={image} />
+        <meta property="twitter:creator" content="@tryorthokeys" />
+        <meta property="twitter:site" content="@tryorthokeys" />
+
+        {/* Structured Data - Article */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Article",
+              "headline": postData.title,
+              "description": description,
+              "image": image,
+              "author": {
+                "@type": "Organization",
+                "name": "Try Ortho Keys",
+                "url": "https://tryorthokeys.com"
+              },
+              "publisher": {
+                "@type": "Organization",
+                "name": "Try Ortho Keys",
+                "logo": {
+                  "@type": "ImageObject",
+                  "url": "https://tryorthokeys.com/tryorthokeys.jpg"
+                }
+              },
+              "datePublished": publishedDate,
+              "dateModified": modifiedDate,
+              "mainEntityOfPage": {
+                "@type": "WebPage",
+                "@id": url
+              },
+              "url": url,
+              "articleSection": "Technology",
+              "keywords": "ortholinear keyboards, mechanical keyboards, OLKB, Planck, Preonic, Ergodox, programmable keyboards, QMK, VIA"
+            })
+          }}
         />
       </Head>
       <Layout>
