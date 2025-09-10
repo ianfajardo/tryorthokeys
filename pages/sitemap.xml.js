@@ -44,7 +44,7 @@ function generateSiteMap(posts) {
          return `
        <url>
            <loc>${baseUrl}/posts/${slug}</loc>
-           <lastmod>${new Date(date).toISOString()}</lastmod>
+           <lastmod>${date ? (date instanceof Date ? date.toISOString() : new Date(date).toISOString()) : new Date().toISOString()}</lastmod>
            <changefreq>monthly</changefreq>
            <priority>0.7</priority>
        </url>`;

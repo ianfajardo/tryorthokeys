@@ -1,7 +1,7 @@
 import Layout from "../../components/layout";
 import Link from "next/link";
 import { getAllPostIds, getPostData } from "../../lib/posts";
-import Date from "../../components/date";
+import DateComponent from "../../components/date";
 import Head from "next/head";
 import SpecialDeals from "../../components/specialdeals";
 
@@ -27,7 +27,7 @@ export default function Post({ postData }) {
   const description = postData.description || "Ortholinear keyboards are computer keyboards with a grid layout. Most orthlinear keyboards have mechanical key switches and programmable keymappings.";
   const image = postData.image ? `https://www.tryorthokeys.com${postData.image}` : "https://www.tryorthokeys.com/planck-2.jpg";
   const url = `https://www.tryorthokeys.com/posts/${postData.slug}`;
-  const publishedDate = new Date(postData.date).toISOString();
+  const publishedDate = postData.date ? (postData.date instanceof Date ? postData.date.toISOString() : new Date(postData.date).toISOString()) : new Date().toISOString();
   const modifiedDate = new Date().toISOString();
 
   return (
@@ -122,7 +122,7 @@ export default function Post({ postData }) {
                 <h1 className="display-4 font-weight-bolder">
                   {postData.title}
                 </h1>
-                <Date dateString={postData.date} />
+                <DateComponent dateString={postData.date} />
               </div>
             </div>
           </div>
