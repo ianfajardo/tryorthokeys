@@ -56,7 +56,6 @@ Although not as compact as the Planck keyboard, the ID75 is still much smaller t
 
 **ID75 Ortholinear Keyboard**
 
-<a href="https://www.amazon.com/Ortholinear-Anodized-Aluminum-hot-swappable-Mechanical/dp/B07ZQ8CD88?crid=1DANIH0T9OQRO&keywords=id75+keyboard&qid=1645666887&sprefix=id75+keyboard%2Caps%2C136&sr=8-2&linkCode=li3&tag=tryorthokey06-20&linkId=edde2713bbb15ab015dc66ac659c61bb&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07ZQ8CD88&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B07ZQ8CD88" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a href="https://amzn.to/3BLxtWs" class="btn btn-primary">Buy Now</a>
 
@@ -65,7 +64,6 @@ Although not as compact as the Planck keyboard, the ID75 is still much smaller t
 
 **75 Keys DSA Keycaps**
 
-<a href="https://www.amazon.com/Keycaps-Suitable-Ortholinear-Keyboard-Preonic/dp/B07QHRNRGR?crid=3LB2U1DBZRXHS&keywords=id75+keyboard&qid=1645665881&sprefix=id75+keyboard%2Caps%2C180&sr=8-4&linkCode=li3&tag=tryorthokey06-20&linkId=c57c2153496b24454d5d8e328628fcf4&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07QHRNRGR&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B07QHRNRGR" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a href="https://amzn.to/3semNMT" class="btn btn-primary">Buy Now</a>
 
@@ -75,7 +73,6 @@ Although not as compact as the Planck keyboard, the ID75 is still much smaller t
 
 **Gateron Yellow Linear Switches**
 
-<a href="https://www.amazon.com/Gateron-KS-9-Mechanical-Type-Switch/dp/B07WZNZ7KF?crid=3FJ08YHLIT3AO&keywords=gateron+yellow+switches&qid=1645670084&sprefix=gateron+yellow+switche%2Caps%2C91&sr=8-4&linkCode=li3&tag=tryorthokey06-20&linkId=9f8a6e6b38add2de610378ad1ba354d5&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07WZNZ7KF&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B07WZNZ7KF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a href="https://amzn.to/3sexten" class="btn btn-primary">Buy Now</a>
 
@@ -105,7 +102,6 @@ The latest version of the Planck keyboard supports hot swappable switches, LEDs,
     Buy on Drop
 </a>
 
-<a href="https://www.amazon.com/dp/B08LX7ZXS4?&linkCode=li3&tag=tryorthokey06-20&linkId=0b7b9faf09aac73db64f301ec3da89ce&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08LX7ZXS4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08LX7ZXS4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 </div>
 <div class="col-lg-6">
@@ -122,7 +118,6 @@ The Preonic keyboard is the Planck's big brother with an extra row of keys for t
     Buy on Drop
 </a>
 
-<a href="https://www.amazon.com/dp/B08L3WKZ73?&linkCode=li3&tag=tryorthokey06-20&linkId=6af0b7506a61073b0723facda319622d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08L3WKZ73&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08L3WKZ73" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 </div>
 </div>

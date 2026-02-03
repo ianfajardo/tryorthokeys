@@ -17,7 +17,8 @@ export default function SEO({
 }) {
   const siteUrl = "https://tryorthokeys.com";
   const fullUrl = url ? `${siteUrl}${url}` : siteUrl;
-  const fullImage = image.startsWith('http') ? image : `${siteUrl}${image}`;
+  const img = image || "https://tryorthokeys.com/tryorthokeys.jpg";
+  const fullImage = typeof img === "string" && img.startsWith("http") ? img : `${siteUrl}${img}`;
   
   const structuredDataDefault = {
     "@context": "https://schema.org",

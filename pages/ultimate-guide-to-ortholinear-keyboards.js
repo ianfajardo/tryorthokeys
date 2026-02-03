@@ -1,4 +1,5 @@
-import Head from "next/head";
+import SEOhead from "../components/SEOhead";
+import { defaultMeta } from "../lib/pageMeta";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 import Table from "react-bootstrap/Table";
@@ -22,62 +23,21 @@ export async function getStaticProps() {
 }
 
 export default function Ultimateguide({ keycapPostData, switchPostData }) {
+  const title = "Ultimate Guide to Ortholinear Keyboards | Try Ortho Keys";
+  const description =
+    "Learn about ortholinear keyboards and ortho keyboards: benefits, how to choose, Planck and Preonic keyboard options, ortholinear keycaps, and how to make the switch.";
+  const url = `${defaultMeta.url}/ultimate-guide-to-ortholinear-keyboards`;
+  const image = `${defaultMeta.url}/creator-board/work-louder-creator-board-diy.jpg`;
+
   return (
     <div>
-      <Head>
-        <title>
-          Ultimate Guide to Ortholinear Keyboards | ortho keyboard, ortho
-          keycaps, ortholinear keycaps
-        </title>
-        <link rel="icon" href="/favicon.ico" />
-        <meta
-          name="title"
-          content="Ultimate Guide to Ortholinear Keyboards | ortho keyboard, ortho
-          keycaps, ortholinear keycaps"
-        />
-        <meta
-          name="description"
-          content="Learn about the benefits of an ortholinear keyboard, and how to make the switch with this comprehensive guide"
-        />
-
-        <meta property="og:type" content="website" />
-        <meta
-          property="og:url"
-          content="https://www.tryorthokeys.com/ultimate-guide-to-ortholinear-keyboards"
-        />
-        <meta
-          property="og:title"
-          content="Ultimate Guide to Ortholinear Keyboards | ortho keyboard, ortho
-          keycaps, ortholinear keycaps"
-        />
-        <meta
-          property="og:description"
-          content="Learn about the benefits of an ortholinear keyboard, and how to make the switch with this comprehensive guide"
-        />
-        <meta
-          property="og:image"
-          content="https://tryorthokeys.com/creator-board/work-louder-creator-board-diy.jpg"
-        />
-
-        <meta property="twitter:card" content="summary_large_image" />
-        <meta
-          property="twitter:url"
-          content="https://www.tryorthokeys.com/ultimate-guide-to-ortholinear-keyboards"
-        />
-        <meta
-          property="twitter:title"
-          content="Ultimate Guide to Ortholinear Keyboards | ortho keyboard, ortho
-          keycaps, ortholinear keycaps"
-        />
-        <meta
-          property="twitter:description"
-          content="Learn about the benefits of an ortholinear keyboard, and how to make the switch with this comprehensive guide"
-        />
-        <meta
-          property="twitter:image"
-          content="https://tryorthokeys.com/creator-board/work-louder-creator-board-diy.jpg"
-        />
-      </Head>
+      <SEOhead
+        title={title}
+        description={description}
+        url={url}
+        image={image}
+        keywords="ortholinear keyboard, ortho keyboard, ortholinear keycaps, ortho keycaps, Preonic keyboard, Planck keyboard"
+      />
 
       <Navigation />
 
@@ -129,6 +89,11 @@ export default function Ultimateguide({ keycapPostData, switchPostData }) {
               <Nav.Item as="li">
                 <Nav.Link className="text-white" href="#keyboards">
                   Keyboards
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item as="li">
+                <Nav.Link className="text-white" href="#preonic-keyboard">
+                  Preonic keyboard
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li">
@@ -331,8 +296,17 @@ export default function Ultimateguide({ keycapPostData, switchPostData }) {
                 size of each keycap on the Preonic and Planck keyboards allows
                 you to map a key or command without worrying about hierarchy.
               </p>
+              <h3 id="preonic-keyboard">The Preonic keyboard</h3>
+              <p>
+                The <strong>Preonic keyboard</strong> is OLKB&apos;s 60% ortholinear option with an
+                extra number row compared to the Planck. If you want a bit more keys without
+                going full-size, the Preonic keyboard is a popular choice. Like the Planck,
+                it supports hot-swap, QMK, and VIA. Read more at our{" "}
+                <Link href="/olkb">OLKB Planck and Preonic</Link> page, or head back to our{" "}
+                <Link href="/">ortholinear keyboards guide</Link> for an overview of all options.
+              </p>
               <a
-                href="https://www.tryorthokeys.com/OLKB"
+                href="/olkb"
                 className="mt-3 btn btn-primary mr-2"
               >
                 Learn More
@@ -371,7 +345,7 @@ export default function Ultimateguide({ keycapPostData, switchPostData }) {
                 </li>
               </ul>
               <a
-                href="https://www.tryorthokeys.com/keyboards"
+                href="/keyboards"
                 className="mt-3 btn btn-primary mr-2"
               >
                 See More Keyboards
@@ -403,7 +377,7 @@ export default function Ultimateguide({ keycapPostData, switchPostData }) {
                 </li>
               </ul>
               <a
-                href="https://www.tryorthokeys.com/keyboards"
+                href="/keyboards"
                 className="mt-3 btn btn-primary mr-2"
               >
                 See More Keyboards

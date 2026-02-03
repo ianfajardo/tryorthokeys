@@ -41,7 +41,9 @@ export default function Id75() {
                   the sides with extra function keys in the middle. This is a
                   great alternative if you want extra programmable keys opposed
                   to the 48 keys on the OLKB Planck and 60 keys on the OLKB
-                  Preonic.
+                  Preonic. Compare more{" "}
+                  <a href="/keyboards">ortho keyboards</a> and read our{" "}
+                  <a href="/ultimate-guide-to-ortholinear-keyboards">ultimate guide to ortholinear keyboards</a>.
                 </p>
                 <a
                   href="https://ymdkey.com/products/idobo-75-keys-ortholinear-layout-qmk-anodized-aluminum-case-plate-hot-swappable-hot-swap-type-c-pcb-mechanical-keyboard-kit?sca_ref=3163375.1C4wKHXQtf"

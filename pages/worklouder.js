@@ -34,7 +34,10 @@ export default function Worklouder() {
                 <h1 className="display-4 font-weight-bolder">Work Louder</h1>
                 <p className="lead" style={{ fontSize: "27px" }}>
                   Work Louder is a company building keyboards with innovative
-                  features designed to make things easier for creatives.
+                  features designed to make things easier for creatives. The Creator Board is a modular ortholinear keyboard—learn more about{" "}
+                  <a href="/ultimate-guide-to-ortholinear-keyboards" className="text-white font-weight-bold"><u>ortho keyboards</u></a>{" "}
+                  and our full lineup in our{" "}
+                  <a href="/keyboards" className="text-white font-weight-bold"><u>keyboards guide</u></a>.
                 </p>
                 <a
                   href="https://collabs.shop/7w1zmm"

@@ -18,7 +18,6 @@ For those that have been in the mechnical keyboard world for a while now, keycap
 
 ### Drop + Matt3o MT3 Susuwatari
 
-<a href="https://www.amazon.com/dp/B08HPLS7R8?_encoding=UTF8&th=1&linkCode=li3&tag=tryorthokey06-20&linkId=7b82d95cbb3ae036f4a67fb483fad323&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08HPLS7R8&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08HPLS7R8" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 The [Drop + Matt3o MT3 Suswatari Keycap set](https://amzn.to/3vx4ktm) is one of the most popular sets for a reason.  The black, red and grey theme are classic and they are also sculpted in the MT3 profile based off the original mechanical keyboard, the IBM beamspring terminals from the 1970s.  These are doubleshot legends, meaning that they definitely won't rub off ever.  They have a 5-star rating with over 100 reviews, so you know these are quality keycaps.  For this and the rest of the keycaps on the list, make sure you choose the Ortholinear option of the keycaps to get the right set!
 
@@ -28,7 +27,6 @@ The [Drop + Matt3o MT3 Suswatari Keycap set](https://amzn.to/3vx4ktm) is one of 
 
 ### Drop + MiTo XDA Canvas
 
-<a href="https://www.amazon.com/Drop-Canvas-Keycap-Full-Size-Keyboards/dp/B081DDX77T?dchild=1&keywords=mito%2Bkeycaps&qid=1624017396&sr=8-3&th=1&linkCode=li3&tag=tryorthokey06-20&linkId=e9876bf99b6d7861b6d59c51c957b9cb&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B081DDX77T&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B081DDX77T" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Looking for clean minimal set of keycaps? [THe Drop + MiTO XDA](https://amzn.to/3xpMI3U) Canvas keycap set is your best bet.  This set features clean legends with an off-white and grey color scheme. These feature an XDA profile, which has a uniform low-profile design compared to the standard MX profile or aggressive MT3 profiles. 
 
@@ -38,7 +36,6 @@ Looking for clean minimal set of keycaps? [THe Drop + MiTO XDA](https://amzn.to/
 
 ### Drop MT3 Camillo 
 
-<a href="https://www.amazon.com/DROP-Camillo-Hi-Profile-Keycaps-Doubleshot/dp/B08VKM4H1N?th=1&linkCode=li3&tag=tryorthokey06-20&linkId=f08fcf304216d121ed56fc9e180588bf&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08VKM4H1N&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08VKM4H1N" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Italian-inspired keycaps, [the Drop MT3 Camillo](https://amzn.to/2TJwhkq), features a blue, white and grey color scheme that will compliement any build.  These MT3 high profile keycaps are a joy for typing and excellent for gaming.  With the retro inspired feel, you'll definitely turn some heads in the office.
 
@@ -48,7 +45,6 @@ Italian-inspired keycaps, [the Drop MT3 Camillo](https://amzn.to/2TJwhkq), featu
 
 ### Drop + Matt3o MT3 /dev/tty
 
-<a href="https://www.amazon.com/Drop-Matt3o-Keycap-Ortho-Keyboards/dp/B081DD7W11?th=1&linkCode=li3&tag=tryorthokey06-20&linkId=4aa9b3d946a6d38eb285b331d3b9acfb&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B081DD7W11&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B081DD7W11" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Another keycap set from Matt3o, the [Drop + Matt3o MT3 /dev/tty](https://amzn.to/3wJs92I), features a minimal colorway with a pop a color for function keys.  
 
@@ -58,7 +54,6 @@ Another keycap set from Matt3o, the [Drop + Matt3o MT3 /dev/tty](https://amzn.to
 
 ### Drop MT3 Black-on-White
 
-<a href="https://www.amazon.com/DROP-Hi-Profile-Doubleshot-Tenkeyless-Winkeyless/dp/B0961VB8LR?th=1&linkCode=li3&tag=tryorthokey06-20&linkId=4b7a4d97c542f1d41a8221347fb93333&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0961VB8LR&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B0961VB8LR" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 Last but not least, the Drop [MT3 Black-on-White](https://amzn.to/3cRfYss), are the most minimal on the list. Often referred to as BoW, these ultra clean keycaps are for those that want the simplist high-quality set for their setup.  These work great with underglow keyboards and ones without rgb!
 
@@ -85,7 +80,6 @@ The latest version of the Planck keyboard supports hot swappable switches, LEDs,
     Buy on Drop
 </a>
 
-<a href="https://www.amazon.com/dp/B08LX7ZXS4?&linkCode=li3&tag=tryorthokey06-20&linkId=0b7b9faf09aac73db64f301ec3da89ce&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08LX7ZXS4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08LX7ZXS4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 </div>
 <div class="col-lg-6">
@@ -102,7 +96,6 @@ The Preonic keyboard is the Planck's big brother with an extra row of keys for t
     Buy on Drop
 </a>
 
-<a href="https://www.amazon.com/dp/B08L3WKZ73?&linkCode=li3&tag=tryorthokey06-20&linkId=6af0b7506a61073b0723facda319622d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08L3WKZ73&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08L3WKZ73" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 </div>
 </div>

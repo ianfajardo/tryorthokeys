@@ -56,7 +56,6 @@ Programmable keyboards can be programmed with macros or shortcuts that can be us
 
 ### Keychron Q2
 
-<a href="https://www.amazon.com/Keychron-Mechanical-Programmable-Hot-Swappable-Compatible/dp/B09DSFD587?crid=1IVPMEOFBPRCA&keywords=keychron%2Bq2&qid=1661428295&sprefix=keychron%2Bq2%2Caps%2C78&sr=8-9&th=1&linkCode=li3&tag=tryorthokey06-20&linkId=aa4a53dffd0b020277d3a527421aee86&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09DSFD587&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B09DSFD587" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a class="btn btn-primary" href="https://amzn.to/3crK20K">Buy Now</a>
 

@@ -25,7 +25,6 @@ Before cleaning your keyboard, make sure you unplug it. You could also take a ph
 
 <strong>Large Silicone Tool Mat</strong>
 
-<a href="https://www.amazon.com/Soldering-Silicone-Resistant-Workbench-Temperature/dp/B0713XFJ1Q?crid=3GO9H7F6PKWZZ&keywords=solder%2Bsilicone%2Btool%2Bmat&qid=1644975920&sprefix=solder%2Bsilicone%2Btool%2Bmat%2Caps%2C244&sr=8-4&th=1&linkCode=li3&tag=tryorthokey06-20&linkId=be7b1018ce053fe3373c5d5e91a88fcd&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0713XFJ1Q&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B0713XFJ1Q" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a class="btn btn-primary" href="https://amzn.to/3uUOMD4">Buy Now</a>
 
@@ -41,7 +40,6 @@ Keeping your keyboard clean may seem like a drag. The reality is, it's necessary
 
 <strong>Hagibis Cleaning Soft Brush Keyboard Cleaner</strong><br/>
 
-<a href="https://www.amazon.com/Hagibis-Cleaning-Multi-Function-Bluetooth-Earphones/dp/B09JK4YDWM?crid=NLHUU2R49Q7O&keywords=keyboard+brush&qid=1644979480&sprefix=keyboard+brush%2Caps%2C233&sr=8-3&linkCode=li3&tag=tryorthokey06-20&linkId=587a1cdb2acbe08b17dffff9ec349d4b&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09JK4YDWM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B09JK4YDWM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <br/>
 <a class="btn btn-primary" href="https://amzn.to/34KYI7l">Buy Now</a>
 </div>
@@ -49,7 +47,6 @@ Keeping your keyboard clean may seem like a drag. The reality is, it's necessary
 
 <strong>Falcon Dust Compressed Air</strong><br/>
 
-<a href="https://www.amazon.com/Falcon-Compressed-Disposable-Cleaning-DPSJB/dp/B0000AE67M?crid=2S9YBO6VY3EV7&keywords=keyboard+cleaner&qid=1644979532&sprefix=keyboard+cleaner%2Caps%2C104&sr=8-4&linkCode=li3&tag=tryorthokey06-20&linkId=64d790b9b846c8000b9f4d1f9e9b8fcd&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000AE67M&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B0000AE67M" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <br/>
 <a class="btn btn-primary" href="https://amzn.to/3rPA8es">Buy Now</a>
 
@@ -58,7 +55,6 @@ Keeping your keyboard clean may seem like a drag. The reality is, it's necessary
 
 <strong>Dust Cleaning Gel</strong><br/>
 
-<a href="https://www.amazon.com/Gel-Detailing-Universal-Electronics-Calculators/dp/B09BQ4V329?crid=EYU3MLRSCAOR&keywords=keyboard%2Bcleaner&qid=1644979767&sprefix=keyboard%2Bclean%2Caps%2C203&sr=8-5&th=1&linkCode=li3&tag=tryorthokey06-20&linkId=0e1d36891953bb3e6af58349b6988fc7&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09BQ4V329&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B09BQ4V329" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 <br/>
 <a class="btn btn-primary" href="https://amzn.to/3gQJQ9W">Buy Now</a>
 
@@ -75,7 +71,6 @@ Rinse your keycaps and then soak them in warm soapy water for at least 30 minute
 <div class="col-lg-4">
 <strong>Keycap Puller and Brushes</strong><br/>
 
-<a href="https://www.amazon.com/Stainless-Removal-Keyboard-Cleaning-Mechanical/dp/B08TSSJ8Q3?crid=2S1NYP1SY702K&keywords=keycap+puller&qid=1644980894&sprefix=keycap+pulle%2Caps%2C126&sr=8-3&linkCode=li3&tag=tryorthokey06-20&linkId=d63191be0507e10fdf764ff4598b4ad1&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08TSSJ8Q3&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08TSSJ8Q3" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a class="btn btn-primary" href="https://amzn.to/352c2UU">Buy Now</a>
 
@@ -85,7 +80,6 @@ Rinse your keycaps and then soak them in warm soapy water for at least 30 minute
 
 <strong>Microfiber Cleaning Cloths</strong><br/>
 
-<a href="https://www.amazon.com/AmazonBasics-CW190423-24-Pack-Microfiber-Cleaning/dp/B009FUF6DM?crid=1DT5TKNJELYRJ&keywords=microfiber+cleaning+cloth&qid=1644981007&sprefix=microfiber+cleaning+cloth%2Caps%2C106&sr=8-5&linkCode=li3&tag=tryorthokey06-20&linkId=1ac6aa3212f4dcb8688dd45f7fbf52b6&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009FUF6DM&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B009FUF6DM" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /><br/>
 
 <a class="btn btn-primary" href="https://amzn.to/3oQwS0g">Buy Now</a>
 
@@ -125,7 +119,6 @@ The latest version of the Planck keyboard supports hot swappable switches, LEDs,
     Buy on Drop
 </a>
 
-<a href="https://www.amazon.com/dp/B08LX7ZXS4?&linkCode=li3&tag=tryorthokey06-20&linkId=0b7b9faf09aac73db64f301ec3da89ce&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08LX7ZXS4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08LX7ZXS4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 </div>
 <div class="col-lg-6">
@@ -142,7 +135,6 @@ The Preonic keyboard is the Planck's big brother with an extra row of keys for t
     Buy on Drop
 </a>
 
-<a href="https://www.amazon.com/dp/B08L3WKZ73?&linkCode=li3&tag=tryorthokey06-20&linkId=6af0b7506a61073b0723facda319622d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08L3WKZ73&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08L3WKZ73" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 </div>
 </div>

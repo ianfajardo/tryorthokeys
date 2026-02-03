@@ -1,9 +1,9 @@
-import { getAllPostIds } from '../lib/posts';
+import { getSortedPostsData } from '../lib/posts';
 
 function generateSiteMap(posts) {
   const baseUrl = 'https://tryorthokeys.com';
-  
-  // Static pages
+
+  // Static pages (all important routes included for full sitemap coverage)
   const staticPages = [
     '',
     '/keyboards',
@@ -20,8 +20,15 @@ function generateSiteMap(posts) {
     '/kbdcraft',
     '/ymdk-air40',
     '/mechdiy-59',
+    '/worklouder',
+    '/jj40',
+    '/kprepublic-bm40',
+    '/kprepublic-cstc40',
+    '/kprepublic-dna59',
     '/ultimate-guide-to-ortholinear-keyboards',
-    '/posts'
+    '/posts',
+    '/links',
+    '/policies',
   ];
 
   return `<?xml version="1.0" encoding="UTF-8"?>
@@ -59,9 +66,9 @@ function SiteMap() {
 }
 
 export async function getServerSideProps({ res }) {
-  // Get all posts
-  const posts = getAllPostIds();
-  
+  // Get all posts with slug and date for correct lastmod
+  const posts = getSortedPostsData();
+
   // Generate the XML sitemap with the posts data
   const sitemap = generateSiteMap(posts);
 

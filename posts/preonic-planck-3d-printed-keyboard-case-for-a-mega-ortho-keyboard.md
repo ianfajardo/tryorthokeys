@@ -33,7 +33,6 @@ Color me more than impressed and honestly love to see this level of creativity! 
 <a class="btn btn-secondary mr-2" href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&amp;referer=T93XGG">
     Buy on Drop
 </a>
-<p><a href="https://www.amazon.com/dp/B08LX7ZXS4?&amp;linkCode=li3&amp;tag=tryorthokey06-20&amp;linkId=0b7b9faf09aac73db64f301ec3da89ce&amp;language=en_US&amp;ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B08LX7ZXS4&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=tryorthokey06-20&amp;language=en_US"></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B08LX7ZXS4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"></p>
 </div>
 <div class="col-lg-6">
 <h3>Preonic</h3>
@@ -44,6 +43,5 @@ Color me more than impressed and honestly love to see this level of creativity! 
 <a class="btn btn-secondary mr-2" href="https://drop.com/buy/preonic-mechanical-keyboard?utm_source=linkshare&amp;referer=T93XGG">
     Buy on Drop
 </a>
-<p><a href="https://www.amazon.com/dp/B08L3WKZ73?&amp;linkCode=li3&amp;tag=tryorthokey06-20&amp;linkId=6af0b7506a61073b0723facda319622d&amp;language=en_US&amp;ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;ASIN=B08L3WKZ73&amp;Format=_SL250_&amp;ID=AsinImage&amp;MarketPlace=US&amp;ServiceVersion=20070822&amp;WS=1&amp;tag=tryorthokey06-20&amp;language=en_US"></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&amp;language=en_US&amp;l=li3&amp;o=1&amp;a=B08L3WKZ73" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;"></p>
 </div>
 </div>

@@ -1,4 +1,4 @@
-import Head from "next/head";
+import SEOhead from "../../components/SEOhead";
 import Navigation from "../../components/navigation";
 import Footer from "../../components/footer";
 import { getSortedPostsData } from "../../lib/posts";
@@ -18,14 +18,14 @@ export async function getStaticProps() {
 export default function Posts({ allPostsData }) {
   return (
     <div>
-      <Head>
-        <title>Try Ortho Keys - Blog</title>
-        <link rel="icon" href="/favicon.ico" />
-        <meta
-          name="description"
-          content="There are several different companies that offer ortholinear keyboards.  OLKB, KBDFans and many other's sell keyboard such as the Preonic, Planck, NUI40 and Split."
-        />
-      </Head>
+      <SEOhead
+        meta={{
+          title: "Blog",
+          description:
+            "Ortholinear keyboard guides, reviews, and news: Planck, Preonic, OLKB, ortho keycaps, 40% keyboards, and more.",
+          slug: "/posts",
+        }}
+      />
 
       <Navigation />
 
@@ -35,6 +35,9 @@ export default function Posts({ allPostsData }) {
             <div className="col-lg-12">
               <div className="py-3">
                 <h1 className="display-4 font-weight-bolder">Blog</h1>
+                <p className="lead mb-0">
+                  Ortholinear keyboard guides, ortho keycaps, and keyboard news.
+                </p>
               </div>
             </div>
           </div>
@@ -45,32 +48,33 @@ export default function Posts({ allPostsData }) {
         <div className="container">
           <div className="row">
             {allPostsData.map(({ slug, date, title, description, image }) => (
-              <div className="col-lg-6" key={slug}>
-                <div className="mb-5">
-                  <div className="row">
-                    <div className="col-lg-5">
-                      <Link legacyBehavior href={`/posts/${slug}`}>
-                        <a className="d-block">
+              <div className="col-lg-4 col-md-6 mb-4" key={slug}>
+                <Link legacyBehavior href={`/posts/${slug}`}>
+                  <a className="text-decoration-none text-dark">
+                    <div className="card h-100 border shadow-sm">
+                      <div className="card-img-top overflow-hidden" style={{ aspectRatio: "16/10", backgroundColor: "var(--bs-secondary-bg, #e9ecef)" }}>
+                        {image ? (
                           <img
-                            className="img-fluid mb-3"
+                            className="img-fluid w-100 h-100"
                             src={image}
-                            alt="title"
+                            alt={title}
+                            style={{ objectFit: "cover" }}
                           />
-                        </a>
-                      </Link>
-                    </div>
-                    <div className="col-lg-7">
-                      <div className="text-muted ">
-                        <small>
+                        ) : (
+                          <div className="w-100 h-100 d-flex align-items-center justify-content-center text-muted small">
+                            No image
+                          </div>
+                        )}
+                      </div>
+                      <div className="card-body d-flex flex-column">
+                        <small className="text-muted mb-1">
                           <Date dateString={date} />
                         </small>
+                        <h5 className="card-title mb-0">{title}</h5>
                       </div>
-                      <Link legacyBehavior href={`/posts/${slug}`}>
-                        <a className="lead">{title}</a>
-                      </Link>
                     </div>
-                  </div>
-                </div>
+                  </a>
+                </Link>
               </div>
             ))}
           </div>

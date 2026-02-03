@@ -1,4 +1,5 @@
-import Head from "next/head";
+import SEOhead from "../components/SEOhead";
+import { defaultMeta } from "../lib/pageMeta";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 import { getSortedPostsData } from "../lib/posts";
@@ -20,125 +21,51 @@ export async function getStaticProps() {
 export default function Home({ allPostsData }) {
   return (
     <div>
-      <Head>
-        <title>
-          Try Ortho Keys | Ortholinear Keyboards OLKB Planck Preonic Ergodox
-          NIU40 Split Ortholinear Keyboard
-        </title>
-        <link rel="icon" href="/favicon.ico" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta httpEquiv="Content-Language" content="en" />
-        <meta name="language" content="English" />
-        <meta name="robots" content="index, follow" />
-        <link rel="canonical" href="https://www.tryorthokeys.com/" />
-        
-        {/* Primary Meta Tags */}
-        <meta
-          name="title"
-          content="Try Ortho Keys | Ortholinear Keyboards Ortho OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard 40 keyboard"
-        />
-        <meta
-          name="description"
-          content="Ortholinear keyboards are computer keyboards with a grid layout. An ortho keyboard usually has mechanical key switches and programmable keymappings.  Popular products include OLKB Planck and Preonic, Ergodox, NIU40 mini and more."
-        />
-        <meta name="keywords" content="ortholinear keyboards, mechanical keyboards, OLKB, Planck, Preonic, Ergodox, NIU40, split keyboards, programmable keyboards, QMK, VIA, 40% keyboard, compact keyboard" />
-
-        {/* Open Graph / Facebook */}
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.tryorthokeys.com/" />
-        <meta
-          property="og:title"
-          content="Try Ortho Keys | Ortholinear Keyboards Ortho OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard"
-        />
-        <meta
-          property="og:description"
-          content="Ortholinear keyboards are computer keyboards with a grid layout. An ortho keyboard usually has mechanical key switches and programmable keymappings.  Popular products include OLKB Planck and Preonic, Ergodox, NIU40 mini and more."
-        />
-        <meta
-          property="og:image"
-          content="https://tryorthokeys.com/tryorthokeys.jpg"
-        />
-        <meta property="og:image:width" content="1200" />
-        <meta property="og:image:height" content="630" />
-        <meta property="og:site_name" content="Try Ortho Keys" />
-        <meta property="og:locale" content="en_US" />
-
-        {/* Twitter */}
-        <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://www.tryorthokeys.com/" />
-        <meta
-          property="twitter:title"
-          content="Try Ortho Keys | Ortholinear Keyboards Ortho OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard"
-        />
-        <meta
-          property="twitter:description"
-          content="Ortholinear keyboards are computer keyboards with a grid layout. An ortho keyboard usually has mechanical key switches and programmable keymappings.  Popular products include OLKB Planck and Preonic, Ergodox, NIU40 mini and more."
-        />
-        <meta
-          property="twitter:image"
-          content="https://tryorthokeys.com/tryorthokeys.jpg"
-        />
-        <meta property="twitter:creator" content="@tryorthokeys" />
-        <meta property="twitter:site" content="@tryorthokeys" />
-
-        {/* Additional SEO Meta Tags */}
-        <meta name="author" content="Try Ortho Keys" />
-        <meta name="theme-color" content="#007bff" />
-        <meta name="msapplication-TileColor" content="#007bff" />
-        <meta name="apple-mobile-web-app-capable" content="yes" />
-        <meta name="apple-mobile-web-app-status-bar-style" content="default" />
-        <meta name="apple-mobile-web-app-title" content="Try Ortho Keys" />
-
-        {/* Structured Data - CollectionPage */}
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "CollectionPage",
-              "name": "Try Ortho Keys - Ortholinear Keyboards",
-              "description": "Ortholinear keyboards are computer keyboards with a grid layout. An ortho keyboard usually has mechanical key switches and programmable keymappings.",
-              "url": "https://www.tryorthokeys.com/",
-              "mainEntity": {
-                "@type": "ItemList",
-                "name": "Ortholinear Keyboards",
-                "description": "Collection of ortholinear keyboards including OLKB Planck, Preonic, Ergodox, NIU40, and split keyboards",
-                "itemListElement": [
-                  {
-                    "@type": "Product",
-                    "name": "OLKB Planck",
-                    "description": "40% ortholinear keyboard with programmable keymappings",
-                    "url": "https://www.tryorthokeys.com/olkb"
-                  },
-                  {
-                    "@type": "Product", 
-                    "name": "OLKB Preonic",
-                    "description": "60% ortholinear keyboard with programmable keymappings",
-                    "url": "https://www.tryorthokeys.com/olkb"
-                  },
-                  {
-                    "@type": "Product",
-                    "name": "Ergodox",
-                    "description": "Split ortholinear keyboard for ergonomic typing",
-                    "url": "https://www.tryorthokeys.com/split"
-                  }
-                ]
+      <SEOhead
+        title={defaultMeta.title}
+        description={defaultMeta.description}
+        url={defaultMeta.url}
+        image={defaultMeta.image}
+        structuredData={{
+          "@context": "https://schema.org",
+          "@type": "CollectionPage",
+          name: "Try Ortho Keys - Ortholinear Keyboards",
+          description: defaultMeta.description,
+          url: defaultMeta.url,
+          mainEntity: {
+            "@type": "ItemList",
+            name: "Ortholinear Keyboards",
+            description:
+              "Collection of ortholinear keyboards including OLKB Planck, Preonic, Ergodox, NIU40, and split keyboards",
+            itemListElement: [
+              {
+                "@type": "Product",
+                name: "OLKB Planck",
+                description: "40% ortholinear keyboard with programmable keymappings",
+                url: `${defaultMeta.url}/olkb`,
               },
-              "breadcrumb": {
-                "@type": "BreadcrumbList",
-                "itemListElement": [
-                  {
-                    "@type": "ListItem",
-                    "position": 1,
-                    "name": "Home",
-                    "item": "https://www.tryorthokeys.com/"
-                  }
-                ]
-              }
-            })
-          }}
-        />
-      </Head>
+              {
+                "@type": "Product",
+                name: "OLKB Preonic",
+                description: "Preonic keyboard: 60% ortholinear with programmable keymappings",
+                url: `${defaultMeta.url}/olkb`,
+              },
+              {
+                "@type": "Product",
+                name: "Ergodox",
+                description: "Split ortholinear keyboard for ergonomic typing",
+                url: `${defaultMeta.url}/split`,
+              },
+            ],
+          },
+          breadcrumb: {
+            "@type": "BreadcrumbList",
+            itemListElement: [
+              { "@type": "ListItem", position: 1, name: "Home", item: defaultMeta.url },
+            ],
+          },
+        }}
+      />
 
       <Navigation />
 
@@ -174,6 +101,33 @@ export default function Home({ allPostsData }) {
                   Deals
                 </a>
               </div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      {/* What is an ortholinear keyboard? / ortho keyboard - for SEO quick wins */}
+      <div className="section-container bg-light">
+        <div className="container">
+          <div className="row">
+            <div className="col-lg-10 mx-auto">
+              <h2 className="h3 font-weight-bold mb-3">
+                What is an ortholinear keyboard?
+              </h2>
+              <p className="lead mb-2">
+                An <strong>ortholinear keyboard</strong> (or <strong>ortho keyboard</strong>) is a
+                keyboard whose keys are arranged in a straight grid instead of the staggered rows
+                you see on a typical keyboard. Ortholinear keyboards are usually mechanical and
+                programmable, so you can customize keymappings with QMK or VIA.
+              </p>
+              <p className="mb-0">
+                Popular ortholinear keyboards include the{" "}
+                <Link href="/olkb">OLKB Planck and Preonic</Link>, the{" "}
+                <Link href="/ultimate-guide-to-ortholinear-keyboards">
+                  ultimate guide to ortholinear keyboards
+                </Link>{" "}
+                covers more options and how to get started.
+              </p>
             </div>
           </div>
         </div>

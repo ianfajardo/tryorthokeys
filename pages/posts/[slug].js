@@ -2,7 +2,8 @@ import Layout from "../../components/layout";
 import Link from "next/link";
 import { getAllPostIds, getPostData } from "../../lib/posts";
 import DateComponent from "../../components/date";
-import Head from "next/head";
+import SEOhead from "../../components/SEOhead";
+import { defaultMeta } from "../../lib/pageMeta";
 import SpecialDeals from "../../components/specialdeals";
 
 export async function getStaticProps({ params }) {
@@ -23,94 +24,58 @@ export async function getStaticPaths() {
 }
 
 export default function Post({ postData }) {
-  const title = `Try Ortho Keys - ${postData.title}`;
-  const description = postData.description || "Ortholinear keyboards are computer keyboards with a grid layout. Most orthlinear keyboards have mechanical key switches and programmable keymappings.";
-  const image = postData.image ? `https://www.tryorthokeys.com${postData.image}` : "https://www.tryorthokeys.com/planck-2.jpg";
-  const url = `https://www.tryorthokeys.com/posts/${postData.slug}`;
-  const publishedDate = postData.date ? (postData.date instanceof Date ? postData.date.toISOString() : new Date(postData.date).toISOString()) : new Date().toISOString();
+  // Prefer metatitle for SEO when set (keyword-rich); ensure frontmatter title and description include target keyword.
+  const seoTitle = postData.metatitle
+    ? (postData.metatitle.includes("Try Ortho Keys") ? postData.metatitle : `${postData.metatitle} | Try Ortho Keys`)
+    : `${postData.title} | Try Ortho Keys`;
+  const description =
+    postData.description ||
+    "Ortholinear keyboards are computer keyboards with a grid layout. Most ortholinear keyboards have mechanical key switches and programmable keymappings.";
+  const image = postData.image
+    ? `${defaultMeta.url}${postData.image}`
+    : `${defaultMeta.url}/planck-2.jpg`;
+  const url = `${defaultMeta.url}/posts/${postData.slug}`;
+  const publishedDate = postData.date
+    ? postData.date instanceof Date
+      ? postData.date.toISOString()
+      : new Date(postData.date).toISOString()
+    : new Date().toISOString();
   const modifiedDate = new Date().toISOString();
+  const tags = postData.tags && Array.isArray(postData.tags) ? postData.tags : ["Keyboards"];
 
   return (
     <div>
-      <Head>
-        <title>{title}</title>
-        <link rel="icon" href="/favicon.ico" />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="robots" content="index, follow" />
-        <link rel="canonical" href={url} />
-        
-        {/* Primary Meta Tags */}
-        <meta name="title" content={title} />
-        <meta name="description" content={description} />
-        <meta name="keywords" content="ortholinear keyboards, mechanical keyboards, OLKB, Planck, Preonic, Ergodox, programmable keyboards, QMK, VIA, keyboard review" />
-        <meta name="author" content="Try Ortho Keys" />
-        <meta name="article:author" content="Try Ortho Keys" />
-        <meta name="article:published_time" content={publishedDate} />
-        <meta name="article:modified_time" content={modifiedDate} />
-        <meta name="article:section" content="Technology" />
-        <meta name="article:tag" content="Keyboards" />
-
-        {/* Open Graph / Facebook */}
-        <meta property="og:type" content="article" />
-        <meta property="og:url" content={url} />
-        <meta property="og:title" content={title} />
-        <meta property="og:description" content={description} />
-        <meta property="og:image" content={image} />
-        <meta property="og:image:width" content="1200" />
-        <meta property="og:image:height" content="630" />
-        <meta property="og:site_name" content="Try Ortho Keys" />
-        <meta property="og:locale" content="en_US" />
-        <meta property="article:published_time" content={publishedDate} />
-        <meta property="article:modified_time" content={modifiedDate} />
-        <meta property="article:author" content="Try Ortho Keys" />
-        <meta property="article:section" content="Technology" />
-        <meta property="article:tag" content="Keyboards" />
-
-        {/* Twitter */}
-        <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content={url} />
-        <meta property="twitter:title" content={title} />
-        <meta property="twitter:description" content={description} />
-        <meta property="twitter:image" content={image} />
-        <meta property="twitter:creator" content="@tryorthokeys" />
-        <meta property="twitter:site" content="@tryorthokeys" />
-
-        {/* Structured Data - Article */}
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify({
-              "@context": "https://schema.org",
-              "@type": "Article",
-              "headline": postData.title,
-              "description": description,
-              "image": image,
-              "author": {
-                "@type": "Organization",
-                "name": "Try Ortho Keys",
-                "url": "https://tryorthokeys.com"
-              },
-              "publisher": {
-                "@type": "Organization",
-                "name": "Try Ortho Keys",
-                "logo": {
-                  "@type": "ImageObject",
-                  "url": "https://tryorthokeys.com/tryorthokeys.jpg"
-                }
-              },
-              "datePublished": publishedDate,
-              "dateModified": modifiedDate,
-              "mainEntityOfPage": {
-                "@type": "WebPage",
-                "@id": url
-              },
-              "url": url,
-              "articleSection": "Technology",
-              "keywords": "ortholinear keyboards, mechanical keyboards, OLKB, Planck, Preonic, Ergodox, programmable keyboards, QMK, VIA"
-            })
-          }}
-        />
-      </Head>
+      <SEOhead
+        title={seoTitle}
+        description={description}
+        image={image}
+        url={url}
+        type="article"
+        publishedTime={publishedDate}
+        modifiedTime={modifiedDate}
+        section={postData.section || "Technology"}
+        tags={tags}
+        keywords="ortholinear keyboards, mechanical keyboards, OLKB, Planck, Preonic, Ergodox, programmable keyboards, QMK, VIA, keyboard review"
+        structuredData={{
+          "@context": "https://schema.org",
+          "@type": "Article",
+          headline: postData.title,
+          description,
+          image,
+          author: { "@type": "Organization", name: "Try Ortho Keys", url: defaultMeta.url },
+          publisher: {
+            "@type": "Organization",
+            name: "Try Ortho Keys",
+            logo: { "@type": "ImageObject", url: `${defaultMeta.url}/tryorthokeys.jpg` },
+          },
+          datePublished: publishedDate,
+          dateModified: modifiedDate,
+          mainEntityOfPage: { "@type": "WebPage", "@id": url },
+          url,
+          articleSection: postData.section || "Technology",
+          keywords: "ortholinear keyboards, mechanical keyboards, OLKB, Planck, Preonic, Ergodox, programmable keyboards, QMK, VIA",
+        }}
+      />
       <Layout>
         <div className="section-container bg-primary text-white">
           <div className="container">

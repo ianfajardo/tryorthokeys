@@ -1,4 +1,5 @@
-import Head from "next/head";
+import SEOhead from "../components/SEOhead";
+import { defaultMeta } from "../lib/pageMeta";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 import Table from "react-bootstrap/Table";
@@ -8,52 +9,16 @@ import Sticky from "react-stickynode";
 export default function Keycaps() {
   return (
     <div>
-      <Head>
-        <title>
-          Ortholinear Keycap Set List | OLKB Planck Preonic NIU40 NIUmini ortho
-          keyboard ortho keycaps budget keycaps Drop KBDfans Amazon keycaps
-          mechanical keyboard
-        </title>
-        <link rel="icon" href="/favicon.ico" />
-        <meta
-          name="title"
-          content="Ortholinear Keycap Set List | OLKB Planck Preonic NIU40 NIUmini ortho keyboard ortho keycaps budget keycaps Drop KBDfans Amazon keycaps mechanical keyboard"
-        />
-        <meta
-          name="description"
-          content="Here is a list of ortholinear keycaps availble for your ortho keyboard such as the OLKB Planck or Preonic. Ortho Keycaps can be an option along with the standard layouts for more common mechanical keyboards."
-        />
-        <meta
-          property="og:image"
-          content="https://www.tryorthokeys.com/ortho-keycaps.png"
-        />
-        <meta
-          property="og:title"
-          content="Ortholinear Keycap Set List | OLKB Planck Preonic NIU40 NIUmini ortho keyboard ortho keycaps budget keycaps Drop KBDfans Amazon keycaps mechanical keyboard"
-        />
-        <meta
-          property="og:description"
-          content="Here is a list of ortholinear keycaps availble for your ortho keyboard such as the OLKB Planck or Preonic. Ortho Keycaps can be an option along with the standard layouts for more common mechanical keyboards."
-        />
-        <meta property="og:type" content="website" />
-        <meta property="twitter:card" content="summary_large_image" />
-        <meta
-          property="twitter:url"
-          content="https://www.tryorthokeys.com/keycaps/"
-        />
-        <meta
-          property="twitter:title"
-          content="Ortholinear Keycap Set List | OLKB Planck Preonic NIU40 NIUmini ortho keyboard ortho keycaps budget keycaps Drop KBDfans Amazon keycaps mechanical keyboard"
-        />
-        <meta
-          property="twitter:description"
-          content="Here is a list of ortholinear keycaps availble for your ortho keyboard such as the OLKB Planck or Preonic. Ortho Keycaps can be an option along with the standard layouts for more common mechanical keyboards."
-        />
-        <meta
-          property="twitter:image"
-          content="https://www.tryorthokeys.com/ortho-keycaps.png"
-        />
-      </Head>
+      <SEOhead
+        meta={{
+          title: "Ortholinear Keycaps",
+          description:
+            "Ortholinear keycaps and ortho keycap sets for Planck, Preonic, NIU40, and other ortho keyboards. Budget and premium options from Drop, KBDfans, Amazon.",
+          image: `${defaultMeta.url}/ortho-keycaps.png`,
+          slug: "/keycaps",
+        }}
+        keywords="ortholinear keycaps, ortho keycaps, Planck keycaps, Preonic keycaps, ortho keyboard keycaps, DSA, keycap sets"
+      />
 
       <Navigation />
 

@@ -1,4 +1,5 @@
-import Head from "next/head";
+import SEOhead from "../components/SEOhead";
+import { defaultMeta } from "../lib/pageMeta";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 
@@ -138,25 +139,16 @@ var keyboards = [
 export default function Keyboards() {
   return (
     <div>
-      <Head>
-        <title>
-          Try Ortho Keys | Ortholinear Keyboards Ortho Keyboards OLKB Planck
-          Preonic Ergodox NIU40 Split Ortholinear Keyboard
-        </title>
-        <link rel="icon" href="/favicon.ico" />
-        <meta
-          name="title"
-          content="Try Ortho Keys | Ortholinear Keyboards Ortho Keyboards OLKB Planck Preonic Ergodox NIU40 Split Ortholinear Keyboard"
-        />
-        <meta
-          name="description"
-          content="There are several different companies that offer ortholinear keyboards.  OLKB, KBDFans and more sell keyboard such as the Preonic, Planck, NUI40 and Split."
-        />
-        <meta
-          property="og:image"
-          content="https://www.tryorthokeys.com/plank-preonic.jpg"
-        />
-      </Head>
+      <SEOhead
+        meta={{
+          title: "Ortholinear Keyboards",
+          description:
+            "Compare ortholinear keyboards: OLKB Planck and Preonic, ID75, Work Louder Creator Board, YMDK Air40, KPrepublic, and more. Budget and premium ortho keyboards with QMK and VIA.",
+          image: `${defaultMeta.url}/plank-preonic.jpg`,
+          slug: "/keyboards",
+        }}
+        keywords="ortholinear keyboards, ortho keyboard, Planck, Preonic, OLKB, 40% keyboard, programmable keyboard, QMK, VIA"
+      />
 
       <Navigation />
 
@@ -169,10 +161,11 @@ export default function Keyboards() {
                   Ortholinear keyboards{" "}
                 </h1>
                 <p className="lead">
-                  There are a plethora of keyboards to choose from and below are
+                  There are a plethora of ortholinear keyboards to choose from and below are
                   our recommendations on getting started. It can be a fun DIY
                   project to assemble your own ortho keyboard, add your own
-                  switches, and program your own keymappings.
+                  switches, and program your own keymappings. New to ortho keyboards? Read our{" "}
+                  <a href="/ultimate-guide-to-ortholinear-keyboards" className="text-white font-weight-bold"><u>ultimate guide to ortholinear keyboards</u></a>.
                 </p>
               </div>
             </div>

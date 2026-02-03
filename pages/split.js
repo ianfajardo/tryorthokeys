@@ -1,4 +1,5 @@
-import Head from "next/head";
+import SEOhead from "../components/SEOhead";
+import { defaultMeta } from "../lib/pageMeta";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 import Nav from "react-bootstrap/Nav";
@@ -6,30 +7,16 @@ import Nav from "react-bootstrap/Nav";
 export default function Split() {
   return (
     <div>
-      <Head>
-        <title>
-          Split Keyboards - Ortholinear Split keyboards for better ergonomics |
-          split keyboards ortho split keyboard keyboard split in half Kenesis
-          Advantage2 Ergodox
-        </title>
-        <link rel="icon" href="/favicon.ico" />
-        <meta
-          name="title"
-          content="Split Keyboards - Ortholinear Split keyboards for better ergonomics | split keyboards ortho split keyboard keyboard split in half Kenesis Advantage2 Ergodox"
-        />
-        <meta
-          name="description"
-          content="You can usually spot a Split keyboard if it has two
-          seperate PCBs connected by a cable. Split keyboards
-          literally split the keyboard in half for better
-          ergonomics and encourage better touch typing. The ones
-          mentioned here are only but a few."
-        />
-        <meta
-          property="og:image"
-          content="https://www.tryorthokeys.com/montsinger.webp"
-        />
-      </Head>
+      <SEOhead
+        meta={{
+          title: "Split Keyboards",
+          description:
+            "Split keyboards and ortholinear split options for better ergonomics: Kinesis Advantage2, Ergodox, Montsinger Rebound. Two halves, better touch typing and wrist angle.",
+          image: `${defaultMeta.url}/montsinger.webp`,
+          slug: "/split",
+        }}
+        keywords="split keyboards, ortholinear split keyboard, ergonomic keyboard, Kinesis Advantage2, Ergodox, split keyboard"
+      />
 
       <Navigation />
 
@@ -98,22 +85,6 @@ export default function Split() {
                   </a>
                 </div>
                 <div className="col-lg-4">
-                  <a
-                    href="https://www.amazon.com/Kinesis-Advantage2-Ergonomic-Keyboard-KB600/dp/B01KR1C5PY?dchild=1&keywords=ergodox&link_code=qs&qid=1633572132&sr=8-8&linkCode=li3&tag=tryorthokey06-20&linkId=4833c6cd4b32fd50c0ede5e210da6cd7&language=en_US&ref_=as_li_ss_il"
-                    target="_blank"
-                  >
-                    <img
-                      border="0"
-                      src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01KR1C5PY&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
-                    />
-                  </a>
-                  <img
-                    src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B01KR1C5PY"
-                    width="1"
-                    height="1"
-                    border="0"
-                    alt=""
-                  />
                 </div>
               </div>
             </div>

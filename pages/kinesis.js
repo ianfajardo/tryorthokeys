@@ -159,22 +159,6 @@ export default function Kinesis() {
                   </a>
                 </div>
                 <div className="col-lg-3">
-                  <a
-                    href="https://www.amazon.com/Freestyle2-Ergonomic-Keyboard-Standard-Separation/dp/B00CMALD3E?crid=WDYS7RSXE2S3&keywords=kinesis+keyboard&qid=1646880843&sprefix=kinesis+keyboard%2Caps%2C74&sr=8-6&linkCode=li3&tag=tryorthokey06-20&linkId=65cc5ef6682bb3dfa790dccd397ca041&language=en_US&ref_=as_li_ss_il"
-                    target="_blank"
-                  >
-                    <img
-                      border="0"
-                      src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00CMALD3E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
-                    />
-                  </a>
-                  <img
-                    src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B00CMALD3E"
-                    width="1"
-                    height="1"
-                    border="0"
-                    alt=""
-                  />
                 </div>
               </div>
             </div>
@@ -214,22 +198,6 @@ export default function Kinesis() {
                   </a>
                 </div>
                 <div className="col-lg-3">
-                  <a
-                    href="https://www.amazon.com/Freestyle2-Ergonomic-Keyboard-Standard-Separation/dp/B00CMALD3E?crid=WDYS7RSXE2S3&keywords=kinesis+keyboard&qid=1646880843&sprefix=kinesis+keyboard%2Caps%2C74&sr=8-6&linkCode=li3&tag=tryorthokey06-20&linkId=65cc5ef6682bb3dfa790dccd397ca041&language=en_US&ref_=as_li_ss_il"
-                    target="_blank"
-                  >
-                    <img
-                      border="0"
-                      src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00CMALD3E&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US"
-                    />
-                  </a>
-                  <img
-                    src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B00CMALD3E"
-                    width="1"
-                    height="1"
-                    border="0"
-                    alt=""
-                  />
                 </div>
               </div>
             </div>

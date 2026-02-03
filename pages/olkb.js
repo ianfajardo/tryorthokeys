@@ -35,13 +35,15 @@ export default function Olkb() {
                 <h2 className="font-weight-light">Planck & Preonic</h2>
                 <p style={{ fontSize: "20px" }}>
                   OLKB is the producer of the highly popular Planck & Preonic
-                  Ortholinear keyboards. The owner,{" "}
+                  ortholinear keyboards. The owner,{" "}
                   <a href="https://github.com/jackhumbert">Jack Humbert</a>, is
                   also the founder of QMK. These keyboards are sold on the{" "}
                   <a href="https://olkb.com">OLKB website</a> and frequently on{" "}
                   <a href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG">
                     Drop.com
                   </a>
+                  . For a full overview of ortholinear keyboards and how to choose an ortho keyboard, see our{" "}
+                  <a href="/ultimate-guide-to-ortholinear-keyboards">ultimate guide to ortholinear keyboards</a>.
                 </p>
 
                 <a

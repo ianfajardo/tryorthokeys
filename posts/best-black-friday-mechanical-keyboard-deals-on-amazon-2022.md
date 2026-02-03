@@ -23,7 +23,6 @@ Keychron has a strong reputation in the mechanical keyboard community for their 
 
 **20% Off**: <strike>$209.99</strike> **$167.99**
 
-<a href="https://www.amazon.com/Keychron-Q2-Mechanical-Programmable-Hot-swappable/dp/B09JS77KR9?crid=IIDQI9F0L36G&keywords=keychron+q&qid=1669321471&sprefix=keychron+q%2Caps%2C73&sr=8-6&ufe=app_do%3Aamzn1.fos.fa474cd8-6dfc-4bad-a280-890f5a4e2f90&linkCode=li3&tag=tryorthokey06-20&linkId=892714605087e425d00f3ac9476fe925&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09JS77KR9&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B09JS77KR9" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 - 65% Keyboard Layaout 
 - Aluminium Case with a rotary knob
@@ -42,7 +41,6 @@ Keychron has a strong reputation in the mechanical keyboard community for their 
 
 **15% Off**: <strike>$79.99</strike> **$67.99**
 
-<a href="https://www.amazon.com/Keychron-Ultra-Slim-Wireless-Bluetooth-Mechanical/dp/B0B48ZVQH5?crid=1NZG1JMFY79WK&keywords=keychron&psr=EY17&qid=1669322213&s=black-friday&sprefix=keychron+%2Cblack-friday%2C138&sr=1-7-spons&ufe=app_do%3Aamzn1.fos.fa474cd8-6dfc-4bad-a280-890f5a4e2f90&sp_csd=d2lkZ2V0TmFtZT1zcF9tdGY&psc=1&m=A2ZFQ8CYGWLPP0&SPES=1&linkCode=li3&tag=tryorthokey06-20&linkId=8ae4e7b50afafbd00909357a6b3e1b4a&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0B48ZVQH5&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B0B48ZVQH5" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 - Low-Profile and slim design
 - 75% keyboard layout with 84 keys
@@ -59,7 +57,6 @@ Keychron has a strong reputation in the mechanical keyboard community for their 
 
 **20% Off**: <strike>$179.99</strike> **$143.99**
 
-<a href="https://www.amazon.com/dp/B09DSD5D33?_encoding=UTF8&psc=1&linkCode=li3&tag=tryorthokey06-20&linkId=7393622bfb4f82a11a69251deab7537e&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09DSD5D33&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B09DSD5D33" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 - 60% Keyboard Layaout 
 - Aluminium Case with a rotary knob
@@ -79,7 +76,6 @@ Keychron has a strong reputation in the mechanical keyboard community for their 
 
 **20% Off**: <strike>$129.99</strike> **$103.99**
 
-<a href="https://www.amazon.com/Air75-Mechanical-Connection-Compatible-Systems-Gateron/dp/B09KG6MSVH?crid=K6H35UAZFYMR&keywords=mechanical%2Bkeyboards&psr=EY17&qid=1669323185&s=black-friday&sprefix=mechanical%2Bkeyboard%2Cblack-friday%2C49&sr=1-21&ufe=app_do%3Aamzn1.fos.fa474cd8-6dfc-4bad-a280-890f5a4e2f90&th=1&linkCode=li3&tag=tryorthokey06-20&linkId=d2fd7181fa5befa550336f54b8d33745&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B09KG6MSVH&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B09KG6MSVH" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 - 75% Keyboard 84-key Low-profile Layout
 - Bluetooth wireless with up to 48 hours of battery life
@@ -93,7 +89,6 @@ Keychron has a strong reputation in the mechanical keyboard community for their 
 
 **20% Off**: <strike>$139.00</strike> **$111.20**
 
-<a href="https://www.amazon.com/Ergonomic-Mechanical-Keyboard-Wireless-Customized-Programmable/dp/B0BF992X9W?crid=OKRAJ264QSU6&keywords=akko%2Balice&qid=1669323388&sprefix=akko%2Balice%2Caps%2C71&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.fa474cd8-6dfc-4bad-a280-890f5a4e2f90&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1&linkCode=li3&tag=tryorthokey06-20&linkId=5cf4cee9f1728691bfeb618660157ce5&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0BF992X9W&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B0BF992X9W" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 - Ergonomic split Alice style 65% keyboard
 - Wireless and wired connection with 2.4GHz Adapter

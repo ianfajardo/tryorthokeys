@@ -34,7 +34,6 @@ If you've been browsing for keycaps, you've probably encountered many that are a
 
 <strong>YMDK DSA Profile 9009 Keyset</strong><br/>
 
-<a href="https://www.amazon.com/YMDK-Profile-Keyset-Mechanical-Keyboard/dp/B07WV4NSQZ?crid=1B40NTHY938L8&keywords=ymdk+keycaps&qid=1644991128&sprefix=ymdk+keycaps%2Caps%2C212&sr=8-8&linkCode=li3&tag=tryorthokey06-20&linkId=fb88cda09f7a18866703edb5b0a78159&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07WV4NSQZ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B07WV4NSQZ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a class="btn btn-primary" href="https://amzn.to/3GQGMFt">Buy Now</a>
 
@@ -43,7 +42,6 @@ If you've been browsing for keycaps, you've probably encountered many that are a
 
 <strong>YMDK 125 Keys ANSI ISO Keyset</strong><br/>
 
-<a href="https://www.amazon.com/YMDK-Suitable-Mechanical-Keyboard-Standard/dp/B07Q87PZXN?crid=2EUFMGT8G7Q3K&keywords=ymdk+keycaps&qid=1644991025&sprefix=ymdk+keycaps%2Caps%2C276&sr=8-5&linkCode=li3&tag=tryorthokey06-20&linkId=094c90dad59d5df2abc6c410c64f4c6b&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07Q87PZXN&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B07Q87PZXN" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a class="btn btn-primary" href="https://amzn.to/3HPdDMa">Buy Now</a>
 
@@ -52,7 +50,6 @@ If you've been browsing for keycaps, you've probably encountered many that are a
 
 <strong>YMDK Carbon Keycaps</strong><br/>
 
-<a href="https://www.amazon.com/YMDK-Profile-Keycaps-Mechanical-Keyboard/dp/B07CYVY5NJ?keywords=ymdk%2Bkeycaps&link_code=qs&qid=1644990593&sr=8-3&th=1&linkCode=li3&tag=tryorthokey06-20&linkId=bd62fa7a5a9fdf1b879d3420ecda2a8a&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07CYVY5NJ&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B07CYVY5NJ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 <a class="btn btn-primary" href="https://amzn.to/3HSZKwl">Buy Now</a>
 
@@ -117,7 +114,6 @@ The latest version of the Planck keyboard supports hot swappable switches, LEDs,
     Buy on Drop
 </a>
 
-<a href="https://www.amazon.com/dp/B08LX7ZXS4?&linkCode=li3&tag=tryorthokey06-20&linkId=0b7b9faf09aac73db64f301ec3da89ce&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08LX7ZXS4&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08LX7ZXS4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 </div>
 <div class="col-lg-6">
@@ -134,7 +130,6 @@ The Preonic keyboard is the Planck's big brother with an extra row of keys for t
     Buy on Drop
 </a>
 
-<a href="https://www.amazon.com/dp/B08L3WKZ73?&linkCode=li3&tag=tryorthokey06-20&linkId=6af0b7506a61073b0723facda319622d&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08L3WKZ73&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=tryorthokey06-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=tryorthokey06-20&language=en_US&l=li3&o=1&a=B08L3WKZ73" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 </div>
 </div>

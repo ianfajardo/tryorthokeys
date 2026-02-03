@@ -12,7 +12,6 @@ image: /gateron-yellow-blog-post.png
 ---
 [Gateron Yellow](https://amzn.to/3Yue4mB) switches have quickly become a popular choice among mechanical keyboard enthusiasts. If you're considering upgrading your keyboard or building a new one, here are some reasons why you should get Gateron Yellow switches.
 
-<a href="https://www.amazon.com/Gateron-KS-9-Mechanical-Type-Switch/dp/B07WZNZ7KF?keywords=gateron%2Byellow%2Bswitches&link_code=qs&qid=1651113309&sr=8-4&th=1&linkCode=li3&tag=trymechkeys-20&linkId=3d804d07d31c46edcf8a23b32fc6d25f&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07WZNZ7KF&Format=_SL250_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=trymechkeys-20&language=en_US" ></a><img src="https://ir-na.amazon-adsystem.com/e/ir?t=trymechkeys-20&language=en_US&l=li3&o=1&a=B07WZNZ7KF" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
 
 ## Smooth and Responsive
 
