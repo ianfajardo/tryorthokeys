@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "validate:seo": "node scripts/validate-seo-urls.js"
+    "validate:seo": "node scripts/validate-seo-urls.js",
+    "list:stale-posts": "node scripts/list-stale-posts.js"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.35",

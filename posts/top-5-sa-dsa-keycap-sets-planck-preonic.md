@@ -2,7 +2,7 @@
 title: Top 5 SA and DSA Keycap Sets for Your Planck and Preonic
 metatitle: Top 5 SA and DSA Keycap Sets for Your Planck and Preonic | ortholinear keycaps ortho keycaps
 description: The best SA and DSA profile keycap sets for your Planck, Preonic, or other ortholinear keyboard. From classic Acute to sculpted SA and uniform DSA.
-date: 2026-02-03
+date: 2025-02-03
 image: /blog/top-sa-dsa-keycaps-planck-preonic.jpg
 tags: keycaps, keycaps-guide
 ---

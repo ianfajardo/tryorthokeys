@@ -40,7 +40,12 @@ export default function Post({ postData }) {
       ? postData.date.toISOString()
       : new Date(postData.date).toISOString()
     : new Date().toISOString();
-  const modifiedDate = new Date().toISOString();
+  const modifiedDate = postData.modified
+    ? (postData.modified instanceof Date
+        ? postData.modified.toISOString()
+        : new Date(postData.modified).toISOString())
+    : new Date().toISOString();
+  const showLastUpdated = postData.modified && publishedDate !== modifiedDate;
   const tags = postData.tags && Array.isArray(postData.tags) ? postData.tags : ["Keyboards"];
 
   return (
@@ -88,6 +93,11 @@ export default function Post({ postData }) {
                   {postData.title}
                 </h1>
                 <DateComponent dateString={postData.date} />
+                {showLastUpdated && (
+                  <small className="d-block text-white-50 mt-1">
+                    Last updated: <DateComponent dateString={postData.modified} />
+                  </small>
+                )}
               </div>
             </div>
           </div>
