@@ -93,7 +93,7 @@ var keyboards = [
     price: "$49.99",
     description:
       "A budget ortholinear from MicroCenter that features hot-swappable switches and a rgb lighting.",
-    image: "https://tryorthokeys.com/inland-47.jpg",
+    image: "https://www.tryorthokeys.com/inland-47.jpg",
     buyNow: "https://sovrn.co/1p0itng",
   },
   {

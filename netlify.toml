@@ -1,3 +1,22 @@
+# Canonical host: force HTTPS and www (301 permanent)
+[[redirects]]
+    from = "http://tryorthokeys.com/*"
+    to = "https://www.tryorthokeys.com/:splat"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "https://tryorthokeys.com/*"
+    to = "https://www.tryorthokeys.com/:splat"
+    status = 301
+    force = true
+
+[[redirects]]
+    from = "http://www.tryorthokeys.com/*"
+    to = "https://www.tryorthokeys.com/:splat"
+    status = 301
+    force = true
+
 [[redirects]]
     from = "/blog/*"
     to = "/post/*"
@@ -5,6 +24,7 @@
 [[redirects]]
     from = "/bm40"
     to = "/kprepublic-bm40"
+    status = 301
     force = true
 
 [build]

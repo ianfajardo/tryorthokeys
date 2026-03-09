@@ -3,7 +3,7 @@ import Head from "next/head";
 export default function SEO({
   title,
   description,
-  image = "https://tryorthokeys.com/tryorthokeys.jpg",
+  image = "https://www.tryorthokeys.com/tryorthokeys.jpg",
   url,
   type = "website",
   publishedTime,
@@ -15,9 +15,9 @@ export default function SEO({
   noindex = false,
   structuredData,
 }) {
-  const siteUrl = "https://tryorthokeys.com";
+  const siteUrl = "https://www.tryorthokeys.com";
   const fullUrl = url ? `${siteUrl}${url}` : siteUrl;
-  const img = image || "https://tryorthokeys.com/tryorthokeys.jpg";
+  const img = image || "https://www.tryorthokeys.com/tryorthokeys.jpg";
   const fullImage = typeof img === "string" && img.startsWith("http") ? img : `${siteUrl}${img}`;
   
   const structuredDataDefault = {
@@ -37,7 +37,7 @@ export default function SEO({
       "name": "Try Ortho Keys",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://tryorthokeys.com/tryorthokeys.jpg"
+        "url": "https://www.tryorthokeys.com/tryorthokeys.jpg"
       }
     },
     ...(publishedTime && { "datePublished": publishedTime }),

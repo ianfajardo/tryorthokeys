@@ -1,7 +1,7 @@
 import { getSortedPostsData } from '../lib/posts';
 
 function generateSiteMap(posts) {
-  const baseUrl = 'https://tryorthokeys.com';
+  const baseUrl = 'https://www.tryorthokeys.com';
 
   // Static pages (all important routes included for full sitemap coverage)
   const staticPages = [

@@ -24,7 +24,7 @@ export default function Custom404() {
         <meta property="og:url" content="https://www.tryorthokeys.com/404" />
         <meta property="og:title" content="404 - Page Not Found | Try Ortho Keys" />
         <meta property="og:description" content="The page you were looking for could not be found. Explore our ortholinear keyboards, keycaps, and guides to find what you need." />
-        <meta property="og:image" content="https://tryorthokeys.com/tryorthokeys.jpg" />
+        <meta property="og:image" content="https://www.tryorthokeys.com/tryorthokeys.jpg" />
         <meta property="og:site_name" content="Try Ortho Keys" />
 
         {/* Twitter */}
@@ -32,7 +32,7 @@ export default function Custom404() {
         <meta property="twitter:url" content="https://www.tryorthokeys.com/404" />
         <meta property="twitter:title" content="404 - Page Not Found | Try Ortho Keys" />
         <meta property="twitter:description" content="The page you were looking for could not be found. Explore our ortholinear keyboards, keycaps, and guides to find what you need." />
-        <meta property="twitter:image" content="https://tryorthokeys.com/tryorthokeys.jpg" />
+        <meta property="twitter:image" content="https://www.tryorthokeys.com/tryorthokeys.jpg" />
       </Head>
 
       <Navigation />
