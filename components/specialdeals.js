@@ -7,7 +7,7 @@ export default function SpecialDeals({ col }) {
       <div className={col ? col : "col-lg-6"}>
         <Link
           id="kbdcraft"
-          href="https://shln.top/ESlV1ACH"
+          href="https://kbdcraft.store/?ref=TRYORTHOKEYS"
           className="card ele-2 mb-4 bg-white kbdcraft-deal"
         >
           <div className="px-5 py-4">

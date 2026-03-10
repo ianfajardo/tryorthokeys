@@ -39,7 +39,7 @@ export default function Olkb() {
                 </p>
 
                 <a
-                  href="https://kbdcraft.store/collections/keyboard?source_type=sales_plugin_af&slt=sales_plugin_af&referral_code=KFGP7S8BBX4B"
+                  href="https://kbdcraft.store/collections/keyboard?ref=TRYORTHOKEYS"
                   className="mt-3 mr-3 btn btn-primary"
                 >
                   View KBDcraft Keyboards
@@ -61,7 +61,7 @@ export default function Olkb() {
                   <h2 className="font-weight-bold text-primary">
                     Israfel – #7 Ergo-Split 50% Keyboard
                   </h2>
-                  <a href="https://kbdcraft.store/products/israfel?source_type=sales_plugin_af&slt=sales_plugin_af&referral_code=KFGP7S8BBX4B">
+                  <a href="https://kbdcraft.store/products/israfel?_pos=1&_sid=afc7d5709&_ss=r&ref=TRYORTHOKEYS">
                     <img
                       className="img-fluid mb-2"
                       src="/kbdcraft-israfel.webp"
@@ -83,7 +83,7 @@ export default function Olkb() {
                     adjustable halves that operate in perfect synchrony.
                   </p>
                   <a
-                    href="https://kbdcraft.store/products/israfel?source_type=sales_plugin_af&slt=sales_plugin_af&referral_code=KFGP7S8BBX4B"
+                    href="https://kbdcraft.store/products/israfel?_pos=1&_sid=afc7d5709&_ss=r&ref=TRYORTHOKEYS"
                     className="btn btn-primary mr-2 mb-2"
                   >
                     Buy Now
@@ -95,7 +95,7 @@ export default function Olkb() {
                   </h3>
                   <a
                     style={{ textDecoration: "underline" }}
-                    href="https://kbdcraft.store/products/adam2.0?source_type=sales_plugin_af&slt=sales_plugin_af&referral_code=KFGP7S8BBX4B"
+                    href="https://kbdcraft.store/products/adam2.0?ref=TRYORTHOKEYS"
                   >
                     Adam X
                   </a>
@@ -107,7 +107,7 @@ export default function Olkb() {
                   <hr />
                   <a
                     style={{ textDecoration: "underline" }}
-                    href="https://kbdcraft.store/products/sachiel?source_type=sales_plugin_af&slt=sales_plugin_af&referral_code=KFGP7S8BBX4B"
+                    href="https://kbdcraft.store/products/sachiel?ref=TRYORTHOKEYS"
                   >
                     Sachiel
                   </a>
@@ -119,7 +119,7 @@ export default function Olkb() {
                   <hr />
                   <a
                     style={{ textDecoration: "underline" }}
-                    href="https://kbdcraft.store/products/lilith?source_type=sales_plugin_af&slt=sales_plugin_af&referral_code=KFGP7S8BBX4B"
+                    href="https://kbdcraft.store/products/lilith?ref=TRYORTHOKEYS"
                   >
                     Kit Lilith Q
                   </a>
@@ -129,7 +129,7 @@ export default function Olkb() {
                   </p>
                   <hr />
                   <a
-                    href="https://kbdcraft.store/collections/keyboard?source_type=sales_plugin_af&slt=sales_plugin_af&referral_code=KFGP7S8BBX4B"
+                    href="https://kbdcraft.store/collections/keyboard?ref=TRYORTHOKEYS"
                     className="btn btn-primary"
                   >
                     View More Keyboards

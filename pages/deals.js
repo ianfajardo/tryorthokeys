@@ -124,7 +124,7 @@ export default function Keycaps() {
                                 code at checkout: <strong>tryorthokeys</strong>
                               </td>
                               <td>
-                                <a href="https://shln.top/ESlV1ACH">Link</a>
+                                <a href="https://kbdcraft.store/?ref=TRYORTHOKEYS">Link</a>
                               </td>
                             </tr>
                             <tr>

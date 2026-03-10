@@ -19,7 +19,7 @@ var keyboards = [
     description:
       "The Israfel keyboard features a low-profile system and an exclusive 50% ortho layout built into a unique building block-inspired architecture and compatible with LEGO. Available in black and white, it's a great affordable starter full ortho kit with included switches and keycaps.",
     image: "https://www.tryorthokeys.com/kbdcraft-israfel.webp",
-    buyNow: "https://kbdcraft.store/products/16067128766732540406491690?source_type=sales_plugin_af&slt=sales_plugin_af&referral_code=KFGP7S8BBX4B",
+    buyNow: "https://kbdcraft.store/products/israfel?_pos=1&_sid=afc7d5709&_ss=r&ref=TRYORTHOKEYS",
     learnMore: "/kbdcraft",
   },
   {
@@ -30,6 +30,16 @@ var keyboards = [
     image: "https://www.tryorthokeys.com/work-louder-creator-board.jpg",
     buyNow: "https://collabs.shop/7w1zmm",
     learnMore: "/worklouder",
+  },
+  {
+    name: "Keychron Q15 Max",
+    price: "$199.99 - $229.99",
+    description:
+      "Keychron's first ortholinear: full metal, 2.4G wireless + Bluetooth 5.1, QMK/Keychron Launcher, double-gasket design, two programmable knobs, split spacebar, XDA PBT keycaps. Available as fully assembled or barebone.",
+    image:
+      "https://cdn.shopify.com/s/files/1/0059/0630/1017/files/Keychron-Q15-Max-QMK-Ortholinear-Wireless-Custom-Mechanical-Keyboard-Aluminum-Black-Fully-Assembled-Knob-for-Mac-Windows-Linux-Gateron-Jupiter-Red.jpg?v=1719303271",
+    buyNow:
+      "https://www.keychron.com/products/keychron-q15-max-qmk-wireless-custom-mechanical-keyboard?ref=tryorthokeys",
   },
   {
     name: "KPrepublic CSTC40",
@@ -179,11 +189,13 @@ export default function Keyboards() {
             <div id={index} className="col-lg-3">
               <div className="keyboard-card">
                 <div className="card">
-                  <img
-                    className="card-img-top"
-                    src={keyboard.image}
-                    alt={keyboard.name}
-                  />
+                  <a href={keyboard.buyNow}>
+                    <img
+                      className="card-img-top"
+                      src={keyboard.image}
+                      alt={keyboard.name}
+                    />
+                  </a>
                   <div className="card-body">
                     <h2 className="card-title">{keyboard.name}</h2>
                     <p className="card-text">{keyboard.description}</p>
