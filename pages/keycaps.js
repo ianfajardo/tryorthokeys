@@ -212,7 +212,7 @@ export default function Keycaps() {
                     <div className="row align-items-center">
                       <div className="col-lg-12">
                         <h2 className="font-weight-bold text-primary">
-                          <a href="https://drop.com/?referer=T93XGG">YMDK</a>{" "}
+                          <a href="https://ymdkey.com/search?q=ortholinear&options%5Bprefix%5D=last&sca_ref=3163375.1C4wKHXQtf">YMDK</a>{" "}
                           Keycaps
                         </h2>
                         <p>YDMK offers budget friendly keycap sets!</p>
@@ -755,14 +755,14 @@ export default function Keycaps() {
                     <div className="row align-items-center">
                       <div className="col-lg-12">
                         <h2 className="font-weight-bold text-primary">
-                          <a href="https://kbdfans.com/r?id=rq0n5d">KBDfans</a>
+                          <a href="https://kbdfans.com/r?id=ifs0u0">KBDfans</a>
                         </h2>
                         <p>
                           KBDfans offers a plethora of keyboards and accessories
                           including the ortholinear keyboard the NIU40.
                         </p>
                         <a
-                          href="https://kbdfans.com/r?id=rq0n5d"
+                          href="https://kbdfans.com/r?id=ifs0u0"
                           className="btn btn-primary mr-2 mb-2"
                         >
                           KBDfans Website
@@ -788,7 +788,7 @@ export default function Keycaps() {
                               <td>R2 DA Profile 40V2</td>
                               <td>DA</td>
                               <td>
-                                <a href="https://kbdfans.com/r?id=a584gd">
+                                <a href="https://kbdfans.com/r?id=ifs0u0">
                                   <img
                                     style={{ maxWidth: "160px" }}
                                     src="https://cdn.shopify.com/s/files/1/1473/3902/products/2_ed9114a6-6036-4f11-ba06-0f208b534be6_900x.png?v=1584436755"
@@ -797,7 +797,7 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://kbdfans.com/r?id=a584gd">
+                                <a href="https://kbdfans.com/r?id=ifs0u0">
                                   View Now
                                 </a>
                               </td>
@@ -806,7 +806,7 @@ export default function Keycaps() {
                               <td>R2 Enjoypbt Grayscale Keycaps</td>
                               <td>Cherry</td>
                               <td>
-                                <a href="https://kbdfans.com/r?id=81qd7t">
+                                <a href="https://kbdfans.com/r?id=ifs0u0">
                                   <img
                                     style={{ maxWidth: "160px" }}
                                     src="https://cdn.shopify.com/s/files/1/1473/3902/products/40_e627bde9-3581-4678-8569-f569b64a5e4a_900x.jpg?v=1649383848"
@@ -815,7 +815,7 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://kbdfans.com/r?id=81qd7t">
+                                <a href="https://kbdfans.com/r?id=ifs0u0">
                                   View now
                                 </a>
                               </td>
@@ -880,7 +880,7 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://kbdfans.com/r?id=a584gd">
+                                <a href="https://sovrn.co/sb7810p">
                                   View Now
                                 </a>
                               </td>
@@ -1140,24 +1140,6 @@ export default function Keycaps() {
                           </thead>
                           <tbody>
                             <tr>
-                              <td>MBK Glow</td>
-                              <td>Choc (low-profile)</td>
-                              <td>
-                                <a href="https://boardsource.xyz/store/610ae434e32a6c051281c3fd">
-                                  <img
-                                    style={{ maxWidth: "160px" }}
-                                    src="https://boardsource.imgix.net/fbc5e6e5-7c95-4d71-9e20-95c88e5f8346.jpg"
-                                    alt="MBK Glow"
-                                  />
-                                </a>
-                              </td>
-                              <td>
-                                <a href="https://boardsource.xyz/store/610ae434e32a6c051281c3fd">
-                                  View Now
-                                </a>
-                              </td>
-                            </tr>
-                            <tr>
                               <td>GMK N9 Ortholinear Add-on Kit</td>
                               <td>Cherry</td>
                               <td>
@@ -1176,19 +1158,19 @@ export default function Keycaps() {
                               </td>
                             </tr>
                             <tr>
-                              <td>Ergodox EZ Glow Keycaps</td>
-                              <td>OEM</td>
+                              <td>KBDcraft Keycap LP / DSS</td>
+                              <td>LP / DSS</td>
                               <td>
-                                <a href="https://ergodox-ez.com/collections/accessories/products/a-set-of-keycaps?variant=12940956270647">
+                                <a href="https://kbdcraft.store/collections/keycaps?ref=TRYORTHOKEYS">
                                   <img
                                     style={{ maxWidth: "160px" }}
-                                    src="https://cdn.shopify.com/s/files/1/1152/3264/products/keycaps_1024x1024.jpg?v=1493390613"
-                                    alt="Ergodox EZ Glow Keycaps"
+                                    src="/kbdcraft-israfel.webp"
+                                    alt="KBDcraft ortholinear keycaps"
                                   />
                                 </a>
                               </td>
                               <td>
-                                <a href="https://ergodox-ez.com/collections/accessories/products/a-set-of-keycaps?variant=12940956270647">
+                                <a href="https://kbdcraft.store/collections/keycaps?ref=TRYORTHOKEYS">
                                   View Now
                                 </a>
                               </td>
