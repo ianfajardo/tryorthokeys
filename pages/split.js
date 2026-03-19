@@ -27,7 +27,7 @@ export default function Split() {
               <div className="py-3">
                 <h1 className="display-4 font-weight-bolder">Split</h1>
                 <p style={{ fontSize: "20px" }}>
-                  You can usually spot a split keyboard if it has two seperate
+                  You can usually spot a split keyboard if it has two separate
                   PCBs connected by a cable. Split keyboards literally half the
                   keyboard to better the ergonomics and encourage better touch
                   typing. The ones mentioned here are only a few.
@@ -153,7 +153,7 @@ export default function Split() {
                     customizable with space in the middle of the keyboard for
                     additional switches and support for a rotary encoder. The
                     keyboard isn't available pre-built and the parts must be
-                    purchased seperately.
+                    purchased separately.
                   </p>
                   <a
                     href="https://store.montsinger.net/products/rebound"

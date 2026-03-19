@@ -79,27 +79,30 @@ export default function Home({ allPostsData }) {
                   src="/try-ortho-keys-logo.png"
                   alt="Try Ortho Keys, Ortholinear Keyboards"
                 />
-                <h1 className="display-1 font-weight-bolder d-none">
-                  Try Ortho Keys!
+                <h1 className="h2 font-weight-bolder text-primary pt-2 mb-2">
+                  Ortholinear Keyboards, 40% Boards, and Setup Guides
                 </h1>
-                <h2 className="text-primary font-weight-bold py-2">
-                  Programmable and Compact
+                <h2 className="h5 font-weight-bold" style={{ color: "#d6dde5" }}>
+                  Compact, programmable keyboards for people who like to customize.
                 </h2>
                 <p className="py-3" style={{ fontSize: "20px" }}>
-                  Ortholinear keyboards are computer keyboards with their keys
-                  arranged in a grid layout. It can be a fun DIY project to
-                  assemble your own keyboard, add your own switches, and program
-                  your own keymappings.
+                  Ortholinear keyboards use a straight grid layout instead of
+                  the staggered rows found on a typical keyboard. People like
+                  them for their smaller footprint, cleaner keycap
+                  compatibility, and the freedom to build layers and shortcuts
+                  around the way they actually type.
                 </p>
-                <a
-                  href="/keyboards"
-                  className="mt-2 mr-3 btn btn-primary btn-lg"
-                >
-                  Keyboards
-                </a>
-                <a href="/deals" className="mt-2 btn btn-secondary btn-lg">
-                  Deals
-                </a>
+                <div className="button-cluster mt-2">
+                  <a
+                    href="/keyboards"
+                    className="btn btn-primary btn-lg"
+                  >
+                    Keyboards
+                  </a>
+                  <a href="/deals" className="btn btn-secondary btn-lg">
+                    Deals
+                  </a>
+                </div>
               </div>
             </div>
           </div>
@@ -145,17 +148,16 @@ export default function Home({ allPostsData }) {
           </div>
         </div>
 
-        <div className="container-xxl">
+        <div className="container-xxl card-link-grid">
           <div className="row mb-5">
             {allPostsData.map(({ slug, date, title, description, image }) => (
-              <div className="col-lg-4" key={slug}>
-                <div className="mb-5">
-                  <div className="card">
+              <div className="col-lg-4 col-md-6 mb-4" key={slug}>
+                  <div className="card h-100">
                     <div className="card-img-top">
                       <Link legacyBehavior href={`/posts/${slug}`}>
                         <a className="lead">
                           <img
-                            className="img-fluid mb-3"
+                            className="img-fluid"
                             src={image}
                             alt={title}
                           />
@@ -173,7 +175,6 @@ export default function Home({ allPostsData }) {
                       </Link>
                     </div>
                   </div>
-                </div>
               </div>
             ))}
           </div>
@@ -208,7 +209,11 @@ export default function Home({ allPostsData }) {
                 </a>
               </div>
               <div className="col-lg-6">
-                <img src="/preonic-1.jpg" alt="" className="img-fluid mb-2" />
+                <img
+                  src="/preonic-1.jpg"
+                  alt="Preonic ortholinear keyboard"
+                  className="img-fluid mb-2"
+                />
               </div>
             </div>
           </div>
@@ -238,25 +243,27 @@ export default function Home({ allPostsData }) {
               <p className="lead">
                 Most ortholinear keyboards available allow you to fully
                 customize your key mappings and can even play music if your
-                keyboard has speakers! Most utilize VIA and open-source QMK
-                firmware making easier than ever to setup your keyboard the way
+                keyboard has speakers. Most support VIA and open-source QMK
+                firmware, making it easier than ever to set up your keyboard the way
                 you like.
               </p>
 
-              <a href="/configure" className=" mr-3 btn btn-secondary">
-                Configure your Planck or Preonic
-              </a>
+              <div className="button-cluster">
+                <a href="/configure" className="btn btn-secondary">
+                  Configure your Planck or Preonic
+                </a>
 
-              <a
-                href="https://www.caniusevia.com/"
-                className=" mr-3 btn btn-secondary"
-              >
-                Learn about VIA
-              </a>
+                <a
+                  href="https://www.caniusevia.com/"
+                  className="btn btn-secondary"
+                >
+                  Learn about VIA
+                </a>
 
-              <a href="https://qmk.fm/" className="btn btn-outline-secondary">
-                Learn about QMK
-              </a>
+                <a href="https://qmk.fm/" className="btn btn-outline-secondary">
+                  Learn about QMK
+                </a>
+              </div>
             </div>
           </div>
         </div>
@@ -291,7 +298,7 @@ export default function Home({ allPostsData }) {
               <div className="col-lg-3">
                 <div className="card ele-3">
                   <div className="card-body">
-                    <h3>OLKB Plank & Preonic</h3>
+                    <h3>OLKB Planck & Preonic</h3>
                     <img
                       className="img-fluid my-3"
                       src="/plank-preonic.jpg"
@@ -343,7 +350,7 @@ export default function Home({ allPostsData }) {
                     />
                     <p className="mt-3">
                       You can usually spot a split keyboard if it has two
-                      seperate PCBs connected by a cable. Split keyboards
+                      separate PCBs connected by a cable. Split keyboards
                       literally half the keyboard to better the ergonomics and
                       encourage better touch typing. The ones mentioned here are
                       only a few.

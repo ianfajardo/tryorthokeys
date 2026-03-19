@@ -44,7 +44,7 @@ export default function Posts({ allPostsData }) {
         </div>
       </div>
 
-      <div id="posts" className="section-container ">
+      <div id="posts" className="section-container card-link-grid">
         <div className="container">
           <div className="row">
             {allPostsData.map(({ slug, date, title, description, image }) => (
@@ -52,13 +52,12 @@ export default function Posts({ allPostsData }) {
                 <Link legacyBehavior href={`/posts/${slug}`}>
                   <a className="text-decoration-none text-dark">
                     <div className="card h-100 border shadow-sm">
-                      <div className="card-img-top overflow-hidden" style={{ aspectRatio: "16/10", backgroundColor: "var(--bs-secondary-bg, #e9ecef)" }}>
+                      <div className="card-img-top">
                         {image ? (
                           <img
                             className="img-fluid w-100 h-100"
                             src={image}
                             alt={title}
-                            style={{ objectFit: "cover" }}
                           />
                         ) : (
                           <div className="w-100 h-100 d-flex align-items-center justify-content-center text-muted small">

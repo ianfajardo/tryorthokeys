@@ -1,57 +1,66 @@
+import fs from 'fs';
+import path from 'path';
 import { getSortedPostsData } from '../lib/posts';
+
+function getLastModified(relativePath) {
+  const fullPath = path.join(process.cwd(), relativePath);
+  return fs.statSync(fullPath).mtime.toISOString();
+}
 
 function generateSiteMap(posts) {
   const baseUrl = 'https://www.tryorthokeys.com';
 
   // Static pages (all important routes included for full sitemap coverage)
   const staticPages = [
-    '',
-    '/keyboards',
-    '/keycaps',
-    '/deals',
-    '/configure',
-    '/olkb',
-    '/id75',
-    '/split',
-    '/kinesis',
-    '/niu40',
-    '/koolertron',
-    '/gizmo-engineering-gk6',
-    '/kbdcraft',
-    '/ymdk-air40',
-    '/mechdiy-59',
-    '/worklouder',
-    '/jj40',
-    '/kprepublic-bm40',
-    '/kprepublic-cstc40',
-    '/kprepublic-dna59',
-    '/ultimate-guide-to-ortholinear-keyboards',
-    '/posts',
-    '/links',
-    '/policies',
+    { page: '', source: 'pages/index.js' },
+    { page: '/keyboards', source: 'pages/keyboards.js' },
+    { page: '/keycaps', source: 'pages/keycaps.js' },
+    { page: '/deals', source: 'pages/deals.js' },
+    { page: '/configure', source: 'pages/configure.js' },
+    { page: '/olkb', source: 'pages/olkb.js' },
+    { page: '/id75', source: 'pages/id75.js' },
+    { page: '/split', source: 'pages/split.js' },
+    { page: '/kinesis', source: 'pages/kinesis.js' },
+    { page: '/niu40', source: 'pages/niu40.js' },
+    { page: '/koolertron', source: 'pages/koolertron.js' },
+    { page: '/gizmo-engineering-gk6', source: 'pages/gizmo-engineering-gk6.js' },
+    { page: '/kbdcraft', source: 'pages/kbdcraft.js' },
+    { page: '/ymdk-air40', source: 'pages/ymdk-air40.js' },
+    { page: '/mechdiy-59', source: 'pages/mechdiy-59.js' },
+    { page: '/worklouder', source: 'pages/worklouder.js' },
+    { page: '/jj40', source: 'pages/jj40.js' },
+    { page: '/kprepublic-bm40', source: 'pages/kprepublic-bm40.js' },
+    { page: '/kprepublic-cstc40', source: 'pages/kprepublic-cstc40.js' },
+    { page: '/kprepublic-dna59', source: 'pages/kprepublic-dna59.js' },
+    { page: '/ultimate-guide-to-ortholinear-keyboards', source: 'pages/ultimate-guide-to-ortholinear-keyboards.js' },
+    { page: '/posts', source: 'pages/posts/index.js' },
+    { page: '/links', source: 'pages/links.js' },
+    { page: '/policies', source: 'pages/policies.js' },
   ];
 
   return `<?xml version="1.0" encoding="UTF-8"?>
    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
      ${staticPages
-       .map((page) => {
+       .map(({ page, source }) => {
          const priority = page === '' ? '1.0' : page === '/keyboards' || page === '/posts' ? '0.9' : '0.8';
          const changefreq = page === '' ? 'daily' : page === '/posts' ? 'weekly' : 'monthly';
          return `
        <url>
            <loc>${baseUrl}${page}</loc>
-           <lastmod>${new Date().toISOString()}</lastmod>
+           <lastmod>${getLastModified(source)}</lastmod>
            <changefreq>${changefreq}</changefreq>
            <priority>${priority}</priority>
        </url>`;
        })
        .join('')}
      ${posts
-       .map(({ slug, date }) => {
+       .filter(({ noindex }) => !noindex)
+       .map(({ slug, date, modified }) => {
+         const lastmod = modified || date;
          return `
        <url>
            <loc>${baseUrl}/posts/${slug}</loc>
-           <lastmod>${date ? (date instanceof Date ? date.toISOString() : new Date(date).toISOString()) : new Date().toISOString()}</lastmod>
+           <lastmod>${lastmod ? (lastmod instanceof Date ? lastmod.toISOString() : new Date(lastmod).toISOString()) : new Date().toISOString()}</lastmod>
            <changefreq>monthly</changefreq>
            <priority>0.7</priority>
        </url>`;

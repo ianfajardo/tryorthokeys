@@ -89,7 +89,7 @@ export default function Configuring() {
               <div className="mt-3">
                 <div className="card">
                   <div className="card-body">
-                    <h3>OLKB Plank &amp; Preonic</h3>
+                    <h3>OLKB Planck &amp; Preonic</h3>
                     <img
                       className="img-fluid my-3"
                       src="/plank-preonic.jpg"
@@ -126,9 +126,12 @@ export default function Configuring() {
 
                   <h3>1. Create your Keymap File</h3>
                   <p>
-                    You can set up your keymap file using the QMK Configuator
-                    for either the <a href="">planck</a> or{" "}
-                    <a href="">preonic</a>. Using the keyboard and layout
+                    You can set up your keymap file using the QMK Configurator
+                    for either the{" "}
+                    <a href="https://config.qmk.fm/#/planck/rev6/LAYOUT_ortho_4x12">Planck</a>{" "}
+                    or{" "}
+                    <a href="https://config.qmk.fm/#/preonic/rev3/LAYOUT_ortho_5x12">Preonic</a>.
+                    Using the keyboard and layout
                     dropdowns you can choose the correct version matching your
                     keyboard. Adjust your keymapping by clicking on a key on the
                     visual representation of your keyboard and then on any of
@@ -165,15 +168,15 @@ export default function Configuring() {
                     <a href="https://github.com/qmk/qmk_toolbox/releases">
                       QMK Toolbox
                     </a>{" "}
-                    application. This application with recognize your keyboard
-                    once yout put it in DFU mode and you will use it to upload
+                    application. This application will recognize your keyboard
+                    once you put it in DFU mode and you will use it to upload
                     the new keymap onto the keyboard.
                   </p>
 
                   <h3>3. Put Your Keyboard into DFU (Bootloader) Mode</h3>
                   <p>
-                    Plug your keyboard into your computer and at press the RESET
-                    button on the bottom of they keyboard. Your computer should
+                    Plug your keyboard into your computer and press the RESET
+                    button on the bottom of the keyboard. Your computer should
                     recognize the keyboard and should be ready for you to flash
                     the new keymap onto it.
                   </p>
@@ -186,7 +189,7 @@ export default function Configuring() {
                     </a>{" "}
                     and your keyboard should be recognized by the application.
                     Under the local file dropdown, locate and click on the .bin
-                    file you created in QMK Configuator. Click the{" "}
+                    file you created in QMK Configurator. Click the{" "}
                     <strong>flash</strong> button to flash the file to your
                     keyboard. When the process is done, unplug your keyboard,
                     plug it back in, and enjoy your new keymapping!

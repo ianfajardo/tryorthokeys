@@ -2,8 +2,8 @@
 title: Best Black Friday Mechanical Keyboard Deals on Amazon 2022
 metatitle: Best Black Friday Mechanical Keyboard Deals on Amazon 2022  | Cyber
   Monday Mechanical Keyboards Deals
-description: Get the best Black Friday deals on mechanical keyboards in time for
-  Cyber Monday by shopping on Amazon.
+description: "Get the best Black Friday deals on mechanical keyboards in time for Cyber Monday by shopping on Amazon."
+noindex: true
 date: 2022-11-24T20:22:46.130Z
 image: /blackfriday-2022-mechanical-keyboards.jpg
 ---

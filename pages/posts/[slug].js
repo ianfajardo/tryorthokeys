@@ -44,7 +44,7 @@ export default function Post({ postData }) {
     ? (postData.modified instanceof Date
         ? postData.modified.toISOString()
         : new Date(postData.modified).toISOString())
-    : new Date().toISOString();
+    : publishedDate;
   const showLastUpdated = postData.modified && publishedDate !== modifiedDate;
   const tags = postData.tags && Array.isArray(postData.tags) ? postData.tags : ["Keyboards"];
 
@@ -61,6 +61,7 @@ export default function Post({ postData }) {
         section={postData.section || "Technology"}
         tags={tags}
         keywords="ortholinear keyboards, mechanical keyboards, OLKB, Planck, Preonic, Ergodox, programmable keyboards, QMK, VIA, keyboard review"
+        noindex={Boolean(postData.noindex)}
         structuredData={{
           "@context": "https://schema.org",
           "@type": "Article",

@@ -8,21 +8,23 @@ export default function SpecialDeals({ col }) {
         <Link
           id="kbdcraft"
           href="https://kbdcraft.store/?ref=TRYORTHOKEYS"
-          className="card ele-2 mb-4 bg-white kbdcraft-deal"
+          className="card ele-2 mb-4 bg-white kbdcraft-deal h-100"
         >
-          <div className="px-5 py-4">
+          <div className="px-5 py-4 h-100">
             <div className="row align-items-center">
-              <div className="col-lg-12">
+              <div className="col-lg-12 d-flex flex-column h-100">
                 <img width="160" src="/kbdcraft-logo.png" alt="KBDCraft" />
                 <p>
-                  Save <strong>20%</strong> on KBDcraft’s brick-built LEGO-like
-                  keyboards with our exclusive coupon:{" "}
-                  <strong style={{ "text-decoration": "underline" }}>
+                  Save <strong>20%</strong> on KBDcraft&apos;s brick-built
+                  keyboard kits with our exclusive coupon:{" "}
+                  <strong style={{ textDecoration: "underline" }}>
                     tryorthokeys
                   </strong>{" "}
                   at checkout.
                 </p>
-                <button className="btn btn-sm btn-primary">Learn More</button>
+                <span className="btn btn-sm btn-primary mt-auto align-self-start">
+                  Learn More
+                </span>
               </div>
             </div>
           </div>
@@ -32,15 +34,16 @@ export default function SpecialDeals({ col }) {
         <a
           href="https://fkcaps.com/custom?a=tryorthokeys"
           id="FKcaps"
-          className="card ele-2 mb-4 bg-primary fkcaps-deal"
+          className="card ele-2 mb-4 bg-primary fkcaps-deal h-100"
         >
-          <div className="px-5 py-4">
+          <div className="px-5 py-4 h-100">
             <div className="row align-items-center">
-              <div className="col-lg-12 text-light">
+              <div className="col-lg-12 text-light d-flex flex-column h-100">
                 <div className="d-flex align-items-center">
                   <img
                     className="mr-3"
                     src="/fkcaps.jpg"
+                    alt="FKcaps"
                     style={{ width: "40px", height: "auto" }}
                   />
                   <div
@@ -52,10 +55,12 @@ export default function SpecialDeals({ col }) {
                 </div>
                 <p style={{ lineHeight: "1.1" }}>
                   Use our link for <strong>10% off</strong> custom keycaps at
-                  FKcaps. Choose from various layouts, fonts, and styles with
+                  FKcaps. Choose from different layouts, fonts, and styles with
                   their easy customizer.
                 </p>
-                <button className="btn btn-sm btn-light">Learn More</button>
+                <span className="btn btn-sm btn-light mt-auto align-self-start">
+                  Learn More
+                </span>
               </div>
             </div>
           </div>
