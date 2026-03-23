@@ -1,7 +1,6 @@
 import Head from "next/head";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
-import Table from "react-bootstrap/Table";
 import Nav from "react-bootstrap/Nav";
 import Sticky from "react-stickynode";
 
@@ -10,17 +9,16 @@ export default function Worklouder() {
     <div>
       <Head>
         <title>
-          Work Louder | Modular keyboards for digital creators | 60% keyboard
-          ortholinear keyboard ortho keyboard
+          Work Louder XYZ Work Board r2 | Split 40% keyboard for creators
         </title>
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="title"
-          content="Work Louder | Modular keyboards for digital creators | 60% keyboard ortholinear keyboard ortho keyboard"
+          content="Work Louder XYZ Work Board r2 | Split 40% keyboard for creators"
         />
         <meta
           name="description"
-          content="The Work Louder Creator Board is a modular, ortholinear keyboard for the creative who types all day long - writers, coders, business owners, and more.  It's designed to be highly customizable, and can change with your needs."
+          content="The Work Louder XYZ Work Board r2 is an Alice-inspired split 40% keyboard kit built for creators. It is currently in production for April 2026 and available to pre-order."
         />
       </Head>
 
@@ -33,17 +31,30 @@ export default function Worklouder() {
               <div className="py-3">
                 <h1 className="display-4 font-weight-bolder">Work Louder</h1>
                 <p className="lead" style={{ fontSize: "27px" }}>
-                  Work Louder is a company building keyboards with innovative
-                  features designed to make things easier for creatives. The Creator Board is a modular ortholinear keyboard—learn more about{" "}
-                  <a href="/ultimate-guide-to-ortholinear-keyboards" className="text-white font-weight-bold"><u>ortho keyboards</u></a>{" "}
+                  Work Louder builds keyboards with a more playful,
+                  creator-friendly industrial design than most of the ortho
+                  market. The current board we recommend here is the{" "}
+                  <strong>XYZ Work Board r2</strong>, an Alice-inspired split
+                  40% keyboard kit that is currently{" "}
+                  <strong>in production for April 2026</strong>. Learn more
+                  about{" "}
+                  <a
+                    href="/ultimate-guide-to-ortholinear-keyboards"
+                    className="text-white font-weight-bold"
+                  >
+                    <u>ortho keyboards</u>
+                  </a>{" "}
                   and our full lineup in our{" "}
-                  <a href="/keyboards" className="text-white font-weight-bold"><u>keyboards guide</u></a>.
+                  <a href="/keyboards" className="text-white font-weight-bold">
+                    <u>keyboards guide</u>
+                  </a>
+                  .
                 </p>
                 <a
-                  href="https://collabs.shop/7w1zmm"
+                  href="https://collabs.shop/d8agoj"
                   className="mt-3 btn btn-primary mr-2"
                 >
-                  Buy Now
+                  Pre-order XYZ Work Board r2
                 </a>
               </div>
             </div>
@@ -69,8 +80,8 @@ export default function Worklouder() {
               className="py-2"
             >
               <Nav.Item as="li">
-                <Nav.Link className="text-white" href="#creator-board">
-                  Creator Board
+                <Nav.Link className="text-white" href="#xyz-work-board-r2">
+                  XYZ Work Board r2
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li">
@@ -79,13 +90,8 @@ export default function Worklouder() {
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li">
-                <Nav.Link className="text-white" href="#photos">
-                  Photos
-                </Nav.Link>
-              </Nav.Item>
-              <Nav.Item as="li">
-                <Nav.Link className="text-white" href="#videos">
-                  Videos
+                <Nav.Link className="text-white" href="#legacy-work-louder">
+                  Legacy Work Louder
                 </Nav.Link>
               </Nav.Item>
             </Nav>
@@ -93,54 +99,59 @@ export default function Worklouder() {
         </div>
       </Sticky>
 
-      <div className="section-container" id="creator-board">
+      <div className="section-container" id="xyz-work-board-r2">
         <div className="container">
-          <div className="row">
+          <div className="row align-items-center">
             <div className="col-lg-6">
-              <h2>Creator Board</h2>
+              <h2>XYZ Work Board r2</h2>
               <p>
-                The Creator Board is an innovative modular design keyboard that can be configured to suit individual preferences. This is a customizable keyboard (customizable in terms of keys, orientation, modules, and size), which means you can create a personally tailored setup to fit your needs.
+                The XYZ Work Board r2 is Work Louder&apos;s new Alice-inspired
+                split 40% keyboard kit. It keeps the brand&apos;s playful
+                hardware style, but shifts the lineup toward a more compact
+                split board that still feels built for shortcuts, creative
+                workflows, and distinctive desk setups.
+              </p>
+              <p>
+                As of March 23, 2026, Work Louder lists it as{" "}
+                <strong>in production for April 2026</strong>, so this is a
+                pre-order rather than an in-stock board.
               </p>
               <ul>
-                <li>Cusomizable removable modules</li>
-                <li>Up to 6 rotary knobs</li>
-                <li>236 programmable keys across 4 key layers</li>
-                <li>VIA and QMK configurarable to customize all keys</li>
-                <li>60% layout</li>
+                <li>Alice-inspired split 40% layout</li>
+                <li>Choc V2 low-profile magnetic switches</li>
+                <li>Magnetic tenting system</li>
+                <li>Compact keyboard kit aimed at creative workflows</li>
+                <li>Currently in production for April 2026</li>
               </ul>
               <a
-                href="https://collabs.shop/7w1zmm"
+                href="https://collabs.shop/d8agoj"
                 className="mt-3 btn btn-primary mr-2"
               >
-                Buy Now
+                Pre-order Now
               </a>
             </div>
             <div className="col-lg-6">
               <img
                 className="img-fluid"
-                src="creator-board/work-louder-creator-board-keycaps.jpg"
-                alt="work louder creator board"
+                src="/work-louder-xyz-work-board-r2.png"
+                alt="Work Louder XYZ Work Board r2"
               />
             </div>
           </div>
         </div>
       </div>
 
-      <div className="section-container " id="creator-micro">
+      <div className="section-container" id="creator-micro">
         <div className="container">
           <div className="row">
-            <div className="col-lg-6">
-              <img
-                className="img-fluid"
-                src="/work-louder-creator-board-switches.jpg"
-                alt="work louder creator board"
-              />
-            </div>
-            <div className="col-lg-6">
+            <div className="col-lg-8">
               <h2>Creator Micro</h2>
               <p>
-                Recently announced, the Creator Micro is a smaller, macro
-                keyboard with a similar design as their Creator Board.
+                The Creator Micro is still the smaller Work Louder option if
+                you want a dedicated macro pad instead of a full keyboard. It
+                makes the most sense for stream controls, creative app
+                shortcuts, and editing workflows where you want a second
+                programmable surface next to your main board.
               </p>
               <a
                 href="https://collabs.shop/yroph0"
@@ -153,97 +164,30 @@ export default function Worklouder() {
         </div>
       </div>
 
-      <div className="section-container" id="photos">
-        <div className="container-fluid">
-          <div className="row">
-            <div className="col-lg-12 mb-3">
-              <h2>Photos</h2>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-lg-4">
-              <img
-                src="/creator-board/work-louder-creator-board-bag.jpg"
-                className="img-fluid"
-              />
-            </div>
-            <div className="col-lg-4">
-              <img
-                src="/creator-board/work-louder-creator-board-packaging-keycaps.jpg"
-                className="img-fluid"
-              />
-            </div>
-            <div className="col-lg-4">
-              <img
-                src="/creator-board/work-louder-creator-board-packaging.jpg"
-                className="img-fluid"
-              />
-            </div>
-          </div>
-          <div className="row mt-4">
-            <div className="col-lg-4">
-              <img
-                src="/creator-board/work-louder-creator-board-switches.jpg"
-                className="img-fluid"
-              />
-            </div>
-            <div className="col-lg-4">
-              <img
-                src="/creator-board/work-louder-creator-board-keycaps.jpg"
-                className="img-fluid"
-              />
-            </div>
-            <div className="col-lg-4">
-              <img
-                src="/creator-board/work-louder-creator-board.jpg"
-                className="img-fluid"
-              />
-            </div>
-          </div>
-        </div>
-      </div>
-
-      <div className="section-container" id="videos">
+      <div className="section-container bg-light" id="legacy-work-louder">
         <div className="container">
           <div className="row">
-            <div className="col-lg-12">
-              <h2>Videos</h2>
+            <div className="col-lg-8">
+              <h2>What happened to the Creator Board?</h2>
+              <p>
+                The older Work Louder Creator Board appears to be out of stock
+                at the time of this update. Because of that, we removed the old
+                Creator Board buy links on Try Ortho Keys and now point readers
+                to the current Work Louder lineup instead.
+              </p>
+              <p className="mb-0">
+                If you specifically want a current Work Louder product, the
+                best place to start is the XYZ Work Board r2 above, followed by
+                the Creator Micro if you want a dedicated macro pad.
+              </p>
             </div>
-          </div>
-          <div className="row">
-            <div className="col-lg-12">
-              <div className="usa-embed-container">
-                <iframe
-                  src="https://www.youtube.com/embed/GH8f0UpX8CE"
-                  frameBorder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowFullScreen
-                ></iframe>
-              </div>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-lg-12">
-              <div className="usa-embed-container">
-                <iframe
-                  src="https://www.youtube.com/embed/ATpmty4Leto"
-                  frameBorder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowFullScreen
-                ></iframe>
-              </div>
-            </div>
-          </div>
-          <div className="row">
-            <div className="col-lg-12">
-              <div className="usa-embed-container">
-                <iframe
-                  src="https://www.youtube.com/embed/OyC12A24Sag"
-                  frameBorder="0"
-                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                  allowFullScreen
-                ></iframe>
-              </div>
+            <div className="col-lg-4">
+              <a
+                href="https://collabs.shop/d8agoj"
+                className="btn btn-primary mt-3 mt-lg-0"
+              >
+                See Current Work Louder Board
+              </a>
             </div>
           </div>
         </div>
@@ -255,8 +199,8 @@ export default function Worklouder() {
             <div className="col-lg-12">
               <h2>Read Our Blog</h2>
               <p className="lead">
-                Catch up on our blog for the latest guides & news for all your
-                ortholinear keyboard needs!
+                Catch up on our blog for the latest guides and news for all your
+                ortholinear keyboard needs.
               </p>
               <a href="/posts" className="btn btn-primary my-2">
                 Learn More

@@ -21,7 +21,9 @@ Features:
 - VIA and QMK configurarable to customize all keys
 - 60% layout
 
-<a class="btn btn-primary" href="https://collabs.shop/7w1zmm">Buy Now</a>
+> Update March 2026: the Creator Board appears to be out of stock. For the current Work Louder keyboard, see the [XYZ Work Board r2 page](/worklouder).
+
+<a class="btn btn-primary" href="/worklouder">See the latest Work Louder board</a>
 
 </div>
 <div class="col-lg-6">
@@ -83,7 +85,7 @@ Even if you already have a keyboard you like, Work Louder is working on a microp
 
 If you're a photographer, video editor or video game designer, the Creator Board can help you make creating easier with its efficient workflow. It's an all-in-one package and you don't need to have more than one keypad. It's portable and compact, perfect for editing on the go.
 
-<a class="btn btn-primary mr-3" href="https://collabs.shop/7w1zmm">Buy Now</a>
+<a class="btn btn-primary mr-3" href="/worklouder">See the latest Work Louder board</a>
 
 <a href="/worklouder" class="btn btn-secondary">Learn More</a>
 

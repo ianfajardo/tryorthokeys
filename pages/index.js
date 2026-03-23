@@ -364,18 +364,17 @@ export default function Home({ allPostsData }) {
               <div className="col-lg-3">
                 <div className="card ele-3">
                   <div className="card-body">
-                    <h3>Work Louder: Creator Board</h3>
+                    <h3>Work Louder: XYZ Work Board r2</h3>
                     <img
                       className="img-fluid"
-                      src="/creator-board/work-louder-creator-board.jpg"
-                      alt="Work Louder Creator Board"
+                      src="/work-louder-xyz-work-board-r2.png"
+                      alt="Work Louder XYZ Work Board r2"
                     />
                     <p className="mt-3">
-                      The Creator Board is an innovative modular design keyboard
-                      that can be configured to suit individual preferences.
-                      This is a customizable keyboard (customizable in terms of
-                      keys, orientation, modules, and size), which means you can
-                      create a personally tailored setup to fit your needs.
+                      Work Louder&apos;s current board is the XYZ Work Board r2,
+                      an Alice-inspired split 40% keyboard kit aimed at creators
+                      who want a distinctive desk setup. It is currently in
+                      production for April 2026.
                     </p>
                     <a href="/worklouder" className="btn btn-secondary mt-3">
                       Learn More

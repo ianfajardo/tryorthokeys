@@ -27,7 +27,7 @@ export default function Ultimateguide({ keycapPostData, switchPostData }) {
   const description =
     "Learn about ortholinear keyboards and ortho keyboards: benefits, how to choose, Planck and Preonic keyboard options, ortholinear keycaps, and how to make the switch.";
   const url = `${defaultMeta.url}/ultimate-guide-to-ortholinear-keyboards`;
-  const image = `${defaultMeta.url}/creator-board/work-louder-creator-board-diy.jpg`;
+  const image = `${defaultMeta.url}/work-louder-xyz-work-board-r2.png`;
 
   return (
     <div>
@@ -313,23 +313,18 @@ export default function Ultimateguide({ keycapPostData, switchPostData }) {
               </a>
             </div>
             <div className="col-lg-4">
-              <h3>Work Louder: Creator Board</h3>
+              <h3>Work Louder: XYZ Work Board r2</h3>
               <img
                 className="img-fluid my-3"
-                src="/work-louder-creator-board.jpg"
-                alt="work louder creator board"
+                src="/work-louder-xyz-work-board-r2.png"
+                alt="Work Louder XYZ Work Board r2"
               />
               <p>
                 Chances are you've seen this ortholinear keyboard from Work
-                Louder all over Instagram and TikTok. The Creator Board is an
-                innovative modular design keyboard that can be configured to
-                suit individual preferences. This is a customizable keyboard
-                (customizable in terms of keys, orientation, modules, and size),
-                which means you can create a personally tailored setup to fit
-                your needs. Additional modules can be added with more
-                customizable knobs and keys. There are currently only two
-                modules, the Loop Pad and the Nano Pad, but additional modules
-                are planned for the future.
+                Louder all over Instagram and TikTok. The newer XYZ Work Board
+                r2 is an Alice-inspired split 40% keyboard kit with a more
+                compact, creator-focused layout. At the time of writing it is
+                listed as in production for April 2026.
               </p>
               <p>
                 Features:
@@ -337,18 +332,16 @@ export default function Ultimateguide({ keycapPostData, switchPostData }) {
               </p>
 
               <ul>
-                <li>Cusomizable removable modules</li>
-                <li>Up to 6 rotary knobs</li>
-                <li>236 programmable keys across 4 key layers</li>
-                <li>
-                  VIA and QMK configurarable to customize all keys 60% layout
-                </li>
+                <li>Alice-inspired split 40% layout</li>
+                <li>Choc V2 low-profile magnetic switches</li>
+                <li>Magnetic tenting system</li>
+                <li>Pre-order timing listed for April 2026</li>
               </ul>
               <a
-                href="/keyboards"
+                href="/worklouder"
                 className="mt-3 btn btn-primary mr-2"
               >
-                See More Keyboards
+                Learn More
               </a>
             </div>
             <div className="col-lg-4">

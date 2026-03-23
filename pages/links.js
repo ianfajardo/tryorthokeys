@@ -56,10 +56,9 @@ export default function Links() {
                 </a>
                 <a
                   className="btn btn-primary btn-lg btn-block mb-3"
-                  href="https://www.tryorthokeys.com/posts/best-modular-keyboard-for-creatives-work-louder-creator-board"
+                  href="https://www.tryorthokeys.com/worklouder"
                 >
-                  The Best Modular Keyboard for Creatives: The Work Louder
-                  Creator Board
+                  Work Louder XYZ Work Board r2
                 </a>
                 <a
                   href="https://www.tryorthokeys.com/posts/mt3-keycaps-for-ortholinear-keyboards"

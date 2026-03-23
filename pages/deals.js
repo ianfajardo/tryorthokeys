@@ -57,6 +57,19 @@ const deals = [
     status: "Active",
   },
   {
+    slug: "work-louder",
+    name: "Work Louder",
+    category: "Keyboards",
+    offerType: "Affiliate link",
+    savings: "XYZ Work Board r2 pre-order",
+    code: null,
+    link: "https://collabs.shop/d8agoj",
+    badge: "Best creative workflow board",
+    description:
+      "Work Louder's current keyboard is the XYZ Work Board r2, an Alice-inspired split 40% board listed as in production for April 2026.",
+    status: "Pre-order",
+  },
+  {
     slug: "akko",
     name: "Akko",
     category: "Accessories",
@@ -167,6 +180,7 @@ const faqItems = [
 const dealTypeClass = {
   "Coupon code": "is-accent",
   "Affiliate discount": "is-accent",
+  "Affiliate link": "is-warning",
   "Referral offer": "is-success",
   "Membership savings": "is-warning",
   "Shipping discount": "is-muted",
@@ -246,7 +260,7 @@ export default function Deals() {
             <div className="col-lg-8">
               <div className="py-3 deals-hero-copy">
                 <p className="keyboard-kicker">Updated March 19, 2026</p>
-                <h1 className="display-4 font-weight-bolder">
+                <h1 className="display-5 font-weight-bolder">
                   Keyboard deals worth checking first
                 </h1>
                 <p className="lead">
@@ -385,6 +399,7 @@ export default function Deals() {
                 <option value="all">All deal types</option>
                 <option value="Coupon code">Coupon code</option>
                 <option value="Affiliate discount">Affiliate discount</option>
+                <option value="Affiliate link">Affiliate link</option>
                 <option value="Referral offer">Referral offer</option>
                 <option value="Membership savings">Membership savings</option>
                 <option value="Shipping discount">Shipping discount</option>
