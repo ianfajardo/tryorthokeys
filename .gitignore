@@ -32,3 +32,7 @@ yarn-error.log*
 
 # vercel
 .vercel
+
+# Claude Code signal files
+.claude/
+C*Usersianfa*
