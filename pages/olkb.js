@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
+import { getUrl } from "../lib/affiliates";
 
 export default function Olkb() {
   return (
@@ -39,7 +40,7 @@ export default function Olkb() {
                   <a href="https://github.com/jackhumbert">Jack Humbert</a>, is
                   also the founder of QMK. These keyboards are sold on the{" "}
                   <a href="https://olkb.com">OLKB website</a> and frequently on{" "}
-                  <a href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG">
+                  <a href={getUrl('olkb-planck-drop-listing')}>
                     Drop.com
                   </a>
                   . For a full overview of ortholinear keyboards and how to choose an ortho keyboard, see our{" "}
@@ -47,14 +48,14 @@ export default function Olkb() {
                 </p>
 
                 <a
-                  href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
+                  href={getUrl('olkb-planck-drop-listing')}
                   className="mt-3 mr-3 btn btn-primary"
                 >
                   Buy on Drop
                 </a>
                 {/* <a
                   className="btn btn-primary mt-3 mr-3"
-                  href="https://amzn.to/333pMu0"
+                  href={getUrl('olkb-planck')}
                 >
                   Buy on Amazon
                 </a> */}
@@ -93,14 +94,14 @@ export default function Olkb() {
                     View on OLKB
                   </a>
                   <a
-                    href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
+                    href={getUrl('olkb-planck-drop-listing')}
                     className="btn btn-secondary mr-2 mb-2"
                   >
                     Buy on Drop
                   </a>
                   {/* <a
                     className="btn btn-secondary mr-2 mb-2"
-                    href="https://amzn.to/333pMu0"
+                    href={getUrl('olkb-planck')}
                   >
                     Buy on Amazon
                   </a> */}
@@ -158,7 +159,7 @@ export default function Olkb() {
                   </a>
                   {/* <a
                     className="btn btn-secondary mr-2 mb-2"
-                    href="https://amzn.to/3xzTDbF"
+                    href={getUrl('olkb-preonic')}
                   >
                     Buy on Amazon
                   </a> */}

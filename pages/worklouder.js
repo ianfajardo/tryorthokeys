@@ -3,6 +3,7 @@ import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 import Nav from "react-bootstrap/Nav";
 import Sticky from "react-stickynode";
+import { getUrl } from "../lib/affiliates";
 
 export default function Worklouder() {
   return (
@@ -51,7 +52,7 @@ export default function Worklouder() {
                   .
                 </p>
                 <a
-                  href="https://collabs.shop/d8agoj"
+                  href={getUrl('work-louder-xyz-work-board-r2')}
                   className="mt-3 btn btn-primary mr-2"
                 >
                   Pre-order XYZ Work Board r2
@@ -124,7 +125,7 @@ export default function Worklouder() {
                 <li>Currently in production for April 2026</li>
               </ul>
               <a
-                href="https://collabs.shop/d8agoj"
+                href={getUrl('work-louder-xyz-work-board-r2')}
                 className="mt-3 btn btn-primary mr-2"
               >
                 Pre-order Now
@@ -154,7 +155,7 @@ export default function Worklouder() {
                 programmable surface next to your main board.
               </p>
               <a
-                href="https://collabs.shop/yroph0"
+                href={getUrl('work-louder-creator-micro')}
                 className="mt-3 btn btn-primary mr-2"
               >
                 Buy Now
@@ -183,7 +184,7 @@ export default function Worklouder() {
             </div>
             <div className="col-lg-4">
               <a
-                href="https://collabs.shop/d8agoj"
+                href={getUrl('work-louder-xyz-work-board-r2')}
                 className="btn btn-primary mt-3 mt-lg-0"
               >
                 See Current Work Louder Board

@@ -1,6 +1,7 @@
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 import SEOhead from "../components/SEOhead";
+import { getUrl } from "../lib/affiliates";
 
 export const meta = {
   title: "KPrepublic CSTC40: Budget 40% ortholinear keyboard from KPrepublic",
@@ -32,7 +33,7 @@ export default function Cstc40() {
                   Planck keyboard.
                 </p>
                 <a
-                  href="https://collabs.shop/f9rpy8"
+                  href={getUrl('kprepublic-cstc40')}
                   className="mt-3 btn btn-primary"
                 >
                   Buy Now
@@ -61,7 +62,7 @@ export default function Cstc40() {
                     through VIA software.
                   </p>
                   <a
-                    href="https://collabs.shop/f9rpy8"
+                    href={getUrl('kprepublic-cstc40')}
                     className="btn btn-primary mr-2"
                   >
                     Buy Now

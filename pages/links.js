@@ -3,6 +3,7 @@ import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 import Link from "next/link";
 import Date from "../components/date";
+import { getUrl } from "../lib/affiliates";
 
 export default function Links() {
   return (
@@ -67,7 +68,7 @@ export default function Links() {
                   MT3 Keycaps for your Ortho
                 </a>
                 <a
-                  href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
+                  href={getUrl('olkb-planck-drop-listing')}
                   className="btn btn-primary btn-lg btn-block mb-3"
                 >
                   Planck Keyboard 30% off on Drop
@@ -85,7 +86,7 @@ export default function Links() {
                   Planck - Compact 40% Ortholinear Keyboard
                 </a>
                 <a
-                  href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
+                  href={getUrl('olkb-planck-drop-listing')}
                   className="btn btn-primary btn-lg btn-block mb-3"
                 >
                   Drop: Get $10 when you sign up!

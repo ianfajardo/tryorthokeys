@@ -2,6 +2,7 @@ import Head from "next/head";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 import Nav from "react-bootstrap/Nav";
+import { getUrl } from "../lib/affiliates";
 
 export default function Kinesis() {
   return (
@@ -37,7 +38,7 @@ export default function Kinesis() {
                   VIA software.
                 </p>
                 <a
-                  href="https://shrsl.com/45sgz"
+                  href={getUrl('mechdiy-59')}
                   className="mt-3 btn btn-primary mr-3"
                 >
                   Buy Now
@@ -83,14 +84,14 @@ export default function Kinesis() {
                     <li>Aluminum case and ceramic coating</li>
                   </ul>
                   <a
-                    href="https://shrsl.com/45sgz"
+                    href={getUrl('mechdiy-59')}
                     className="btn btn-primary mr-2"
                   >
                     Buy Now
                   </a>
                 </div>
                 <div className="col-lg-6">
-                  <a href="https://shrsl.com/45sgz">
+                  <a href={getUrl('mechdiy-59')}>
                     <img
                       src="/gk6.webp"
                       alt="Gizmo Engineering GK6"

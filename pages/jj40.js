@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
+import { getUrl } from "../lib/affiliates";
 
 export default function JJ40() {
   return (
@@ -35,7 +36,7 @@ export default function JJ40() {
                   that is a similar ortho keyboard to the OLKB Planck.
                 </p>
                 <a
-                  href="https://kprepublic.com/collections/daisy-40?dt_id=94852"
+                  href={getUrl('kprepublic-jj40')}
                   className="mt-3 btn btn-primary mr-2"
                 >
                   Buy Now
@@ -69,7 +70,7 @@ export default function JJ40() {
                     Planck cases as well.
                   </p>
                   <a
-                    href="https://kprepublic.com/collections/daisy-40?dt_id=94852"
+                    href={getUrl('kprepublic-jj40')}
                     className="mt-3 btn btn-primary mr-2"
                   >
                     Buy Now

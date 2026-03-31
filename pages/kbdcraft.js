@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
+import { getUrl } from "../lib/affiliates";
 
 export default function Olkb() {
   return (
@@ -107,7 +108,7 @@ export default function Olkb() {
                   <hr />
                   <a
                     style={{ textDecoration: "underline" }}
-                    href="https://kbdcraft.store/products/sachiel?ref=TRYORTHOKEYS"
+                    href={getUrl('kbdcraft-sachiel')}
                   >
                     Sachiel
                   </a>

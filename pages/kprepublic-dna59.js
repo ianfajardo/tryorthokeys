@@ -1,6 +1,7 @@
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 import SEOhead from "../components/SEOhead";
+import { getUrl } from "../lib/affiliates";
 
 export const meta = {
   title:
@@ -33,7 +34,7 @@ export default function Dna59() {
                   referencing the Preonic layout.
                 </p>
                 <a
-                  href="https://collabs.shop/ajjcnp"
+                  href={getUrl('kprepublic-dna59')}
                   className="mt-3 btn btn-primary"
                 >
                   Buy Now
@@ -63,7 +64,7 @@ export default function Dna59() {
                     own software.
                   </p>
                   <a
-                    href="https://collabs.shop/ajjcnp"
+                    href={getUrl('kprepublic-dna59')}
                     className="btn btn-primary mr-2"
                   >
                     Buy Now

@@ -1,6 +1,7 @@
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 import SEOhead from "../components/SEOhead";
+import { getUrl } from "../lib/affiliates";
 
 export const meta = {
   title: "KPrepublic BM40: Budget 40% ortholinear keyboard from KPrepublic",
@@ -31,7 +32,7 @@ export default function BM40() {
                   The KPrepublic BM40 is a 40% ortholinear layout with VIA/QMK compatability, hot-swap sockets, full RGB LED switches, and a type-c port. You can also purchase a <a href="https://kprepublic.com/products/anodized-aluminium-jj40-bm40-flat-case-metal-feet-black-sliver-grey-for-40-mini?dt_id=94852&_pos=2&_sid=42b505c2f&_ss=r">case</a> and <a href="https://kprepublic.com/products/carbon-fiber-plate-for-jj40-bm40-40-custom-keyboard-mechanical-keyboard-plate-support-mx-edition?dt_id=94852&_pos=3&_sid=42b505c2f&_ss=r">plate</a> seperately.
                 </p>
                 <a
-                  href="https://kprepublic.com/search?q=bm40&dt_id=94852"
+                  href={getUrl('kprepublic-bm40')}
                   className="mt-3 btn btn-primary"
                 >
                   Buy Now
@@ -63,7 +64,7 @@ export default function BM40() {
                     compatible with Planck cases as well.
                   </p>
                   <a
-                    href="https://kprepublic.com/search?q=bm40&dt_id=94852"
+                    href={getUrl('kprepublic-bm40')}
                     className="btn btn-primary mr-2"
                   >
                     Buy Now

@@ -5,6 +5,7 @@ import Footer from "../components/footer";
 import SEOhead from "../components/SEOhead";
 import SpecialDeals from "../components/specialdeals";
 import { defaultMeta } from "../lib/pageMeta";
+import { getUrl } from "../lib/affiliates";
 
 const meta = {
   title: "Keyboard Deals and Discounts | Mechanical Keyboard Coupons",
@@ -24,7 +25,7 @@ const deals = [
     offerType: "Coupon code",
     savings: "20% off your order",
     code: "tryorthokeys",
-    link: "https://kbdcraft.store/?ref=TRYORTHOKEYS",
+    link: getUrl('kbdcraft-store'),
     badge: "Best starter ortho deal",
     description:
       "One of the strongest ortho-friendly discounts on the page. Good fit if you want an affordable kit that still feels distinctive.",
@@ -37,7 +38,7 @@ const deals = [
     offerType: "Coupon code",
     savings: "$5 off orders over $15",
     code: "TRY_ORTHO_KEYS",
-    link: "https://kprepublic.com/try_ortho_keys",
+    link: getUrl('kprepublic-store-try-ortho-keys'),
     badge: "Best budget parts deal",
     description:
       "Useful for lower-cost ortho parts, switches, plates, and budget-friendly boards like the BM40 and CSTC40.",
@@ -50,7 +51,7 @@ const deals = [
     offerType: "Referral offer",
     savings: "$10 off your first order",
     code: null,
-    link: "https://drop.com/?referer=T93XGG",
+    link: getUrl("https://drop.com/?referer=T93XGG"),
     badge: "Good for first-time buyers",
     description:
       "Best if you are eyeing a Planck, Preonic, or keycap set and have not ordered from Drop before.",
@@ -63,7 +64,7 @@ const deals = [
     offerType: "Affiliate link",
     savings: "XYZ Work Board r2 pre-order",
     code: null,
-    link: "https://collabs.shop/d8agoj",
+    link: getUrl('work-louder-xyz-work-board-r2'),
     badge: "Best creative workflow board",
     description:
       "Work Louder's current keyboard is the XYZ Work Board r2, an Alice-inspired split 40% board listed as in production for April 2026.",
@@ -76,7 +77,7 @@ const deals = [
     offerType: "Coupon code",
     savings: "15% off",
     code: "9TH",
-    link: "https://en.akkogear.com?ref=29468",
+    link: getUrl('akko-deals-page'),
     badge: "Switch and accessory savings",
     description:
       "A straightforward discount if you are pairing a new board with switches, caps, or other keyboard accessories.",
@@ -89,7 +90,7 @@ const deals = [
     offerType: "Membership savings",
     savings: "Monthly coupons worth up to $100",
     code: null,
-    link: "https://drop.com/keyboardclub/non-member?referer=T93XGG",
+    link: getUrl("https://drop.com/keyboardclub/non-member?referer=T93XGG"),
     badge: "Best for repeat buyers",
     description:
       "Worth considering if you buy keyboard gear regularly and want recurring discounts instead of a one-time code.",
@@ -102,7 +103,7 @@ const deals = [
     offerType: "Affiliate discount",
     savings: "10% off custom keycaps",
     code: "Use our link",
-    link: "https://fkcaps.com/custom?a=tryorthokeys",
+    link: getUrl('fkcaps-custom-keycaps'),
     badge: "Best custom keycap deal",
     description:
       "Strong option if you want a set that matches an ortholinear layout without settling for a generic kit.",
@@ -115,7 +116,7 @@ const deals = [
     offerType: "Shipping discount",
     savings: "$6 off shipping on orders over $65",
     code: "Wafflebetter",
-    link: "https://kbdfans.com/r?id=rq0n5d",
+    link: getUrl('kbdfans-weekin-y-40-diy-kit'),
     badge: "Useful for larger orders",
     description:
       "Best when you are picking up a kit, switches, and accessories together and shipping costs start to climb.",

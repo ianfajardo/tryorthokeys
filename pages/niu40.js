@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
+import { getUrl } from "../lib/affiliates";
 
 export default function Niu() {
   return (
@@ -43,13 +44,13 @@ export default function Niu() {
                   it offers similar functionality and features. The NIU 40 is no
                   longer available anymore at KBDFans but a new ortholienar
                   keyboard by them in the works called the{" "}
-                  <a href="https://kbdfans.com/r?id=be1aik">
+                  <a href={getUrl('kbdfans-solar-keyboard-kit')}>
                     Solar Keyboard Kit
                   </a>
                   .
                 </p>
                 <a
-                  href="https://kbdfans.com/r?id=be1aik"
+                  href={getUrl('kbdfans-solar-keyboard-kit')}
                   className="mt-3 btn btn-primary"
                 >
                   Buy Now
@@ -77,7 +78,7 @@ export default function Niu() {
                     swappable versions available at the moment.
                   </p>
                   <a
-                    href="https://kbdfans.com/r?id=be1aik"
+                    href={getUrl('kbdfans-solar-keyboard-kit')}
                     className="btn btn-primary mr-2"
                   >
                     Buy Now

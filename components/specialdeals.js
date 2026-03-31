@@ -1,5 +1,6 @@
 import React from "react";
 import Link from "next/link";
+import { getUrl } from "../lib/affiliates";
 
 export default function SpecialDeals({ col }) {
   return (
@@ -7,7 +8,7 @@ export default function SpecialDeals({ col }) {
       <div className={col ? col : "col-lg-6"}>
         <Link
           id="kbdcraft"
-          href="https://kbdcraft.store/?ref=TRYORTHOKEYS"
+          href={getUrl('kbdcraft-store')}
           className="card ele-2 mb-4 bg-white kbdcraft-deal h-100"
         >
           <div className="px-5 py-4 h-100">
@@ -32,7 +33,7 @@ export default function SpecialDeals({ col }) {
       </div>
       <div className={col ? col : "col-lg-6"}>
         <a
-          href="https://fkcaps.com/custom?a=tryorthokeys"
+          href={getUrl('fkcaps-custom-keycaps')}
           id="FKcaps"
           className="card ele-2 mb-4 bg-primary fkcaps-deal h-100"
         >

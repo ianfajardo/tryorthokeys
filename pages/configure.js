@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
+import { getUrl } from "../lib/affiliates";
 
 export default function Configuring() {
   return (
@@ -36,14 +37,14 @@ export default function Configuring() {
                 </p>
 
                 <a
-                  href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
+                  href={getUrl('olkb-planck-drop-listing')}
                   className="mt-3 mr-3 btn btn-primary"
                 >
                   Buy on Drop
                 </a>
                 <a
                   className="mt-3 mr-3 btn btn-primary"
-                  href="https://amzn.to/333pMu0"
+                  href={getUrl('olkb-planck')}
                 >
                   Buy on Amazon
                 </a>
@@ -197,7 +198,7 @@ export default function Configuring() {
 
                   <div className="mt-5">
                     <a
-                      href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
+                      href={getUrl('olkb-planck-drop-listing')}
                       className="btn btn-secondary mr-2 mb-2"
                     >
                       Buy Planck on Drop
@@ -205,7 +206,7 @@ export default function Configuring() {
 
                     <a
                       className="btn btn-secondary mr-2 mb-2"
-                      href="https://amzn.to/333pMu0"
+                      href={getUrl('olkb-planck')}
                     >
                       Buy Planck on Amazon
                     </a>
@@ -222,7 +223,7 @@ export default function Configuring() {
 
                     <a
                       className="btn btn-secondary mr-2 mb-2"
-                      href="https://amzn.to/3xzTDbF"
+                      href={getUrl('olkb-preonic')}
                     >
                       Buy Preonic on Amazon
                     </a>
@@ -306,7 +307,7 @@ export default function Configuring() {
                     View on OLKB
                   </a>
                   <a
-                    href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
+                    href={getUrl('olkb-planck-drop-listing')}
                     className="btn btn-secondary mr-2 mb-2"
                   >
                     Buy on Drop
@@ -314,7 +315,7 @@ export default function Configuring() {
 
                   <a
                     className="btn btn-secondary mr-2 mb-2"
-                    href="https://amzn.to/333pMu0"
+                    href={getUrl('olkb-planck')}
                   >
                     Buy on Amazon
                   </a>
@@ -373,7 +374,7 @@ export default function Configuring() {
                   </a>
                   <a
                     className="btn btn-secondary mr-2 mb-2"
-                    href="https://amzn.to/3xzTDbF"
+                    href={getUrl('olkb-preonic')}
                   >
                     Buy on Amazon
                   </a>

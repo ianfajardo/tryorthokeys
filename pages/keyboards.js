@@ -3,6 +3,7 @@ import SEOhead from "../components/SEOhead";
 import { defaultMeta } from "../lib/pageMeta";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
+import { getUrl } from "../lib/affiliates";
 
 const keyboards = [
   {
@@ -50,7 +51,7 @@ const keyboards = [
       "The Israfel is a distinctive 50% ortholinear kit with included switches and keycaps. Its low-profile design and approachable price make it one of the easiest entry points into full ortho.",
     image: "https://www.tryorthokeys.com/kbdcraft-israfel.webp",
     buyNow:
-      "https://kbdcraft.store/products/israfel?_pos=1&_sid=afc7d5709&_ss=r&ref=TRYORTHOKEYS",
+      getUrl("https://kbdcraft.store/products/israfel?_pos=1&_sid=afc7d5709&_ss=r&ref=TRYORTHOKEYS"),
     learnMore: "/kbdcraft",
   },
   {
@@ -78,7 +79,7 @@ const keyboards = [
     description:
       "The XYZ Work Board r2 is Work Louder's new Alice-inspired split 40% keyboard kit. It is currently in production for April 2026 and open for pre-order.",
     image: "https://www.tryorthokeys.com/work-louder-xyz-work-board-r2.png",
-    buyNow: "https://collabs.shop/d8agoj",
+    buyNow: getUrl('work-louder-xyz-work-board-r2'),
     learnMore: "/worklouder",
   },
   {
@@ -125,7 +126,7 @@ const keyboards = [
     description:
       "The CSTC40 is a budget-friendly 40% ortholinear board similar to the Planck. It supports hot-swap switches, RGB lighting, and VIA-based remapping.",
     image: "/cstc40.jpg",
-    buyNow: "https://collabs.shop/f9rpy8",
+    buyNow: getUrl('kprepublic-cstc40'),
     learnMore: "/kprepublic-cstc40",
   },
   {
@@ -149,7 +150,7 @@ const keyboards = [
       "The Planck remains the benchmark 40% ortholinear board. Recent versions add hot-swap support, LEDs, encoder support, and multiple case options.",
     image: "https://www.tryorthokeys.com/planck-2.jpg",
     buyNow:
-      "https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG",
+      getUrl('olkb-planck-drop-listing'),
     learnMore: "/olkb",
   },
   {
@@ -172,7 +173,7 @@ const keyboards = [
     description:
       "The Preonic adds an extra row over the Planck, making it a strong choice for anyone who wants more dedicated keys without leaving the ortholinear layout behind.",
     image: "https://www.tryorthokeys.com/olkb-preonic.jpg",
-    buyNow: "https://amzn.to/3rhGRg0",
+    buyNow: getUrl('olkb-preonic-drop-listing'),
     learnMore: "/olkb",
   },
   {
@@ -219,7 +220,7 @@ const keyboards = [
     description:
       "The BM40 is a solid 40% ortholinear option with hot-swap sockets, QMK/VIA support, RGB lighting, and easy case-and-plate availability.",
     image: "/bm40.jpg",
-    buyNow: "https://kprepublic.com/search?q=bm40&dt_id=94852",
+    buyNow: getUrl('kprepublic-bm40'),
     learnMore: "/kprepublic-bm40",
   },
   {
@@ -242,7 +243,7 @@ const keyboards = [
     description:
       "The DNA59 gives you a Preonic-style footprint with hot-swap support and RGB, but it relies on proprietary software instead of QMK or VIA.",
     image: "/dna59.jpg",
-    buyNow: "https://collabs.shop/ajjcnp",
+    buyNow: getUrl('kprepublic-dna59'),
     learnMore: "/kprepublic-dna59",
   },
   {
@@ -265,7 +266,7 @@ const keyboards = [
     description:
       "The Inland 47 is a simple budget ortholinear option with hot-swappable switches and RGB lighting, making it a straightforward first board for experimentation.",
     image: "https://www.tryorthokeys.com/inland-47.jpg",
-    buyNow: "https://sovrn.co/1p0itng",
+    buyNow: getUrl('inland-47-keyboard'),
   },
   {
     slug: "mechdiy-59",
@@ -287,7 +288,7 @@ const keyboards = [
     description:
       "The MechDIY 59 pairs a 59-key ortholinear layout with a hot-swappable PCB, RGB backlighting, and VIA-based customization in an acrylic shell.",
     image: "https://www.tryorthokeys.com/mechdiy-59.jpg",
-    buyNow: "https://shrsl.com/45sgz",
+    buyNow: getUrl('mechdiy-59'),
     learnMore: "/mechdiy-59",
   },
   {
@@ -311,7 +312,7 @@ const keyboards = [
       "KBDFans retired the NIU40 and replaced it with an interest-page concept called the Solar, a feature-heavy ortholinear kit with knobs, modular add-ons, and a hot-swap PCB.",
     image:
       "https://www.tryorthokeys.com/kbdfans-solar-keyboard-kit-ortholinear.png",
-    buyNow: "https://kbdfans.com/r?id=be1aik",
+    buyNow: getUrl('kbdfans-solar-keyboard-kit'),
     learnMore: "/posts/kbdfans-solar-keyboard-kit-ortholinear",
   },
   {
@@ -334,7 +335,7 @@ const keyboards = [
     description:
       "The GK6 is a premium 50% ortholinear keyboard with QMK support, multiple bottom-row layouts, a hot-swap PCB, and a coated aluminum case.",
     image: "https://www.tryorthokeys.com/gk6.webp",
-    buyNow: "https://sovrn.co/1iddf86",
+    buyNow: getUrl('gizmo-engineering-gk6'),
     learnMore: "/gizmo-engineering-gk6",
   },
   {
@@ -357,7 +358,7 @@ const keyboards = [
     description:
       "The Kinesis Advantage2 uses a deep ergonomic split design with orthogonal key columns, integrated palm support, and a shape built for comfort over long work sessions.",
     image: "/kinesis-advantage2.jpg",
-    buyNow: "https://amzn.to/3CsZySE",
+    buyNow: getUrl('kinesis-advantage2'),
     learnMore: "/kinesis",
   },
 ];
@@ -963,7 +964,7 @@ export default function Keyboards() {
                 </div>
                 <div className="col-lg-2">
                   <a
-                    href="https://fkcaps.com/custom?a=tryorthokeys"
+                    href={getUrl('fkcaps-custom-keycaps')}
                     className="btn btn-lg btn-light"
                   >
                     Learn More

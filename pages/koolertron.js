@@ -2,6 +2,7 @@ import Head from "next/head";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 import Nav from "react-bootstrap/Nav";
+import { getUrl } from "../lib/affiliates";
 
 export default function Kinesis() {
   return (
@@ -38,13 +39,13 @@ export default function Kinesis() {
                   perfect for office and gaming use
                 </p>
                 <a
-                  href="https://amzn.to/3pSctbE"
+                  href={getUrl('kinesis-advantage2-alternate-listing')}
                   className="mt-3 btn btn-primary mr-3"
                 >
                   Learn More
                 </a>
                 <a
-                  href="https://amzn.to/3IV7kHs"
+                  href={getUrl('kinesis-advantage2-alternate-listing-2')}
                   className="mt-3 btn btn-primary"
                 >
                   Kinesis Advantage 2
@@ -93,14 +94,14 @@ export default function Kinesis() {
                     <li>Portable Mini keypad</li>
                   </ul>
                   <a
-                    href="https://amzn.to/3hXMSdb"
+                    href={getUrl('koolertron-single-handed-keyboard')}
                     className="btn btn-primary mr-2"
                   >
                     Buy Now
                   </a>
                 </div>
                 <div className="col-lg-6">
-                  <a href="https://amzn.to/3hXMSdb">
+                  <a href={getUrl('koolertron-single-handed-keyboard')}>
                     <img
                       src="/koolertron.jpg"
                       alt="Koolertron"

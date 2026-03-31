@@ -1,0 +1,1983 @@
+[
+  {
+    "id": "olkb-planck",
+    "name": "OLKB Planck",
+    "url": "https://amzn.to/333pMu0",
+    "description": "The classic 40% ortholinear keyboard. Supports hot-swap switches, LEDs, and rotary encoders. The benchmark compact ortho board.",
+    "tags": [
+      "keyboard",
+      "ortholinear",
+      "40%",
+      "planck",
+      "qmk",
+      "drop",
+      "olkb"
+    ],
+    "image": "/planck-eotw-mito-rams.png"
+  },
+  {
+    "id": "olkb-planck-drop-listing",
+    "name": "OLKB Planck (Drop listing)",
+    "url": "https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG",
+    "description": "OLKB Planck keyboard on Drop. 40% ortholinear layout with QMK support, hot-swap sockets, and optional rotary encoder.",
+    "tags": [
+      "keyboard",
+      "ortholinear",
+      "40%",
+      "planck",
+      "qmk",
+      "drop",
+      "olkb"
+    ],
+    "image": null
+  },
+  {
+    "id": "olkb-preonic",
+    "name": "OLKB Preonic",
+    "url": "https://amzn.to/3xzTDbF",
+    "description": "The Planck's big brother with an extra number row. Hot-swap, QMK, and full ortholinear layout.",
+    "tags": [
+      "keyboard",
+      "ortholinear",
+      "50%",
+      "preonic",
+      "qmk",
+      "drop",
+      "olkb"
+    ],
+    "image": "/olkb-preonic.jpg"
+  },
+  {
+    "id": "olkb-preonic-alternate-listing",
+    "name": "OLKB Preonic (alternate listing)",
+    "url": "https://amzn.to/3sfnB1D",
+    "description": "Alternate Amazon listing for the OLKB Preonic ortholinear keyboard.",
+    "tags": [
+      "keyboard",
+      "ortholinear",
+      "50%",
+      "preonic",
+      "qmk",
+      "olkb"
+    ],
+    "image": "/preonic-2.png"
+  },
+  {
+    "id": "olkb-preonic-drop-listing",
+    "name": "OLKB Preonic (Drop listing)",
+    "url": "https://amzn.to/3rhGRg0",
+    "description": "OLKB Preonic keyboard. 50% ortholinear layout with QMK support and hot-swap sockets.",
+    "tags": [
+      "keyboard",
+      "ortholinear",
+      "50%",
+      "preonic",
+      "qmk",
+      "olkb"
+    ],
+    "image": null
+  },
+  {
+    "id": "kinesis-advantage2",
+    "name": "Kinesis Advantage2",
+    "url": "https://amzn.to/3CsZySE",
+    "description": "Ergonomic split ortholinear keyboard with deep key wells, palm support, and Cherry MX switches for long-session comfort.",
+    "tags": [
+      "keyboard",
+      "ergonomic",
+      "split",
+      "kinesis",
+      "cherry-mx",
+      "ortholinear"
+    ],
+    "image": "/kinesis-advantage2.jpg"
+  },
+  {
+    "id": "kinesis-advantage2-alternate-listing",
+    "name": "Kinesis Advantage2 (alternate listing)",
+    "url": "https://amzn.to/3pSctbE",
+    "description": "Kinesis Advantage2 ergonomic split ortholinear keyboard. Cherry MX switches, deep key wells, palm pads.",
+    "tags": [
+      "keyboard",
+      "ergonomic",
+      "split",
+      "kinesis",
+      "cherry-mx",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "kinesis-advantage2-alternate-listing-2",
+    "name": "Kinesis Advantage2 (alternate listing 2)",
+    "url": "https://amzn.to/3IV7kHs",
+    "description": "Kinesis Advantage2 ergonomic keyboard alternate listing.",
+    "tags": [
+      "keyboard",
+      "ergonomic",
+      "split",
+      "kinesis",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "kinesis-freestyle2",
+    "name": "Kinesis Freestyle2",
+    "url": "https://amzn.to/3CyE0Ef",
+    "description": "Kinesis Freestyle2 split adjustable keyboard with adjustable pivot tenting and separate halves for ergonomic typing.",
+    "tags": [
+      "keyboard",
+      "ergonomic",
+      "split",
+      "kinesis",
+      "freestyle"
+    ],
+    "image": null
+  },
+  {
+    "id": "kinesis-freestyle-pro",
+    "name": "Kinesis Freestyle Pro",
+    "url": "https://amzn.to/3hVyEJL",
+    "description": "Kinesis Freestyle Pro split mechanical keyboard with Cherry MX switches, QMK support, and ergonomic layout.",
+    "tags": [
+      "keyboard",
+      "ergonomic",
+      "split",
+      "kinesis",
+      "freestyle",
+      "qmk"
+    ],
+    "image": null
+  },
+  {
+    "id": "keychron-q4",
+    "name": "Keychron Q4",
+    "url": "https://amzn.to/3EX5pCC",
+    "description": "60% aluminum keyboard with rotary knob, QMK/VIA support, hot-swap, and double gasket structure.",
+    "tags": [
+      "keyboard",
+      "keychron",
+      "60%",
+      "aluminum",
+      "qmk",
+      "via",
+      "hot-swap"
+    ],
+    "image": null
+  },
+  {
+    "id": "keychron-q4-pro",
+    "name": "Keychron Q4 Pro",
+    "url": "https://www.keychron.com/products/keychron-q4-pro-qmk-via-wireless-custom-mechanical-keyboard",
+    "description": "Premium 60% wireless mechanical keyboard with double-gasket mount, polycarbonate plate, QMK/VIA, Bluetooth 5.1, and 4000mAh battery.",
+    "tags": [
+      "keyboard",
+      "keychron",
+      "60%",
+      "wireless",
+      "bluetooth",
+      "qmk",
+      "via",
+      "aluminum",
+      "gasket",
+      "hot-swap"
+    ],
+    "image": "/images/posts/60-keyboard-keychron-q4-pro/Keychron-Q4-Pro-Wireless-Mechanical-Keyboard-5.jpg"
+  },
+  {
+    "id": "keychron-q2",
+    "name": "Keychron Q2",
+    "url": "https://amzn.to/3U5jkLa",
+    "description": "65% aluminum keyboard with rotary knob, QMK/VIA, hot-swap, gasket-mount, and double-shot PBT keycaps.",
+    "tags": [
+      "keyboard",
+      "keychron",
+      "65%",
+      "aluminum",
+      "qmk",
+      "via",
+      "hot-swap"
+    ],
+    "image": null
+  },
+  {
+    "id": "keychron-k3",
+    "name": "Keychron K3",
+    "url": "https://amzn.to/3VtBI1D",
+    "description": "Low-profile slim 75% keyboard with 84 keys. Bluetooth or wired connection, up to 34 hours battery life.",
+    "tags": [
+      "keyboard",
+      "keychron",
+      "75%",
+      "low-profile",
+      "wireless",
+      "bluetooth"
+    ],
+    "image": null
+  },
+  {
+    "id": "keychron-q15-max",
+    "name": "Keychron Q15 Max",
+    "url": "https://www.keychron.com/products/keychron-q15-max-qmk-via-wireless-custom-mechanical-keyboard",
+    "description": "Keychron Q15 Max wireless custom mechanical keyboard with QMK/VIA support.",
+    "tags": [
+      "keyboard",
+      "keychron",
+      "wireless",
+      "qmk",
+      "via",
+      "aluminum"
+    ],
+    "image": null
+  },
+  {
+    "id": "nuphy-air-75",
+    "name": "NuPhy Air 75",
+    "url": "https://amzn.to/3UalzNf",
+    "description": "75% low-profile keyboard with Bluetooth wireless, up to 48 hours battery life, and RGB lighting.",
+    "tags": [
+      "keyboard",
+      "nuphy",
+      "75%",
+      "low-profile",
+      "wireless",
+      "bluetooth"
+    ],
+    "image": null
+  },
+  {
+    "id": "feker-alice-65",
+    "name": "Feker Alice 65%",
+    "url": "https://amzn.to/3tZdErK",
+    "description": "Ergonomic split Alice-style 65% keyboard with wireless 2.4GHz, gasket design, and dye-sub PBT keycaps.",
+    "tags": [
+      "keyboard",
+      "feker",
+      "alice",
+      "65%",
+      "ergonomic",
+      "wireless",
+      "gasket"
+    ],
+    "image": null
+  },
+  {
+    "id": "akko-acr-pro-alice-plus-full-kit",
+    "name": "Akko ACR Pro Alice Plus (full kit)",
+    "url": "https://en.akkogear.com/products/acr-pro-alice-plus-mechanical-keyboard?ref=29468",
+    "description": "Akko ACR Pro Alice Plus mechanical keyboard - full kit with Alice ergonomic layout, hot-swap PCB, and gasket mount.",
+    "tags": [
+      "keyboard",
+      "akko",
+      "alice",
+      "ergonomic",
+      "hot-swap",
+      "gasket"
+    ],
+    "image": null
+  },
+  {
+    "id": "akko-acr-pro-alice-plus-barebones",
+    "name": "Akko ACR Pro Alice Plus (barebones)",
+    "url": "https://en.akkogear.com/products/acr-pro-alice-plus-barebones-mechanical-keyboard?ref=29468",
+    "description": "Akko ACR Pro Alice Plus barebones kit - Alice ergonomic layout without switches or keycaps.",
+    "tags": [
+      "keyboard",
+      "akko",
+      "alice",
+      "ergonomic",
+      "barebones",
+      "gasket"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-sense75",
+    "name": "DROP SENSE75",
+    "url": "https://drop.com/buy/drop-sense75-mechanical-keyboard?utm_source=linkshare&referer=T93XGG",
+    "description": "Drop SENSE75 mechanical keyboard with 75% layout, aluminum case, and hot-swap PCB.",
+    "tags": [
+      "keyboard",
+      "drop",
+      "75%",
+      "aluminum",
+      "hot-swap"
+    ],
+    "image": null
+  },
+  {
+    "id": "ymdk-air40-aluminum-kit",
+    "name": "YMDK Air40 Aluminum Kit",
+    "url": "https://ymdkey.com/products/air40-qmk-via-rgb-gasket-mount-ortholinear-keyboard?sca_ref=3163375.1C4wKHXQtf",
+    "description": "YMDK Air40 40% ortholinear keyboard with QMK/VIA, RGB, and gasket mount. Aluminum case kit.",
+    "tags": [
+      "keyboard",
+      "ymdk",
+      "ortholinear",
+      "40%",
+      "qmk",
+      "via",
+      "gasket",
+      "aluminum"
+    ],
+    "image": null
+  },
+  {
+    "id": "ymdk-air40-wood-case-kit",
+    "name": "YMDK Air40 Wood Case Kit",
+    "url": "https://ymdkey.com/products/air40-wood-case?sca_ref=3163375.1C4wKHXQtf",
+    "description": "YMDK Air40 wood case kit for the Air40 40% ortholinear keyboard.",
+    "tags": [
+      "keyboard",
+      "ymdk",
+      "ortholinear",
+      "40%",
+      "wood",
+      "case"
+    ],
+    "image": null
+  },
+  {
+    "id": "ymdk-air40-foam-pad",
+    "name": "YMDK Air40 Foam Pad",
+    "url": "https://ymdkey.com/products/air40-foam?sca_ref=3163375.1C4wKHXQtf",
+    "description": "YMDK Air40 foam pad for sound dampening in the Air40 keyboard build.",
+    "tags": [
+      "accessories",
+      "ymdk",
+      "foam",
+      "modding",
+      "sound-dampening"
+    ],
+    "image": null
+  },
+  {
+    "id": "ymdk-air40-wrist-rest",
+    "name": "YMDK Air40 Wrist Rest",
+    "url": "https://ymdkey.com/products/air40-wrist-rest?sca_ref=3163375.1C4wKHXQtf",
+    "description": "YMDK Air40 wrist rest designed to pair with the Air40 keyboard.",
+    "tags": [
+      "accessories",
+      "ymdk",
+      "wrist-rest",
+      "ergonomic"
+    ],
+    "image": null
+  },
+  {
+    "id": "ymdk-idobo-id75-ymdkey-com",
+    "name": "YMDK Idobo ID75 (ymdkey.com)",
+    "url": "https://ymdkey.com/products/idobo-75-keys-ortholinear-layout-qmk-via-programmable-hot-swap-keyboard?sca_ref=3163375.1C4wKHXQtf",
+    "description": "YMDK Idobo ID75 75-key ortholinear keyboard with QMK/VIA, hot-swap PCB, and RGB lighting.",
+    "tags": [
+      "keyboard",
+      "ymdk",
+      "ortholinear",
+      "75%",
+      "qmk",
+      "via",
+      "hot-swap"
+    ],
+    "image": null
+  },
+  {
+    "id": "kbdcraft-israfel",
+    "name": "KBDcraft Israfel",
+    "url": "https://kbdcraft.store/products/israfel?ref=TRYORTHOKEYS",
+    "description": "KBDcraft Israfel brick-built keyboard kit in 40% ortholinear layout. LEGO-compatible brick case.",
+    "tags": [
+      "keyboard",
+      "kbdcraft",
+      "ortholinear",
+      "40%",
+      "brick",
+      "qmk"
+    ],
+    "image": null
+  },
+  {
+    "id": "kbdcraft-adam-x",
+    "name": "KBDcraft Adam X",
+    "url": "https://kbdcraft.store/products/adam-x?ref=TRYORTHOKEYS",
+    "description": "KBDcraft Adam X brick-built keyboard. Upgraded version of the Adam with enhanced features.",
+    "tags": [
+      "keyboard",
+      "kbdcraft",
+      "brick",
+      "qmk"
+    ],
+    "image": null
+  },
+  {
+    "id": "kbdcraft-sachiel",
+    "name": "KBDcraft Sachiel",
+    "url": "https://kbdcraft.store/products/sachiel?ref=TRYORTHOKEYS",
+    "description": "KBDcraft Sachiel brick-built keyboard kit.",
+    "tags": [
+      "keyboard",
+      "kbdcraft",
+      "brick",
+      "qmk"
+    ],
+    "image": null
+  },
+  {
+    "id": "kbdcraft-lilith-q",
+    "name": "KBDcraft Lilith Q",
+    "url": "https://kbdcraft.store/products/lilith-q?ref=TRYORTHOKEYS",
+    "description": "KBDcraft Lilith Q brick-built keyboard kit.",
+    "tags": [
+      "keyboard",
+      "kbdcraft",
+      "brick",
+      "qmk"
+    ],
+    "image": null
+  },
+  {
+    "id": "work-louder-xyz-work-board-r2",
+    "name": "Work Louder XYZ Work Board r2",
+    "url": "https://collabs.shop/d8agoj",
+    "description": "Work Louder XYZ Work Board r2 - Alice-inspired split 40% keyboard kit for creators. Currently in production for April 2026.",
+    "tags": [
+      "keyboard",
+      "work-louder",
+      "split",
+      "alice",
+      "40%",
+      "ortholinear",
+      "qmk",
+      "via"
+    ],
+    "image": null
+  },
+  {
+    "id": "work-louder-creator-micro",
+    "name": "Work Louder Creator Micro",
+    "url": "https://collabs.shop/yroph0",
+    "description": "Work Louder Creator Micro - compact macro pad / numpad with customizable knobs and keys.",
+    "tags": [
+      "accessories",
+      "work-louder",
+      "macro-pad",
+      "qmk",
+      "via"
+    ],
+    "image": null
+  },
+  {
+    "id": "work-louder-wrk-mat",
+    "name": "Work Louder WRK MAT",
+    "url": "https://collabs.shop/hihr0m",
+    "description": "Work Louder WRK MAT - 80x30cm real PVC cutting mat in deskmat form factor. Double-sided, 5 layers. Ideal for keyboard building and modding.",
+    "tags": [
+      "accessories",
+      "work-louder",
+      "deskmat",
+      "cutting-mat",
+      "tools"
+    ],
+    "image": "/blog/work-louder-wrk-mat-cutting-deskmat.png"
+  },
+  {
+    "id": "kprepublic-cstc40",
+    "name": "KPrepublic CSTC40",
+    "url": "https://collabs.shop/f9rpy8",
+    "description": "KPrepublic CSTC40 40% ortholinear keyboard with hot-swap PCB, RGB lighting, and VIA support.",
+    "tags": [
+      "keyboard",
+      "kprepublic",
+      "ortholinear",
+      "40%",
+      "hot-swap",
+      "via",
+      "budget"
+    ],
+    "image": null
+  },
+  {
+    "id": "kprepublic-dna59",
+    "name": "KPrepublic DNA59",
+    "url": "https://collabs.shop/ajjcnp",
+    "description": "KPrepublic DNA59 - 59-key ortholinear keyboard with 2u spacebar referencing the Preonic layout. Acrylic case, hot-swap PCB, RGB.",
+    "tags": [
+      "keyboard",
+      "kprepublic",
+      "ortholinear",
+      "50%",
+      "hot-swap",
+      "budget"
+    ],
+    "image": null
+  },
+  {
+    "id": "kprepublic-bm40",
+    "name": "KPrepublic BM40",
+    "url": "https://kprepublic.com/search?q=bm40&dt_id=94852",
+    "description": "KPrepublic BM40 40% ortholinear hot-swap keyboard with VIA/QMK support and full RGB LEDs.",
+    "tags": [
+      "keyboard",
+      "kprepublic",
+      "ortholinear",
+      "40%",
+      "hot-swap",
+      "qmk",
+      "via",
+      "budget"
+    ],
+    "image": null
+  },
+  {
+    "id": "kprepublic-jj40",
+    "name": "KPrepublic JJ40",
+    "url": "https://kprepublic.com/collections/daisy-40?dt_id=94852",
+    "description": "KPrepublic JJ40 40% ortholinear keyboard. Budget Planck alternative from KPRepublic.",
+    "tags": [
+      "keyboard",
+      "kprepublic",
+      "ortholinear",
+      "40%",
+      "budget"
+    ],
+    "image": null
+  },
+  {
+    "id": "mechdiy-59",
+    "name": "MechDIY 59",
+    "url": "https://shrsl.com/45sgz",
+    "description": "MechDIY 59-key ortholinear keyboard with acrylic case, hotswap PCB, RGB backlit, and VIA support.",
+    "tags": [
+      "keyboard",
+      "mechdiy",
+      "ortholinear",
+      "50%",
+      "hot-swap",
+      "via",
+      "budget"
+    ],
+    "image": null
+  },
+  {
+    "id": "inland-47-keyboard",
+    "name": "Inland 47 Keyboard",
+    "url": "https://sovrn.co/1p0itng",
+    "description": "Inland 47-key compact ortholinear keyboard.",
+    "tags": [
+      "keyboard",
+      "inland",
+      "ortholinear",
+      "40%",
+      "budget"
+    ],
+    "image": null
+  },
+  {
+    "id": "gizmo-engineering-gk6",
+    "name": "Gizmo Engineering GK6",
+    "url": "https://sovrn.co/1iddf86",
+    "description": "Gizmo Engineering GK6 ergonomic 50% ortholinear keyboard with QMK firmware, hot-swap PCB, and aluminum case.",
+    "tags": [
+      "keyboard",
+      "gizmo-engineering",
+      "ortholinear",
+      "50%",
+      "ergonomic",
+      "qmk",
+      "hot-swap"
+    ],
+    "image": null
+  },
+  {
+    "id": "kbdfans-solar-keyboard-kit",
+    "name": "KBDFans Solar Keyboard Kit",
+    "url": "https://kbdfans.com/r?id=be1aik",
+    "description": "KBDFans Solar ortholinear keyboard kit. 40% layout with aluminum construction and QMK support.",
+    "tags": [
+      "keyboard",
+      "kbdfans",
+      "ortholinear",
+      "40%",
+      "qmk",
+      "aluminum"
+    ],
+    "image": null
+  },
+  {
+    "id": "montsinger-rebound",
+    "name": "Montsinger Rebound",
+    "url": "https://store.montsinger.net",
+    "description": "Montsinger Rebound split ergonomic keyboard. Custom built split keyboard available from Montsinger.",
+    "tags": [
+      "keyboard",
+      "montsinger",
+      "split",
+      "ergonomic",
+      "custom"
+    ],
+    "image": null
+  },
+  {
+    "id": "ergodox-ez",
+    "name": "ErgoDox EZ",
+    "url": "https://ergodox-ez.com",
+    "description": "ErgoDox EZ fully assembled split ergonomic keyboard with tilt/tent kit, wrist rests, and QMK support.",
+    "tags": [
+      "keyboard",
+      "ergodox",
+      "split",
+      "ergonomic",
+      "qmk"
+    ],
+    "image": null
+  },
+  {
+    "id": "koolertron-single-handed-keyboard",
+    "name": "Koolertron Single-Handed Keyboard",
+    "url": "https://amzn.to/3hXMSdb",
+    "description": "Koolertron single-handed programmable keyboard with 46 programmable keys and 8 macro keys. OEM Gateron Red switches.",
+    "tags": [
+      "keyboard",
+      "koolertron",
+      "macro-pad",
+      "single-handed",
+      "programmable"
+    ],
+    "image": null
+  },
+  {
+    "id": "gmmk-keyboard",
+    "name": "GMMK Keyboard",
+    "url": "https://amzn.to/3xiWkJa",
+    "description": "Glorious GMMK modular mechanical keyboard with hot-swap switch support.",
+    "tags": [
+      "keyboard",
+      "gmmk",
+      "glorious",
+      "hot-swap",
+      "modular"
+    ],
+    "image": null
+  },
+  {
+    "id": "keychron-k8",
+    "name": "Keychron K8",
+    "url": "https://amzn.to/3nXwvsE",
+    "description": "Keychron K8 tenkeyless wireless mechanical keyboard with Bluetooth 5.1, hot-swap, and RGB backlight.",
+    "tags": [
+      "keyboard",
+      "keychron",
+      "tenkeyless",
+      "87%",
+      "wireless",
+      "bluetooth",
+      "hot-swap"
+    ],
+    "image": null
+  },
+  {
+    "id": "kbdfans-weekin-y-40-diy-kit",
+    "name": "KBDFans Weekin Y-40 DIY Kit",
+    "url": "https://kbdfans.com/r?id=rq0n5d",
+    "description": "KBDFans Weekin Y-40 DIY keyboard kit. 40% layout with aluminum case.",
+    "tags": [
+      "keyboard",
+      "kbdfans",
+      "40%",
+      "diy",
+      "aluminum"
+    ],
+    "image": null
+  },
+  {
+    "id": "30-switch-lube-station-kit",
+    "name": "30 Switch Lube Station Kit",
+    "url": "https://amzn.to/2SJoa7z",
+    "description": "Switch lube station kit with tools for opening switches, pulling switches, and holding them steady during lubing. Great beginner kit.",
+    "tags": [
+      "tools",
+      "lube",
+      "switch-opener",
+      "accessories",
+      "modding"
+    ],
+    "image": null
+  },
+  {
+    "id": "gtsp-metal-switch-opener-kit",
+    "name": "GTSP Metal Switch Opener Kit",
+    "url": "https://amzn.to/3xBGw96",
+    "description": "Aluminum durable switch opener compatible with any MX Cherry style switches.",
+    "tags": [
+      "tools",
+      "switch-opener",
+      "accessories",
+      "modding",
+      "cherry-mx"
+    ],
+    "image": null
+  },
+  {
+    "id": "wowstick-electric-screwdriver",
+    "name": "Wowstick Electric Screwdriver",
+    "url": "https://amzn.to/3GcN7gD",
+    "description": "Wowstick mini electric screwdriver set for electronics work including keyboard assembly and disassembly.",
+    "tags": [
+      "tools",
+      "screwdriver",
+      "accessories",
+      "modding"
+    ],
+    "image": null
+  },
+  {
+    "id": "hakko-fx888d-soldering-station",
+    "name": "Hakko FX888D Soldering Station",
+    "url": "https://amzn.to/3WpkXcz",
+    "description": "Hakko FX888D digital soldering station. Industry-standard soldering iron for keyboard switch soldering.",
+    "tags": [
+      "tools",
+      "soldering",
+      "accessories",
+      "modding",
+      "hakko"
+    ],
+    "image": null
+  },
+  {
+    "id": "sparkfun-rotary-encoder",
+    "name": "SparkFun Rotary Encoder",
+    "url": "https://www.sparkfun.com/products/11722",
+    "description": "SparkFun rotary encoder for custom keyboard builds with encoder support.",
+    "tags": [
+      "tools",
+      "encoder",
+      "accessories",
+      "modding",
+      "diy"
+    ],
+    "image": null
+  },
+  {
+    "id": "mcmaster-carr-knob-for-encoder",
+    "name": "McMaster-Carr Knob for Encoder",
+    "url": "https://www.mcmaster.com/6432K52/",
+    "description": "McMaster-Carr knob compatible with rotary encoders for custom keyboard builds.",
+    "tags": [
+      "tools",
+      "encoder",
+      "accessories",
+      "modding",
+      "diy"
+    ],
+    "image": null
+  },
+  {
+    "id": "large-silicone-tool-mat",
+    "name": "Large Silicone Tool Mat",
+    "url": "https://amzn.to/3uUOMD4",
+    "description": "Large silicone work mat for keyboard disassembly and modding. Helps keep track of parts.",
+    "tags": [
+      "tools",
+      "accessories",
+      "modding",
+      "workmat"
+    ],
+    "image": null
+  },
+  {
+    "id": "silicone-work-mat-small",
+    "name": "Silicone Work Mat (small)",
+    "url": "https://amzn.to/3GSfY7Q",
+    "description": "Silicone work mat for keyboard modding, helping track small parts during disassembly.",
+    "tags": [
+      "tools",
+      "accessories",
+      "modding",
+      "workmat"
+    ],
+    "image": null
+  },
+  {
+    "id": "hagibis-cleaning-soft-brush-keyboard-cleaner",
+    "name": "Hagibis Cleaning Soft Brush Keyboard Cleaner",
+    "url": "https://amzn.to/34KYI7l",
+    "description": "Multi-function soft brush keyboard cleaner for removing dust and debris between keys.",
+    "tags": [
+      "cleaning",
+      "accessories",
+      "brush",
+      "maintenance"
+    ],
+    "image": null
+  },
+  {
+    "id": "falcon-dust-compressed-air",
+    "name": "Falcon Dust Compressed Air",
+    "url": "https://amzn.to/3rPA8es",
+    "description": "Compressed air duster for cleaning keyboards and removing dust from hard-to-reach areas.",
+    "tags": [
+      "cleaning",
+      "accessories",
+      "compressed-air",
+      "maintenance"
+    ],
+    "image": null
+  },
+  {
+    "id": "dust-cleaning-gel",
+    "name": "Dust Cleaning Gel",
+    "url": "https://amzn.to/3gQJQ9W",
+    "description": "Universal electronics cleaning gel for keyboards, calculators, and other electronics.",
+    "tags": [
+      "cleaning",
+      "accessories",
+      "gel",
+      "maintenance"
+    ],
+    "image": null
+  },
+  {
+    "id": "keycap-puller-and-brushes",
+    "name": "Keycap Puller and Brushes",
+    "url": "https://amzn.to/352c2UU",
+    "description": "Stainless steel keycap puller and cleaning brush set for mechanical keyboards.",
+    "tags": [
+      "tools",
+      "keycap-puller",
+      "accessories",
+      "modding"
+    ],
+    "image": null
+  },
+  {
+    "id": "microfiber-cleaning-cloths",
+    "name": "Microfiber Cleaning Cloths",
+    "url": "https://amzn.to/3oQwS0g",
+    "description": "Multi-pack microfiber cleaning cloths for drying keycaps and surface cleaning keyboards.",
+    "tags": [
+      "cleaning",
+      "accessories",
+      "microfiber",
+      "maintenance"
+    ],
+    "image": null
+  },
+  {
+    "id": "krytox-205g0-lube",
+    "name": "Krytox 205g0 Lube",
+    "url": "https://amzn.to/3GjD8W8",
+    "description": "Krytox GPL 205g0 switch lubricant. The gold standard for lubing linear keyboard switches.",
+    "tags": [
+      "tools",
+      "lube",
+      "accessories",
+      "modding",
+      "krytox"
+    ],
+    "image": null
+  },
+  {
+    "id": "durock-v2-stabilizers",
+    "name": "Durock V2 Stabilizers",
+    "url": "https://amzn.to/3UIiyb7",
+    "description": "Premium screw-in keyboard stabilizers with gold-plated stainless steel wires and polycarbonate housing. Pre-clipped.",
+    "tags": [
+      "stabilizers",
+      "accessories",
+      "modding",
+      "durock",
+      "screw-in"
+    ],
+    "image": null
+  },
+  {
+    "id": "ws-stabs-v3-1-black-glitter-stabilizers",
+    "name": "WS Stabs V3.1 Black Glitter Stabilizers",
+    "url": "https://amzn.to/3GgEbbh",
+    "description": "Wuque Studio WS Stabs V3.1 Black Glitter stabilizers. Screw-in with polycarbonate housing.",
+    "tags": [
+      "stabilizers",
+      "accessories",
+      "modding",
+      "wuque-studio",
+      "screw-in"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-everglide-panda-stabilizers",
+    "name": "DROP Everglide Panda Stabilizers",
+    "url": "https://drop.com/buy/drop-everglide-panda-mechanical-keyboard-stabilizers?utm_source=linkshare&referer=T93XGG",
+    "description": "Drop Everglide Panda screw-in keyboard stabilizers with transparent housing.",
+    "tags": [
+      "stabilizers",
+      "accessories",
+      "modding",
+      "drop",
+      "everglide",
+      "screw-in"
+    ],
+    "image": null
+  },
+  {
+    "id": "gateron-yellow-switches",
+    "name": "Gateron Yellow Switches",
+    "url": "https://amzn.to/3vVvpsC",
+    "description": "Budget-friendly smooth linear switches. 50g actuation, 5-pin PCB mount, transparent housing. Popular with beginners.",
+    "tags": [
+      "switches",
+      "linear",
+      "gateron",
+      "yellow",
+      "budget"
+    ],
+    "image": null
+  },
+  {
+    "id": "gateron-yellow-switches-alternate",
+    "name": "Gateron Yellow Switches (alternate)",
+    "url": "https://amzn.to/3Yue4mB",
+    "description": "Gateron Yellow linear switches. Smooth, affordable, and compatible with most custom keyboard PCBs.",
+    "tags": [
+      "switches",
+      "linear",
+      "gateron",
+      "yellow",
+      "budget"
+    ],
+    "image": null
+  },
+  {
+    "id": "everglide-dark-jade-black-switches",
+    "name": "Everglide Dark Jade Black Switches",
+    "url": "https://amzn.to/35RJHAR",
+    "description": "Everglide Dark Jade Black linear switches for mechanical keyboards.",
+    "tags": [
+      "switches",
+      "linear",
+      "everglide"
+    ],
+    "image": null
+  },
+  {
+    "id": "glorious-panda-switches",
+    "name": "Glorious Panda Switches",
+    "url": "https://drop.com/buy/glorious-panda-mechanical-switches?utm_source=linkshare&referer=T93XGG",
+    "description": "Glorious Panda tactile switches. High tactility, pre-lubed retooled version of Holy Pandas.",
+    "tags": [
+      "switches",
+      "tactile",
+      "glorious",
+      "panda"
+    ],
+    "image": null
+  },
+  {
+    "id": "cherry-mx-clear-switches",
+    "name": "Cherry MX Clear Switches",
+    "url": "https://amzn.to/3rPAFoo",
+    "description": "Cherry MX Clear medium-heavy tactile switches. 65g actuation, firm bump.",
+    "tags": [
+      "switches",
+      "tactile",
+      "cherry",
+      "clear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-halo-clear-switches",
+    "name": "Drop Halo Clear Switches",
+    "url": "https://drop.com/buy/drop-halo-switches?utm_source=linkshare&referer=T93XGG",
+    "description": "Drop Halo Clear tactile switches with a light, smooth tactile bump.",
+    "tags": [
+      "switches",
+      "tactile",
+      "drop",
+      "halo",
+      "clear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-holy-panda-switches",
+    "name": "Drop Holy Panda Switches",
+    "url": "https://drop.com/buy/massdrop-x-invyr-holy-panda-mechanical-switches?utm_source=linkshare&referer=T93XGG",
+    "description": "Drop Holy Panda tactile switches. The legendary combination of Halo stem and Invyr Panda housing.",
+    "tags": [
+      "switches",
+      "tactile",
+      "drop",
+      "holy-panda",
+      "premium"
+    ],
+    "image": null
+  },
+  {
+    "id": "zealios-switches",
+    "name": "Zealios Switches",
+    "url": "https://drop.com/buy/massdrop-x-zeal-pc-zealios-switches?utm_source=linkshare&referer=T93XGG",
+    "description": "Zealios tactile switches from Zeal PC. Premium tactile with smooth bump and gold-plated spring.",
+    "tags": [
+      "switches",
+      "tactile",
+      "zealios",
+      "zeal-pc",
+      "premium"
+    ],
+    "image": null
+  },
+  {
+    "id": "akko-v3-penguin-tactile-silent-switch",
+    "name": "Akko V3 Penguin Tactile Silent Switch",
+    "url": "https://amzn.to/4bDz2ta",
+    "description": "Akko V3 Penguin silent tactile switch. 50gf actuation, 5-pin, factory pre-lubed. Clear tactile event with quiet dampening.",
+    "tags": [
+      "switches",
+      "tactile",
+      "silent",
+      "akko",
+      "5-pin",
+      "pre-lubed"
+    ],
+    "image": "/images/posts/silent-keyboard-switches/71DAW9MQoKL._AC_SL1500_.jpg"
+  },
+  {
+    "id": "akko-v3-fairy-linear-silent-switch",
+    "name": "AKKO V3 Fairy Linear Silent Switch",
+    "url": "https://amzn.to/4bU5LsV",
+    "description": "Akko V3 Fairy silent linear switch. 50gf actuation, 5-pin, factory pre-lubed. Smooth creamy linear with thorough sound dampening.",
+    "tags": [
+      "switches",
+      "linear",
+      "silent",
+      "akko",
+      "5-pin",
+      "pre-lubed"
+    ],
+    "image": null
+  },
+  {
+    "id": "outemu-honey-peach-v3-silent-linear-switch",
+    "name": "Outemu Honey Peach V3 Silent Linear Switch",
+    "url": "https://amzn.to/4cg69mU",
+    "description": "Outemu Honey Peach V3 silent linear switch. 40gf actuation, 5-pin, factory pre-lubed, 70-piece pack. Ultra-light quiet linear.",
+    "tags": [
+      "switches",
+      "linear",
+      "silent",
+      "outemu",
+      "5-pin",
+      "pre-lubed",
+      "budget"
+    ],
+    "image": null
+  },
+  {
+    "id": "akko-cream-yellow-switches",
+    "name": "Akko Cream Yellow Switches",
+    "url": "https://en.akkogear.com/products/akko-cs-switch-cream-yellow?ref=29468",
+    "description": "Akko CS Cream Yellow linear switches. Smooth 35gf actuation with factory lubing.",
+    "tags": [
+      "switches",
+      "linear",
+      "akko",
+      "cream-yellow",
+      "budget"
+    ],
+    "image": null
+  },
+  {
+    "id": "akko-cream-blue-switches",
+    "name": "Akko Cream Blue Switches",
+    "url": "https://en.akkogear.com/products/akko-cs-switch-cream-blue?ref=29468",
+    "description": "Akko CS Cream Blue clicky switches.",
+    "tags": [
+      "switches",
+      "clicky",
+      "akko",
+      "cream-blue"
+    ],
+    "image": null
+  },
+  {
+    "id": "akko-cream-black-switches",
+    "name": "Akko Cream Black Switches",
+    "url": "https://en.akkogear.com/products/akko-cs-switch-cream-black?ref=29468",
+    "description": "Akko CS Cream Black linear switches with heavier actuation.",
+    "tags": [
+      "switches",
+      "linear",
+      "akko",
+      "cream-black"
+    ],
+    "image": null
+  },
+  {
+    "id": "akko-piano-switches",
+    "name": "Akko Piano Switches",
+    "url": "https://en.akkogear.com/products/akko-cs-switch-piano?ref=29468",
+    "description": "Akko CS Piano linear switches with POM housing for a smooth, deep sound.",
+    "tags": [
+      "switches",
+      "linear",
+      "akko",
+      "piano"
+    ],
+    "image": null
+  },
+  {
+    "id": "akko-matcha-green-switches",
+    "name": "Akko Matcha Green Switches",
+    "url": "https://en.akkogear.com/products/akko-cs-switch-matcha-green?ref=29468",
+    "description": "Akko CS Matcha Green tactile switches with light bump.",
+    "tags": [
+      "switches",
+      "tactile",
+      "akko",
+      "matcha-green"
+    ],
+    "image": null
+  },
+  {
+    "id": "akko-lavender-purple-switches",
+    "name": "Akko Lavender Purple Switches",
+    "url": "https://en.akkogear.com/products/akko-cs-switch-lavender-purple?ref=29468",
+    "description": "Akko CS Lavender Purple tactile switches.",
+    "tags": [
+      "switches",
+      "tactile",
+      "akko",
+      "lavender-purple"
+    ],
+    "image": null
+  },
+  {
+    "id": "akko-silver-pro-switches",
+    "name": "Akko Silver Pro Switches",
+    "url": "https://en.akkogear.com/products/akko-cs-switch-silver-pro?ref=29468",
+    "description": "Akko CS Silver Pro linear switches. Speed switches with short pre-travel.",
+    "tags": [
+      "switches",
+      "linear",
+      "akko",
+      "silver",
+      "speed"
+    ],
+    "image": null
+  },
+  {
+    "id": "akko-crystal-pro-switches",
+    "name": "Akko Crystal Pro Switches",
+    "url": "https://en.akkogear.com/products/akko-cs-switch-crystal?ref=29468",
+    "description": "Akko CS Crystal Pro linear switches with transparent housing for improved RGB.",
+    "tags": [
+      "switches",
+      "linear",
+      "akko",
+      "crystal",
+      "rgb"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-mt3-white-on-black-keycaps",
+    "name": "Drop MT3 White-on-Black Keycaps",
+    "url": "https://amzn.to/3BzUg69",
+    "description": "MT3 profile high-sculpted keycap set in white-on-black colorway. Ortholinear kit available.",
+    "tags": [
+      "keycaps",
+      "mt3",
+      "drop",
+      "ortholinear",
+      "pbt"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-matt3o-mt3-susuwatari-keycap-set",
+    "name": "Drop + Matt3o MT3 Susuwatari Keycap Set",
+    "url": "https://amzn.to/3vx4ktm",
+    "description": "Popular MT3 profile keycap set in black, red, and grey. Doubleshot legends. Ortholinear kit available.",
+    "tags": [
+      "keycaps",
+      "mt3",
+      "drop",
+      "matt3o",
+      "ortholinear",
+      "susuwatari"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-matt3o-mt3-susuwatari-alternate",
+    "name": "Drop + Matt3o MT3 Susuwatari (alternate)",
+    "url": "https://amzn.to/369XMtz",
+    "description": "Drop + Matt3o MT3 Susuwatari keycap set alternate listing. Dark colorway with MT3 sculpt.",
+    "tags": [
+      "keycaps",
+      "mt3",
+      "drop",
+      "matt3o",
+      "susuwatari",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-mt3-camillo-keycap-set",
+    "name": "Drop MT3 Camillo Keycap Set",
+    "url": "https://amzn.to/2TJwhkq",
+    "description": "Italian-inspired MT3 high profile keycap set in blue, white, and grey. Ortholinear kit available.",
+    "tags": [
+      "keycaps",
+      "mt3",
+      "drop",
+      "camillo",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-matt3o-mt3-dev-tty-keycap-set",
+    "name": "Drop + Matt3o MT3 /dev/tty Keycap Set",
+    "url": "https://amzn.to/3wJs92I",
+    "description": "MT3 profile keycap set with minimal colorway and color-accent function keys. Ortholinear kit available.",
+    "tags": [
+      "keycaps",
+      "mt3",
+      "drop",
+      "matt3o",
+      "devtty",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-matt3o-mt3-dev-tty-alternate",
+    "name": "Drop + Matt3o MT3 /dev/tty (alternate)",
+    "url": "https://amzn.to/3uSLYXc",
+    "description": "Drop + Matt3o MT3 /dev/tty keycap set. Minimal colorway with color accent on function keys.",
+    "tags": [
+      "keycaps",
+      "mt3",
+      "drop",
+      "matt3o",
+      "devtty",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-mt3-black-on-white-keycap-set",
+    "name": "Drop MT3 Black-on-White Keycap Set",
+    "url": "https://amzn.to/3cRfYss",
+    "description": "Ultra-minimal MT3 profile keycap set in black-on-white (BoW). Works great with underglow boards.",
+    "tags": [
+      "keycaps",
+      "mt3",
+      "drop",
+      "black-on-white",
+      "ortholinear",
+      "minimal"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-mt3-black-on-white-alternate",
+    "name": "Drop MT3 Black-on-White (alternate)",
+    "url": "https://amzn.to/3sED0Kp",
+    "description": "DROP MT3 Black-on-White keycap set. Clean minimal design for any setup.",
+    "tags": [
+      "keycaps",
+      "mt3",
+      "drop",
+      "black-on-white",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-mt3-cyber-keycap-set",
+    "name": "Drop MT3 Cyber Keycap Set",
+    "url": "https://drop.com/buy/drop-mt3-cyber-keycap-set?utm_source=linkshare&referer=T93XGG",
+    "description": "Drop MT3 Cyber keycap set with dark cyberpunk-inspired colorway.",
+    "tags": [
+      "keycaps",
+      "mt3",
+      "drop",
+      "cyber",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-mt3-dasher-keycap-set",
+    "name": "Drop MT3 Dasher Keycap Set",
+    "url": "https://drop.com/buy/drop-mt3-dasher-keycap-set?utm_source=linkshare&referer=T93XGG",
+    "description": "Drop MT3 Dasher keycap set. Vintage DEC colorway with teal and dark grey.",
+    "tags": [
+      "keycaps",
+      "mt3",
+      "drop",
+      "dasher",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-mt3-serika-keycap-set",
+    "name": "Drop MT3 Serika Keycap Set",
+    "url": "https://drop.com/buy/drop-mt3-serika-keycap-set?utm_source=linkshare&referer=T93XGG",
+    "description": "Drop MT3 Serika keycap set with warm cream and brown accent colorway.",
+    "tags": [
+      "keycaps",
+      "mt3",
+      "drop",
+      "serika",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-mt3-jukebox-keycap-set",
+    "name": "Drop MT3 Jukebox Keycap Set",
+    "url": "https://drop.com/buy/drop-mt3-jukebox-keycap-set?utm_source=linkshare&referer=T93XGG",
+    "description": "Drop MT3 Jukebox keycap set inspired by vintage jukebox colorways.",
+    "tags": [
+      "keycaps",
+      "mt3",
+      "drop",
+      "jukebox",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-mt3-skiidata-keycap-set",
+    "name": "Drop MT3 Skiidata Keycap Set",
+    "url": "https://drop.com/buy/drop-mt3-skiidata-keycap-set?utm_source=linkshare&referer=T93XGG",
+    "description": "Drop MT3 Skiidata keycap set with retro ski resort aesthetic.",
+    "tags": [
+      "keycaps",
+      "mt3",
+      "drop",
+      "skiidata",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-mt3-dusk-keycap-set",
+    "name": "Drop MT3 Dusk Keycap Set",
+    "url": "https://drop.com/buy/drop-mt3-dusk-keycap-set?utm_source=linkshare&referer=T93XGG",
+    "description": "Drop MT3 Dusk keycap set with purple and dark grey dusk colorway.",
+    "tags": [
+      "keycaps",
+      "mt3",
+      "drop",
+      "dusk",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-mt3-godspeed-keycap-set",
+    "name": "Drop MT3 Godspeed Keycap Set",
+    "url": "https://drop.com/buy/massdrop-x-mito-canvas-xda-custom-keycap-set?utm_source=linkshare&referer=T93XGG",
+    "description": "Drop MT3 Godspeed keycap set with space mission-inspired colorway.",
+    "tags": [
+      "keycaps",
+      "mt3",
+      "drop",
+      "godspeed",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-mt2-black-on-white-keycap-set",
+    "name": "Drop MT2 Black-on-White Keycap Set",
+    "url": "https://drop.com/buy/drop-mt2-black-on-white-keycap-set?utm_source=linkshare&referer=T93XGG",
+    "description": "Drop MT2 Black-on-White keycap set. Lower-profile MT profile with clean BoW colorway.",
+    "tags": [
+      "keycaps",
+      "mt2",
+      "drop",
+      "black-on-white",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-mt2-white-on-black-keycap-set",
+    "name": "Drop MT2 White-on-Black Keycap Set",
+    "url": "https://drop.com/buy/drop-mt2-white-on-black-keycap-set?utm_source=linkshare&referer=T93XGG",
+    "description": "Drop MT2 White-on-Black keycap set.",
+    "tags": [
+      "keycaps",
+      "mt2",
+      "drop",
+      "white-on-black",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-mt2-genesis-keycap-set",
+    "name": "Drop MT2 Genesis Keycap Set",
+    "url": "https://drop.com/buy/drop-mt2-genesis-keycap-set?utm_source=linkshare&referer=T93XGG",
+    "description": "Drop MT2 Genesis keycap set with retro-inspired colorway.",
+    "tags": [
+      "keycaps",
+      "mt2",
+      "drop",
+      "genesis",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-mito-xda-canvas-keycap-set",
+    "name": "Drop + MiTo XDA Canvas Keycap Set",
+    "url": "https://amzn.to/3xpMI3U",
+    "description": "Minimal XDA profile keycap set in off-white and grey. Uniform low-profile design.",
+    "tags": [
+      "keycaps",
+      "xda",
+      "drop",
+      "mito",
+      "canvas",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-acute-keycap-set",
+    "name": "Drop Acute Keycap Set",
+    "url": "https://amzn.to/3rzSVKH",
+    "description": "OEM profile acute keycaps originally bundled with the Planck. Dye-subbed PBT with slim legends.",
+    "tags": [
+      "keycaps",
+      "oem",
+      "drop",
+      "acute",
+      "planck",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-planck-acute-keycap-set",
+    "name": "Drop Planck Acute Keycap Set",
+    "url": "https://amzn.to/3DlHx8i",
+    "description": "Planck-specific dye-sub PBT acute keycap set designed by Jack Humbert. OEM profile.",
+    "tags": [
+      "keycaps",
+      "oem",
+      "drop",
+      "acute",
+      "planck",
+      "ortholinear",
+      "pbt"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-preonic-acute-keycap-set",
+    "name": "Drop Preonic Acute Keycap Set",
+    "url": "https://amzn.to/3ajsxLA",
+    "description": "Preonic-specific dye-sub PBT acute keycap set. OEM profile with slim legends.",
+    "tags": [
+      "keycaps",
+      "oem",
+      "drop",
+      "acute",
+      "preonic",
+      "ortholinear",
+      "pbt"
+    ],
+    "image": null
+  },
+  {
+    "id": "75-keys-dsa-dye-sub-pbt-keycaps",
+    "name": "75 Keys DSA Dye Sub PBT Keycaps",
+    "url": "https://amzn.to/3gPGwf5",
+    "description": "Budget DSA profile dye-sub PBT keycap set suitable for ID75, Planck, and Preonic ortholinear keyboards.",
+    "tags": [
+      "keycaps",
+      "dsa",
+      "pbt",
+      "budget",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "ymdk-carbon-laser-etched-oem-keycaps",
+    "name": "YMDK Carbon Laser-Etched OEM Keycaps",
+    "url": "https://amzn.to/3DEKmCd",
+    "description": "Budget YMDK Carbon keycap set in OEM profile. Enough keys for Planck or Preonic. Also available in blank.",
+    "tags": [
+      "keycaps",
+      "ymdk",
+      "oem",
+      "budget",
+      "ortholinear",
+      "carbon"
+    ],
+    "image": null
+  },
+  {
+    "id": "ymdk-carbon-budget-ortho",
+    "name": "YMDK Carbon (budget ortho)",
+    "url": "https://amzn.to/3agbvhk",
+    "description": "Budget YMDK Carbon OEM profile keycap set in carbon colorway. Also available in blank. Good for Planck or Preonic.",
+    "tags": [
+      "keycaps",
+      "ymdk",
+      "oem",
+      "budget",
+      "carbon",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "ymdk-xda-blank-pbt-keycaps",
+    "name": "YMDK XDA Blank PBT Keycaps",
+    "url": "https://amzn.to/3mP80VX",
+    "description": "YMDK XDA profile blank PBT keycap set for ortholinear keyboards.",
+    "tags": [
+      "keycaps",
+      "ymdk",
+      "xda",
+      "blank",
+      "pbt",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "ymdk-75-keys-dsa-pbt-keycaps",
+    "name": "YMDK 75 Keys DSA PBT Keycaps",
+    "url": "https://amzn.to/3eI2TSO",
+    "description": "YMDK 75-key DSA profile PBT keycap set for ortholinear keyboards.",
+    "tags": [
+      "keycaps",
+      "ymdk",
+      "dsa",
+      "pbt",
+      "ortholinear",
+      "budget"
+    ],
+    "image": null
+  },
+  {
+    "id": "ymdk-matcha-zda-keycap-set",
+    "name": "YMDK Matcha ZDA Keycap Set",
+    "url": "https://amzn.to/3GfKnLt",
+    "description": "YMDK Matcha ZDA profile keycap set in green and white matcha colorway.",
+    "tags": [
+      "keycaps",
+      "ymdk",
+      "zda",
+      "matcha",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "ymdk-dsa-48-keys-pbt-keycap-set",
+    "name": "YMDK DSA 48 Keys PBT Keycap Set",
+    "url": "https://amzn.to/3Gg1JDH",
+    "description": "YMDK 48-key DSA profile PBT keycap set for Planck and other 40% ortholinear keyboards.",
+    "tags": [
+      "keycaps",
+      "ymdk",
+      "dsa",
+      "pbt",
+      "40%",
+      "ortholinear",
+      "planck"
+    ],
+    "image": null
+  },
+  {
+    "id": "ymdk-58-mixed-colors-dsa-keycap-set",
+    "name": "YMDK 58 Mixed Colors DSA Keycap Set",
+    "url": "https://amzn.to/3WkwKKm",
+    "description": "YMDK 58-key mixed color DSA profile PBT keycap set for Preonic and other 50% ortholinear keyboards.",
+    "tags": [
+      "keycaps",
+      "ymdk",
+      "dsa",
+      "pbt",
+      "50%",
+      "ortholinear",
+      "preonic"
+    ],
+    "image": null
+  },
+  {
+    "id": "ymdk-dsa-9009-keycap-set",
+    "name": "YMDK DSA 9009 Keycap Set",
+    "url": "https://amzn.to/3GjnVgG",
+    "description": "YMDK DSA 9009 profile keycap set in classic vintage colorway.",
+    "tags": [
+      "keycaps",
+      "ymdk",
+      "dsa",
+      "9009",
+      "vintage",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "ymdk-ansi-iso-125-key-keycap-set",
+    "name": "YMDK ANSI ISO 125-Key Keycap Set",
+    "url": "https://amzn.to/3VlFWrs",
+    "description": "YMDK 125-key ANSI/ISO full-size PBT keycap set compatible with ortholinear builds.",
+    "tags": [
+      "keycaps",
+      "ymdk",
+      "ansi",
+      "iso",
+      "pbt",
+      "full-size"
+    ],
+    "image": null
+  },
+  {
+    "id": "xda-blank-pbt-keycaps-104-key",
+    "name": "XDA Blank PBT Keycaps (104-key)",
+    "url": "https://amzn.to/3eABKko",
+    "description": "104-key XDA profile blank PBT keycap set. Great for touch typists and ortholinear builds.",
+    "tags": [
+      "keycaps",
+      "xda",
+      "blank",
+      "pbt",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "kprepublic-dsa-pbt-blank-keycap-set",
+    "name": "KPRepublic DSA PBT Blank Keycap Set",
+    "url": "https://kprepublic.com/products/dsa-blank?dt_id=94852",
+    "description": "KPRepublic DSA profile blank PBT keycap set for custom keyboard builds.",
+    "tags": [
+      "keycaps",
+      "dsa",
+      "blank",
+      "pbt",
+      "budget",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "pimpmykeyboard-sa-snow-cap-keycap-set",
+    "name": "PimpMyKeyboard SA Snow Cap Keycap Set",
+    "url": "https://pimpmykeyboard.com/sa-snow-cap-keycap-set/?afmc=5w",
+    "description": "PimpMyKeyboard SA Snow Cap keycap set in white colorway. SA profile with deep sculpt.",
+    "tags": [
+      "keycaps",
+      "sa",
+      "pimpmykeyboard",
+      "snow-cap",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "pimpmykeyboard-sa-ice-cap-keycap-set",
+    "name": "PimpMyKeyboard SA Ice Cap Keycap Set",
+    "url": "https://pimpmykeyboard.com/sa-ice-cap-keycap-set/?afmc=5w",
+    "description": "PimpMyKeyboard SA Ice Cap keycap set. Clear and cool colorway in SA profile.",
+    "tags": [
+      "keycaps",
+      "sa",
+      "pimpmykeyboard",
+      "ice-cap",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "pimpmykeyboard-dsa-beyond-keycap-set",
+    "name": "PimpMyKeyboard DSA Beyond Keycap Set",
+    "url": "https://pimpmykeyboard.com/dsa-beyond-keycap-set/?afmc=5w",
+    "description": "PimpMyKeyboard DSA Beyond keycap set in a space-inspired colorway.",
+    "tags": [
+      "keycaps",
+      "dsa",
+      "pimpmykeyboard",
+      "beyond",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "pimpmykeyboard-dsa-quartz-keycap-set",
+    "name": "PimpMyKeyboard DSA Quartz Keycap Set",
+    "url": "https://pimpmykeyboard.com/dsa-quartz-keycap-set/?afmc=5w",
+    "description": "PimpMyKeyboard DSA Quartz keycap set with pink and light colorway.",
+    "tags": [
+      "keycaps",
+      "dsa",
+      "pimpmykeyboard",
+      "quartz",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "pimpmykeyboard-dsa-ferrous-keycap-set",
+    "name": "PimpMyKeyboard DSA Ferrous Keycap Set",
+    "url": "https://pimpmykeyboard.com/dsa-ferrous-keycap-set/?afmc=5w",
+    "description": "PimpMyKeyboard DSA Ferrous keycap set in dark metallic colorway.",
+    "tags": [
+      "keycaps",
+      "dsa",
+      "pimpmykeyboard",
+      "ferrous",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "pimpmykeyboard-dcs-pbt-blank-keycap-set",
+    "name": "PimpMyKeyboard DCS PBT Blank Keycap Set",
+    "url": "https://pimpmykeyboard.com/dcs-pbt-blank/?afmc=5w",
+    "description": "PimpMyKeyboard DCS profile PBT blank keycap set. Sculpted DCS profile, great for touch typists.",
+    "tags": [
+      "keycaps",
+      "dcs",
+      "blank",
+      "pbt",
+      "pimpmykeyboard",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "fkcaps-custom-keycaps",
+    "name": "FKcaps Custom Keycaps",
+    "url": "https://fkcaps.com/custom?a=tryorthokeys",
+    "description": "FKcaps custom keycap designer. Choose your own layout, legends, font, and colorway. 10% off with our affiliate link.",
+    "tags": [
+      "keycaps",
+      "custom",
+      "fkcaps",
+      "ortholinear"
+    ],
+    "image": null
+  },
+  {
+    "id": "gmk-n9-ortholinear-add-on-kit",
+    "name": "GMK N9 Ortholinear Add-on Kit",
+    "url": "https://keeb.io/products/gmk-n9-ortholinear-add-on-kit",
+    "description": "GMK N9 ortholinear add-on keycap kit from Keeb.io. Adds ortholinear-compatible keys to the GMK N9 set.",
+    "tags": [
+      "keycaps",
+      "gmk",
+      "ortholinear",
+      "add-on",
+      "keeb.io"
+    ],
+    "image": null
+  },
+  {
+    "id": "kono-store-keycaps",
+    "name": "Kono Store Keycaps",
+    "url": "https://sovrn.co/kono-keycaps",
+    "description": "Keycap sets from Kono Store. Wide selection of SA, DSA, and other profile keycaps.",
+    "tags": [
+      "keycaps",
+      "kono",
+      "sa",
+      "dsa"
+    ],
+    "image": null
+  },
+  {
+    "id": "kraken-keyboards-usb-c-cable",
+    "name": "Kraken Keyboards USB-C Cable",
+    "url": "https://amzn.to/3GkRRqm",
+    "description": "Kraken Keyboards custom braided USB-C keyboard cable.",
+    "tags": [
+      "accessories",
+      "cable",
+      "usb-c",
+      "kraken"
+    ],
+    "image": null
+  },
+  {
+    "id": "asceny-coiled-usb-c-cable",
+    "name": "Asceny Coiled USB-C Cable",
+    "url": "https://amzn.to/3WpAIlI",
+    "description": "Asceny coiled USB-C keyboard cable. Braided coiled cable for clean desk setups.",
+    "tags": [
+      "accessories",
+      "cable",
+      "usb-c",
+      "coiled"
+    ],
+    "image": null
+  },
+  {
+    "id": "cablemod-pro-coiled-keyboard-cable",
+    "name": "CableMod Pro Coiled Keyboard Cable",
+    "url": "https://cablemod.com/product/cablemod-pro-coiled-keyboard-cable/?ref=65078",
+    "description": "CableMod Pro coiled keyboard cable. Premium braided cable with tight coil and aviator connector option.",
+    "tags": [
+      "accessories",
+      "cable",
+      "usb-c",
+      "coiled",
+      "cablemod",
+      "premium"
+    ],
+    "image": null
+  },
+  {
+    "id": "procase-hard-carrying-case",
+    "name": "ProCase Hard Carrying Case",
+    "url": "https://amzn.to/3GgKQ3v",
+    "description": "ProCase hard shell carrying case for stethoscopes/small electronics. Suitable for compact keyboards.",
+    "tags": [
+      "accessories",
+      "case",
+      "carrying-case",
+      "portable"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-olkb-preonic-carrying-case",
+    "name": "Drop OLKB Preonic Carrying Case",
+    "url": "https://drop.com/buy/drop-olkb-preonic-keyboard-carrying-case?utm_source=linkshare&referer=T93XGG",
+    "description": "Official Drop OLKB Preonic carrying case. Fits Preonic boards perfectly with protective foam interior.",
+    "tags": [
+      "accessories",
+      "case",
+      "carrying-case",
+      "drop",
+      "olkb",
+      "preonic"
+    ],
+    "image": null
+  },
+  {
+    "id": "sumgsn-acrylic-keyboard-stand",
+    "name": "Sumgsn Acrylic Keyboard Stand",
+    "url": "https://amzn.to/3CxIPdl",
+    "description": "Sumgsn clear acrylic tilted keyboard display stand.",
+    "tags": [
+      "accessories",
+      "stand",
+      "display",
+      "acrylic"
+    ],
+    "image": null
+  },
+  {
+    "id": "selorss-keyboard-dust-cover",
+    "name": "SELORSS Keyboard Dust Cover",
+    "url": "https://amzn.to/3WuGeP5",
+    "description": "SELORSS transparent keyboard dust cover for protecting keyboards when not in use.",
+    "tags": [
+      "accessories",
+      "dust-cover",
+      "protection"
+    ],
+    "image": null
+  },
+  {
+    "id": "keychron-q0-macro-pad",
+    "name": "Keychron Q0 Macro Pad",
+    "url": "https://www.keychron.com/products/keychron-q0-qmk-via-custom-number-pad",
+    "description": "Keychron Q0 QMK/VIA custom number pad and macro pad. Aluminum case, hot-swap, gasket mount.",
+    "tags": [
+      "accessories",
+      "macro-pad",
+      "keychron",
+      "qmk",
+      "via",
+      "hot-swap",
+      "aluminum"
+    ],
+    "image": null
+  },
+  {
+    "id": "11-inch-ipad-pro",
+    "name": "11-inch iPad Pro",
+    "url": "https://amzn.to/3CuDNIM",
+    "description": "Apple 11-inch iPad Pro. Popular pairing for compact keyboard setups and mobile workstations.",
+    "tags": [
+      "accessories",
+      "ipad",
+      "apple",
+      "tablet"
+    ],
+    "image": null
+  },
+  {
+    "id": "akko-deals-page",
+    "name": "Akko Deals Page",
+    "url": "https://en.akkogear.com?ref=29468",
+    "description": "Akko official store. Keyboards, switches, and keycaps from Akko.",
+    "tags": [
+      "keyboard",
+      "keycaps",
+      "switches",
+      "akko"
+    ],
+    "image": null
+  },
+  {
+    "id": "drop-keyboard-club",
+    "name": "Drop Keyboard Club",
+    "url": "https://drop.com/keyboardclub",
+    "description": "Drop Keyboard Club - curated keyboard deals, group buys, and community picks from Drop.",
+    "tags": [
+      "keyboard",
+      "keycaps",
+      "switches",
+      "drop",
+      "deals"
+    ],
+    "image": null
+  },
+  {
+    "id": "kbdcraft-store",
+    "name": "KBDcraft Store",
+    "url": "https://kbdcraft.store/?ref=TRYORTHOKEYS",
+    "description": "KBDcraft store - brick-built keyboard kits. Use code TRYORTHOKEYS for 20% off.",
+    "tags": [
+      "keyboard",
+      "kbdcraft",
+      "brick",
+      "deals"
+    ],
+    "image": null
+  },
+  {
+    "id": "kprepublic-store-try-ortho-keys",
+    "name": "KPRepublic Store (Try Ortho Keys)",
+    "url": "https://kprepublic.com/try_ortho_keys",
+    "description": "KPRepublic store via Try Ortho Keys affiliate link. Budget ortholinear keyboards and components.",
+    "tags": [
+      "keyboard",
+      "kprepublic",
+      "ortholinear",
+      "budget"
+    ],
+    "image": null
+  }
+]

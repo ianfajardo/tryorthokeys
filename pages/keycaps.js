@@ -5,6 +5,7 @@ import Footer from "../components/footer";
 import Table from "react-bootstrap/Table";
 import Nav from "react-bootstrap/Nav";
 import Sticky from "react-stickynode";
+import { getUrl } from "../lib/affiliates";
 
 export default function Keycaps() {
   return (
@@ -194,7 +195,7 @@ export default function Keycaps() {
                       </div>
                       <div className="col-lg-2">
                         <a
-                          href="https://fkcaps.com/custom?a=tryorthokeys"
+                          href={getUrl('fkcaps-custom-keycaps')}
                           className="btn btn-lg btn-light"
                         >
                           Learn More
@@ -331,7 +332,7 @@ export default function Keycaps() {
                     <div className="row align-items-center">
                       <div className="col-lg-12">
                         <h2 className="font-weight-bold text-primary">
-                          <a href="https://drop.com/?referer=T93XGG">Drop</a>{" "}
+                          <a href={getUrl("https://drop.com/?referer=T93XGG")}>Drop</a>{" "}
                           Keycaps
                         </h2>
                         <p>
@@ -339,13 +340,13 @@ export default function Keycaps() {
                           on Amazon and group buys on their websites.
                         </p>
                         <a
-                          href="https://amzn.to/3kOm0gT"
+                          href={getUrl("https://amzn.to/3kOm0gT")}
                           className="btn btn-primary mr-2 mb-2"
                         >
                           Drop on Amazon
                         </a>
                         <a
-                          href="https://drop.com/?referer=T93XGG"
+                          href={getUrl("https://drop.com/?referer=T93XGG")}
                           className="btn btn-secondary mb-2"
                         >
                           Drop Website
@@ -371,7 +372,7 @@ export default function Keycaps() {
                               <td>Preonic Acute Keycaps</td>
                               <td>OEM</td>
                               <td>
-                                <a href="https://amzn.to/3jCLKx5">
+                                <a href={getUrl("https://amzn.to/3jCLKx5")}>
                                   <img
                                     src="/keycaps/acutepreonic.jpg"
                                     alt="Preonic Keycaps"
@@ -380,14 +381,14 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://amzn.to/3jCLKx5">Amazon</a>
+                                <a href={getUrl("https://amzn.to/3jCLKx5")}>Amazon</a>
                               </td>
                             </tr>
                             <tr>
                               <td>Black-on-White Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a href="https://amzn.to/3zKJ6Lu">
+                                <a href={getUrl("https://amzn.to/3zKJ6Lu")}>
                                   <img
                                     src="/keycaps/mt3bow.jpg"
                                     alt="MT3 BoW Ortholinear keycaps"
@@ -396,14 +397,14 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://amzn.to/3zKJ6Lu">Amazon</a>
+                                <a href={getUrl("https://amzn.to/3zKJ6Lu")}>Amazon</a>
                               </td>
                             </tr>
                             <tr>
                               <td>White-on-Black Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a href="https://amzn.to/3BzUg69">
+                                <a href={getUrl('drop-mt3-white-on-black-keycaps')}>
                                   <img
                                     src="/keycaps/mt3wob.jpg"
                                     alt="MT3 WoB Ortholinear keycaps"
@@ -412,14 +413,14 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://amzn.to/3BzUg69">Amazon</a>
+                                <a href={getUrl('drop-mt3-white-on-black-keycaps')}>Amazon</a>
                               </td>
                             </tr>
                             <tr>
                               <td>Dasher Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a href="https://amzn.to/38AcCaN">
+                                <a href={getUrl("https://amzn.to/38AcCaN")}>
                                   <img
                                     src="/keycaps/mt3dasher.jpg"
                                     alt="MT3 Dasher Ortholinear keycaps"
@@ -428,14 +429,14 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://amzn.to/38AcCaN">Amazon</a>
+                                <a href={getUrl("https://amzn.to/38AcCaN")}>Amazon</a>
                               </td>
                             </tr>
                             <tr>
                               <td>MiTo Canvas Keycap Set</td>
                               <td>XDA</td>
                               <td>
-                                <a href="https://amzn.to/3t7UMoY">
+                                <a href={getUrl("https://amzn.to/3t7UMoY")}>
                                   <img
                                     src="/keycaps/canvas.jpg"
                                     alt="MiTo Canvas Ortholinear keycaps"
@@ -444,14 +445,14 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://amzn.to/3t7UMoY">Amazon</a>
+                                <a href={getUrl("https://amzn.to/3t7UMoY")}>Amazon</a>
                               </td>
                             </tr>
                             <tr>
                               <td>Matt3o /dev/tty Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a href="https://drop.com/buy/drop-matt3o-mt3-dev-tty-keycap-set?utm_source=linkshare&referer=T93XGG">
+                                <a href={getUrl("https://drop.com/buy/drop-matt3o-mt3-dev-tty-keycap-set?utm_source=linkshare&referer=T93XGG")}>
                                   <img
                                     src="/keycaps/dev.jpg"
                                     alt="Matt3o /dev/tty Ortholinear keycaps"
@@ -460,14 +461,14 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://amzn.to/3jCBsgw">Amazon</a>
+                                <a href={getUrl("https://amzn.to/3jCBsgw")}>Amazon</a>
                               </td>
                             </tr>
                             <tr>
                               <td>Matt3o Susuwatari Custom Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a href="https://amzn.to/38FBs96">
+                                <a href={getUrl("https://amzn.to/38FBs96")}>
                                   <img
                                     src="/keycaps/dev2.jpg"
                                     alt="Matt3o Susuwatari Ortholinear Keycap"
@@ -476,14 +477,14 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://amzn.to/38FBs96">Amazon</a>
+                                <a href={getUrl("https://amzn.to/38FBs96")}>Amazon</a>
                               </td>
                             </tr>
                             <tr>
                               <td>Camillo Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a href="https://drop.com/buy/drop-mt3-camillo-keycap-set?utm_source=linkshare&referer=T93XGG">
+                                <a href={getUrl("https://drop.com/buy/drop-mt3-camillo-keycap-set?utm_source=linkshare&referer=T93XGG")}>
                                   <img
                                     src="/keycaps/camilo.jpg"
                                     alt="Camillo Ortholinear Keycap Set"
@@ -492,14 +493,14 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://amzn.to/3zEMeII">Amazon</a>
+                                <a href={getUrl("https://amzn.to/3zEMeII")}>Amazon</a>
                               </td>
                             </tr>
                             <tr>
                               <td>Jukebox Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a href="https://amzn.to/3kLJL9m">
+                                <a href={getUrl("https://amzn.to/3kLJL9m")}>
                                   <img
                                     src="/keycaps/jukebox.jpg"
                                     alt="Jukebox Ortholinear Keycap Set"
@@ -508,14 +509,14 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://amzn.to/3kLJL9m">Amazon</a>
+                                <a href={getUrl("https://amzn.to/3kLJL9m")}>Amazon</a>
                               </td>
                             </tr>
                             <tr>
                               <td>MiTO Cyber Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a href="https://amzn.to/3humB6r">
+                                <a href={getUrl("https://amzn.to/3humB6r")}>
                                   <img
                                     src="/keycaps/cyber.jpg"
                                     alt="MiTO Cyber Orthlinear Keycap Set"
@@ -524,14 +525,14 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://amzn.to/3humB6r">Amazon</a>
+                                <a href={getUrl("https://amzn.to/3humB6r")}>Amazon</a>
                               </td>
                             </tr>
                             <tr>
                               <td>DROP MT3 Skiidata Keycap Set</td>
                               <td>MT3</td>
                               <td>
-                                <a href="https://amzn.to/3pWAcaq">
+                                <a href={getUrl("https://amzn.to/3pWAcaq")}>
                                   <img
                                     src="/keycaps/skiidata.jpg"
                                     alt="DROP MT3 Skiidata Orthlinear Keycap Set"
@@ -540,14 +541,14 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://amzn.to/3pWAcaq">Amazon</a>
+                                <a href={getUrl("https://amzn.to/3pWAcaq")}>Amazon</a>
                               </td>
                             </tr>
                             <tr>
                               <td>Planck Acute Keycaps</td>
                               <td>OEM</td>
                               <td>
-                                <a href="https://amzn.to/3rzSVKH">
+                                <a href={getUrl('drop-acute-keycap-set')}>
                                   <img
                                     src="/keycaps/acute.jpg"
                                     alt="Acute Planck Keycaps"
@@ -556,7 +557,7 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://amzn.to/3rzSVKH">Amazon</a>
+                                <a href={getUrl('drop-acute-keycap-set')}>Amazon</a>
                               </td>
                             </tr>
                           </tbody>
@@ -755,14 +756,14 @@ export default function Keycaps() {
                     <div className="row align-items-center">
                       <div className="col-lg-12">
                         <h2 className="font-weight-bold text-primary">
-                          <a href="https://kbdfans.com/r?id=ifs0u0">KBDfans</a>
+                          <a href={getUrl("https://kbdfans.com/r?id=ifs0u0")}>KBDfans</a>
                         </h2>
                         <p>
                           KBDfans offers a plethora of keyboards and accessories
                           including the ortholinear keyboard the NIU40.
                         </p>
                         <a
-                          href="https://kbdfans.com/r?id=ifs0u0"
+                          href={getUrl("https://kbdfans.com/r?id=ifs0u0")}
                           className="btn btn-primary mr-2 mb-2"
                         >
                           KBDfans Website
@@ -788,7 +789,7 @@ export default function Keycaps() {
                               <td>R2 DA Profile 40V2</td>
                               <td>DA</td>
                               <td>
-                                <a href="https://kbdfans.com/r?id=ifs0u0">
+                                <a href={getUrl("https://kbdfans.com/r?id=ifs0u0")}>
                                   <img
                                     style={{ maxWidth: "160px" }}
                                     src="https://cdn.shopify.com/s/files/1/1473/3902/products/2_ed9114a6-6036-4f11-ba06-0f208b534be6_900x.png?v=1584436755"
@@ -797,7 +798,7 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://kbdfans.com/r?id=ifs0u0">
+                                <a href={getUrl("https://kbdfans.com/r?id=ifs0u0")}>
                                   View Now
                                 </a>
                               </td>
@@ -806,7 +807,7 @@ export default function Keycaps() {
                               <td>R2 Enjoypbt Grayscale Keycaps</td>
                               <td>Cherry</td>
                               <td>
-                                <a href="https://kbdfans.com/r?id=ifs0u0">
+                                <a href={getUrl("https://kbdfans.com/r?id=ifs0u0")}>
                                   <img
                                     style={{ maxWidth: "160px" }}
                                     src="https://cdn.shopify.com/s/files/1/1473/3902/products/40_e627bde9-3581-4678-8569-f569b64a5e4a_900x.jpg?v=1649383848"
@@ -815,7 +816,7 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://kbdfans.com/r?id=ifs0u0">
+                                <a href={getUrl("https://kbdfans.com/r?id=ifs0u0")}>
                                   View now
                                 </a>
                               </td>
@@ -960,7 +961,7 @@ export default function Keycaps() {
                               <td>YMDK XDA Blank PBT Keycaps</td>
                               <td>XDA</td>
                               <td>
-                                <a href="https://amzn.to/3DLbdwG">
+                                <a href={getUrl("https://amzn.to/3DLbdwG")}>
                                   <img
                                     style={{ maxWidth: "160px" }}
                                     src="/keycaps/ymdk-dsa.jpg"
@@ -969,14 +970,14 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://amzn.to/3DLbdwG">Amazon</a>
+                                <a href={getUrl("https://amzn.to/3DLbdwG")}>Amazon</a>
                               </td>
                             </tr>
                             <tr>
                               <td>YMDK DSA Blank PBT Keycaps</td>
                               <td>DSA</td>
                               <td>
-                                <a href="https://amzn.to/3jKH2xH">
+                                <a href={getUrl("https://amzn.to/3jKH2xH")}>
                                   <img
                                     style={{ maxWidth: "160px" }}
                                     src="/keycaps/ymdk-dsa.jpg"
@@ -985,14 +986,14 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://amzn.to/3jKH2xH">Amazon</a>
+                                <a href={getUrl("https://amzn.to/3jKH2xH")}>Amazon</a>
                               </td>
                             </tr>
                             <tr>
                               <td>YMDK 75 Keys DSA PBT Keycaps</td>
                               <td>DSA</td>
                               <td>
-                                <a href="https://amzn.to/3mWpj8h">
+                                <a href={getUrl("https://amzn.to/3mWpj8h")}>
                                   <img
                                     style={{ maxWidth: "160px" }}
                                     src="/keycaps/ymdk-75.jpg"
@@ -1001,7 +1002,7 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://amzn.to/3mWpj8h">Amazon</a>
+                                <a href={getUrl("https://amzn.to/3mWpj8h")}>Amazon</a>
                               </td>
                             </tr>
                             <tr>
@@ -1010,7 +1011,7 @@ export default function Keycaps() {
                               </td>
                               <td>OEM</td>
                               <td>
-                                <a href="https://amzn.to/3DEKmCd">
+                                <a href={getUrl('ymdk-carbon-laser-etched-oem-keycaps')}>
                                   <img
                                     style={{ maxWidth: "160px" }}
                                     src="/keycaps/carbon.jpg"
@@ -1019,7 +1020,7 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://amzn.to/3DEKmCd">Amazon</a>
+                                <a href={getUrl('ymdk-carbon-laser-etched-oem-keycaps')}>Amazon</a>
                               </td>
                             </tr>
                           </tbody>
@@ -1077,7 +1078,7 @@ export default function Keycaps() {
                               <td>YMDK Keycaps Matcha Dye-Sub</td>
                               <td>ZDA</td>
                               <td>
-                                <a href="https://amzn.to/3oE5R0V">
+                                <a href={getUrl("https://amzn.to/3oE5R0V")}>
                                   <img
                                     src="/keycaps/ymdk-matcha.jpg"
                                     alt="YMDK Matcha Split Keycaps"
@@ -1086,7 +1087,7 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://amzn.to/3oE5R0V">Amazon</a>
+                                <a href={getUrl("https://amzn.to/3oE5R0V")}>Amazon</a>
                               </td>
                             </tr>
                           </tbody>
@@ -1161,7 +1162,7 @@ export default function Keycaps() {
                               <td>KBDcraft Keycap LP / DSS</td>
                               <td>LP / DSS</td>
                               <td>
-                                <a href="https://kbdcraft.store/collections/keycaps?ref=TRYORTHOKEYS">
+                                <a href={getUrl("https://kbdcraft.store/collections/keycaps?ref=TRYORTHOKEYS")}>
                                   <img
                                     style={{ maxWidth: "160px" }}
                                     src="/kbdcraft-israfel.webp"
@@ -1170,7 +1171,7 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://kbdcraft.store/collections/keycaps?ref=TRYORTHOKEYS">
+                                <a href={getUrl("https://kbdcraft.store/collections/keycaps?ref=TRYORTHOKEYS")}>
                                   View Now
                                 </a>
                               </td>
@@ -1183,7 +1184,7 @@ export default function Keycaps() {
                                 Might need to add blanks to fill in modifiers
                               </td>
                               <td>
-                                <a href="https://kprepublic.com/products/dsa-pbt-blank-light-grey-grey-keycaps-60-gh60-poker2-xd64-87-104-xd75-xd96-xd84-cosair-k70-razer-blackwidow-planck-jj40-jj50?_pos=8&_sid=cd25eba9b&_ss=r&variant=7310696939564">
+                                <a href={getUrl("https://kprepublic.com/products/dsa-pbt-blank-light-grey-grey-keycaps-60-gh60-poker2-xd64-87-104-xd75-xd96-xd84-cosair-k70-razer-blackwidow-planck-jj40-jj50?_pos=8&_sid=cd25eba9b&_ss=r&variant=7310696939564")}>
                                   <img
                                     style={{ maxWidth: "160px" }}
                                     src="https://cdn.shopify.com/s/files/1/2711/4238/products/TIM_20180228031111.jpg?v=1569170154"
@@ -1192,7 +1193,7 @@ export default function Keycaps() {
                                 </a>
                               </td>
                               <td>
-                                <a href="https://kprepublic.com/products/dsa-pbt-blank-light-grey-grey-keycaps-60-gh60-poker2-xd64-87-104-xd75-xd96-xd84-cosair-k70-razer-blackwidow-planck-jj40-jj50?_pos=8&_sid=cd25eba9b&_ss=r&variant=7310696939564">
+                                <a href={getUrl("https://kprepublic.com/products/dsa-pbt-blank-light-grey-grey-keycaps-60-gh60-poker2-xd64-87-104-xd75-xd96-xd84-cosair-k70-razer-blackwidow-planck-jj40-jj50?_pos=8&_sid=cd25eba9b&_ss=r&variant=7310696939564")}>
                                   View Now
                                 </a>
                                 <br />

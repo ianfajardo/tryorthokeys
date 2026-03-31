@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
+import { getUrl } from "../lib/affiliates";
 
 export default function Custom404() {
   return (
@@ -193,7 +194,7 @@ export default function Custom404() {
                     View on OLKB
                   </a>
                   <a
-                    href="https://drop.com/buy/planck-mechanical-keyboard?utm_source=linkshare&referer=T93XGG"
+                    href={getUrl('olkb-planck-drop-listing')}
                     className="btn btn-secondary mr-2 mb-2"
                   >
                     Buy on Drop
@@ -201,7 +202,7 @@ export default function Custom404() {
 
                   <a
                     className="btn btn-secondary mr-2 mb-2"
-                    href="https://amzn.to/333pMu0"
+                    href={getUrl('olkb-planck')}
                   >
                     Buy on Amazon
                   </a>
@@ -260,7 +261,7 @@ export default function Custom404() {
                   </a>
                   <a
                     className="btn btn-secondary mr-2 mb-2"
-                    href="https://amzn.to/3xzTDbF"
+                    href={getUrl('olkb-preonic')}
                   >
                     Buy on Amazon
                   </a>

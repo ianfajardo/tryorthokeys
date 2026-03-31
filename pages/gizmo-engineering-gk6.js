@@ -2,6 +2,7 @@ import Head from "next/head";
 import Navigation from "../components/navigation";
 import Footer from "../components/footer";
 import Nav from "react-bootstrap/Nav";
+import { getUrl } from "../lib/affiliates";
 
 export default function Kinesis() {
   return (
@@ -38,7 +39,7 @@ export default function Kinesis() {
                   editable with QMK firmware, hot-swap PCB, and aluminum case.
                 </p>
                 <a
-                  href="https://sovrn.co/1iddf86"
+                  href={getUrl('gizmo-engineering-gk6')}
                   className="mt-3 btn btn-primary mr-3"
                 >
                   Learn More
@@ -86,14 +87,14 @@ export default function Kinesis() {
                     <li>Aluminum case and ceramic coating</li>
                   </ul>
                   <a
-                    href="https://sovrn.co/1iddf86"
+                    href={getUrl('gizmo-engineering-gk6')}
                     className="btn btn-primary mr-2"
                   >
                     Buy Now
                   </a>
                 </div>
                 <div className="col-lg-6">
-                  <a href="https://sovrn.co/1iddf86">
+                  <a href={getUrl('gizmo-engineering-gk6')}>
                     <img
                       src="/gk6.webp"
                       alt="Gizmo Engineering GK6"
