@@ -3,7 +3,7 @@ title: Creamy Keyboard Switches Explained: Best Options and What Makes Them Diff
 metatitle: Best Creamy Keyboard Switches Compared (2026) | tryorthokeys.com
 description: What are creamy keyboard switches? We break down the top options, how they differ in feel and sound, plus the best ortholinear boards to pair them with.
 date: 2026-03-31
-image: /images/posts/creamy-keyboard-switches/51TJPE0E64L._AC_SL1500_.jpg
+image: /images/affiliates/1774975761941-51AnyA1ci5L._AC_SL1500_.jpg
 ---
 
 If you've spent any time in mechanical keyboard communities, you've probably heard someone describe a switch as "creamy." It's one of those words that gets thrown around constantly — but what does it actually mean, and why does it matter when you're choosing keyboard switches for your next build?
@@ -30,7 +30,7 @@ Here's a look at the most popular options on the market right now.
 
 ### Gateron Milky Yellow Pro V2
 
-![Gateron Milky Yellow Pro V2](/images/posts/creamy-keyboard-switches/51TJPE0E64L._AC_SL1500_.jpg)
+![Gateron Milky Yellow Pro V2](/images/affiliates/1774975761941-51AnyA1ci5L._AC_SL1500_.jpg)
 
 The [Gateron Milky Yellow Pro V2](https://amzn.to/3Qc7Fhi) is the switch that introduced a lot of people to the creamy sound profile. Gateron's Milky series uses a white nylon top and bottom housing — the "milky" in the name — which is responsible for that warm, thocky character people chase.
 
@@ -46,6 +46,8 @@ The Pro V2 comes factory pre-lubed, with 50gf actuation and a smooth 5-pin PCB-m
 
 ### Akko V3 Creamy Yellow Pro
 
+![Akko V3 Creamy Yellow Pro](/images/affiliates/1774975676998-51TJPE0E64L._AC_SL1500_.jpg)
+
 The [Akko V3 Creamy Yellow Pro](https://amzn.to/4toLR0C) is Akko's dedicated entry into the creamy switch category. At 50gf actuation with a dustproof stem design, it's built with longevity in mind — a useful feature if you're typing on the same board for years.
 
 The Creamy Yellow Pro uses a PC/PA66 housing combination that keeps the sound profile warm without sacrificing RGB visibility entirely. It's a 5-pin switch, so it works with any standard hot-swap PCB. Compared to the Gateron Milky Yellow, the Akko tends to have a slightly more tactile-feeling bottom-out — not a bump, just a firmer landing — which some typists actually prefer.
@@ -59,6 +61,8 @@ The Creamy Yellow Pro uses a PC/PA66 housing combination that keeps the sound pr
 ---
 
 ### EPOMAKER Creamy Jade
+
+![EPOMAKER Creamy Jade](/images/affiliates/1774975614489-51ZFirv0TwL._SL1500_.jpg)
 
 The [EPOMAKER Creamy Jade](https://amzn.to/4sJvXxT) is the lightest switch in this comparison at 45gf actuation. If you want that creamy feel without the resistance of a heavier spring, this is worth a close look. It uses a PC/PA66 housing with a POK (polyoxyketon) stem — a high-performance engineering plastic that's smoother than standard POM and more resilient over time.
 
@@ -86,6 +90,8 @@ The sound is softer and more dampened than the switches above, and the light act
 ---
 
 ### Akko CS Cream Black
+
+![Akko CS Cream Black](/Akko-V3-Piano-Pro-Switch-GX.jpg)
 
 On the opposite end of the spectrum, the [Akko CS Cream Black](https://en.akkogear.com/products/akko-cs-switch-cream-black?ref=29468) is a heavier linear with a firmer spring. It uses the same creamy nylon housing as the Cream Yellow but with a stiffer actuation that prevents accidental keypresses. Heavy typists or gamers who prefer resistance will find this one satisfying.
 
