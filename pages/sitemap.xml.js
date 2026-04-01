@@ -2,13 +2,25 @@ import fs from 'fs';
 import path from 'path';
 import { getSortedPostsData } from '../lib/posts';
 
-function getLastModified(relativePath) {
-  const fullPath = path.join(process.cwd(), relativePath);
-  return fs.statSync(fullPath).mtime.toISOString();
+function toIsoDate(value, fallback) {
+  if (!value) return fallback;
+
+  const date = value instanceof Date ? value : new Date(value);
+  return Number.isNaN(date.getTime()) ? fallback : date.toISOString();
+}
+
+function getLastModified(relativePath, fallback) {
+  try {
+    const fullPath = path.join(process.cwd(), relativePath);
+    return fs.statSync(fullPath).mtime.toISOString();
+  } catch (error) {
+    return fallback;
+  }
 }
 
 function generateSiteMap(posts) {
   const baseUrl = 'https://www.tryorthokeys.com';
+  const generatedAt = new Date().toISOString();
 
   // Static pages (all important routes included for full sitemap coverage)
   const staticPages = [
@@ -47,7 +59,7 @@ function generateSiteMap(posts) {
          return `
        <url>
            <loc>${baseUrl}${page}</loc>
-           <lastmod>${getLastModified(source)}</lastmod>
+           <lastmod>${getLastModified(source, generatedAt)}</lastmod>
            <changefreq>${changefreq}</changefreq>
            <priority>${priority}</priority>
        </url>`;
@@ -56,11 +68,11 @@ function generateSiteMap(posts) {
      ${posts
        .filter(({ noindex }) => !noindex)
        .map(({ slug, date, modified }) => {
-         const lastmod = modified || date;
+         const lastmod = toIsoDate(modified || date, generatedAt);
          return `
        <url>
            <loc>${baseUrl}/posts/${slug}</loc>
-           <lastmod>${lastmod ? (lastmod instanceof Date ? lastmod.toISOString() : new Date(lastmod).toISOString()) : new Date().toISOString()}</lastmod>
+           <lastmod>${lastmod}</lastmod>
            <changefreq>monthly</changefreq>
            <priority>0.7</priority>
        </url>`;
