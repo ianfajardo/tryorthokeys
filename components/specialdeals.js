@@ -16,12 +16,10 @@ export default function SpecialDeals({ col }) {
               <div className="col-lg-12 d-flex flex-column h-100">
                 <img width="160" src="/kbdcraft-logo.png" alt="KBDCraft" />
                 <p>
-                  Save <strong>20%</strong> on KBDcraft&apos;s brick-built
-                  keyboard kits with our exclusive coupon:{" "}
-                  <strong style={{ textDecoration: "underline" }}>
-                    tryorthokeys
-                  </strong>{" "}
-                  at checkout.
+                  KBDcraft Easter Sale: <strong>5% off</strong> one kit,{" "}
+                  <strong>10% off</strong> two, or{" "}
+                  <strong>15% off</strong> three or more brick-built
+                  keyboard kits.
                 </p>
                 <span className="btn btn-sm btn-primary mt-auto align-self-start">
                   Learn More

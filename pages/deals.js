@@ -22,13 +22,13 @@ const deals = [
     slug: "kbdcraft",
     name: "KBDcraft",
     category: "Keyboards",
-    offerType: "Coupon code",
-    savings: "20% off your order",
-    code: "tryorthokeys",
+    offerType: "Sale",
+    savings: "Buy 1 5% off, Buy 2 10% off, Buy 3+ 15% off",
+    code: null,
     link: getUrl('kbdcraft-store'),
     badge: "Best starter ortho deal",
     description:
-      "One of the strongest ortho-friendly discounts on the page. Good fit if you want an affordable kit that still feels distinctive.",
+      "KBDcraft Easter sale with tiered discounts. The more you buy, the more you save on their brick-built keyboard kits.",
     status: "Active",
   },
   {
@@ -75,25 +75,12 @@ const deals = [
     name: "Akko",
     category: "Accessories",
     offerType: "Coupon code",
-    savings: "15% off",
-    code: "9TH",
+    savings: "Free delivery",
+    code: "USFREE",
     link: getUrl('akko-deals-page'),
-    badge: "Switch and accessory savings",
+    badge: "Free shipping savings",
     description:
-      "A straightforward discount if you are pairing a new board with switches, caps, or other keyboard accessories.",
-    status: "Active",
-  },
-  {
-    slug: "drop-keyboard-club",
-    name: "DROP Keyboard Club",
-    category: "Membership",
-    offerType: "Membership savings",
-    savings: "Monthly coupons worth up to $100",
-    code: null,
-    link: getUrl("https://drop.com/keyboardclub/non-member?referer=T93XGG"),
-    badge: "Best for repeat buyers",
-    description:
-      "Worth considering if you buy keyboard gear regularly and want recurring discounts instead of a one-time code.",
+      "Get free delivery on your Akko order with code USFREE. A good deal if you are pairing a new board with switches, caps, or other keyboard accessories.",
     status: "Active",
   },
   {
@@ -185,6 +172,7 @@ const dealTypeClass = {
   "Referral offer": "is-success",
   "Membership savings": "is-warning",
   "Shipping discount": "is-muted",
+  "Sale": "is-success",
 };
 
 export default function Deals() {
@@ -224,7 +212,7 @@ export default function Deals() {
         url: `${defaultMeta.url}/deals`,
         description:
           "Browse mechanical keyboard discounts, coupon codes, and deal links for ortholinear keyboards, keycaps, and accessories.",
-        dateModified: "2026-03-19",
+        dateModified: "2026-04-04",
         mainEntity: {
           "@type": "ItemList",
           itemListElement: deals.map((deal, index) => ({
@@ -260,7 +248,7 @@ export default function Deals() {
           <div className="row align-items-center">
             <div className="col-lg-8">
               <div className="py-3 deals-hero-copy">
-                <p className="keyboard-kicker">Updated March 19, 2026</p>
+                <p className="keyboard-kicker">Updated April 4, 2026</p>
                 <h1 className="display-5 font-weight-bolder">
                   Keyboard deals worth checking first
                 </h1>
@@ -383,7 +371,6 @@ export default function Deals() {
                 <option value="Keyboards">Keyboards</option>
                 <option value="Keycaps">Keycaps</option>
                 <option value="Accessories">Accessories</option>
-                <option value="Membership">Membership</option>
               </select>
             </div>
 
@@ -402,7 +389,7 @@ export default function Deals() {
                 <option value="Affiliate discount">Affiliate discount</option>
                 <option value="Affiliate link">Affiliate link</option>
                 <option value="Referral offer">Referral offer</option>
-                <option value="Membership savings">Membership savings</option>
+                <option value="Sale">Sale</option>
                 <option value="Shipping discount">Shipping discount</option>
               </select>
             </div>
@@ -442,7 +429,7 @@ export default function Deals() {
             </div>
           </div>
         ) : (
-          <div className="row">
+          <div className="row deals-results-grid">
             {filteredDeals.map((deal) => (
               <div id={deal.slug} className="col-lg-4 col-md-6" key={deal.slug}>
                 <div className="deals-card">
@@ -552,7 +539,7 @@ export default function Deals() {
 
         <div className="section-container deals-guide-band">
           <div className="container-lg px-0">
-            <div className="row">
+            <div className="row deals-guide-grid">
               <div className="col-lg-4 col-md-6">
                 <div className="keyboard-help-card">
                   <p className="keyboard-kicker text-primary mb-2">
