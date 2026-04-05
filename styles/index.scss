@@ -168,6 +168,16 @@ blockquote::after {
 }
 
 .card-link-grid {
+  &.row,
+  .row {
+    row-gap: 1.75rem;
+  }
+
+  &.row > [class*="col-"],
+  .row > [class*="col-"] {
+    margin-bottom: 0;
+  }
+
   .card {
     height: 100%;
   }
@@ -338,7 +348,7 @@ blockquote::after {
     url("/tryorthokeys-jumbo-new.jpg") center center no-repeat;
   background-size: cover;
   position: relative;
-  padding: 3rem 0;
+  padding: 1.75rem 0;
 
   &:after {
     position: absolute;
@@ -356,6 +366,15 @@ blockquote::after {
 
 .deals-hero-copy {
   max-width: 820px;
+
+  h1 {
+    margin-bottom: 0.5rem;
+  }
+
+  .lead {
+    font-size: 1.35rem;
+    margin-bottom: 0;
+  }
 }
 
 .deals-hero-panel {
@@ -483,6 +502,18 @@ blockquote::after {
 
   .keyboard-quick-picks {
     margin-bottom: 0.5rem;
+  }
+
+  .keyboard-quick-picks,
+  .keyboard-results-grid,
+  .keyboard-help-grid {
+    row-gap: 1.75rem;
+  }
+
+  .keyboard-quick-picks > [class*="col-"],
+  .keyboard-results-grid > [class*="col-"],
+  .keyboard-help-grid > [class*="col-"] {
+    margin-bottom: 0;
   }
 
   .keyboard-pick-card,
@@ -670,6 +701,20 @@ blockquote::after {
   padding: 60px 15px;
   margin: 0 auto;
 
+  // Consistent vertical rhythm between major content blocks
+  > .row,
+  > .deals-highlight-block,
+  > .deals-controls,
+  > .deals-empty-state,
+  > .card,
+  > .section-container {
+    margin-bottom: 2rem;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+
   .keyboard-help-card {
     height: 100%;
     background: #ffffff;
@@ -684,8 +729,18 @@ blockquote::after {
     background: linear-gradient(135deg, #ffffff 0%, #f5f8fb 100%);
   }
 
-  .deals-quick-picks {
-    margin-bottom: 0.5rem;
+  .deals-quick-picks,
+  .deals-results-grid,
+  .deals-guide-grid,
+  .deals-related-grid {
+    row-gap: 1.75rem;
+  }
+
+  .deals-quick-picks > [class*="col-"],
+  .deals-results-grid > [class*="col-"],
+  .deals-guide-grid > [class*="col-"],
+  .deals-related-grid > [class*="col-"] {
+    margin-bottom: 0;
   }
 
   .deals-pick-card {
@@ -851,13 +906,10 @@ blockquote::after {
     }
   }
 
-  .deals-related-grid {
-    margin-top: 1.5rem;
-  }
 }
 
 .deals-guide-band {
-  padding: 3rem 0 1.5rem;
+  padding: 2.5rem 0;
 }
 
 .deals-faq {

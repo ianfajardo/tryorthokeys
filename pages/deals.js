@@ -286,7 +286,7 @@ export default function Deals() {
       <div className="deals-section" id="deal-finder">
         <div className="row">
           <div className="col-12">
-            <div className="keyboard-help-card deals-intro-card mb-4">
+            <div className="keyboard-help-card deals-intro-card">
               <div className="row align-items-center">
                 <div className="col-lg-8">
                   <p className="keyboard-kicker text-primary mb-2">
@@ -337,11 +337,11 @@ export default function Deals() {
           ))}
         </div>
 
-        <div className="deals-highlight-block mb-4">
+        <div className="deals-highlight-block">
           <SpecialDeals col="col-lg-6 col-md-6" />
         </div>
 
-        <div className="deals-controls mb-4">
+        <div className="deals-controls">
           <div className="deals-controls-grid">
             <div className="form-group mb-0">
               <label className="keyboard-filter-label" htmlFor="deal-search">
@@ -490,7 +490,7 @@ export default function Deals() {
           </div>
         )}
 
-        <div className="card ele-2 deals-table-card mt-4">
+        <div className="card ele-2 deals-table-card">
           <div className="px-4 px-lg-5 py-4 py-lg-5">
             <div className="row">
               <div className="col-lg-12">
@@ -599,7 +599,7 @@ export default function Deals() {
           ))}
         </div>
 
-        <div className="card deals-faq mt-4">
+        <div className="card deals-faq">
           <div className="card-body">
             <p className="keyboard-kicker text-primary mb-2">FAQ</p>
             <h2>Common keyboard deal questions</h2>
