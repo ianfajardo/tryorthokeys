@@ -25,11 +25,18 @@ export default function SEOhead({
   noindex = false,
   structuredData,
 }) {
-  const siteUrl = defaultMeta.url;
+  const siteUrl = defaultMeta.url.replace(/\/$/, "");
+  const resolveUrl = (value) => {
+    if (!value) return `${siteUrl}/`;
+    if (typeof value === "string" && value.startsWith("http")) {
+      return value === siteUrl ? `${siteUrl}/` : value;
+    }
+    return `${siteUrl}${value}`;
+  };
   const title = titleProp ?? (meta ? `${meta.title} | ${defaultMeta.title}` : defaultMeta.title);
   const description = descriptionProp ?? (meta ? meta.description : defaultMeta.description);
   const image = imageProp ?? (meta ? meta.image : defaultMeta.image) ?? defaultMeta.image;
-  const fullUrl = urlProp ?? (meta ? `${siteUrl}${meta.slug || ""}` : siteUrl);
+  const fullUrl = resolveUrl(urlProp ?? (meta ? meta.slug || "" : ""));
   const fullImage =
     image && typeof image === "string" && image.startsWith("http")
       ? image

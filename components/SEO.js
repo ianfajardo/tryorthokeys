@@ -16,7 +16,14 @@ export default function SEO({
   structuredData,
 }) {
   const siteUrl = "https://www.tryorthokeys.com";
-  const fullUrl = url ? `${siteUrl}${url}` : siteUrl;
+  const resolveUrl = (value) => {
+    if (!value) return `${siteUrl}/`;
+    if (typeof value === "string" && value.startsWith("http")) {
+      return value === siteUrl ? `${siteUrl}/` : value;
+    }
+    return `${siteUrl}${value}`;
+  };
+  const fullUrl = resolveUrl(url);
   const img = image || "https://www.tryorthokeys.com/tryorthokeys.jpg";
   const fullImage = typeof img === "string" && img.startsWith("http") ? img : `${siteUrl}${img}`;
   

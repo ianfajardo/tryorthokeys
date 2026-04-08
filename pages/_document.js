@@ -29,7 +29,7 @@ class MyDocument extends Document {
                 "@context": "https://schema.org",
                 "@type": "Organization",
                 "name": "Try Ortho Keys",
-                "url": "https://www.tryorthokeys.com",
+                "url": "https://www.tryorthokeys.com/",
                 "logo": "https://www.tryorthokeys.com/tryorthokeys.jpg",
                 "description": "Ortholinear keyboards are computer keyboards with a grid layout. An ortho keyboard usually has mechanical key switches and programmable keymappings.",
                 "sameAs": [
@@ -52,7 +52,7 @@ class MyDocument extends Document {
                 "@context": "https://schema.org",
                 "@type": "WebSite",
                 "name": "Try Ortho Keys",
-                "url": "https://www.tryorthokeys.com",
+                "url": "https://www.tryorthokeys.com/",
                 "description": "Ortholinear keyboards are computer keyboards with a grid layout. An ortho keyboard usually has mechanical key switches and programmable keymappings.",
                 "publisher": {
                   "@type": "Organization",

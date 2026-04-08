@@ -19,19 +19,21 @@ export async function getStaticProps() {
 }
 
 export default function Home({ allPostsData }) {
+  const homeUrl = `${defaultMeta.url}/`;
+
   return (
     <div>
       <SEOhead
         title={defaultMeta.title}
         description={defaultMeta.description}
-        url={defaultMeta.url}
+        url={homeUrl}
         image={defaultMeta.image}
         structuredData={{
           "@context": "https://schema.org",
           "@type": "CollectionPage",
           name: "Try Ortho Keys - Ortholinear Keyboards",
           description: defaultMeta.description,
-          url: defaultMeta.url,
+          url: homeUrl,
           mainEntity: {
             "@type": "ItemList",
             name: "Ortholinear Keyboards",
@@ -61,7 +63,7 @@ export default function Home({ allPostsData }) {
           breadcrumb: {
             "@type": "BreadcrumbList",
             itemListElement: [
-              { "@type": "ListItem", position: 1, name: "Home", item: defaultMeta.url },
+              { "@type": "ListItem", position: 1, name: "Home", item: homeUrl },
             ],
           },
         }}

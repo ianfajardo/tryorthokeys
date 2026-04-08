@@ -53,12 +53,13 @@ function generateSiteMap(posts) {
   return `<?xml version="1.0" encoding="UTF-8"?>
    <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
      ${staticPages
-       .map(({ page, source }) => {
-         const priority = page === '' ? '1.0' : page === '/keyboards' || page === '/posts' ? '0.9' : '0.8';
-         const changefreq = page === '' ? 'daily' : page === '/posts' ? 'weekly' : 'monthly';
-         return `
+      .map(({ page, source }) => {
+        const priority = page === '' ? '1.0' : page === '/keyboards' || page === '/posts' ? '0.9' : '0.8';
+        const changefreq = page === '' ? 'daily' : page === '/posts' ? 'weekly' : 'monthly';
+        const loc = page === '' ? `${baseUrl}/` : `${baseUrl}${page}`;
+        return `
        <url>
-           <loc>${baseUrl}${page}</loc>
+           <loc>${loc}</loc>
            <lastmod>${getLastModified(source, generatedAt)}</lastmod>
            <changefreq>${changefreq}</changefreq>
            <priority>${priority}</priority>
