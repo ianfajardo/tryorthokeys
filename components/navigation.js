@@ -48,6 +48,9 @@ export default function Navigation() {
                 <NavDropdown.Item href="/id75">
                   Idobao x YMDK ID75
                 </NavDropdown.Item>
+                <NavDropdown.Item href="/epomaker">
+                  Epomaker
+                </NavDropdown.Item>
               </NavDropdown>
 
               <Nav.Link href="/deals">Deals & Coupons</Nav.Link>

@@ -1,5 +1,36 @@
 [
   {
+    "id": "epomaker-luma40",
+    "previousUrls": [],
+    "name": "Epomaker LUMA40",
+    "url": "https://epomaker.com/products/epomaker-luma40?sca_ref=10950542.Ki2iuo7P0N",
+    "description": "40% ortholinear wireless mechanical keyboard with tri-mode connectivity, low-profile hot-swap switches, VIA firmware, and CNC aluminum construction.",
+    "tags": [
+      "keyboard",
+      "ortholinear",
+      "40%",
+      "wireless",
+      "via",
+      "hot-swap",
+      "low-profile",
+      "epomaker"
+    ],
+    "image": "/epomaker-luma40-main.webp"
+  },
+  {
+    "id": "epomaker-store",
+    "previousUrls": [],
+    "name": "Epomaker Store",
+    "url": "https://epomaker.com?sca_ref=10950542.Ki2iuo7P0N",
+    "description": "Epomaker's full keyboard lineup including mechanical keyboards, switches, and accessories.",
+    "tags": [
+      "keyboard",
+      "epomaker",
+      "store"
+    ],
+    "image": null
+  },
+  {
     "id": "olkb-planck",
     "previousUrls": [],
     "name": "OLKB Planck",

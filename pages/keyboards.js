@@ -7,6 +7,29 @@ import { getUrl } from "../lib/affiliates";
 
 const keyboards = [
   {
+    slug: "epomaker-luma40",
+    name: "Epomaker LUMA40",
+    price: "$115.99",
+    priceValue: 115.99,
+    size: "40%",
+    layout: "Compact ortho",
+    firmware: ["VIA"],
+    hotSwap: true,
+    wireless: true,
+    status: "available",
+    bestFor: "Users who want a wireless low-profile 40% with premium build quality",
+    beginnerScore: 4,
+    portabilityScore: 5,
+    customizationScore: 4,
+    recommendedRank: 3,
+    highlights: ["Tri-mode wireless", "Low-profile", "CNC aluminum", "VIA"],
+    description:
+      "The LUMA40 is a 40% ortholinear keyboard with tri-mode connectivity (2.4GHz, Bluetooth, wired), low-profile hot-swap switches, per-key RGB with frosted white keycaps, and a CNC aluminum case.",
+    image: "/epomaker-luma40-main.webp",
+    buyNow: getUrl("epomaker-luma40"),
+    learnMore: "/epomaker",
+  },
+  {
     slug: "ymdk-air40",
     name: "YMDK Air40",
     price: "$102.90",
@@ -809,7 +832,7 @@ export default function Keyboards() {
             </div>
           </div>
         ) : (
-          <div className="row">
+          <div className="row keyboard-results-grid">
             {filteredKeyboards.map((keyboard) => (
               <div
                 id={keyboard.slug}
