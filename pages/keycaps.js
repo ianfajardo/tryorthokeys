@@ -7,6 +7,54 @@ import Nav from "react-bootstrap/Nav";
 import Sticky from "react-stickynode";
 import { getUrl } from "../lib/affiliates";
 
+const keycapsFaqItems = [
+  {
+    question: "What keycap sets fit ortholinear keyboards?",
+    answer:
+      "Any MX-compatible keycap set will fit most modern ortholinear PCBs, but you'll want to confirm the set includes 1u modifiers and either 1u or 2u thumb keys for the bottom row. Standard sets often ship with a 6.25u spacebar that won't fit the Planck, Preonic, or BM40 — pick a set with extra 1u/2u keys, or buy a separate ortho-friendly bottom row.",
+  },
+  {
+    question: "Are MT3 keycaps good for ortholinear keyboards?",
+    answer:
+      "Yes — MT3 is one of the most popular profiles for ortho boards because the deep sculpted shape works well with the grid layout. Drop sells multiple ortho-compatible MT3 sets including Black on White, Dusk, Cyber, and Susuwatari.",
+  },
+  {
+    question: "What are DSA keycaps?",
+    answer:
+      "DSA is a uniform-height keycap profile (every row is the same shape and height). DSA sets are popular for ortholinear keyboards because the consistent shape works for any layout, including thumb clusters and unusual modifier rows.",
+  },
+  {
+    question: "Are PBT or ABS keycaps better?",
+    answer:
+      "PBT lasts longer and resists the glossy 'shine' that develops on ABS over months of use. PBT also holds dye-sub legends without smudging. ABS is smoother to the touch and accepts brighter colors. For most ortho builds, PBT is the safer long-term choice.",
+  },
+  {
+    question: "How much do good keycap sets cost?",
+    answer:
+      "Budget MX-compatible sets start around $20-30 (XVX, YMDK), mid-range sets like Drop MT3 or PBTfans 9009 run $60-90, and premium group-buy sets can exceed $150. For ortho keyboards, the mid-range tier hits the best balance of compatibility, durability, and aesthetics.",
+  },
+];
+
+const keycapsStructuredData = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      name: "Ortholinear Keycaps",
+      description:
+        "Ortholinear keycaps and ortho keycap sets for Planck, Preonic, NIU40, BM40, ID75, and other ortho keyboards.",
+    },
+    {
+      "@type": "FAQPage",
+      mainEntity: keycapsFaqItems.map((item) => ({
+        "@type": "Question",
+        name: item.question,
+        acceptedAnswer: { "@type": "Answer", text: item.answer },
+      })),
+    },
+  ],
+};
+
 export default function Keycaps() {
   return (
     <div>
@@ -19,6 +67,7 @@ export default function Keycaps() {
           slug: "/keycaps",
         }}
         keywords="ortholinear keycaps, ortho keycaps, Planck keycaps, Preonic keycaps, ortho keyboard keycaps, DSA, keycap sets"
+        structuredData={keycapsStructuredData}
       />
 
       <Navigation />
@@ -1266,6 +1315,22 @@ export default function Keycaps() {
           </div>
         </div>
       </div>
+      <div className="section-container">
+        <div className="container-lg">
+          <div className="card">
+            <div className="card-body">
+              <h2>Ortholinear keycap FAQ</h2>
+              {keycapsFaqItems.map((item) => (
+                <div className="mb-4" key={item.question}>
+                  <h3>{item.question}</h3>
+                  <p>{item.answer}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+
       <Footer />
     </div>
   );
