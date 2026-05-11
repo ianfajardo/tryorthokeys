@@ -13,7 +13,6 @@ class MyDocument extends Document {
           {/* Preconnect to external domains for performance */}
           <link rel="preconnect" href="https://www.googletagmanager.com" />
           <link rel="preconnect" href="https://pagead2.googlesyndication.com" />
-          <link rel="preconnect" href="https://chimpstatic.com" />
           <link rel="preconnect" href="https://analytics.ahrefs.com" />
           <link rel="preconnect" href="https://cdn.viglink.com" />
           
@@ -96,14 +95,6 @@ class MyDocument extends Document {
             }}
           />
 
-          {/* Mailchimp */}
-          <script
-            id="mcjs"
-            dangerouslySetInnerHTML={{
-              __html: `!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/9d8a3440190c7038888502308/32edc0eb1cf71aeab8c219b96.js");`,
-            }}
-          />
-          
           {/* Ahrefs Analytics */}
           <script src="https://analytics.ahrefs.com/analytics.js" data-key="H3Q9q6ezPn3JM39t5g7lOw" async></script>
         </Head>

@@ -1,4 +1,5 @@
 import Button from "react-bootstrap/Button";
+import Newsletter from "./newsletter";
 
 function getYear() {
   return new Date().getFullYear();
@@ -99,8 +100,10 @@ export default function Footer() {
             </ul>
           </div>
         </div>
-        <div className="row mt-3">
-          <div className="col-lg-12"></div>
+        <div className="row mt-4">
+          <div className="col-lg-6 col-md-12">
+            <Newsletter />
+          </div>
         </div>
       </footer>
     </div>
