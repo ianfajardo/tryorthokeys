@@ -1,0 +1,13 @@
+weekly-deals-refresh
+  Routine ID : trig_01H4R3YcUBpDqK6mDdziQDsN
+  Schedule   : Every Monday at 13:00 UTC (cron: 0 13 * * 1)
+  First run  : 2026-05-18T13:00:00Z
+  Repo       : https://github.com/ianfajardo/tryorthokeys
+  Model      : claude-sonnet-4-6
+  Prompt     : scripts/deals-agent-prompt.md
+  Registered : 2026-05-11
+  URL        : https://claude.ai/code/routines/trig_01H4R3YcUBpDqK6mDdziQDsN
+
+  Description: Weekly agent that refreshes the /deals page on tryorthokeys.com —
+  checks vendor promotions, updates stale deals, removes expired ones, adds new
+  ones with affiliate links preserved, and pushes to main.
