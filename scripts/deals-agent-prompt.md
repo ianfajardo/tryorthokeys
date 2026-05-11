@@ -94,6 +94,11 @@ Rules:
 }
 ```
 
+**Important:** Only use `offerType` values from the list above. `pages/deals.js`
+contains a `dealTypeClass` lookup object that maps `offerType` to a CSS badge class.
+If you use a value not in that list, the badge will render with no styling. Do not
+add new `offerType` values.
+
 ---
 
 ## Step 5 — Affiliate Link Rules (CRITICAL — READ CAREFULLY)
@@ -102,6 +107,14 @@ Rules:
 Every `link` field must be `getUrl('some-id')`. If you write a raw URL like
 `https://kbdcraft.store/products/adam?ref=TRYORTHOKEYS` directly in the deals array,
 that is a bug. Always look up or create an affiliate ID and use `getUrl()`.
+
+**Exception — Drop's existing entry:** The current Drop deal uses
+`link: getUrl("https://drop.com/?referer=T93XGG")` — passing the raw URL as the ID.
+This is intentional: `getUrl()` falls back to returning its argument unchanged when
+no matching ID exists in `affiliates.json`. Do NOT change this pattern. If you add
+a new Drop deal, use one of the existing Drop affiliate IDs from `affiliates.json`
+(e.g. `drop-sense75`, `olkb-planck-drop-listing`) or add a new entry with the ref
+param `?utm_source=linkshare&referer=T93XGG` appended.
 
 ### Never modify existing `url` fields in `seo/affiliates.json`
 These URLs contain referral parameters that earn commission. Do not touch them.
@@ -147,18 +160,31 @@ the referral code manually.
 In `pages/deals.js`, the `quickDealPicks` array has 3 objects. Each references a
 `dealSlug` that must exist in the `deals` array.
 
-After updating the deals array, review the picks. If a referenced slug no longer
-exists, replace it with the slug of the best current deal in that category.
-Update `label` and `reason` to match the deal you picked.
+After updating the deals array, review the picks:
+- If a referenced `dealSlug` no longer exists in the `deals` array, replace it with
+  the slug of the best current deal in that same general category (keyboard deals,
+  budget parts, customization).
+- If the referenced deal still exists but its content changed significantly (e.g.
+  seasonal sale name changed, savings amount updated), update the `reason` field to
+  match the current deal description.
+- Always update `label` and `reason` to accurately reflect the deal you are pointing to.
 
 ---
 
 ## Step 7 — Update `components/specialdeals.js`
 
-This file has two featured deal cards. If the deals they feature have changed
-(different savings, description, or status), update the card content to match.
+This file has two hardcoded featured deal cards (currently KBDcraft and FKcaps).
+Update the text content (savings amount, description copy) if those deals changed.
 
 All `href` or `Link` values must still use `getUrl('affiliate-id')` — never raw URLs.
+
+**If a featured deal has been fully removed from `deals.js`:** Replace that card
+with the best current deal from the `deals` array. Pick a deal with strong, specific
+savings that would stand out as a feature. Do not leave a card pointing to a deal
+that no longer exists.
+
+Do not modify `relatedGuides`, `faqItems`, or `dealTypeClass` in `pages/deals.js` —
+these are out of scope for the weekly refresh.
 
 ---
 
