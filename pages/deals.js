@@ -23,12 +23,12 @@ const deals = [
     name: "KBDcraft",
     category: "Keyboards",
     offerType: "Sale",
-    savings: "Buy 1 5% off, Buy 2 10% off, Buy 3+ 15% off",
+    savings: "Save $12 off $80, $22 off $150, $60 off $400, or $120 off $800",
     code: null,
     link: getUrl('kbdcraft-store'),
     badge: "Best starter ortho deal",
     description:
-      "KBDcraft Easter sale with tiered discounts. The more you buy, the more you save on their brick-built keyboard kits.",
+      "KBDcraft Spring Sale: the more you spend, the more you save on their brick-built keyboard kits.",
     status: "Active",
   },
   {
@@ -67,7 +67,7 @@ const deals = [
     link: getUrl('work-louder-xyz-work-board-r2'),
     badge: "Best creative workflow board",
     description:
-      "Work Louder's current keyboard is the XYZ Work Board r2, an Alice-inspired split 40% board listed as in production for April 2026.",
+      "Work Louder's XYZ Work Board r2 is an Alice-inspired split 40% board for creators, currently in production targeting Q2 2026 delivery.",
     status: "Pre-order",
   },
   {
@@ -75,12 +75,12 @@ const deals = [
     name: "Akko",
     category: "Accessories",
     offerType: "Coupon code",
-    savings: "Free delivery",
-    code: "USFREE",
+    savings: "10% off keyboards",
+    code: "MAY10",
     link: getUrl('akko-deals-page'),
-    badge: "Free shipping savings",
+    badge: "10% off keyboard coupon",
     description:
-      "Get free delivery on your Akko order with code USFREE. A good deal if you are pairing a new board with switches, caps, or other keyboard accessories.",
+      "Use code MAY10 for 10% off keyboards at Akko. Good for pairing a new board with switches or keycaps during their Spring Sale.",
     status: "Active",
   },
   {
@@ -100,13 +100,13 @@ const deals = [
     slug: "kbdfans",
     name: "KBDFans",
     category: "Keyboards",
-    offerType: "Shipping discount",
-    savings: "$6 off shipping on orders over $65",
-    code: "Wafflebetter",
+    offerType: "Sale",
+    savings: "Up to 30% off keyboard kits",
+    code: null,
     link: getUrl('kbdfans-weekin-y-40-diy-kit'),
-    badge: "Useful for larger orders",
+    badge: "Up to 30% off kits",
     description:
-      "Best when you are picking up a kit, switches, and accessories together and shipping costs start to climb.",
+      "KBDFans Spring Sale 2026: up to 30% off keyboard kits and 20% off cases. Best when picking up a full kit build with switches and accessories.",
     status: "Active",
   },
 ];
@@ -212,7 +212,7 @@ export default function Deals() {
         url: `${defaultMeta.url}/deals`,
         description:
           "Browse mechanical keyboard discounts, coupon codes, and deal links for ortholinear keyboards, keycaps, and accessories.",
-        dateModified: "2026-04-04",
+        dateModified: "2026-05-11",
         mainEntity: {
           "@type": "ItemList",
           itemListElement: deals.map((deal, index) => ({
@@ -248,7 +248,7 @@ export default function Deals() {
           <div className="row align-items-center">
             <div className="col-lg-8">
               <div className="py-3 deals-hero-copy">
-                <p className="keyboard-kicker">Updated April 4, 2026</p>
+                <p className="keyboard-kicker">Updated May 11, 2026</p>
                 <h1 className="display-5 font-weight-bolder">
                   Keyboard deals worth checking first
                 </h1>
