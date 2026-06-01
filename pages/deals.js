@@ -67,20 +67,20 @@ const deals = [
     link: getUrl('work-louder-xyz-work-board-r2'),
     badge: "Best creative workflow board",
     description:
-      "Work Louder's XYZ Work Board r2 is an Alice-inspired split 40% board for creators, currently in production targeting Q2 2026 delivery.",
+      "Work Louder's XYZ Work Board r2 is an Alice-inspired split 40% board for creators, currently in late production with deliveries expected Q2/Q3 2026.",
     status: "Pre-order",
   },
   {
     slug: "akko",
     name: "Akko",
-    category: "Accessories",
-    offerType: "Coupon code",
-    savings: "10% off keyboards",
-    code: "MAY10",
+    category: "Keyboards",
+    offerType: "Sale",
+    savings: "Up to 45% off select keyboards and keycap sets",
+    code: null,
     link: getUrl('akko-deals-page'),
-    badge: "10% off keyboard coupon",
+    badge: "Graduation Season sale",
     description:
-      "Use code MAY10 for 10% off keyboards at Akko. Good for pairing a new board with switches or keycaps during their Spring Sale.",
+      "Akko's Graduation Season sale has select keyboards and keycap sets discounted up to 45%. No code needed — discounts apply directly in the outlet section.",
     status: "Active",
   },
   {
@@ -212,7 +212,7 @@ export default function Deals() {
         url: `${defaultMeta.url}/deals`,
         description:
           "Browse mechanical keyboard discounts, coupon codes, and deal links for ortholinear keyboards, keycaps, and accessories.",
-        dateModified: "2026-05-11",
+        dateModified: "2026-06-01",
         mainEntity: {
           "@type": "ItemList",
           itemListElement: deals.map((deal, index) => ({
@@ -248,7 +248,7 @@ export default function Deals() {
           <div className="row align-items-center">
             <div className="col-lg-8">
               <div className="py-3 deals-hero-copy">
-                <p className="keyboard-kicker">Updated May 11, 2026</p>
+                <p className="keyboard-kicker">Updated June 1, 2026</p>
                 <h1 className="display-5 font-weight-bolder">
                   Keyboard deals worth checking first
                 </h1>
