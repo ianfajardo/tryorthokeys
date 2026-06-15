@@ -49,13 +49,13 @@ const deals = [
     name: "Work Louder",
     category: "Keyboards",
     offerType: "Affiliate link",
-    savings: "XYZ Work Board r2 pre-order",
+    savings: "XYZ Work Board r2 — now in stock and shipping",
     code: null,
     link: getUrl('work-louder-xyz-work-board-r2'),
     badge: "Best creative workflow board",
     description:
-      "Work Louder's XYZ Work Board r2 is an Alice-inspired split 40% board for creators, currently in late production with deliveries expected Q2/Q3 2026.",
-    status: "Pre-order",
+      "Work Louder's XYZ Work Board r2 is an Alice-inspired split 40% board for creators. Production is complete and units are now in stock and shipping.",
+    status: "Active",
   },
   {
     slug: "akko",
@@ -88,12 +88,25 @@ const deals = [
     name: "KBDFans",
     category: "Keyboards",
     offerType: "Sale",
-    savings: "Up to 30% off keyboard kits",
+    savings: "Up to 50% off select items in Summer Sale",
     code: null,
     link: getUrl('kbdfans-weekin-y-40-diy-kit'),
-    badge: "Up to 30% off kits",
+    badge: "Summer Sale — up to 50% off",
     description:
-      "KBDFans Spring Sale 2026: up to 30% off keyboard kits and 20% off cases. Best when picking up a full kit build with switches and accessories.",
+      "KBDFans Summer Sale 2026: up to 50% off artisan keycaps and reduced pricing on keyboard kits. Free DHL worldwide shipping on orders over $399 during the Dragon Boat Festival event.",
+    status: "Active",
+  },
+  {
+    slug: "kprepublic-june-sale",
+    name: "KPrepublic",
+    category: "Keyboards",
+    offerType: "Coupon code",
+    savings: "10% off sitewide",
+    code: "JuneSalediscountforGeneral",
+    link: getUrl('kprepublic-store-try-ortho-keys'),
+    badge: "June Mega Sale — 10% off",
+    description:
+      "KPRepublic June Mega Sale running through June 20: use the code at checkout for 10% off sitewide. Stacks well on switches, plates, and budget ortho boards.",
     status: "Active",
   },
 ];
@@ -199,7 +212,7 @@ export default function Deals() {
         url: `${defaultMeta.url}/deals`,
         description:
           "Browse mechanical keyboard discounts, coupon codes, and deal links for ortholinear keyboards, keycaps, and accessories.",
-        dateModified: "2026-06-08",
+        dateModified: "2026-06-15",
         mainEntity: {
           "@type": "ItemList",
           itemListElement: deals.map((deal, index) => ({
@@ -235,7 +248,7 @@ export default function Deals() {
           <div className="row align-items-center">
             <div className="col-lg-8">
               <div className="py-3 deals-hero-copy">
-                <p className="keyboard-kicker">Updated June 8, 2026</p>
+                <p className="keyboard-kicker">Updated June 15, 2026</p>
                 <h1 className="display-5 font-weight-bolder">
                   Keyboard deals worth checking first
                 </h1>
