@@ -93,20 +93,7 @@ const deals = [
     link: getUrl('kbdfans-weekin-y-40-diy-kit'),
     badge: "Summer Sale — up to 50% off",
     description:
-      "KBDFans Summer Sale 2026: up to 50% off artisan keycaps and reduced pricing on keyboard kits. Free DHL worldwide shipping on orders over $399 during the Dragon Boat Festival event.",
-    status: "Active",
-  },
-  {
-    slug: "kprepublic-june-sale",
-    name: "KPrepublic",
-    category: "Keyboards",
-    offerType: "Coupon code",
-    savings: "10% off sitewide",
-    code: "JuneSalediscountforGeneral",
-    link: getUrl('kprepublic-store-try-ortho-keys'),
-    badge: "June Mega Sale — 10% off",
-    description:
-      "KPRepublic June Mega Sale running through June 20: use the code at checkout for 10% off sitewide. Stacks well on switches, plates, and budget ortho boards.",
+      "KBDFans Summer Sale 2026: up to 50% off artisan keycaps and reduced pricing on select keyboard kits including Pavlov, TET, and Tofu variants.",
     status: "Active",
   },
 ];
@@ -212,7 +199,7 @@ export default function Deals() {
         url: `${defaultMeta.url}/deals`,
         description:
           "Browse mechanical keyboard discounts, coupon codes, and deal links for ortholinear keyboards, keycaps, and accessories.",
-        dateModified: "2026-06-15",
+        dateModified: "2026-06-22",
         mainEntity: {
           "@type": "ItemList",
           itemListElement: deals.map((deal, index) => ({
@@ -248,7 +235,7 @@ export default function Deals() {
           <div className="row align-items-center">
             <div className="col-lg-8">
               <div className="py-3 deals-hero-copy">
-                <p className="keyboard-kicker">Updated June 15, 2026</p>
+                <p className="keyboard-kicker">Updated June 22, 2026</p>
                 <h1 className="display-5 font-weight-bolder">
                   Keyboard deals worth checking first
                 </h1>
