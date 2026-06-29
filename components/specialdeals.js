@@ -16,9 +16,9 @@ export default function SpecialDeals({ col }) {
               <div className="col-lg-12 d-flex flex-column h-100">
                 <img width="160" src="/kbdcraft-logo.png" alt="KBDCraft" />
                 <p>
-                  KBDcraft Spring Sale: save <strong>$12 off $80</strong>,{" "}
-                  <strong>$22 off $150</strong>, or more — the more you
-                  spend, the more you save on brick-built keyboard kits.
+                  Use code <strong>TRYORTHOKEYS</strong> for{" "}
+                  <strong>20% off</strong> any KBDcraft brick-built keyboard
+                  kit, including the Adam, Israfel, and Sachiel.
                 </p>
                 <span className="btn btn-sm btn-primary mt-auto align-self-start">
                   Learn More

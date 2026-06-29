@@ -22,13 +22,13 @@ const deals = [
     slug: "kbdcraft",
     name: "KBDcraft",
     category: "Keyboards",
-    offerType: "Sale",
-    savings: "Save $12 off $80, $22 off $150, $60 off $400, or $120 off $800",
-    code: null,
+    offerType: "Coupon code",
+    savings: "20% off all KBDcraft keyboard kits",
+    code: "TRYORTHOKEYS",
     link: getUrl('kbdcraft-store'),
-    badge: "Best starter ortho deal",
+    badge: "20% off brick-built kits",
     description:
-      "KBDcraft Spring Sale: the more you spend, the more you save on their brick-built keyboard kits.",
+      "Use code TRYORTHOKEYS for 20% off any KBDcraft brick-built keyboard kit, including the Adam, Israfel, and Sachiel.",
     status: "Active",
   },
   {
@@ -93,7 +93,7 @@ const deals = [
     link: getUrl('kbdfans-weekin-y-40-diy-kit'),
     badge: "Summer Sale — up to 50% off",
     description:
-      "KBDFans Summer Sale 2026: up to 50% off artisan keycaps and reduced pricing on select keyboard kits including Pavlov, TET, and Tofu variants.",
+      "KBDFans Summer Sale 2026: 50% off artisan keycaps and price cuts on keyboard kits — $100 off TET, $50 off Pavlov, $70 off Tofu60 2.0, and $60 off Tofu65 2.0.",
     status: "Active",
   },
 ];
@@ -102,7 +102,7 @@ const quickDealPicks = [
   {
     label: "Best Ortho Starter Deal",
     dealSlug: "kbdcraft",
-    reason: "It is the easiest discount to recommend to someone getting into ortholinear boards without overspending.",
+    reason: "The 20% code applies to any KBDcraft kit, making it an easy discount for someone getting into ortholinear boards without overspending.",
   },
   {
     label: "Best Budget Parts Deal",
@@ -199,7 +199,7 @@ export default function Deals() {
         url: `${defaultMeta.url}/deals`,
         description:
           "Browse mechanical keyboard discounts, coupon codes, and deal links for ortholinear keyboards, keycaps, and accessories.",
-        dateModified: "2026-06-22",
+        dateModified: "2026-06-29",
         mainEntity: {
           "@type": "ItemList",
           itemListElement: deals.map((deal, index) => ({
@@ -235,7 +235,7 @@ export default function Deals() {
           <div className="row align-items-center">
             <div className="col-lg-8">
               <div className="py-3 deals-hero-copy">
-                <p className="keyboard-kicker">Updated June 22, 2026</p>
+                <p className="keyboard-kicker">Updated June 29, 2026</p>
                 <h1 className="display-5 font-weight-bolder">
                   Keyboard deals worth checking first
                 </h1>
