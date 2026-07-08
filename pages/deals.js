@@ -65,9 +65,9 @@ const deals = [
     savings: "Up to 45% off select keyboards and keycap sets",
     code: null,
     link: getUrl('akko-deals-page'),
-    badge: "Graduation Season sale",
+    badge: "Outlet Sale",
     description:
-      "Akko's Graduation Season sale has select keyboards and keycap sets discounted up to 45%. No code needed — discounts apply directly in the outlet section.",
+      "Akko's outlet section has select keyboards and keycap sets discounted up to 45%. No code needed — discounts apply directly at checkout on marked outlet items.",
     status: "Active",
   },
   {
@@ -199,7 +199,7 @@ export default function Deals() {
         url: `${defaultMeta.url}/deals`,
         description:
           "Browse mechanical keyboard discounts, coupon codes, and deal links for ortholinear keyboards, keycaps, and accessories.",
-        dateModified: "2026-06-29",
+        dateModified: "2026-07-08",
         mainEntity: {
           "@type": "ItemList",
           itemListElement: deals.map((deal, index) => ({
@@ -235,7 +235,7 @@ export default function Deals() {
           <div className="row align-items-center">
             <div className="col-lg-8">
               <div className="py-3 deals-hero-copy">
-                <p className="keyboard-kicker">Updated June 29, 2026</p>
+                <p className="keyboard-kicker">Updated July 8, 2026</p>
                 <h1 className="display-5 font-weight-bolder">
                   Keyboard deals worth checking first
                 </h1>
