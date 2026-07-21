@@ -30,7 +30,7 @@ web browsing to load the page and find active promotions.
 | KBDcraft   | https://kbdcraft.store                | kbdcraft-store                |
 | KPRepublic | https://kprepublic.com                | kprepublic-store-try-ortho-keys |
 | Drop       | https://drop.com                      | (see affiliates.json for drop entries) |
-| Work Louder| https://worklou.com/store             | work-louder-xyz-work-board-r2 |
+| Work Louder| https://worklouder.cc/store           | work-louder-xyz-work-board-r2 |
 | Akko       | https://en.akkogear.com               | akko-deals-page               |
 | FKcaps     | https://fkcaps.com                    | fkcaps-custom-keycaps         |
 | KBDFans    | https://kbdfans.com                   | kbdfans-weekin-y-40-diy-kit   |
