@@ -7,6 +7,7 @@ const DISMISS_TTL_DAYS = 30;
 export default function NewsletterPopup() {
   const [visible, setVisible] = useState(false);
   const [email, setEmail] = useState("");
+  const [website, setWebsite] = useState(""); // honeypot — real users leave empty
   const [status, setStatus] = useState("idle");
   const [message, setMessage] = useState("");
 
@@ -57,7 +58,7 @@ export default function NewsletterPopup() {
       const res = await fetch("/api/subscribe", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email }),
+        body: JSON.stringify({ email, website }),
       });
       const data = await res.json().catch(() => ({}));
 
@@ -94,6 +95,21 @@ export default function NewsletterPopup() {
         Get new guides, deals, and ortho keyboard news in your inbox. No spam.
       </p>
       <form onSubmit={handleSubmit} className="newsletter-popup__form">
+        <div
+          aria-hidden="true"
+          style={{ position: "absolute", left: "-9999px", width: "1px", height: "1px", overflow: "hidden" }}
+        >
+          <label htmlFor="newsletter-popup-website">Website</label>
+          <input
+            id="newsletter-popup-website"
+            type="text"
+            name="website"
+            tabIndex={-1}
+            autoComplete="off"
+            value={website}
+            onChange={(ev) => setWebsite(ev.target.value)}
+          />
+        </div>
         <label htmlFor="newsletter-popup-email" className="sr-only">
           Email address
         </label>

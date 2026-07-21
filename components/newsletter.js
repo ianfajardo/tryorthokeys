@@ -2,6 +2,7 @@ import { useState } from "react";
 
 export default function Newsletter() {
   const [email, setEmail] = useState("");
+  const [website, setWebsite] = useState(""); // honeypot — real users leave empty
   const [status, setStatus] = useState("idle");
   const [message, setMessage] = useState("");
 
@@ -16,7 +17,7 @@ export default function Newsletter() {
       const res = await fetch("/api/subscribe", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ email }),
+        body: JSON.stringify({ email, website }),
       });
       const data = await res.json().catch(() => ({}));
 
@@ -42,6 +43,21 @@ export default function Newsletter() {
         Ortholinear keyboard guides, deals, and news. No spam.
       </p>
       <form onSubmit={handleSubmit} className="form-inline">
+        <div
+          aria-hidden="true"
+          style={{ position: "absolute", left: "-9999px", width: "1px", height: "1px", overflow: "hidden" }}
+        >
+          <label htmlFor="newsletter-website">Website</label>
+          <input
+            id="newsletter-website"
+            type="text"
+            name="website"
+            tabIndex={-1}
+            autoComplete="off"
+            value={website}
+            onChange={(e) => setWebsite(e.target.value)}
+          />
+        </div>
         <label htmlFor="newsletter-email" className="sr-only">
           Email address
         </label>
