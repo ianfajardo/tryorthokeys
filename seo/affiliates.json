@@ -2107,6 +2107,21 @@
     "image": null
   },
   {
+    "id": "akko-new-arrivals",
+    "previousUrls": [],
+    "name": "Akko New Arrivals",
+    "url": "https://en.akkogear.com/collections/new-arrivals?ref=29468",
+    "description": "Akko's new arrivals collection featuring the latest keyboards, switches, and keycaps.",
+    "tags": [
+      "keyboard",
+      "keycaps",
+      "switches",
+      "akko",
+      "new-arrivals"
+    ],
+    "image": null
+  },
+  {
     "id": "drop-keyboard-club",
     "previousUrls": [],
     "name": "Drop Keyboard Club",
