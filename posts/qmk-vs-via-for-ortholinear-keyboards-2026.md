@@ -1,9 +1,9 @@
 ---
 title: QMK vs VIA for Ortholinear Keyboards in 2026
-metatitle: QMK vs VIA for Ortholinear Keyboards in 2026 | Which Should Beginners Use?
-description: QMK and VIA both help you customize ortholinear keyboards, but they solve different problems. Here is how to choose the right option for your first ortho board.
+metatitle: QMK vs VIA 2026: Which Should Beginners Use? | tryorthokeys.com
+description: QMK vs VIA for ortholinear keyboards in 2026. Both let you customize layers and keymaps, but they solve different problems. Here's how to pick the right one for your first ortho board.
 date: "2026-03-19"
-modified: "2026-03-19"
+modifiedTime: "2026-05-11"
 image: /qmk-configurator.png
 tags: ["QMK", "VIA", "ortholinear keyboards", "guides"]
 section: Technology
@@ -13,14 +13,22 @@ section: Technology
 
 If you are buying your first ortholinear keyboard, one of the first questions you will run into is this: **should I use QMK or VIA?**
 
-The short answer is simple:
+## TL;DR: QMK vs VIA at a Glance
 
-| If you want... | Choose... |
-| --- | --- |
-| The fastest way to remap keys on a supported board | **VIA** |
-| The deepest level of customization and long-term control | **QMK** |
+| Feature | VIA | QMK |
+| --- | --- | --- |
+| Learning curve | Low — visual remapper in a browser | Higher — firmware files, flashing |
+| Live key remapping | ✅ Instant | ❌ Requires recompile + flash |
+| Layers | ✅ Up to 4 by default | ✅ Unlimited (config-dependent) |
+| Macros | ✅ Basic, visual | ✅ Full QMK macros |
+| Combos / tap dance / mod-tap | ⚠️ Limited | ✅ Full support |
+| Encoders & lighting | ✅ Basic VIA support | ✅ Full programmability |
+| Hardware requirement | Board must ship with VIA-compatible firmware | Any QMK-supported board |
+| Best for | Beginners, fast iteration, switching layouts often | Power users, custom behaviors, long-term builds |
 
-That is the beginner-friendly version. The better answer is that **VIA is the easy front door**, while **QMK is the workshop behind it**. If your board supports VIA, you can often make useful changes in minutes. If you want custom behaviors, more advanced layers, combos, tap dances, or deeper firmware control, QMK is still the standard.
+**The 30-second version:** if your keyboard supports VIA, start there. Move to QMK when you hit a wall on what VIA can express. If your board only supports QMK, just use QMK — it's not as scary as the docs make it look.
+
+The longer answer is that **VIA is the easy front door** while **QMK is the workshop behind it**. If your board supports VIA, you can often make useful changes in minutes. If you want custom behaviors, more advanced layers, combos, tap dances, or deeper firmware control, QMK is still the standard.
 
 ## What QMK does well
 

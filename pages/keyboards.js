@@ -7,6 +7,33 @@ import { getUrl } from "../lib/affiliates";
 
 const keyboards = [
   {
+    slug: "chosfox-geonix-rev2",
+    name: "Chosfox x Masro Geonix Rev.2",
+    price: "$112",
+    priceValue: 112,
+    size: "40%",
+    layout: "Compact ortho",
+    firmware: ["QMK", "VIA"],
+    hotSwap: true,
+    wireless: true,
+    status: "available",
+    bestFor: "Premium low-profile 40% wireless ortho",
+    beginnerScore: 3,
+    portabilityScore: 5,
+    customizationScore: 5,
+    recommendedRank: 2,
+    highlights: [
+      "Low-profile",
+      "Tri-mode wireless",
+      "CNC aluminum",
+      "QMK/VIA",
+    ],
+    description:
+      "The Geonix Rev.2 is a 47-key 4x12 low-profile ortholinear keyboard from Chosfox x Masro. It has a CNC aluminum case, hot-swap sockets for Choc v2 switches, tri-mode connectivity (Bluetooth, 2.4GHz, USB-C), and full QMK/VIA support.",
+    image: "/chosfox-geonix-rev2.webp",
+    buyNow: getUrl("chosfox-geonix-rev2"),
+  },
+  {
     slug: "epomaker-luma40",
     name: "Epomaker LUMA40",
     price: "$115.99",

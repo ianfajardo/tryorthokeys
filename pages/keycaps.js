@@ -149,6 +149,11 @@ export default function Keycaps() {
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li">
+                <Nav.Link className="text-white" href="#chosfox">
+                  Chosfox
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item as="li">
                 <Nav.Link className="text-white" href="#amazon">
                   Amazon
                 </Nav.Link>
@@ -965,6 +970,125 @@ export default function Keycaps() {
                               </td>
                               <td>
                                 <a href="https://sovrn.co/apxgs25">View Now</a>
+                              </td>
+                            </tr>
+                          </tbody>
+                        </Table>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div id="chosfox" className="section-container ">
+              <div className="">
+                <div className="card ele-2">
+                  <div className="px-5 py-5">
+                    <div className="row align-items-center">
+                      <div className="col-lg-12">
+                        <h2 className="font-weight-bold text-primary">
+                          <a href={getUrl("chosfox-store")}>Chosfox</a> Keycaps
+                        </h2>
+                        <p>
+                          Chosfox specializes in low-profile keycap sets and
+                          Choc-compatible caps that work well on 40% ortho and
+                          split keyboards. They also make the Geonix Rev.2 low-
+                          profile ortholinear keyboard.
+                        </p>
+                        <a
+                          href={getUrl("chosfox-store")}
+                          className="btn btn-secondary mb-2"
+                        >
+                          Chosfox Website
+                        </a>
+
+                        <Table
+                          responsive
+                          striped
+                          bordered
+                          hover
+                          className="mt-3"
+                        >
+                          <thead>
+                            <tr>
+                              <th>Name</th>
+                              <th>Profile</th>
+                              <th>Image</th>
+                              <th>Link</th>
+                            </tr>
+                          </thead>
+                          <tbody>
+                            <tr>
+                              <td>CFX BoW Keycap Set</td>
+                              <td>Low-profile (Choc)</td>
+                              <td>
+                                <a href={getUrl("chosfox-cfx-bow-keycaps")}>
+                                  <img
+                                    src="/keycaps/chosfox-cfx-bow.jpg"
+                                    alt="Chosfox CFX BoW low-profile keycaps"
+                                    style={{ maxWidth: "160px" }}
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href={getUrl("chosfox-cfx-bow-keycaps")}>
+                                  View Now
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>CFX UP 1U Keycaps (Kailh Choc)</td>
+                              <td>Low-profile (Choc)</td>
+                              <td>
+                                <a href={getUrl("chosfox-cfx-up-1u-keycaps")}>
+                                  <img
+                                    src="/keycaps/chosfox-cfx-up-1u.jpg"
+                                    alt="Chocfox CFX UP 1U low-profile keycaps"
+                                    style={{ maxWidth: "160px" }}
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href={getUrl("chosfox-cfx-up-1u-keycaps")}>
+                                  View Now
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>Chocfox LAK Low-profile Keycap Set</td>
+                              <td>LAK (Low-profile)</td>
+                              <td>
+                                <a href={getUrl("chosfox-cfx-lak-keycaps")}>
+                                  <img
+                                    src="/keycaps/chosfox-cfx-lak.jpg"
+                                    alt="Chocfox LAK low-profile keycap set"
+                                    style={{ maxWidth: "160px" }}
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href={getUrl("chosfox-cfx-lak-keycaps")}>
+                                  View Now
+                                </a>
+                              </td>
+                            </tr>
+                            <tr>
+                              <td>CFX Mahjong Keycaps</td>
+                              <td>Low-profile (Cross stem)</td>
+                              <td>
+                                <a href={getUrl("chosfox-cfx-mahjong-keycaps")}>
+                                  <img
+                                    src="/keycaps/chosfox-cfx-mahjong.jpg"
+                                    alt="Chosfox CFX Mahjong novelty low-profile keycaps"
+                                    style={{ maxWidth: "160px" }}
+                                  />
+                                </a>
+                              </td>
+                              <td>
+                                <a href={getUrl("chosfox-cfx-mahjong-keycaps")}>
+                                  View Now
+                                </a>
                               </td>
                             </tr>
                           </tbody>

@@ -1,0 +1,239 @@
+{
+  "_meta": {
+    "purpose": "Cached keyword research from DataForSEO Labs (Google US, English). Reference this before calling the API again to avoid duplicate spend. Update entries when older than ~90 days.",
+    "last_updated": "2026-05-11",
+    "data_source": "dataforseo_labs_google_keyword_overview / keyword_suggestions"
+  },
+  "keywords": [
+    {
+      "keyword": "ortholinear keyboard",
+      "search_volume": 2400,
+      "competition_level": "HIGH",
+      "cpc": 0.34,
+      "kw_difficulty": null,
+      "intent": "transactional",
+      "yearly_trend_pct": -17,
+      "notes": "Head term. High competition but the page worth optimizing for. /keyboards and /ultimate-guide-to-ortholinear-keyboards should both target this.",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "ortholinear laptop keyboard",
+      "search_volume": 720,
+      "competition_level": "LOW",
+      "cpc": null,
+      "intent": "transactional",
+      "yearly_trend_pct": 1329,
+      "notes": "Trending UP massively (1329% YoY). LOW competition. Major opportunity — we have no content targeting this. Consider a post: ortho keycaps for laptop / framework / portable.",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "split ortholinear keyboard",
+      "search_volume": 320,
+      "competition_level": "HIGH",
+      "cpc": 0.46,
+      "intent": "transactional",
+      "yearly_trend_pct": -33,
+      "notes": "/split page should rank for this. Audit content depth.",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "ortholinear split keyboard",
+      "search_volume": 260,
+      "competition_level": "HIGH",
+      "cpc": 0.48,
+      "kw_difficulty": 4,
+      "intent": "transactional",
+      "yearly_trend_pct": -19,
+      "notes": "KD only 4 — very rankable. Same /split page can target both phrasings.",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "ortholinear mechanical keyboard",
+      "search_volume": 70,
+      "competition_level": "HIGH",
+      "cpc": 0.87,
+      "intent": "transactional",
+      "yearly_trend_pct": -29,
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "40 ortholinear keyboard",
+      "search_volume": 50,
+      "competition_level": "HIGH",
+      "cpc": 0.14,
+      "intent": "transactional",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "planck ortholinear keyboard",
+      "search_volume": 50,
+      "competition_level": "MEDIUM",
+      "cpc": 0.2,
+      "kw_difficulty": 7,
+      "intent": "transactional",
+      "yearly_trend_pct": 200,
+      "notes": "Trending UP 200% YoY. /olkb should rank for this; ensure metadata mentions 'Planck ortholinear keyboard'.",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "best ortholinear keyboard",
+      "search_volume": 40,
+      "competition_level": "HIGH",
+      "cpc": 0.73,
+      "intent": "commercial",
+      "yearly_trend_pct": -25,
+      "notes": "Money keyword. /keyboards should target. High CPC = high purchase intent.",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "low profile ortholinear keyboard",
+      "search_volume": 40,
+      "competition_level": "HIGH",
+      "cpc": 0.37,
+      "intent": "transactional",
+      "quarterly_trend_pct": 100,
+      "notes": "Quarterly trend +100%. Geonix Rev.2 post targets this.",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "wireless ortholinear keyboard",
+      "search_volume": 40,
+      "competition_level": "HIGH",
+      "cpc": 0.32,
+      "intent": "transactional",
+      "monthly_trend_pct": 100,
+      "notes": "Monthly trend +100%. Geonix and LUMA40 pages should both target this.",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "ortholinear keyboard layout",
+      "search_volume": 40,
+      "competition_level": "LOW",
+      "intent": "informational",
+      "notes": "LOW competition + 40/mo + informational. /ultimate-guide-to-ortholinear-keyboards should rank.",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "framework ortholinear keyboard",
+      "search_volume": 40,
+      "competition_level": "LOW",
+      "intent": "navigational",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "ortholinear keyboard pcb",
+      "search_volume": 30,
+      "competition_level": "MEDIUM",
+      "intent": "transactional",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "ortholinear vs staggered keyboard",
+      "search_volume": 30,
+      "competition_level": "LOW",
+      "intent": "informational",
+      "notes": "LOW competition, informational. Worth a comparison post.",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "ortholinear keyboard kit",
+      "search_volume": 30,
+      "competition_level": "MEDIUM",
+      "cpc": 0.47,
+      "intent": "transactional",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "drop shutting down",
+      "search_volume": 30,
+      "competition_level": "LOW",
+      "intent": "informational",
+      "monthly_trend_pct": 24,
+      "notes": "Trending news. Our drop-ecommerce-store-closing post targets this.",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "ortholinear keyboard vs staggered",
+      "search_volume": 20,
+      "competition_level": "LOW",
+      "intent": "informational",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "drop closing",
+      "search_volume": 20,
+      "competition_level": "LOW",
+      "intent": "transactional",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "ortholinear hall effect keyboard",
+      "search_volume": 20,
+      "competition_level": "HIGH",
+      "cpc": 0.34,
+      "intent": "transactional",
+      "yearly_trend_pct": 50,
+      "notes": "Trending UP. No content yet — content gap.",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "full-size ortholinear keyboard",
+      "search_volume": 20,
+      "competition_level": "HIGH",
+      "intent": "transactional",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "planck v7",
+      "search_volume": 10,
+      "competition_level": "MEDIUM",
+      "cpc": 5.05,
+      "kw_difficulty": 3,
+      "intent": "informational",
+      "notes": "KD 3, CPC $5+. Very high commercial value per click. Drop-olkb-planck-v7 post targets this.",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "40 percent ortholinear keyboard",
+      "search_volume": 10,
+      "competition_level": "MEDIUM",
+      "intent": "transactional",
+      "captured": "2026-05-11"
+    },
+    {
+      "keyword": "planck ez alternative",
+      "search_volume": 10,
+      "competition_level": "LOW",
+      "intent": "informational",
+      "captured": "2026-05-11"
+    }
+  ],
+  "content_gaps_identified": [
+    {
+      "keyword": "ortholinear laptop keyboard",
+      "volume": 720,
+      "competition": "LOW",
+      "trend_yoy_pct": 1329,
+      "action": "Write post about portable / laptop-style ortho keyboards (Air40, Geonix, LUMA40 angle)"
+    },
+    {
+      "keyword": "ortholinear vs staggered keyboard",
+      "volume": 30,
+      "competition": "LOW",
+      "action": "Write a comparison / explainer post"
+    },
+    {
+      "keyword": "ortholinear hall effect keyboard",
+      "volume": 20,
+      "competition": "HIGH",
+      "trend_yoy_pct": 50,
+      "action": "Watch — if a hall-effect ortho board launches, write a review fast"
+    },
+    {
+      "keyword": "ortholinear keyboard layout",
+      "volume": 40,
+      "competition": "LOW",
+      "action": "Ensure /ultimate-guide-to-ortholinear-keyboards has H2 sections targeting this exact phrase"
+    }
+  ]
+}

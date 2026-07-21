@@ -66,13 +66,20 @@ const nextConfig = {
   },
   
   // Redirects
-  redirects: [
-    {
-      source: "/bm40",
-      destination: "/kprepublic-bm40",
-      permanent: true,
-    },
-  ],
+  async redirects() {
+    return [
+      {
+        source: "/bm40",
+        destination: "/kprepublic-bm40",
+        permanent: true,
+      },
+      {
+        source: "/posts/60-keyboard-keychron-q4-pro",
+        destination: "/best-budget-mechanical-keyboard",
+        permanent: true,
+      },
+    ];
+  },
   
   // Trailing slash configuration for SEO
   trailingSlash: false,

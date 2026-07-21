@@ -87,6 +87,11 @@ export default function Ultimateguide({ keycapPostData, switchPostData }) {
                 </Nav.Link>
               </Nav.Item>
               <Nav.Item as="li">
+                <Nav.Link className="text-white" href="#laptop-ortho">
+                  Laptop & Portable
+                </Nav.Link>
+              </Nav.Item>
+              <Nav.Item as="li">
                 <Nav.Link className="text-white" href="#keyboards">
                   Keyboards
                 </Nav.Link>
@@ -261,6 +266,112 @@ export default function Ultimateguide({ keycapPostData, switchPostData }) {
               customize your keyboard, the time investment might be worth it for
               you.
             </p>
+          </div>
+        </div>
+      </div>
+
+      <div className="section-container" id="laptop-ortho">
+        <div className="container-lg">
+          <div className="row">
+            <div className="col-lg-8">
+              <h2>Ortholinear Laptop Keyboards: Compact Boards Built for Travel</h2>
+              <p>
+                One of the most common reasons people pick up an ortholinear
+                keyboard is portability. A 40% or 50% ortholinear keyboard
+                takes up about half the desk footprint of a full-size board,
+                which makes it ideal as a laptop companion or a travel
+                keyboard. If you spend time working from cafes, on planes, or
+                rotating between home and office, an{" "}
+                <strong>ortholinear laptop keyboard</strong> is one of the
+                cleanest setups you can carry.
+              </p>
+              <p>
+                A few things to look for in a portable ortho board:
+              </p>
+              <ul>
+                <li>
+                  <strong>Low-profile switches</strong> reduce the overall
+                  thickness so the keyboard fits in a laptop sleeve. Look for
+                  Kailh Choc v1 or v2 sockets.
+                </li>
+                <li>
+                  <strong>Wireless connectivity</strong> (Bluetooth or 2.4GHz
+                  dongle) eliminates the cable you'd otherwise need to remember
+                  when you pack.
+                </li>
+                <li>
+                  <strong>USB-C wired fallback</strong> lets you keep typing if
+                  the battery dies mid-flight.
+                </li>
+                <li>
+                  <strong>QMK or VIA support</strong> matters more when
+                  traveling because you can keep your full layer setup
+                  identical between machines.
+                </li>
+              </ul>
+              <h3>Best Ortholinear Keyboards to Pair With a Laptop</h3>
+              <p>
+                Three boards on our list stand out for laptop use in 2026:
+              </p>
+              <ul>
+                <li>
+                  <Link href="/keyboards#chosfox-geonix-rev2">
+                    <strong>Chosfox x Masro Geonix Rev.2</strong>
+                  </Link>{" "}
+                  — 40% low-profile aluminum board with tri-mode wireless
+                  (Bluetooth, 2.4GHz, USB-C) and hot-swap Choc v2 sockets. The
+                  closest thing to a purpose-built laptop ortho keyboard
+                  available right now.
+                </li>
+                <li>
+                  <Link href="/epomaker">
+                    <strong>Epomaker LUMA40</strong>
+                  </Link>{" "}
+                  — Tri-mode wireless 40% with low-profile switches and VIA
+                  support. Strong budget pick at around $115.
+                </li>
+                <li>
+                  <Link href="/ymdk-air40">
+                    <strong>YMDK Air40</strong>
+                  </Link>{" "}
+                  — Wired-only, but the slim aluminum case and 40% footprint
+                  make it one of the easiest standard-profile ortho boards to
+                  slip into a backpack.
+                </li>
+              </ul>
+              <h3>What About Framework Laptops?</h3>
+              <p>
+                Framework laptop owners occasionally ask about ortholinear
+                input modules or compatible external boards. Framework doesn't
+                make an ortholinear module, but the Geonix Rev.2 and LUMA40
+                both work cleanly with Framework hardware over both Bluetooth
+                and USB-C, and QMK/VIA support means your layers translate
+                between Framework and any other machine without re-mapping.
+              </p>
+              <p>
+                For a deeper dive on portability specifically, see our post on
+                the{" "}
+                <Link href="/posts/best-portable-keyboard-travel-40-percent-ortholinear-keyboard">
+                  best portable 40% ortholinear keyboards for travel
+                </Link>
+                .
+              </p>
+              <a href="/keyboards" className="btn btn-primary mt-2">
+                Compare All Portable Ortho Keyboards
+              </a>
+            </div>
+            <div className="col-lg-4">
+              <img
+                className="img-fluid mb-3"
+                src="/chosfox-geonix-rev2.webp"
+                alt="Chosfox Geonix Rev.2 ortholinear laptop keyboard"
+              />
+              <img
+                className="img-fluid"
+                src="/epomaker-luma40-main.webp"
+                alt="Epomaker LUMA40 wireless ortholinear keyboard"
+              />
+            </div>
           </div>
         </div>
       </div>

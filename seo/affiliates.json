@@ -2234,5 +2234,123 @@
       "brush"
     ],
     "image": "/images/affiliates/1776277027165-61WPd9IEgpL._AC_SL1500_.jpg"
+  },
+  {
+    "id": "chosfox-geonix-rev2",
+    "previousUrls": [],
+    "name": "Chosfox x Masro Geonix Rev.2",
+    "url": "https://chosfox.com/products/chosfox-x-masro-geonix-rev-2?bg_ref=Nkci2VNtzR",
+    "description": "Premium 40% low-profile ortholinear mechanical keyboard with CNC aluminum case, tri-mode wireless (Bluetooth, 2.4GHz, USB-C), QMK/VIA support, and hot-swap Choc v2 sockets.",
+    "tags": [
+      "keyboard",
+      "ortholinear",
+      "40%",
+      "low-profile",
+      "wireless",
+      "bluetooth",
+      "qmk",
+      "via",
+      "hot-swap",
+      "chosfox"
+    ],
+    "image": "/chosfox-geonix-rev2.webp"
+  },
+  {
+    "id": "chosfox-store",
+    "previousUrls": [],
+    "name": "Chosfox",
+    "url": "https://chosfox.com?bg_ref=Nkci2VNtzR",
+    "description": "Chosfox sells low-profile mechanical keyboards, Choc-compatible keycaps, and ortho/split-friendly accessories.",
+    "tags": [
+      "store",
+      "chosfox",
+      "low-profile"
+    ],
+    "image": null
+  },
+  {
+    "id": "chosfox-cfx-bow-keycaps",
+    "previousUrls": [],
+    "name": "Chosfox CFX BoW Keycap Set",
+    "url": "https://chosfox.com/products/chocfox-bow?bg_ref=Nkci2VNtzR",
+    "description": "Black-on-White low-profile keycap set for Kailh Choc switches. Great for ortho 40% and split boards.",
+    "tags": [
+      "keycaps",
+      "low-profile",
+      "choc",
+      "chosfox"
+    ],
+    "image": "/keycaps/chosfox-cfx-bow.jpg"
+  },
+  {
+    "id": "chosfox-cfx-mahjong-keycaps",
+    "previousUrls": [],
+    "name": "Chosfox CFX Mahjong Keycaps",
+    "url": "https://chosfox.com/products/chosfox-cfx-mahjong-keycaps-for-cherry-mx-switches?bg_ref=Nkci2VNtzR",
+    "description": "Mahjong-themed novelty low-profile keycaps designed for cross-stem (Choc-compatible) low-profile switches.",
+    "tags": [
+      "keycaps",
+      "low-profile",
+      "novelty",
+      "chosfox"
+    ],
+    "image": "/keycaps/chosfox-cfx-mahjong.jpg"
+  },
+  {
+    "id": "chosfox-cfx-up-1u-keycaps",
+    "previousUrls": [],
+    "name": "Chocfox CFX UP 1U Keycaps for Kailh Choc",
+    "url": "https://chosfox.com/products/chocfox-cfx-up-1u-keycaps-for-choc-switch-by-chosfox?bg_ref=Nkci2VNtzR",
+    "description": "Uniform-height 1U low-profile keycaps for Kailh Choc switches. Ideal for ortho and 40% layouts where every key is 1U.",
+    "tags": [
+      "keycaps",
+      "low-profile",
+      "choc",
+      "1u",
+      "chosfox"
+    ],
+    "image": "/keycaps/chosfox-cfx-up-1u.jpg"
+  },
+  {
+    "id": "chosfox-cfx-lmx-keycaps",
+    "previousUrls": [],
+    "name": "Chosfox CFX LMX Cross Core Low-Profile Keycaps",
+    "url": "https://chosfox.com/products/chosfox-cfx-lmx-cross-core-low-profile-keycaps?bg_ref=Nkci2VNtzR",
+    "description": "Cross-core low-profile keycap set compatible with MX-style low-profile and Choc-compatible cross-stem switches.",
+    "tags": [
+      "keycaps",
+      "low-profile",
+      "chosfox"
+    ],
+    "image": "/keycaps/chosfox-cfx-lmx.jpg"
+  },
+  {
+    "id": "chosfox-mx-side-print-keycaps",
+    "previousUrls": [],
+    "name": "Chosfox MX Side Print Low Profile Keycap Set (127 keys)",
+    "url": "https://chosfox.com/products/chosfox-mx-side-print-low-profile-keycaps-set?bg_ref=Nkci2VNtzR",
+    "description": "127-key side-print low-profile MX keycap set with full 1U coverage suitable for ortholinear and split layouts.",
+    "tags": [
+      "keycaps",
+      "low-profile",
+      "mx",
+      "side-print",
+      "chosfox"
+    ],
+    "image": "/keycaps/chosfox-mx-side-print.jpg"
+  },
+  {
+    "id": "chosfox-cfx-lak-keycaps",
+    "previousUrls": [],
+    "name": "Chocfox LAK Low-Profile Keycap Set",
+    "url": "https://chosfox.com/products/chocfox-cfx-up-keycaps-set-pre-sale?bg_ref=Nkci2VNtzR",
+    "description": "LAK low-profile keycap set from Chosfox. Compact uniform profile that works well across 40% and split ortho boards.",
+    "tags": [
+      "keycaps",
+      "low-profile",
+      "choc",
+      "chosfox"
+    ],
+    "image": "/keycaps/chosfox-cfx-lak.jpg"
   }
 ]
