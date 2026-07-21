@@ -93,7 +93,20 @@ const deals = [
     link: getUrl('kbdfans-weekin-y-40-diy-kit'),
     badge: "Summer Sale — up to 50% off",
     description:
-      "KBDFans Summer Sale 2026: 50% off artisan keycaps and price cuts on keyboard kits — $100 off TET, $70 off Tofu60 2.0, and $60 off Tofu65 2.0.",
+      "KBDFans Summer Sale 2026: 50% off artisan keycaps and price cuts on keyboard kits — $100 off TET, $50 off Pavlov, $70 off Tofu60 2.0, and $60 off Tofu65 2.0.",
+    status: "Active",
+  },
+  {
+    slug: "akko-new-arrivals",
+    name: "Akko",
+    category: "Keyboards",
+    offerType: "Coupon code",
+    savings: "10% off Akko new arrivals",
+    code: "AKKONEW10",
+    link: getUrl('akko-new-arrivals'),
+    badge: "10% off new releases",
+    description:
+      "Use code AKKONEW10 at checkout for 10% off Akko's latest keyboards, switches, and keycap sets. Applies to new arrival products across their full lineup.",
     status: "Active",
   },
 ];
@@ -199,7 +212,7 @@ export default function Deals() {
         url: `${defaultMeta.url}/deals`,
         description:
           "Browse mechanical keyboard discounts, coupon codes, and deal links for ortholinear keyboards, keycaps, and accessories.",
-        dateModified: "2026-07-20",
+        dateModified: "2026-07-21",
         mainEntity: {
           "@type": "ItemList",
           itemListElement: deals.map((deal, index) => ({
@@ -235,7 +248,7 @@ export default function Deals() {
           <div className="row align-items-center">
             <div className="col-lg-8">
               <div className="py-3 deals-hero-copy">
-                <p className="keyboard-kicker">Updated July 20, 2026</p>
+                <p className="keyboard-kicker">Updated July 21, 2026</p>
                 <h1 className="display-5 font-weight-bolder">
                   Keyboard deals worth checking first
                 </h1>
