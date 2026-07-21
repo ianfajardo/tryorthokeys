@@ -20,20 +20,51 @@ Note down:
 
 ---
 
-## Step 2 — Browse Each Vendor Site
+## Step 2 — Check Each Vendor (Sequentially, Throttled)
 
-Visit the store page for each vendor currently in the deals array. Use WebFetch or
-web browsing to load the page and find active promotions.
+Check vendors ONE AT A TIME with a 3-second pause between requests (`sleep 3`).
+Do NOT fetch all vendors in parallel — the parallel burst is what triggers
+rate-limiting (403/429). Make ONE request per vendor; only retry once (after
+another 3-second pause) if the first request fails.
 
-| Vendor     | URL to visit                          | Current affiliate ID          |
-|------------|---------------------------------------|-------------------------------|
-| KBDcraft   | https://kbdcraft.store                | kbdcraft-store                |
-| KPRepublic | https://kprepublic.com                | kprepublic-store-try-ortho-keys |
-| Drop       | https://drop.com                      | (see affiliates.json for drop entries) |
-| Work Louder| https://worklouder.cc                 | work-louder-xyz-work-board-r2 |
-| Akko       | https://en.akkogear.com               | akko-deals-page               |
-| FKcaps     | https://fkcaps.com                    | fkcaps-custom-keycaps         |
-| KBDFans    | https://kbdfans.com                   | kbdfans-weekin-y-40-diy-kit   |
+Prefer `curl` with a browser User-Agent over WebFetch — some vendors throttle
+requests with no user-agent more aggressively:
+
+```bash
+curl -s -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" --max-time 30 <url>
+sleep 3
+```
+
+Three of the vendors are Shopify stores with public JSON product endpoints —
+use those instead of scraping HTML (cleaner data, less likely to rate-limit).
+Endpoints verified working as of 2026-07-20:
+
+| Vendor     | URL to fetch                                                | Format | Current affiliate ID |
+|------------|-------------------------------------------------------------|--------|----------------------|
+| KBDcraft   | https://kbdcraft.store/products.json?limit=250              | Shopify JSON | kbdcraft-store |
+| KPRepublic | https://kprepublic.com/collections/sale/products.json       | Shopify JSON | kprepublic-store-try-ortho-keys |
+| KBDFans    | https://kbdfans.com/collections/on-sale-items/products.json | Shopify JSON | kbdfans-weekin-y-40-diy-kit |
+| Drop       | https://drop.com                                            | HTML   | (see affiliates.json for drop entries) |
+| Work Louder| https://worklouder.cc                                       | HTML   | work-louder-xyz-work-board-r2 |
+| Akko       | https://en.akkogear.com                                     | HTML   | akko-deals-page |
+| FKcaps     | https://fkcaps.com                                          | HTML   | fkcaps-custom-keycaps |
+
+Notes on the JSON endpoints:
+- A product is on sale when a variant's `compare_at_price` is set and greater
+  than `price`. Also scan `tags` and `title` for named promos.
+- KBDcraft's `/collections/sale/products.json` exists but is empty — use the
+  full `/products.json` and filter by `compare_at_price`.
+- If a JSON endpoint fails or returns empty, fall back to that vendor's
+  homepage HTML (this counts as the one retry).
+
+**Vendor cache — `scripts/deals-vendor-cache.json`:** after each successful
+fetch, write an entry `{ "vendor": ..., "fetchedAt": "YYYY-MM-DD", "promos":
+[one-line summaries of active promotions] }` (replace the vendor's previous
+entry). If a vendor is unreachable after the retry:
+- If the cache has an entry for it, base your decisions on the cached data and
+  add `[vendor: used cache from <fetchedAt>]` to the commit message.
+- If there is no cached entry, leave that vendor's deals unchanged and add
+  `[vendor unreachable — skipped]` to the commit message.
 
 For each vendor, look for:
 - Active coupon codes with specific savings (e.g. "$5 off orders over $15")
@@ -61,8 +92,9 @@ running), update accordingly. Keep `slug`, `name`, `category`, `badge`, and
 Remove that object from the `deals` array entirely.
 
 **If the site was unreachable:**
-Leave the deal unchanged. Add the vendor name to the commit message with the note
-`[site unreachable — skipped]`.
+Follow the cache rule from Step 2: use the cached vendor data if available
+(noting `[vendor: used cache from <date>]` in the commit message), otherwise
+leave the deal unchanged and note `[vendor unreachable — skipped]`.
 
 ---
 
@@ -214,7 +246,7 @@ Before committing, verify all of the following:
 If you made changes, stage only these files:
 
 ```bash
-git add pages/deals.js components/specialdeals.js seo/affiliates.json
+git add pages/deals.js components/specialdeals.js seo/affiliates.json scripts/deals-vendor-cache.json
 ```
 
 Commit with a message in this format:
@@ -231,4 +263,7 @@ Then push:
 git push origin main
 ```
 
-If nothing changed after reviewing all vendors, exit without committing.
+If no deals changed after reviewing all vendors but the vendor cache was
+updated, commit just the cache file with the message
+`Weekly deals check — YYYY-MM-DD: no deal changes; vendor cache refreshed`.
+If nothing at all changed, exit without committing.
